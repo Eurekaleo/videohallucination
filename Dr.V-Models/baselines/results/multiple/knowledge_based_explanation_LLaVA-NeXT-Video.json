@@ -1,0 +1,4489 @@
+[
+    {
+        "video": "causalqa/u-5hzYU2TG8_000043_000053.mp4",
+        "question": "What is [person_1] on the verge of doing?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] is preparing to start a new painting.",
+            "B": "[person_1] is going to continue riding.",
+            "C": "[person_1] will decide to take a rest on the bench.",
+            "D": "[person_1] is on the verge of entering the house.",
+            "E": "[person_1] is about to adjust their helmet."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/a3ElG2aNI34_000031_000041.mp4",
+        "question": "How will [person_1]'s right hand move next?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] will strum the guitar strings in rhythm.",
+            "B": "[person_1] will continue to wave to the audience.",
+            "C": "[person_1] will reach for the microphone to adjust it.",
+            "D": "[person_1] will perform a quick salute gesture.",
+            "E": "[person_1]'s right hand will probably hit the guitar body."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/ioBHY_Np-IY_000153_000163.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "A",
+        "choices": {
+            "A": "Maybe [person_2] will continue to record videos.",
+            "B": "[person_1] will start an online livestream to share her experiences.",
+            "C": "[person_1] is about to juggle the ball, showcasing his skills.",
+            "D": "[person_1] is going to lead a dance routine with [person_2] , [person_2] and [person_2] in a workout session.",
+            "E": "[person_1] is going to slice a loaf of bread, preparing for a meal."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/IeVotfCD8s4_000042_000052.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will go on using the piano.",
+            "B": "[person_1] will continue practicing hand stretches.",
+            "C": "[person_1] will prepare a cup of tea for relaxation.",
+            "D": "[person_1] will begin to compose a new symphony.",
+            "E": "[person_1] will start organizing sheet music onto the stand."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/bJwiIEBTj1k_000030_000040.mp4",
+        "question": "What will happen with [person_1] next?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] will decide to give a speech about the history of guitar making.",
+            "B": "[person_1] will explain the intricate details of playing dominoes.",
+            "C": "[person_1] will start tuning the guitar for an entirely different song.",
+            "D": "[person_1] will finish talking and then record himself doing another guitar technique.",
+            "E": "[person_1] will show how to pack a guitar properly after use."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/RdnubBQolVk_000002_000012.mp4",
+        "question": "What is [person_2] going to do?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_2] is going to reposition themselves for a new strategy in the game.",
+            "B": "[person_2] is going to adjust their racket for the next hit.",
+            "C": "[person_2] is going to pick up the badminton shuttlecock after [person_1] hitting it.",
+            "D": "[person_2] is going to prepare to serve the shuttlecock next.",
+            "E": "[person_2] is going to grab a drink of water to take a break."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/Qxa4NxH36D4_000084_000094.mp4",
+        "question": "What will [person_1] do after using the inhaler?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will hold his breath for 10 seconds.",
+            "B": "[person_1] will begin a conversation with nearby friends.",
+            "C": "[person_1] will start performing breathing exercises.",
+            "D": "[person_1] will resume running immediately.",
+            "E": "[person_1] will continue taking deep breaths to relax."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/EBS1LS46bf4_000000_000010.mp4",
+        "question": "What will [person_1] do after several minutes?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] will continue practicing to perfect her routine.",
+            "B": "[person_1] will have a break.",
+            "C": "[person_1] will start stretching to prevent muscle cramps.",
+            "D": "[person_1] will open a new bottle of water to stay hydrated.",
+            "E": "[person_1] will jump onto the next platform to showcase her skills."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/2hSSDJdcAbA_000050_000060.mp4",
+        "question": "What will [person_5] do after roasting the marshmallows?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_5] will look for more marshmallows to roast.",
+            "B": "[person_5] will decide to pack up the camping gear.",
+            "C": "[person_5] will start telling a story around the campfire.",
+            "D": "[person_5] will eat the marshmallows.",
+            "E": "[person_5] will continue roasting marshmallows."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/e8SyruHcjuI_000008_000018.mp4",
+        "question": "What is the [person_1] going to do?",
+        "answer": "A",
+        "choices": {
+            "A": "The [person_1] may peel another potato.",
+            "B": "The [person_1] might decide to take a short break and rest.",
+            "C": "[person_1] will likely wash the dishes next.",
+            "D": "The [person_1] might start setting the table for dinner.",
+            "E": "The [person_1] may begin a conversation with someone nearby."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/wxKgMj3MVFU_000123_000133.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] is going to look around for feedback on his performance.",
+            "B": "[person_1] is going to prepare for a rest by sitting down.",
+            "C": "[person_1] is going to start jumps and spins.",
+            "D": "[person_1] will continue practicing lunges.",
+            "E": "[person_1] is going to adjust his grip on the paper before sticking it."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/qc7Nmkvbtjg_000031_000041.mp4",
+        "question": "What is [person_1] going to do ?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] is about to read a book.",
+            "B": "[person_1] is going to shave off all his beard.",
+            "C": "[person_1] might start brushing his hair.",
+            "D": "[person_1] is going to make a phone call.",
+            "E": "[person_1] may prepare a cup of coffee."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/_FubIvDQYHw_000009_000019.mp4",
+        "question": "What will [person_1] do after riding for a while?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will continue to ride into the sunset.",
+            "B": "[person_1] will guide the horse through a new routine.",
+            "C": "[person_1] will get off the horse.",
+            "D": "[person_1] will let the horse graze in the field.",
+            "E": "[person_1] will start jumping over hurdles with the horse."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/gCSS55ayr64_000038_000048.mp4",
+        "question": "what is [person_3] going to do?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_3] might lean in to whisper something to [person_2].",
+            "B": "[person_3] is about to pull [person_2] to the side to show something interesting.",
+            "C": "[person_3] might start a dance routine to entertain.",
+            "D": "[person_3] might let [person_2] touch the mirror.",
+            "E": "[person_3] looks like she is going to call someone over to join."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/17iQalBxrHc_000008_000018.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] is about to tell a joke.",
+            "B": "[person_1] is going to whistle.",
+            "C": "[person_1] will catch the frisbee.",
+            "D": "[person_1] is going to tidy up the area.",
+            "E": "[person_1] is preparing to start a conversation."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/fuIh5SCOGxQ_000016_000026.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Maybe [person_1] will call a friend to discuss weekend plans.",
+            "B": "[person_1] will pick up a book and start reading.",
+            "C": "[person_1] is about to adjust the camera settings for a video shoot.",
+            "D": "[person_1] will play with the dog.",
+            "E": "Maybe [person_1] will sit down to have a rest."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/O4Wj8ibDCBo_000209_000219.mp4",
+        "question": "What will [person_1] do?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will make the horse stop.",
+            "B": "[person_1] will guide the horse to jump over a fence.",
+            "C": "[person_1] will trot around the field again.",
+            "D": "[person_1] will pet the horse as it gallops forward.",
+            "E": "[person_1] will prepare to dismount from the horse."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/X-IQeyo1Sns_000006_000016.mp4",
+        "question": "What does [person_1] intend to do next?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] wants to start decorating the top branch with a shiny star.",
+            "B": "[person_1] is about to organize the tools scattered on the floor.",
+            "C": "[person_1] is preparing to climb the nearby ladder.",
+            "D": "[person_1] will jump up again.",
+            "E": "[person_1] will begin moving towards the bench to catch a breath."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/zaJ6BoC548g_000054_000064.mp4",
+        "question": "What is [person_2] going to do?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_2] might attempt to juggle while on the rope.",
+            "B": "[person_2] is likely to sit down and meditate on the rope.",
+            "C": "[person_2] may keep trying to stand on the rope.",
+            "D": "[person_2] could start swinging from the rope like a pendulum.",
+            "E": "[person_2] is going to perform a backflip off the rope."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/EsarK5343U4_000335_000345.mp4",
+        "question": "What will [person_1] do?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] will start sweeping the area.",
+            "B": "[person_1] will fold the nearby tarp.",
+            "C": "[person_1] will pause to take a sip of water.",
+            "D": "[person_1] will adjust his cap to block the sun.",
+            "E": "[person_1] will move up the trowel."
+        },
+        "predict": "E"
+    },
+    {
+        "video": "causalqa/V9vyx_fS-6o_000161_000171.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] is going to organize a meeting to discuss logistics.",
+            "B": "[person_1] is going to adjust the lighting in the room.",
+            "C": "[person_1] is going to check the inventory list.",
+            "D": "[person_1] is going to prepare a delivery schedule.",
+            "E": "[person_1] is going to move the product to the warehouse."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/htx0eMMBkeA_000031_000041.mp4",
+        "question": "What will [person_6] do after losing the game?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_6] is going to celebrate winning.",
+            "B": "[person_6] is going to ask for a rematch.",
+            "C": "[person_6] will do the punishment.",
+            "D": "[person_6] is going to take a rest and relax.",
+            "E": "[person_6] is going to cheer up the winner."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/85M0Q3pQ17M_000238_000248.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will check [person_2]'s temperature.",
+            "B": "[person_1] will adjust the pillow under [person_2]'s head.",
+            "C": "[person_1] will ask [person_2] to turn over [person_2]'s body.",
+            "D": "[person_1] will cover [person_2] with a blanket to keep them warm.",
+            "E": "[person_1] will gently place a sheet over [person_2]."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/9eirnD868Zs_000017_000027.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] is going to rip paper.",
+            "B": "[person_1] may be going to gather tools to fix the broken fence.",
+            "C": "[person_1] is going to start a new drawing based on inspiration from nature.",
+            "D": "[person_1] is going to begin warming up for a yoga session.",
+            "E": "[person_1] is going to sit down and think about what to do next."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/lEBmSc5E0dA_000026_000036.mp4",
+        "question": "What is the [person_1] going to do?",
+        "answer": "D",
+        "choices": {
+            "A": "The [person_1] is going to make a sandwich with the ingredients on the table.",
+            "B": "The [person_1] may start reading the song notes aloud.",
+            "C": "The [person_1] is going to prepare a smoothie with the fruits in the basket.",
+            "D": "The [person_1] is going to take the book.",
+            "E": "The [person_1] is going to make himself a cup of tea."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/ymjpBYQkadk_000012_000022.mp4",
+        "question": "What will the two person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "They will play a second round.",
+            "B": "[person_1] could be ready to ask [person_1] to join a completely different activity.",
+            "C": "It is possible that [person_1] will prepare to pack up and leave the area, thinking the game is over.",
+            "D": "[person_2] might start a conversation about the rules of another game.",
+            "E": "Because [person_2] takes a moment to decide which strategy to use for leaving the game."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/2m_4dwouElQ_000022_000032.mp4",
+        "question": "What will [person_1] do after talking?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will decide to take a quick jog around the block.",
+            "B": "[person_1] will show you how to run properly.",
+            "C": "[person_1] will feel a lot of fatigue in his shoulders and thighs.",
+            "D": "[person_1] will have some other activities.",
+            "E": "[person_1] will start preparing a meal for the evening."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/gtlAn-4zcYU_000115_000125.mp4",
+        "question": "What is [person_10] going to do?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_10] is going to continue trying to stomp the grapes.",
+            "B": "[person_10] is going to wander off to explore the vineyard.",
+            "C": "[person_10] is going to take a break and chat with others nearby.",
+            "D": "[person_10] is going to help someone with carrying grape baskets.",
+            "E": "[person_10] is going to start picking grapes from the vines."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/LojlxlNC5IU_000524_000534.mp4",
+        "question": "What will [person_2] do next?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_2] will decide to start gardening.",
+            "B": "[person_2] will certainly continue cycling.",
+            "C": "[person_2] will begin setting up a picnic.",
+            "D": "[person_2] will prepare to fly a kite.",
+            "E": "[person_2] will get ready to paint a picture."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/eWL7cn3UddM_000012_000022.mp4",
+        "question": "What is the mechanical bull going to do next after [person_1] sits on it?",
+        "answer": "D",
+        "choices": {
+            "A": "The mechanical bull will turn off.",
+            "B": "The mechanical bull will start cleaning the floor.",
+            "C": "The mechanical bull will give [person_1] a snack.",
+            "D": "The mechanical bull is going to move faster.",
+            "E": "The mechanical bull will stay perfectly still to rest."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/BxSryaEe9sM_000003_000013.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will begin to dance around.",
+            "B": "[person_1] will initiate a phone call.",
+            "C": "[person_1] will take a break.",
+            "D": "[person_1] will start cleaning the table.",
+            "E": "[person_1] will prepare to give a presentation."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/dRqjGGEcUDc_000332_000342.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will start explaining the strategy to win the game.",
+            "B": "[person_1] will lift up the car to show strength.",
+            "C": "[person_1] will attack the queen.",
+            "D": "[person_1] will wave goodbye to the group.",
+            "E": "[person_1] will offer a toast for a celebration."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/KXhyza7pePQ_000017_000027.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] is going to check the time on a wristwatch.",
+            "B": "[person_1] is going to ride unicycle somewhere else.",
+            "C": "[person_1] is going to adjust a hat.",
+            "D": "[person_1] is going to greet someone passing by.",
+            "E": "[person_1] is going to start texting on a phone."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/mcjztxjCKWg_000181_000191.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] is getting ready to bake some cookies.",
+            "B": "[person_1] is going to grab an umbrella, expecting rain.",
+            "C": "[person_1] is preparing to answer a phone call.",
+            "D": "[person_1] is likely to start drawing on the wall.",
+            "E": "[person_1] is going to dance."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/uAeyW12yLUo_000065_000075.mp4",
+        "question": "What is [person_6] going to do?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_6] is going to start writing notes about the game.",
+            "B": "[person_6] is going to read the next page of the book.",
+            "C": "[person_6] is going to discuss the game with the person next to them.",
+            "D": "[person_6] is going to look for a bookmark.",
+            "E": "[person_6] is going to check their phone for messages."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/I_jM8zr3O74_000002_000012.mp4",
+        "question": "What will the [person_1] do to control the scooter?",
+        "answer": "D",
+        "choices": {
+            "A": "The [person_1] will signal to make a turn.",
+            "B": "the [person_1] will slowly glide to a stop.",
+            "C": "[person_1] will start to pedal harder.",
+            "D": "The [person_1] will hold the scooter tightly.",
+            "E": "The [person_1] will adjust their position on the scooter."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/QOFb7ZEFE2w_000067_000077.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will check messages on their phone.",
+            "B": "[person_1] will take a deep breath and relax.",
+            "C": "[person_1] will not play the keyboard.",
+            "D": "[person_1] will begin writing in a notebook.",
+            "E": "[person_1] will start organizing the sheet music."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/mLRSUt7rO6I_000021_000031.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will start arranging the table.",
+            "B": "[person_1] is going to adjust her hat.",
+            "C": "[person_1] is going to move her body towards.",
+            "D": "[person_1] might reach for a book.",
+            "E": "[person_1] is going to sit down on a chair."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/4gsaNJVBE9w_000036_000046.mp4",
+        "question": "What are [person_1] , [person_2] and [person_3] going to do?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will start a snowball fight with [person_3].",
+            "B": "[person_1] and [person_2] will set up a picnic table in the snow.",
+            "C": "[person_1] , [person_2] and [person_3] will pile up snow.",
+            "D": "[person_1], [person_2] and [person_3] are going to build a snowman.",
+            "E": "[person_3] and [person_2] will prepare for a sled race."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/0u_UwM-p_I4_000025_000035.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] is going to adjust the microphone.",
+            "B": "[person_1] may start tuning his instruments.",
+            "C": "[person_1] might switch to playing guitar.",
+            "D": "[person_1] does some vocal warm-ups.",
+            "E": "[person_1] is going to play drums."
+        },
+        "predict": "E"
+    },
+    {
+        "video": "causalqa/PRJ_vBy3XZg_000015_000025.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] is about to organize them by size.",
+            "B": "[person_1] is going to hand over the diagram.",
+            "C": "[person_1] will discuss the plans.",
+            "D": "[person_1] will tighten a bolt with the wrench.",
+            "E": "Give the tools to [person_2]."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/MgV7fiP_-NA_000065_000075.mp4",
+        "question": "What will [person_1] do after playing?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will go on practicing.",
+            "B": "[person_1] will start a new hobby.",
+            "C": "[person_1] might take a break to relax.",
+            "D": "[person_1] will join friends for a meal.",
+            "E": "[person_1] will explore new outdoor activities."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/1hJnwE11XZ0_000000_000010.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] might begin stretching for a workout.",
+            "B": "It is predicted that [person_1] will keep playing the flute.",
+            "C": "[person_1] is going to dance gracefully.",
+            "D": "[person_1] seems ready to start painting an artwork.",
+            "E": "[person_1] is preparing to start cleaning the area."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/GfurY92Kgtw_000023_000033.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] might start preparing a sandwich for lunch.",
+            "B": "[person_1] might start organizing papers for a report.",
+            "C": "[person_1] could begin to tune a guitar for practice.",
+            "D": "[person_1] may keep trying to play the gong.",
+            "E": "[person_1] will decide to check the time to avoid being late."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/ykD3IEA3c5E_000059_000069.mp4",
+        "question": "What is [person_2] going to do?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_2] may dry the shoes.",
+            "B": "[person_2] is going to organize her bag.",
+            "C": "[person_2] will start painting her toenails.",
+            "D": "[person_2] is going to read the magazine.",
+            "E": "[person_2] is going to search for her lost earring."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/2h06BZKhr8U_000001_000011.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] is going to take out the trash, as it is overflowing.",
+            "B": "[person_1] will certainly watering plants.",
+            "C": "Maybe [person_1] is going to prepare some snacks for a garden party.",
+            "D": "[person_1] will begin setting up a picnic table.",
+            "E": "[person_1] will start organizing the gardening tools."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/pOOlKAyHthY_000015_000025.mp4",
+        "question": "What is the [person_1] going to do?",
+        "answer": "A",
+        "choices": {
+            "A": "The [person_1] is going to continue to wipe the round table.",
+            "B": "The [person_1] may decide to rearrange the chairs.",
+            "C": "The [person_1] is going to check the time on their watch.",
+            "D": "The [person_1] is likely to adjust the lighting in the room.",
+            "E": "The [person_1] will start preparing a meal for guests."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/dLMTgWMh4Q0_000003_000013.mp4",
+        "question": "What will [person_1] do?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] could begin telling a funny story.",
+            "B": "[person_1] is likely to perform a juggling act.",
+            "C": "[person_1] might start reenacting a movie scene.",
+            "D": "[person_1] will continue to ride the unicycle back and forth.",
+            "E": "[person_1] may decide to show off a magic trick."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/kpXWRlZtJhM_000045_000055.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] will begin to organize a stack of books.",
+            "B": "[person_1] will start dancing enthusiastically to the music.",
+            "C": "[person_1] will decide to sing a song to the audience.",
+            "D": "[person_1] will continue to play other musical instruments.",
+            "E": "[person_1] will start cooking a meal for dinner."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/naAFGNkEGxM_000481_000491.mp4",
+        "question": "What is the relationship between [person_1] and [person_2]?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] and [person_2] may be a couple.",
+            "B": "[person_1] and [person_2] are colleagues who often argue.",
+            "C": "[person_1] is about to ask [person_2] to leave.",
+            "D": "They are neighbors who often share meals.",
+            "E": "They might be planning a holiday together."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/aEg3cdccYkM_000109_000119.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will explain how it work.",
+            "B": "[person_1] will begin cleaning the room.",
+            "C": "[person_1] will decide to take a nap.",
+            "D": "[person_1] might continue reading a book.",
+            "E": "[person_1] will start preparing dinner."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/8LhQ_YosI24_000000_000010.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] is going to wave at someone.",
+            "B": "[person_1] is going to look around.",
+            "C": "[person_1] is going to catch a ball.",
+            "D": "[person_1] is going to throw something.",
+            "E": "[person_1] is going to start dancing."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/23WY0pcM_Z0_000003_000013.mp4",
+        "question": "What are [person_1] and [person_7] going to do next?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] will give [person_7] a high five for a successful attempt.",
+            "B": "[person_1] will start cheering enthusiastically for [person_7].",
+            "C": "[person_1] and [person_7] will sit down and start discussing tips for skipping rope.",
+            "D": "[person_1] will take a moment to catch their breath.",
+            "E": "[person_1] and [person_7] will try skipping rope again."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/3b-O4vuB6go_000146_000156.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] is about to call someone using the phone.",
+            "B": "[person_1] is going to wave to attract someone's attention.",
+            "C": "[person_1] is going to continue chatting with the crowd.",
+            "D": "[person_1] is going to continue demonstrating.",
+            "E": "[person_1] is going to kneel down to tie their shoe."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/Ie3zOYuJQDw_000009_000019.mp4",
+        "question": "what is [person_1] going to do?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] might sit down and rest.",
+            "B": "[person_1] is going to take a bow.",
+            "C": "[person_1] is going to stretch their arms.",
+            "D": "[person_1] will lean back.",
+            "E": "[person_1] will continue to organize the desk."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/vI0IV1rUyuU_000000_000010.mp4",
+        "question": "What does [person_1] intend to do?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] intends to grab a book and start reading it.",
+            "B": "[person_1] intends to take a short walk in the garden.",
+            "C": "[person_1] intends to continue using the piano.",
+            "D": "[person_1] intends to drink a cup of coffee.",
+            "E": "[person_1] intends to play a new song on the guitar."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/cyENAoC4c4k_000009_000019.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] will consider making a call to organize a gathering.",
+            "B": "[person_1] will continue to open the present.",
+            "C": "[person_1] might begin writing thank you notes.",
+            "D": "[person_1] will start planning how to set up the decorations next.",
+            "E": "[person_1] may proceed to plan the party menu."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/tv9XSFQovzA_000026_000036.mp4",
+        "question": "What is the woman in front of [person_1] going to do?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will ask the woman if she's ready to dance together.",
+            "B": "[person_1] will offer the woman a cup of tea.",
+            "C": "The woman is going to continue performing insomnia treatment for [person_1].",
+            "D": "The woman will start a new juggling routine.",
+            "E": "The woman will begin preparing a meal for [person_1]."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/Q6kB5Hd-RV8_000134_000144.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will lean back and relax.",
+            "B": "[person_1] is going to click a selfie with friends.",
+            "C": "[person_1] may stop playing.",
+            "D": "[person_1] is going to rearrange the furniture.",
+            "E": "[person_1] will start drawing something new."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/9OzUHQlNe-w_000103_000113.mp4",
+        "question": "What will [person_1] do?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] might turn around and head back.",
+            "B": "[person_1] might stop to talk with a passerby.",
+            "C": "[person_1] will probably keep going straight.",
+            "D": "[person_1] could decide to sit down and rest.",
+            "E": "[person_1] may explore a different route."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/03jVDJT45Y0_000014_000024.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] is going to pack up the guitar and leave.",
+            "B": "[person_1] is preparing to sing a song.",
+            "C": "[person_1] will continue to play the guitar.",
+            "D": "[person_1] continues to read books.",
+            "E": "[person_1] will talk to someone nearby."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/XHzUKr_C8zg_000006_000016.mp4",
+        "question": "What does [person_1] intend to do?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] will take a break to polish the harmonica.",
+            "B": "[person_1] intends to start composing a new song on the harmonica.",
+            "C": "Maybe [person_1] is about to pack the harmonica away.",
+            "D": "[person_1] intends to start singing while playing the harmonica.",
+            "E": "[person_1] keeps playing the harmonica."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/u-ojcTkJdP4_000004_000014.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] will prepare dinner for a guest.",
+            "B": "[person_1] may start reading a book.",
+            "C": "[person_1] may plan a hiking trip.",
+            "D": "[person_1] is going to give a speech about the environment.",
+            "E": "[person_1] is going to recommend the patch on his chest."
+        },
+        "predict": "E"
+    },
+    {
+        "video": "causalqa/e8er9_O8wlk_000056_000066.mp4",
+        "question": "What is [person_3] going to do?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_3] is going to participate in a group painting activity.",
+            "B": "[person_3] is going to start organizing a bookshelf.",
+            "C": "[person_3] is going to keep playing.",
+            "D": "[person_3] is going to practice yoga.",
+            "E": "[person_3] is going to prepare a meal for friends."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/PRm6Axqb9Gs_000070_000080.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "A",
+        "choices": {
+            "A": "will stop touching the piano",
+            "B": "[person_1] will begin to tidy up the musical sheets.",
+            "C": "[person_1] may start cooking at the nearby stove.",
+            "D": "[person_1] will likely adjust the microphone setup.",
+            "E": "[person_1] will continue to play the organ."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/p9NPn6oSUJc_000005_000015.mp4",
+        "question": "What is the next step of [person_1]?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will pull the cork out.",
+            "B": "[person_1] will inspect the wine bottle for any defects.",
+            "C": "She will place the wine bottle back on the shelf.",
+            "D": "[person_1] will carefully read the wine label for instructions.",
+            "E": "[person_1] will decide to pour a glass for a toast."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/qCxm3PeU7_Q_000008_000018.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] will pick up a book to read.",
+            "B": "[person_1] will try to skating faster.",
+            "C": "[person_1] will adjust the music volume.",
+            "D": "[person_1] will start to look for a snack.",
+            "E": "[person_1] will continue stretching for the routine."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/qd-L78kPhvY_000039_000049.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] might organize the gardening tools.",
+            "B": "[person_1] is likely to lay down and rest.",
+            "C": "[person_1] is going to start cleaning up the yard.",
+            "D": "[person_1] may continue setting up the picnic area.",
+            "E": "[person_1] will continue to water the plants."
+        },
+        "predict": "E"
+    },
+    {
+        "video": "causalqa/MSM0T9LuUOE_000012_000022.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] starts humming to find the right key.",
+            "B": "[person_1] will play the guitar.",
+            "C": "[person_1] will rearrange the music sheets.",
+            "D": "[person_1] will tune the guitar before playing.",
+            "E": "[person_1] decides to strum a few notes idly."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/3SvnXT3v4g8_000130_000140.mp4",
+        "question": "What will [person_6] do next?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_6] will look for a place to hide.",
+            "B": "[person_6] might begin tidying up the space for guests.",
+            "C": "[person_6] will take the gift and open the rope quickly . ",
+            "D": "[person_6] will start organizing the party decorations.",
+            "E": "[person_6] will prepare to wrap the gift neatly."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/pG7TQ7HfWfg_000041_000051.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "E",
+        "choices": {
+            "A": "Maybe [person_1] will start shaving the right leg.",
+            "B": "[person_1] will pause shaving to adjust the razor.",
+            "C": "[person_1] will stop shaving to check a message on their phone.",
+            "D": "[person_1] will suddenly decide to apply lotion.",
+            "E": "[person_1] will keep shaving [person_1]'s left leg."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/-tuKSaADF3c_000022_000032.mp4",
+        "question": "What is [person_1] going to do ?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] is getting ready to relax with a book.",
+            "B": "[person_1] is going to prepare a meal for guests.",
+            "C": "[person_1] maybe will start cleaning the area.",
+            "D": "[person_1] will join a conversation with friends.",
+            "E": "[person_1] is going to play."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/piCd_DiRmrg_000006_000016.mp4",
+        "question": "What is [person_1] going to do ?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] is going to taste the orange juice to ensure its quality.",
+            "B": "[person_1] is going to arrange the orange juice bottles for better display.",
+            "C": "[person_1] is going to sell the orange juice.",
+            "D": "[person_1] will discuss the morning market prices with a colleague.",
+            "E": "[person_1] is going to take a break and enjoy a glass of juice."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/EfgdE-fHEi4_000000_000010.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] going to shape the product.",
+            "B": "[person_1] is going to continue explaining the process.",
+            "C": "[person_1] is going to admire the craftsmanship.",
+            "D": "[person_1] is going to exit the room.",
+            "E": "[person_1] is going to clean up the workspace."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/Ou2kXfsnbqw_000000_000010.mp4",
+        "question": "What is [person_2] going to do?",
+        "answer": "A",
+        "choices": {
+            "A": "Shovel some snow and drop them on [person_1].",
+            "B": "[person_2] is going to initiate a snowball fight with [person_1].",
+            "C": "[person_2] is going to make a snow angel on the ground.",
+            "D": "[person_2] is going to start building a snowman.",
+            "E": "[person_2] will construct an igloo with the snow."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/jPMNYIK4ZuA_000017_000027.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] is going to break.",
+            "B": "[person_1] is going to start painting the wall.",
+            "C": "[person_1] will decide to organize the books on the shelf.",
+            "D": "[person_1] will continue dancing through the hallway.",
+            "E": "[person_1] is going to prepare a meal in the kitchen."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/IOnbv6HxECg_000184_000194.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] is going to plane wood.",
+            "B": "[person_1] is going to start folding laundry.",
+            "C": "[person_1] might be preparing to plant seeds.",
+            "D": "[person_1] is going to put on safety goggles.",
+            "E": "[person_1] is going to pick up a book to read."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/YhBZaITHfi8_000024_000034.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] is going to move to take a break and relax.",
+            "B": "[person_1] is going to check the time and plan the next research steps.",
+            "C": "[person_1] is going to sit back and review lab notes.",
+            "D": "[person_1] is going to adjust another staff on the microscope.",
+            "E": "[person_1] is going to start arranging the books on the shelf."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/R2r6BHuM1mk_000000_000010.mp4",
+        "question": "What is [person_1] about to do?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] is about to raise the dumbbells up.",
+            "B": "[person_1] is about to change the music for better motivation.",
+            "C": "[person_1] is about to stretch before lifting weights.",
+            "D": "[person_1] is about to take a sip of water.",
+            "E": "[person_1] is about to adjust the weights on the dumbbells."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/c0zsCLq8ZXQ_000004_000014.mp4",
+        "question": "What will [person_3] do after talking with [person_1]?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_3] is going to read a book by themselves.",
+            "B": "[person_1] will start preparing a meal.",
+            "C": "[person_3] will decide to rest quietly in the corner.",
+            "D": "[person_3] will play a game with [person_1].",
+            "E": "[person_3] is going to continue discussing the weather."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/qoXRnqxGUDE_000432_000442.mp4",
+        "question": "What will [person_2] do next?",
+        "answer": "",
+        "choices": {
+            "A": "[person_2] would grab [person_1]'s right hand and step on the right half of his back.",
+            "B": "[person_2] will open the door for [person_1].",
+            "C": "[person_2] will give [person_1] a high-five.",
+            "D": "[person_2] will adjust [person_2]'s hat.",
+            "E": "[person_2] will help [person_1] to stand up."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/Dn5pMiLbdxo_000026_000036.mp4",
+        "question": "Where will [person_1] go if he is sick?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] may decide to visit the park to get some fresh air.",
+            "B": "[person_1] will attend a workout session to feel better.",
+            "C": "[person_1] will go to the hospital.",
+            "D": "[person_1] will join a cooking class to relax.",
+            "E": "[person_1] will go out for ice cream to cool down."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/R9u8NHNcgbg_000027_000037.mp4",
+        "question": "What is [person_2] going to do?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_2] is going to stand up and walk towards a new spot to play.",
+            "B": "[person_2] is going to observe what [person_1] does next.",
+            "C": "[person_2] is going to try to strike the bars of the toy.",
+            "D": "[person_2] is going to look at the toy curiously and then move closer.",
+            "E": "[person_2] is going to start clapping their hands to the music."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/2mjxrl7tQ90_000011_000021.mp4",
+        "question": "What will [person_1] do after running?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] will continue to run towards the park.",
+            "B": "[person_1] will rest and go home.",
+            "C": "[person_1] will stop to perform some stretching exercises.",
+            "D": "[person_1] is going to look around for their friends.",
+            "E": "[person_1] is going to check their watch and start running again."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/HLT5wjR6RIc_000109_000119.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] is going to tune the bass guitar before performing.",
+            "B": "[person_1] will start organizing sheet music for the next song.",
+            "C": "[person_1] is going to pick up a different instrument to play.",
+            "D": "[person_1] is going to adjust their microphone stand to sing.",
+            "E": "[person_1] will feel the music and play the bass guitar."
+        },
+        "predict": "E"
+    },
+    {
+        "video": "causalqa/WocEWaxJQac_000005_000015.mp4",
+        "question": "What will happen to [person_3] after running?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_3] will head to the refreshment tent to grab a bottle of water.",
+            "B": "[person_3] will join their team for a celebratory photo.",
+            "C": "[person_3] will receive an interview.",
+            "D": "[person_3] will start stretching to cool down after their run.",
+            "E": "[person_3] will catch their breath and then cheer for their friends."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/Lm6TIWuMVGI_000084_000094.mp4",
+        "question": "What is [person_1] going to do after playing games?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will go to the shop.",
+            "B": "[person_1] is going to chat with friends about the game.",
+            "C": "[person_1] will tidy up the gaming area.",
+            "D": "[person_1] is going to prepare snacks for later.",
+            "E": "The [person_1] will take a brief nap."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/jZQgpbmznh4_000165_000175.mp4",
+        "question": "What will [person_2] do next?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_2] will pick up a phone and make a call.",
+            "B": "[person_2] will start reading a book.",
+            "C": "[person_2] will begin writing on a notepad.",
+            "D": "[person_2] will start preparing a meal.",
+            "E": "[person_2] will then lie on the bed."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/u31lkPjMMG0_000072_000082.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] is going to adjust the sails on the boat.",
+            "B": "[person_1] will pick up the microphone to start singing.",
+            "C": "[person_1] is going to dance with a sword.",
+            "D": "[person_1] is likely to start juggling the balls.",
+            "E": "[person_1] will begin painting a portrait on canvas."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/ihgwYbJ0cQg_000007_000017.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] might carefully examine and clean her glasses after removing them.",
+            "B": "[person_1] seems poised to start jogging around the area for exercise.",
+            "C": "[person_1] is going to pick up the ball and shoot again.",
+            "D": "Looks like [person_1] will turn on the TV and settle for a movie night.",
+            "E": "[person_1] may adjust the position of the garden hose to water different plants."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/-fAw8Noja9E_000015_000025.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Maybe [person_1] will inspect the pantry for ingredients.",
+            "B": "[person_1] will decide to start preparing some tea.",
+            "C": "Maybe [person_1] will search for a dish towel.",
+            "D": "[person_1] will go to find some cups.",
+            "E": "Maybe [person_1] will clean the counter."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/pQes6Vi8uiY_000024_000034.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] will move to adjust the lighting around him.",
+            "B": "[person_1] will get money from his customer.",
+            "C": "[person_1] will start cleaning his tools for the next task.",
+            "D": "[person_1] will take a break and sit down.",
+            "E": "[person_1]'ll talk to someone nearby about the last performance."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/h-JsupqiUvU_000000_000010.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will finalize the project.",
+            "B": "[person_1] will prepare to leave the area.",
+            "C": "[person_1] is going to try again.",
+            "D": "[person_1] will continue winning the game.",
+            "E": "[person_1] is discussing a new strategy."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/AbYJMFEH3P0_000020_000030.mp4",
+        "question": "What will [person_1] do if the power goes out?",
+        "answer": "D",
+        "choices": {
+            "A": "Maybe he will start playing the piano to entertain everyone.",
+            "B": "[person_1] will start searching for candles to light up the space.",
+            "C": "[person_1] will gather everyone for an impromptu storytelling session.",
+            "D": "[person_1] will stop running.",
+            "E": "[person_1] will take out a board game to pass the time."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/CiI-TTPXkPc_000002_000012.mp4",
+        "question": "What is the [person_1] going to do?",
+        "answer": "D",
+        "choices": {
+            "A": "The [person_1] may start a conversation with a friend nearby.",
+            "B": "The [person_1] is going to start stretching to prepare for yoga.",
+            "C": "The [person_1] may begin warming up for a run.",
+            "D": "The [person_1] may carry on playing basketball.",
+            "E": "The [person_1] may pick up the groceries and go home."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/hfkEWPr_7dc_000436_000446.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "E",
+        "choices": {
+            "A": "Maybe [person_1] is going to adjust their helmet.",
+            "B": "[person_1] is going to go carve a wooden sculpture.",
+            "C": "[person_1] may start sketching on a notebook.",
+            "D": "[person_1] is going to turn on the lamp.",
+            "E": "Maybe [person_1] is going to start spray paint."
+        },
+        "predict": "E"
+    },
+    {
+        "video": "causalqa/kIbHE2WEjCE_000116_000126.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] might start adjusting the rope.",
+            "B": "[person_1] is likely to take a break and sit down.",
+            "C": "[person_1] is going to go all the way to the end of the rope.",
+            "D": "[person_1] could decide to retie their shoelaces.",
+            "E": "[person_1] will begin gathering the scattered cards."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/IYzbxW5nyKE_000001_000011.mp4",
+        "question": "What is [person_1] going to do after that?",
+        "answer": "B",
+        "choices": {
+            "A": "They are going to leave the room.",
+            "B": "[person_1] will probably lie on the ground.",
+            "C": "It is likely that [person_1] will read a book in the living room.",
+            "D": "[person_1] will start preparing a meal in the kitchen.",
+            "E": "[person_1] will pick up the guitar and start playing a song."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/IEmylQo1MXY_000091_000101.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] will start reading a book.",
+            "B": "[person_1] will sit down to take a rest.",
+            "C": "[person_1] is going to check his phone.",
+            "D": "[person_1] is going to ride [bicycle_1].",
+            "E": "[person_1] is about to wave at a friend."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/q382I17AS1M_000015_000025.mp4",
+        "question": "What will the photographer do next?",
+        "answer": "B",
+        "choices": {
+            "A": "He could prepare to click another picture quickly.",
+            "B": "He will escape the bubble from the champagne.",
+            "C": "He might start adjusting his camera settings.",
+            "D": "He might decide to change the lens on his camera.",
+            "E": "He is likely to comment on the lighting conditions."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/Gishd9sKkEU_000000_000010.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] is going to play with mechanical bull.",
+            "B": "[person_1] is going to ride a bicycle.",
+            "C": "[person_1] is going to put on a cowboy hat.",
+            "D": "[person_1] is going to adjust the saddle.",
+            "E": "[person_1] will start climbing a rope."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/hXd5YB9zR0U_000007_000017.mp4",
+        "question": "What does [person_1] intend to do?",
+        "answer": "D",
+        "choices": {
+            "A": "It is foreseen that [person_1] will wave to the camera.",
+            "B": "[person_1] intends to adjust the camera settings.",
+            "C": "[person_1] intends to start writing a song.",
+            "D": "[person_1] intends to turn off the camera.",
+            "E": "[person_1] intends to start recording a new video."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/ZPP2s99Dt14_000007_000017.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] is going to practice standing on his hands.",
+            "B": "[person_1] will continue exploring the outdoor landscape.",
+            "C": "[person_1] will start arranging some nearby plants.",
+            "D": "[person_1] keeps adjusting the display settings on his device.",
+            "E": "[person_1] may begin warming up for a run."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/0wugSggDja8_000000_000010.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] will gesture to explain a point.",
+            "B": "[person_1] is going to pick up the book they were reading.",
+            "C": "[person_1] is about to take a nap after the exercise.",
+            "D": "[person_1] is going to stretch their arms.",
+            "E": "Maybe [person_1] is going to continue doing."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/gtmGt3K5uTc_000494_000504.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] might briefly pause to catch their breath.",
+            "B": "[person_1] will kick the ball.",
+            "C": "[person_1] is likely to shake the maracas.",
+            "D": "[person_1] will start adjusting their grip on the string.",
+            "E": "[person_1] will continue practicing their breathing technique."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/zKoka7kGBg4_000095_000105.mp4",
+        "question": "What is the [person_1] going to do?",
+        "answer": "B",
+        "choices": {
+            "A": "The [person_1] is going to start preparing a smoothie.",
+            "B": "The [person_1] is going to keep seeking blueberries.",
+            "C": "The [person_1] is going to sort out the ripe fruits from a basket.",
+            "D": "The [person_1] is going to start watering the plants in the garden.",
+            "E": "The [person_1] is going to open a new cookbook."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/1Q3INfCUrdk_000005_000015.mp4",
+        "question": "what is [person_1] going to do?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will go out of the mechanical bull area.",
+            "B": "[person_1] is going to attempt a new riding trick.",
+            "C": "[person_1] is going to signal for another round on the mechanical bull.",
+            "D": "[person_1] is going to wave at the audience.",
+            "E": "[person_1] is going to adjust their safety gear."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/DNQHt1kzzjY_000669_000679.mp4",
+        "question": "What is the [person_1] going to do?",
+        "answer": "E",
+        "choices": {
+            "A": "The [person_1] is going to adjust the chair.",
+            "B": "The [person_1] is going to pick up a book from the shelf.",
+            "C": "The [person_1] may get ready to cook dinner.",
+            "D": "The [person_1] is going to make a phone call.",
+            "E": "The [person_1] is going to dry the table."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/l7Ytr8rznQU_000002_000012.mp4",
+        "question": "What will [person_1] do after [person_2] has ran away?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] will begin preparing a meal.",
+            "B": "[person_1] will look for something to eat in the kitchen.",
+            "C": "[person_1] might start cleaning up the mess.",
+            "D": "[person_1] may leave the room as well.",
+            "E": "[person_1] may decide to sit down and read a book."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/OBjNwH0Xi5g_000006_000016.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] will begin to teach someone else to play the harmonica.",
+            "B": "[person_1] will start singing a song instead of playing the harmonica.",
+            "C": "[person_1] will put the harmonica down and start clapping to a rhythm.",
+            "D": "[person_1] will stop playing the harmonica.",
+            "E": "[person_1] will continue playing the harmonica for a small crowd gathering around."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/0oaHKuk1Wjg_000013_000023.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] is going to start dancing with a mic in hand.",
+            "B": "[person_1] is going to prepare the room for a yoga session.",
+            "C": "[person_1] is going to look for sheet music.",
+            "D": "[person_1] may be going to take a bow to the audience.",
+            "E": "[person_1] is going to play the harp."
+        },
+        "predict": "E"
+    },
+    {
+        "video": "causalqa/clvTsEQS8Ms_000000_000010.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] intends to open the gift box.",
+            "B": "[person_1] is going to explore the surrounding park.",
+            "C": "[person_1] is going to read a book under the tree.",
+            "D": "[person_1] is about to decorate the room for a party.",
+            "E": "[person_1] is going to prepare some delicious snacks."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/HHxjwHBDQ6g_000017_000027.mp4",
+        "question": "What is [person_2] going to do?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_2] will begin cleaning up the area.",
+            "B": "[person_2] will start a conversation with [person_3].",
+            "C": "[person_2] will pick up a guitar to play some music.",
+            "D": "[person_2] will start preparing a meal for everyone.",
+            "E": "Maybe [person_2] is going to continue smoke hookah."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/P7xPz0Wa3pk_000187_000197.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] might start looking for a book to read.",
+            "B": "[person_1] might pick up their phone to make a call.",
+            "C": "[person_1] may choose to start doing some stretches.",
+            "D": "It is possible that [person_1] will lie down on [couch_1].",
+            "E": "[person_1] could decide to walk over to the window."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/3cwR3H3n3QE_000210_000220.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] will start nailing a board.",
+            "B": "[person_1] will continue organizing the toolbox.",
+            "C": "It is possible that [person_1] will move to adjust a picture frame.",
+            "D": "[person_1] will switch the hammer to another hand.",
+            "E": "[person_1] will adjust their safety goggles."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/ZcPFcOUquy8_000366_000376.mp4",
+        "question": "what is [person_1] going to do?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] may breath smoke.",
+            "B": "[person_1] is about to take a sip of their drink.",
+            "C": "[person_1] is going to adjust their hat.",
+            "D": "[person_1] is going to continue running towards the door.",
+            "E": "[person_1] is going to check their watch."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/-DpR1pJJD_I_000063_000073.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] will arrange a meetup with friends for lunch.",
+            "B": "[person_1] will decide to take a short walk outside.",
+            "C": "[person_1] will call a taxi to head to a new location.",
+            "D": "[person_1] will continue treatment.",
+            "E": "[person_1] will start driving to the grocery store."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/dmWJV9E7xu8_000208_000218.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will check the honey.",
+            "B": "[person_1] may start brushing their hair.",
+            "C": "[person_1] going to shave.",
+            "D": "[person_1] will begin ironing clothes.",
+            "E": "[person_1] will brew a cup of coffee."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/gf7QkXKOV_k_000009_000019.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will move the stripping cutting edge to peel an apple.",
+            "B": "[person_1] might wash the apple before eating it.",
+            "C": "Maybe [person_1] is about to sharpen the knife.",
+            "D": "Perhaps [person_1] will start cutting a cake.",
+            "E": "It looks like [person_1] is going to check a text message on their phone."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/Jg6lbSM7izY_000001_000011.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] will sit down to tie their shoelaces.",
+            "B": "[person_1] will start practicing a dance routine.",
+            "C": "[person_1] will check their phone for messages.",
+            "D": "[person_1] will grab an umbrella and prepare for a stroll in the rain.",
+            "E": "Maybe [person_1] will continue to practice lunge."
+        },
+        "predict": "E"
+    },
+    {
+        "video": "causalqa/MLuC7T1NS4k_000001_000011.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] will rearrange the cups before throwing the ball.",
+            "B": "Perhaps [person_1] will throw the ball into the cups.",
+            "C": "[person_1] will pick up a different type of ball to aim for variation.",
+            "D": "[person_1] will demonstrate the throw again to perfect the technique.",
+            "E": "It is foreseen that [person_1] will continue adjusting their stance for better aim."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/axm_Iz6LPaw_000001_000011.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] might pick up the phone to make a call.",
+            "B": "[person_1] will continue reading the newspaper.",
+            "C": "[person_1] will get up to prepare a cup of coffee.",
+            "D": "[person_1] will flip the page and start solving Sudoku.",
+            "E": "It is predicted that [person_1] will look at the clock to check the time."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/a1nlADNQGK0_000001_000011.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] is going to ride a bike and solve a Rubik's.",
+            "B": "[person_1] may practice bike balancing tricks.",
+            "C": "[person_1] is going to check the air pressure in the bike tires.",
+            "D": "[person_1] is going to fill their bike water bottle.",
+            "E": "[person_1] is going to continue adjusting the seat of the bike."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/7ib1-xGph7I_000199_000209.mp4",
+        "question": "How will [person_1] feel after the massage?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] will start preparing dinner.",
+            "B": "[person_1] will go for a run after the massage.",
+            "C": "[person_1] will feel energized and ready to play sports.",
+            "D": "[person_1] will decide to organize a party.",
+            "E": "[person_1] will feel relaxed with his head."
+        },
+        "predict": "E"
+    },
+    {
+        "video": "causalqa/njGPM9kzwNc_000053_000063.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will hit the gong's face again.",
+            "B": "[person_1] is going to adjust the positioning of the gong.",
+            "C": "[person_1] will lift the mallet as if preparing to signal a break.",
+            "D": "[person_1] will pause to plan the next rhythm.",
+            "E": "[person_1] will prepare to conduct an invisible orchestra."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/5EheWAKuZnY_000003_000013.mp4",
+        "question": "What is the [person_1] going to do?",
+        "answer": "E",
+        "choices": {
+            "A": "Perhaps [person_1] wants to dribble the basketball away.",
+            "B": "The [person_1] is going to hand the basketball to a friend.",
+            "C": "[person_1] is going to grab their backpack and leave.",
+            "D": "The [person_1] may point at the basketball court.",
+            "E": "The [person_1] is going to catch the basketball."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/0w1KF5xR7C0_000000_000010.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] is going to glance at their watch.",
+            "B": "[person_1] is going to pour a cup of water.",
+            "C": "[person_1] is going to look out the window.",
+            "D": "[person_1] is going to keep trying to raise eyebrows.",
+            "E": "[person_1] is going to adjust their glasses."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/sgLnx5uZ3tY_000069_000079.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] is going to prepare some snacks for everyone.",
+            "B": "[person_1] is going to start rehearsing a new dance routine.",
+            "C": "[person_1] is going to give playing accordion a shot.",
+            "D": "[person_1] is going to try finding a new instrument to play.",
+            "E": "[person_1] is going to join a group for a singing session."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/REDQzzcf8uY_000002_000012.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] is going to start cooking dinner.",
+            "B": "[person_1] is going to do some yoga stretches.",
+            "C": "[person_1] is going to take a nap.",
+            "D": "[person_1] won't read the book anymore.",
+            "E": "[person_1] is going to chat on the phone."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/JV9S3ewybDM_000000_000010.mp4",
+        "question": "What is [person_2] going to do?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_2] will start painting on the wall next.",
+            "B": "[person_2] is going to hold [dog_1].",
+            "C": "[person_2] is going to guide [person_1] on how to tie a shoelace.",
+            "D": "[person_2] will throw the ball to the dog to fetch.",
+            "E": "[person_2] is going to take a nap right there."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/OyrrPQFyD1s_000061_000071.mp4",
+        "question": "What will [person_2] do if losing the game?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_2] might arrange a rematch.",
+            "B": "[person_1] will be invited.",
+            "C": "[person_2] may congratulate the winner.",
+            "D": "[person_1] will start cheering.",
+            "E": "They might discuss a new strategy."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/nUV0lYVBsO0_000009_000019.mp4",
+        "question": "Next , which direction will [person_1] shake her shoulders?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] will turn her head to the right before any shoulder movement.",
+            "B": "[person_1] will adjust her hat before shaking her shoulders.",
+            "C": "[person_1] will glance down at her phone before continuing.",
+            "D": "[person_1] will slightly nod her head before shaking her shoulders.",
+            "E": "[person_1] will probably shake her shoulder to the left."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/U2E4BTS6WPY_000015_000025.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will start watering the plants next to [people_2]'s house.",
+            "B": "[person_1] will make a phone call to [people_2] about the newspaper delivery.",
+            "C": "[person_1] will continue to give the newspaper for [people_2].",
+            "D": "[person_1] may start conversing about the day's news with [people_2].",
+            "E": "[person_1] may adjust the hat [person_1] is wearing due to the sunlight."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/f6LkQ-qFnzE_000000_000010.mp4",
+        "question": "What is the [person_1] going to do?",
+        "answer": "D",
+        "choices": {
+            "A": "The [person_1] may prepare to catch a falling object.",
+            "B": "The [person_1] may turn around to greet someone approaching.",
+            "C": "The [person_1] is going to adjust their stance for a swing.",
+            "D": "The [person_1] may crawl under the [baseball bat_1].",
+            "E": "The [person_1] might start running to catch a ball."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/efndhzEBX6I_000318_000328.mp4",
+        "question": "What is [person_2] going to do?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_2] is going to take a nap next to [person_1].",
+            "B": "Maybe [person_2] is going to wave at the camera.",
+            "C": "Imitate [person_1] shaking the bottle.",
+            "D": "Perhaps [person_2] is going to make a call on their smartphone.",
+            "E": "[person_2] will start a dance session with [person_1]."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/fTKI-M-mxW4_000002_000012.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] will pick up the book and start reading.",
+            "B": "[person_1] is going to sit down and rest.",
+            "C": "[person_1] will take a seat and begin eating.",
+            "D": "[person_1] will wave goodbye and leave the room.",
+            "E": "[person_1] is going to continue riding in the dining room."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/x6zYNlXx4fs_000002_000012.mp4",
+        "question": "Where will [person_2] and [person_5] go after the exercise?",
+        "answer": "D",
+        "choices": {
+            "A": "Perhaps [person_5] will discuss the workout routine further.",
+            "B": "They might decide to review their gym notes.",
+            "C": "[person_5] could go grab a quick protein shake with [person_2].",
+            "D": "[person_2] and [person_5] will rest and go for lunch.",
+            "E": "[person_2] will likely start another exercise session."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/vFbU7B9lMNQ_000003_000013.mp4",
+        "question": "What is the cameraman who is recording [person_1] and [person_2] going to do?",
+        "answer": "E",
+        "choices": {
+            "A": "The cameraman will zoom in on [person_2]'s expression.",
+            "B": "The cameraman will pan to capture [person_1] and [person_2] dancing.",
+            "C": "The cameraman is going to film [person_1] talking to [person_2].",
+            "D": "The cameraman will focus on the lights on the roof.",
+            "E": "The cameraman will film the Christmas tree."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/TSSSHxkyXiM_000042_000052.mp4",
+        "question": "What will [person_1] do after speaking?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] seems likely to check their phone for messages.",
+            "B": "[person_1] is likely to adjust the seating arrangement for comfort.",
+            "C": "[person_1] might wave goodbye to everyone.",
+            "D": "[person_1] could begin storytelling around the campfire.",
+            "E": "[person_1] will keep roasting the marshmallows."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/D_6gpSu02wc_000018_000028.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] will start giving instructions.",
+            "B": "[person_1] will continue try it.",
+            "C": "[person_1] is going to take a break.",
+            "D": "[person_1] will demonstrate a new technique.",
+            "E": "[person_1] will finish the current task."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/zqf6Ze_v-ww_000004_000014.mp4",
+        "question": "What will happen to [person_1] after a while?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will safely dismount the horse after the ride.",
+            "B": "[person_1] will perform a trick by standing on the moving horse.",
+            "C": "[person_1] will fall down from the horse.",
+            "D": "[person_1] will expertly guide the horse through an obstacle course.",
+            "E": "[person_1] will continue riding the horse smoothly towards the horizon."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/4UaSt_ABAos_000014_000024.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] might begin drawing on the ground with a stick.",
+            "B": "[person_1] is likely to hit the ball by a stick.",
+            "C": "[person_1] will chat with a friend nearby.",
+            "D": "[person_1] is bound to start arranging the books on a shelf.",
+            "E": "[person_1] may decide to throw the ball into the air."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/rBczSqZ7TDo_000000_000010.mp4",
+        "question": "What will [person_1] feel after being punched?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will not be angry.",
+            "B": "[person_1] will smile and brush it off.",
+            "C": "[person_1] will calmly ask what's wrong.",
+            "D": "[person_1] will start to laugh.",
+            "E": "[person_1] will pat the other person in return."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/NBrQ_D443FU_000043_000053.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] is likely to smoking hookah.",
+            "B": "[person_1] will lean against the wall.",
+            "C": "[person_1] will reach to pick up something from a table.",
+            "D": "[person_1] will gesture to someone nearby to join them.",
+            "E": "[person_1] will sit down to have a drink."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/C-EOMuQwxLQ_000029_000039.mp4",
+        "question": "What will [person_1] do after using the inhaler?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will put down the inhaler and wait for 10 seconds.",
+            "B": "[person_1] will make a phone call right after using the inhaler.",
+            "C": "[person_1] will immediately go for a jog.",
+            "D": "[person_1] will take a deep breath and relax.",
+            "E": "[person_1] will clean the inhaler before storing it away."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/C5aTYY33g_I_000008_000018.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] is going to smile at the camera.",
+            "B": "[person_1] is going to continue try.",
+            "C": "[person_1] is going to adjust their hat.",
+            "D": "[person_1] is going to check their phone.",
+            "E": "[person_1] is going to pick up a drink."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/PMwTTSdx-4M_000012_000022.mp4",
+        "question": "Where will [person_1] put the guitar next?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will still put the guitar on her lap.",
+            "B": "[person_1] will hand the guitar to someone else.",
+            "C": "[person_1] will place the guitar in its case.",
+            "D": "[person_1] will hang the guitar back on the wall.",
+            "E": "[person_1] will place the guitar on the table next to her."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/tbJa0D7Z2Fs_000031_000041.mp4",
+        "question": "What will [person_1] do after slowing down?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will leave.",
+            "B": "[person_1] will adjust their helmet before speeding up again.",
+            "C": "[person_1] will pick up their phone and call someone.",
+            "D": "[person_1] will look around and wave to a friend.",
+            "E": "[person_1] will catch their breath and continue skating."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/cVMmwClDfzg_000000_000010.mp4",
+        "question": "What will [person_1] do after running?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] will immediately start planning the next run.",
+            "B": "[person_1] will have a rest.",
+            "C": "[person_1] will join their friends for a celebratory dance.",
+            "D": "[person_1] will continue their warm-up exercises by stretching.",
+            "E": "[person_1] will swiftly move to start jogging again."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/iYSClo5N_fE_000380_000390.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] is going to go on playing clarinet.",
+            "B": "[person_1] is looking for the next song to play.",
+            "C": "[person_1] is preparing to organize their music sheets.",
+            "D": "[person_1] is going to adjust the music stand.",
+            "E": "[person_1] is about to start a dance routine."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/2ZU7xCFvrGw_000059_000069.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] is going to open the book.",
+            "B": "[person_1] will look out of the window for a while.",
+            "C": "[person_1] is going to sit down and enjoy a cup of tea.",
+            "D": "[person_1] will start organizing the shelves next to them.",
+            "E": "[person_1] is going to check their phone for messages."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/wjMNQBj1yUQ_000016_000026.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] will pick up a guitar and start playing a tune.",
+            "B": "It is foreseen that [person_1] will wave goodbye to everyone.",
+            "C": "[person_1] will take a seat and relax with a book.",
+            "D": "[person_1] will start a conversation with [person_2].",
+            "E": "[person_1] will dance with the maracas."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/Q-ZuXPVGaTI_000009_000019.mp4",
+        "question": "What does [person_1] intend to do?",
+        "answer": "D",
+        "choices": {
+            "A": "Maybe [person_1] intends to sit at the piano.",
+            "B": "[person_1] intends to go and open the window.",
+            "C": "[person_1] will probably start drawing with the pen.",
+            "D": "[person_1] intends to touch in the harp.",
+            "E": "[person_1] intends to continue playing basketball."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/eEyKDal5bF0_000012_000022.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] is going to jump into [bowl_1].",
+            "B": "[person_1] will gently place the [object_1] on the table.",
+            "C": "[person_1] will lie down for a quick nap.",
+            "D": "[person_1] is about to splash water around.",
+            "E": "[person_1] is bowing to pick up [object_1]."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/TJ8xva_zVEo_000014_000024.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] might proceed to analyze the board.",
+            "B": "[person_1] could decide to organize the files.",
+            "C": "[person_1] is thinking about serving tea.",
+            "D": "[person_1] will continue to teach the next moves.",
+            "E": "[person_1] is likely to prepare to sketch something."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/HuRIQJNg3AM_000004_000014.mp4",
+        "question": "What is [person_2] going to do?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_2] may take a break to catch a breath.",
+            "B": "[person_2] is going to perform some stretches.",
+            "C": "[person_2] is going to look around for any obstacles.",
+            "D": "[person_2] may keep trying to get faster.",
+            "E": "[person_2] might start jogging in place."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/mf0QPcYFyK4_000141_000151.mp4",
+        "question": "What will [person_1] and [person_2] do next?",
+        "answer": "E",
+        "choices": {
+            "A": "It is plausible that [person_1] and [person_2] will admire the scenery around them.",
+            "B": "[person_1] and [person_2] might express joy by laughing with each other.",
+            "C": "[person_1] and [person_2] are expected to continue dancing together romantically.",
+            "D": "[person_1] and [person_2] could start watching the sunset together.",
+            "E": "[person_1] and [person_2] will kiss."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/96XclIZV0WE_000040_000050.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] is likely to adjust the curtains.",
+            "B": "[person_1] is going to play in the room.",
+            "C": "[person_1] will start putting away the toys.",
+            "D": "[person_1] is about to make a phone call.",
+            "E": "[person_1] might decide to arrange the books on the shelf."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/aXPlCsRiAZI_000034_000044.mp4",
+        "question": "What is the relationship between [person_1] and [person_3]?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] might offer [person_3] a piece of cake.",
+            "B": "[person_3] might help [person_1] with the dishes soon.",
+            "C": "[person_1] might share a funny story with [person_3].",
+            "D": "[person_1] is likely to ask [person_3] about his day.",
+            "E": "[person_1] and [person_3] are brothers."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/VnBZR-yBLXA_000034_000044.mp4",
+        "question": "What is the [person_1] going to do?",
+        "answer": "D",
+        "choices": {
+            "A": "The [person_1] is preparing to perform a trick on the bike.",
+            "B": "The [person_1] is likely to adjust their helmet for safety.",
+            "C": "The [person_1] is going to look around to check if anyone is watching.",
+            "D": "the [person_1] is going to continue peeling the potato",
+            "E": "The [person_1] is about to start walking after riding."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/kS_zZfk1f4Y_000067_000077.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] will dust off the floor to clean.",
+            "B": "[person_1] will look around to find a lost item.",
+            "C": "[person_1] may get out of the pool.",
+            "D": "[person_1] will start roller skating.",
+            "E": "[person_1] will begin adjusting the helmet straps."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/xE6bIFF8t4Q_000019_000029.mp4",
+        "question": "What is [person_1] going to do next.",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] is about to call a friend.",
+            "B": "[person_1] is going to keep turning around.",
+            "C": "[person_1] will begin writing a letter.",
+            "D": "[person_1] will inspect the bookshelf for a good read.",
+            "E": "[person_1] is going to start dancing to the music."
+        },
+        "predict": "E"
+    },
+    {
+        "video": "causalqa/BTkyd28-ng8_000021_000031.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] might begin to play the drums.",
+            "B": "[person_1] will start lighting a candle.",
+            "C": "[person_1] is likely to check the temperature of the oven.",
+            "D": "[person_1] will organize the books.",
+            "E": "[person_1] will take the stick away."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/hIRaalNgYaw_000005_000015.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] is going to put all the dice on his mouth.",
+            "B": "[person_1] is going to engage in a guessing game with the dice.",
+            "C": "[person_1] will start arranging the dice in a pattern.",
+            "D": "[person_1] will take another roll with the dice.",
+            "E": "[person_1] is contemplating which trick to perform with the dice next."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/ybKcaDz4Z74_000010_000020.mp4",
+        "question": "What will [person_1] do next? ",
+        "answer": "A",
+        "choices": {
+            "A": "will continue riding machine bull",
+            "B": "[person_2] might encourage [person_1] to continue the task.",
+            "C": "[person_2] will start tidying up the area.",
+            "D": "[person_2] will offer [person_1] a cup of tea.",
+            "E": "[person_2] will politely assist [person_1] with their jacket."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/SqSWaYFJHX8_000065_000075.mp4",
+        "question": "Who is [person_2]?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_2] is likely to join [person_1] in a collaborative task.",
+            "B": "[person_2] will likely introduce [person_1] to another guest.",
+            "C": "It looks like that [person_2] is the teacher of [person_1].",
+            "D": "[person_2] is expected to guide [person_1] through a new exercise.",
+            "E": "[person_1] will maybe demonstrate a new skill taught by [person_2]."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/M5VOkaX2gWM_000090_000100.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] is going to take a break and enjoy the sunshine.",
+            "B": "[person_1] may start preparing for a picnic.",
+            "C": "[person_1] is going to put the pineapple in the sun.",
+            "D": "[person_1] may begin arranging other fruits on the table.",
+            "E": "[person_1] will adjust the position of the deck chair."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/jLy0M7goLiQ_000000_000010.mp4",
+        "question": "What will [person_2] do next?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_2] will cheer alongside [person_2].",
+            "B": "[person_2] will give a high-five to the coach.",
+            "C": "[person_2] will go on practicing.",
+            "D": "[person_2] will start running towards the finish line.",
+            "E": "[person_2] will jump over the hurdle."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/jlM0qifCvhY_000851_000861.mp4",
+        "question": "What will [person_2] do next after unwrapping the box?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_2] will call someone to show the gift.",
+            "B": "[person_2] will start cooking if it's kitchenware.",
+            "C": "[person_2] will wear the item if it's clothing.",
+            "D": "[person_2] will take a picture of the gift.",
+            "E": "[person_2] will share it with [person_1]."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "causalqa/hfCVBpA-gDk_000000_000010.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "",
+        "choices": {
+            "A": "[person_1] is going to check the tap for leaks.",
+            "B": "[person_1] is going to pour a glass of water.",
+            "C": "[person_1] is going to grab a towel.",
+            "D": "[person_1] is going to open the faucet.",
+            "E": "[person_1] is going to wash their hands."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/1rx-6BQO8Xk_000177_000187.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will begin sketching a portrait.",
+            "B": "[person_1] might plant the seeds in the garden.",
+            "C": "To borrow the bubble machine from [person_2].",
+            "D": "[person_1] will continue balancing the stack of books.",
+            "E": "[person_1] is about to start cooking dinner."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/CQkSxYZRMMM_000011_000021.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] is going to learn the strings of the harp.",
+            "B": "[person_1] is going to tune the harp before playing it.",
+            "C": "[person_1] is going to dance away from the harp.",
+            "D": "[person_1] may practice some vocal warm-ups.",
+            "E": "[person_1] may start a conversation about music theory."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/7IVBFYsYDNE_000063_000073.mp4",
+        "question": "What does [person_1] tend to do?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] tends to show how to stand on two hands.",
+            "B": "[person_1] will sit down to elegantly play the harp.",
+            "C": "[person_1] tends to unwrap the present to see what's inside.",
+            "D": "[person_1] tends to start a ballet performance with a jump spin.",
+            "E": "[person_1] tends to continue jogging to stay fit."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/gCyEgy_J4TI_000010_000020.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] is going to make a phone call to a friend.",
+            "B": "[person_1] is going to pick up a book and start reading energetically.",
+            "C": "[person_1] is going to begin a workout session.",
+            "D": "[person_1] is going to prepare a meal for dinner.",
+            "E": "[person_1] is going to lie on [bed_1] and rest."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/kbfPZMS26QY_000000_000010.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] will start checking the phone for messages.",
+            "B": "[person_1] is going to finish arranging the picnic setup.",
+            "C": "[person_1] is going to adjust his hat.",
+            "D": "[person_1] is going to hand a sandwich to [person_2].",
+            "E": "[person_1] is going to put the beer bottle back to the basket."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/t3k3WAJE9Jc_000036_000046.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] is going to glance at their watch.",
+            "B": "[person_1] is going to take out the box next to it.",
+            "C": "[person_1] is going to stretch their arms open wide.",
+            "D": "[person_1] is going to sit down to rest.",
+            "E": "[person_1] is going to start walking toward the door."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "causalqa/EhlSLZgeOTE_000000_000010.mp4",
+        "question": "What will [person_2] do next?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_2] will try to raising eyebrows.",
+            "B": "[person_2] may practice juggling the utensils.",
+            "C": "[person_2] will start arranging the table for dinner.",
+            "D": "[person_2] will clean up the area for the next working session.",
+            "E": "[person_2] will begin setting up the projector for a presentation."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/fnxK9KyZ9Bo_000127_000137.mp4",
+        "question": "What will [person_1] do next?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] is going to check their phone for messages.",
+            "B": "[person_1] will start reading a book.",
+            "C": "[person_1] will continue practicing the spinning poi.",
+            "D": "[person_1] will start packing up the poi equipment.",
+            "E": "[person_1] will prepare to cook dinner."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "causalqa/6xhy2QwbkTA_000330_000340.mp4",
+        "question": "What will [person_1] do after the massage?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] will drink a glass of water to refresh.",
+            "B": "[person_1] will start organizing the massage table.",
+            "C": "The [person_1] will begin cleaning up the massage area.",
+            "D": "The [person_1] will thank [person_2] enthusiastically.",
+            "E": "The [person_1] may apply some ointment on [person_2]'s feet."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "causalqa/kE-QflRcYd4_000018_000028.mp4",
+        "question": "What is [person_1] going to do?",
+        "answer": "E",
+        "choices": {
+            "A": "[person_1] is going to share the donuts with others nearby.",
+            "B": "[person_1] is going to organize the toys into different categories.",
+            "C": "[person_1] is going to start a new exercise routine on the spot.",
+            "D": "[person_1] will begin preparing a salad by chopping vegetables.",
+            "E": "[person_1] will get out of the machine bull area"
+        },
+        "predict": "E"
+    },
+    {
+        "video": "mmworld/v_gEjQ2Ttbs9M_c004_00.mp4",
+        "question": "How does the left team gain a score in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "They execute a perfect figure skating jump",
+            "B": "They score by a chess checkmate",
+            "C": "They perform a synchronized swimming move",
+            "D": "volleyball spike"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "mmworld/v_00HRwkvvjtQ_c003_02.mp4",
+        "question": "How does the left team win a point in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "They perform a soccer penalty kick",
+            "B": "basketball 3-point shot",
+            "C": "They execute a perfect slam dunk",
+            "D": "They hit a tennis ace"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "mmworld/v_2QhNRucNC7E_c028_00.mp4",
+        "question": "Does any team gain a point?",
+        "answer": "A",
+        "choices": {
+            "A": "no",
+            "B": "Yes, both teams successfully hit a three-pointer.",
+            "C": "Yes, one team successfully performs a double play and gains a point.",
+            "D": "Yes, both teams complete a penalty kick and gain a point."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "mmworld/youtube_24.mp4",
+        "question": "How does the robot stand up again?",
+        "answer": "C",
+        "choices": {
+            "A": "By using a magnetic field generated by induction coils.",
+            "B": "Because of its autonomous recharging system providing extra power.",
+            "C": "With the support of its mechanical arm.",
+            "D": "Due to advanced gyroscopic sensors recalibrating its balance."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "mmworld/v_bhWjlAEICp8_c018_00.mp4",
+        "question": "What does the right team do after defend?",
+        "answer": "B",
+        "choices": {
+            "A": "Start a power play formation used in hockey",
+            "B": "volleyball adjust",
+            "C": "Implement an offside trap",
+            "D": "Set up a defensive wall similar to soccer"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "mmworld/v_dChHNGIfm4Y_c004_00.mp4",
+        "question": "Is the spike of the left team successful?",
+        "answer": "C",
+        "choices": {
+            "A": "Yes, the left team executed a perfect spike utilizing the 'comet spike' technique, known for its accuracy in volleyball.",
+            "B": "Yes, the spike was successful using the advanced 'velocity pivot', a technique believed to guarantee point scoring in high-level matches.",
+            "C": "no",
+            "D": "Yes, the spike leveraged the 'feather touch' strategy, a move often mistaken for a successful tactic in professional volleyball."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/v_ApPxnw_Jffg_c006_00.mp4",
+        "question": "Does any team score in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "No, the referee disqualifies all scoring attempts due to incorrect formations.",
+            "B": "No, the teams are playing a practice match that doesn\u2019t record scores officially.",
+            "C": "yes",
+            "D": "No, there are fouls on every play preventing any scoring."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "mmworld/science_v1.mp4",
+        "question": "How does the moment of inertia of the girl changed when she streches out her legs?",
+        "answer": "A",
+        "choices": {
+            "A": "The moment of inertia get increased.",
+            "B": "The moment of inertia decreases due to angular momentum conservation.",
+            "C": "The moment of inertia remains unchanged because of gravitational force balance."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/v_ApPxnw_Jffg_c007_00.mp4",
+        "question": "Why does the left team do defend?",
+        "answer": "B",
+        "choices": {
+            "A": "The players are setting up for a double fault in tennis.",
+            "B": "volleyball spike",
+            "C": "They're trying to steal the ball for a fast break.",
+            "D": "They are executing a dribble drive strategy."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "mmworld/v_C94HDW9HYzU_c015_00.mp4",
+        "question": "What are the players doing in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "The players are performing a synchronized swimming routine.",
+            "B": "The players are engaged in a cricket match.",
+            "C": "basketball",
+            "D": "The players are practicing gymnastics skills."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "mmworld/lrwiYiFGQZE_E_004478_004516.mp4",
+        "question": "What do the players perform before performing clear pike circle backward with 1 turn to handstand?",
+        "answer": "A",
+        "choices": {
+            "A": "stalder backward to handstand",
+            "B": "They perform a cartwheel to handstand",
+            "C": "They complete a dismount to handstand.",
+            "D": "They execute a reverse salto to handstand"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/ikea_04.mp4",
+        "question": "Why the girl needs to do the step shown in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "Because the TV bench's architectural stability relies on aesthetic symmetry techniques.",
+            "B": "Because the leg is designed to support high-performance electronics cooling.",
+            "C": "Becasue she needs to make sure the leg is tightly mounted to the TV bench."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "mmworld/sci_vid10.mp4",
+        "question": "What law describes the relationship between charged particles?",
+        "answer": "B",
+        "choices": {
+            "A": "Boyle's law",
+            "B": "Coulomb's law",
+            "C": "Heisenberg's uncertainty principle",
+            "D": "Kirchhoff's voltage law"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "mmworld/v_ITo3sCnpw_k_c010_00.mp4",
+        "question": "Does any team score in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "Yes, the team in blue scores after a successful dribble-and-pass combination.",
+            "B": "Yes, the team in white successfully executes a throw-in leading to a goal.",
+            "C": "no",
+            "D": "Yes, a team scores with a spectacular free-throw."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/v_icDf81dWZHw_c003_01.mp4",
+        "question": "What is the video about?",
+        "answer": "B",
+        "choices": {
+            "A": "The video explores the offside strategy in rugby.",
+            "B": "basketball",
+            "C": "dribbling techniques in handball",
+            "D": "strategies of a kickoff in American football"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "mmworld/Food Coloring Diffusion.mp4",
+        "question": "Why are food dyes used in each glass?",
+        "answer": "C",
+        "choices": {
+            "A": "Because they balance the pH levels in the water",
+            "B": "To demonstrate the process of osmosis between liquids",
+            "C": "To visualize the flow of water",
+            "D": "To investigate the magnetic properties of colored water"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "mmworld/science_v41.mp4",
+        "question": "What happens to the cut of the sodium metal when it shows gold color?",
+        "answer": "B",
+        "choices": {
+            "A": "It forms a protective layer of sodium bicarbonate",
+            "B": "It reacts with oxygen and generates sodium peroxide",
+            "C": "It reacts with oxygen and forms sodium chloride"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/science_v46.mp4",
+        "question": "Which of the following is the correct order of the changes happened to the tadpole?",
+        "answer": "C",
+        "choices": {
+            "A": "Fore legs grow -> tail lengthens -> hind legs grow -> gills develop.",
+            "B": "Tail grows more prominent -> hind legs grow -> eyes become vibrant -> fore legs grow.",
+            "C": "Eyes become visible -> hind legs grow -> fore legs grow -> tail disappear.",
+            "D": "Hind legs stabilize -> eyes become visible -> tail widens -> fore legs grow."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/iBkdwZIm-sQ.mp4",
+        "question": "Which pigment dissolve faster? Why?",
+        "answer": "B",
+        "choices": {
+            "A": "Blue. Blue pigment dissolves faster because it is more hydrophilic, which is not due to kinetic energy differences.",
+            "B": "Red. The molecules in hot water have higher average kinetic energy, which causes the molecules of the red pigment to diffuse and dissolve faster in the water.",
+            "C": "Blue. The dissolution rate is faster due to a fictional process where the pigment binds with water using its imaginary magnetic properties."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/science_v13.mp4",
+        "question": "By what percentage has Lake Tulare shrunked till today?",
+        "answer": "D",
+        "choices": {
+            "A": "Exactly 90%, because of industrial water usage",
+            "B": "About 70%, due to rainfall increase",
+            "C": "80%, according to outdated geographical data in the video",
+            "D": "More than 95%"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/KgZv_WWYuZo.mp4",
+        "question": "Why do they light up?",
+        "answer": "C",
+        "choices": {
+            "A": "It is due to chemical luminescence, resulting from a chemical reaction emitting light.",
+            "B": "It is due to the photoelectric effect, which involves photons exciting electrons to create electrical energy.",
+            "C": "It is due to Faraday's law of electromagnetic induction."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/v_iO0QqaR5E24_c006_00.mp4",
+        "question": "What are the players doing in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "basketball",
+            "B": "practicing yoga poses, emphasizing balance and flexibility.",
+            "C": "engaging in a traditional dance routine specific to the region.",
+            "D": "participating in a synchronized swimming rehearsal off-camera."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/v_2Dw9QNH5KtU_c008_01.mp4",
+        "question": "Does the right team do spike successfully?",
+        "answer": "C",
+        "choices": {
+            "A": "Yes, their offensive strategy culminated in a successful spike.",
+            "B": "Yes, the right team's expert rotation resulted in a spike.",
+            "C": "no",
+            "D": "Yes, the right team showcased perfect dribbling, leading to a successful spike."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/v_LKRhzMHr5Rs_c017_00.mp4",
+        "question": "What is the cause of the right team doing defend?",
+        "answer": "B",
+        "choices": {
+            "A": "The opposing team is setting up a play in water polo",
+            "B": "volleyball second attack",
+            "C": "They are anticipating a serve in tennis",
+            "D": "They are countering an offensive strategy in cricket"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "mmworld/v_2Dw9QNH5KtU_c008_01.mp4",
+        "question": "Is the defend of the right team successful?",
+        "answer": "D",
+        "choices": {
+            "A": "No, they misjudged the timing of their defensive stance, leading to an inevitable score due to misalignment in defensive soccer techniques.",
+            "B": "No, their defensive strategies failed due to incorrect application of the offside rule.",
+            "C": "No, their methods were outdated, lacking key formations from modern football theory.",
+            "D": "yes"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/v_dChHNGIfm4Y_c004_00.mp4",
+        "question": "Does the left team do spike successfully?",
+        "answer": "C",
+        "choices": {
+            "A": "Yes, they executed a successful touchdown.",
+            "B": "Yes, they performed a perfect slam dunk to score.",
+            "C": "no",
+            "D": "Yes, the left team scored with a header."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/Uvfpy-gqJgI.mp4",
+        "question": "According to the video, when the person is doing the second step of the first trick, which finger is pushing the drum stick?",
+        "answer": "A",
+        "choices": {
+            "A": "The middle finger.",
+            "B": "The pinky finger, crucial for complex drumstick rotations.",
+            "C": "The ring finger, essential for maintaining traditional grip style.",
+            "D": "The thumb, often used for balance in rhythmic patterns."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "mmworld/youtube_3.mp4",
+        "question": "Are those tart shells very hot when the person placing them on the plate and why?",
+        "answer": "A",
+        "choices": {
+            "A": "No, because the person touched them with bare hands.",
+            "B": "Yes, because the Maillard reaction increases temperatures drastically.",
+            "C": "Yes, because rapid heating occurs in convection ovens only.",
+            "D": "No, because they are designed to be naturally cool post-baking."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "mmworld/v_4RKB-3ER_GA_c016_01.mp4",
+        "question": "What are the players doing in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "The players are engaged in a tai chi session.",
+            "B": "The players are performing a synchronized swimming routine.",
+            "C": "aerobic gymnastics",
+            "D": "The players show judo techniques for self-defense."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "mmworld/v_NzCihhjR_NE_c015_01.mp4",
+        "question": "What is the video about?",
+        "answer": "D",
+        "choices": {
+            "A": "The video showcases the martial art of Capoeira.",
+            "B": "The video explains the fundamentals of yoga postures.",
+            "C": "The video highlights the significance of synchronized swimming techniques.",
+            "D": "aerobic gymnastics"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "mmworld/science_v18.mp4",
+        "question": "What are the electrodes if I reverse the polarity of the magnet and move it towards the coil?",
+        "answer": "B",
+        "choices": {
+            "A": "The electrons will flow towards the right due to gravitational field.",
+            "B": "Left negative, right positive.",
+            "C": "Magnetic repulsion causes both electrodes to become neutral."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "mmworld/v_hDBjIvCw7Kk_c005_01.mp4",
+        "question": "What are the players doing in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "basketball",
+            "B": "The players are practicing spike serves in tennis.",
+            "C": "The players are practicing dribbling in rugby.",
+            "D": "The players are performing set plays in football."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/ego_03.mp4",
+        "question": "Why the person needs to do the step shown in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "Because rearranging kitchenware by weight distribution optimizes cabinet storage, thus she moves the plate.",
+            "B": "Because sequential arrangement of crockery in sets improves aesthetic presentation as per home decor principles.",
+            "C": "Because she wants to put the white plate inside the counter cabinet.",
+            "D": "Because optimizing the feng shui of the space, she places the plate to balance energy flow."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/v_ApPxnw_Jffg_c007_00.mp4",
+        "question": "How does the right team gain a score in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "volleyball spike",
+            "B": "They achieve a breakaway goal",
+            "C": "They perform a slam dunk",
+            "D": "They execute a touchdown pass"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "mmworld/v_dFYr67eNMwA_c005_01.mp4",
+        "question": "How many times do the players perform straddle jump?",
+        "answer": "D",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "0",
+            "D": "1"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "mmworld/v_ITo3sCnpw_k_c010_00.mp4",
+        "question": "What is the video about?",
+        "answer": "C",
+        "choices": {
+            "A": "The video explains the basic mechanics of a rugby scrum.",
+            "B": "The video demonstrates the chess opening principle known as the Sicilian Defense.",
+            "C": "football",
+            "D": "The video is about the dynamics of a cricket batting strategy."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "mmworld/v_cC2mHWqMcjk_c009_00.mp4",
+        "question": "Why is the spike of the right team failed?",
+        "answer": "D",
+        "choices": {
+            "A": "the defender served it incorrectly",
+            "B": "the hitter was offside",
+            "C": "the setter's position was illegal",
+            "D": "volleyball saved"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "mmworld/IMoKmFhFd1M.mp4",
+        "question": "On which day do peanuts emerge from the soil? Why?",
+        "answer": "B",
+        "choices": {
+            "A": "On the third day. Rapid nutrient uptake and increased photosynthetic activity cause peanuts to emerge quickly within three days.",
+            "B": "On the fifth day. In the first five days, the seeds absorb water, initiate growth, and eventually emerge from the soil.",
+            "C": "On the seventh day. The seeds undergo a prolonged dormancy period due to low nutrient availability, delaying their emergence until the seventh day."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "mmworld/ego_07.mp4",
+        "question": "Why the person needs to do the step shown in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "Because he needs to adjust the altitude sensors for accurate navigation.",
+            "B": "Because he wants to tighten the locking carabiners for climbing.",
+            "C": "Because he is securing the dynamic pulley system for energy efficiency.",
+            "D": "Because he is calibrating the harness pressure for equilibrium."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "mmworld/v_dChHNGIfm4Y_c004_00.mp4",
+        "question": "How does the left team fail to do spike?",
+        "answer": "A",
+        "choices": {
+            "A": "volleyball blocked",
+            "B": "The left team's technique was incorrect as they attempted to spike with two hands instead of one, resulting in an illegal play.",
+            "C": "The left team's spike attempt was unsuccessful because they hit the ball with a closed fist, which is against the rules.",
+            "D": "The left team's spike failed because they believed that jumping was not allowed beyond the service line."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "mmworld/R9XUGR-VlTg_E_008869_008972.mp4",
+        "question": "What do the players perform after performing double salto backward tucked with 2 twist?",
+        "answer": "A",
+        "choices": {
+            "A": "1 turn on one leg, free leg optional below horizontal",
+            "B": "They enter a butterfly kick sequence",
+            "C": "They initiate a pirouette spin",
+            "D": "They perform a triple axel dismount"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "mmworld/v_7kWJSZRlItU_c028_00.mp4",
+        "question": "Why is the cross of the right team failed?",
+        "answer": "C",
+        "choices": {
+            "A": "The player's kinetic force was miscalculated",
+            "B": "Air pressure discrepancies diverted the ball's path",
+            "C": "football intercept",
+            "D": "The cross was caught due to a gravitational anomaly"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "mmworld/v_2QhNRucNC7E_c028_00.mp4",
+        "question": "What does the left team do before the tackle of the right team?",
+        "answer": "C",
+        "choices": {
+            "A": "They attempt a penalty kick",
+            "B": "They score a three-pointer",
+            "C": "football cross",
+            "D": "They execute a double fault serve"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "mmworld/v_hDBjIvCw7Kk_c005_01.mp4",
+        "question": "Is the 2-point shot of the right team successful?",
+        "answer": "D",
+        "choices": {
+            "A": "The ball grazed the rim indicating an offensive rebound should be recorded.",
+            "B": "The shot was technically perfect, suggesting mastery of aerodynamics in basketball.",
+            "C": "The ball followed the ideal projectile path for a swish despite missing.",
+            "D": "no"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "mmworld/TBsWos4T4OE_E_001505_001589.mp4",
+        "question": "What do the players perform before performing salto backward tucked?",
+        "answer": "A",
+        "choices": {
+            "A": "switch leap with 0.5 turn",
+            "B": "They complete an acrobatic barrel roll seen in gymnastics.",
+            "C": "They execute a synchronized scissor kick from martial arts.",
+            "D": "They perform a sidestep hop commonly used in street dance."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/yz6NeHrcfWg.mp4",
+        "question": "Why does the pink Pinwheel rotate?",
+        "answer": "B",
+        "choices": {
+            "A": "Because of the air pressure changes similar to weather patterns caused by the candles.",
+            "B": "It is due to the heat-induced convection currents created by the candles.",
+            "C": "Due to the electric field generated by the friction of the pinwheel's material."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/sci_vid5.mp4",
+        "question": "Why is it important for ants to build colonies?",
+        "answer": "C",
+        "choices": {
+            "A": "Colonies enhance genetic diversity because ants from different colonies often intermix within a single colony for evolutionary benefits.",
+            "B": "Building colonies is crucial for allowing ants to navigate using vibrational signals of the Earth's magnetic field inside tunnels.",
+            "C": "Colonies house their queen, their offspring, and their food, as well as serve as a shelter for the ants",
+            "D": "Ant territories require colonies to scare away other insects that might deplete their external food sources."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "mmworld/v_ITo3sCnpw_k_c010_00.mp4",
+        "question": "What are the players doing in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "The players are engaging in a game of rugby.",
+            "B": "The players are participating in a cricket match.",
+            "C": "The players are competing in a basketball tournament.",
+            "D": "football"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "mmworld/v_icDf81dWZHw_c006_01.mp4",
+        "question": "Why is the 2-point shot of the left team failed?",
+        "answer": "B",
+        "choices": {
+            "A": "The player's stance was more suited for a penalty kick.",
+            "B": "basketball missed",
+            "C": "The player applied excessive spin similar to a tennis serve.",
+            "D": "The player used an incorrect soccer technique."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "mmworld/v_2QhNRucNC7E_c028_00.mp4",
+        "question": "Is the block of the right team successful?",
+        "answer": "B",
+        "choices": {
+            "A": "No, the block failed due to a strong gravitational force favoring the opposing team's play.",
+            "B": "yes",
+            "C": "No, the block was hindered by a misaligned defensive stance.",
+            "D": "No, the block attempt was ineffective because of an unusual ball spin that altered trajectory."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "mmworld/science_v3.mp4",
+        "question": "What is the professor trying to prove?",
+        "answer": "A",
+        "choices": {
+            "A": "The empirical T is close enough to the calculated T.",
+            "B": "Magnetic fields can be visually detected with precision instruments.",
+            "C": "The concept of time dilation is observable during the experiment.",
+            "D": "The vibration frequency matches that of sound waves in air."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/v_QIegMo0DW9E_c003_00.mp4",
+        "question": "Do the players perform scissors leap?",
+        "answer": "D",
+        "choices": {
+            "A": "No, the players instead perform a split jump, which is essential in gymnastics.",
+            "B": "No, the players instead demonstrate a pirouette, fundamental in ballet.",
+            "C": "No, they perform a routine known as the high jump, common in track events.",
+            "D": "yes"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/youtube_20.mp4",
+        "question": "Why the robot needs to pick up the plank at first?",
+        "answer": "C",
+        "choices": {
+            "A": "To stabilize the structure by redistributing weight evenly.",
+            "B": "The plank is necessary for generating kinetic energy.",
+            "C": "To build a simple bridge for the him to get on the scaffolding platform.",
+            "D": "To increase the robot's balance using a lever principle."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/v_MpKpjb7EamM_c029_00.mp4",
+        "question": "Do the players perform explosive push up?",
+        "answer": "B",
+        "choices": {
+            "A": "They are mastering Tai Chi movements for improved mental focus and energy flow.",
+            "B": "yes",
+            "C": "They are practicing advanced Pilates techniques, focusing on controlled breathing and balance.",
+            "D": "They are engaged in a specialized flexibility and endurance training regimen for marathon preparation."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "mmworld/science_v48.mp4",
+        "question": "What can you tell about the cicada in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "It uses special chemical signals to attract females during its emergence.",
+            "B": "There is a crack on its back when it starts the metamorphosis.",
+            "C": "After it breaks out of the shell, it collects pheromones from the shell for protection.",
+            "D": "Its wings exhibit ultrasonic vibrations as they harden."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/R9XUGR-VlTg_E_008869_008972.mp4",
+        "question": "Do the players perform cat leap (knees above horizontal alternately) after the double salto backward stretched with 2 twist?",
+        "answer": "A",
+        "choices": {
+            "A": "yes",
+            "B": "They demonstrate an arabesque pose to conclude the routine after the double salto",
+            "C": "They perform an aerial twist to enhance difficulty after the double salto",
+            "D": "They execute a pike jump to maintain rhythm after the double salto"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/science_v2.mp4",
+        "question": "What is the physical principle that concludes the change of kinetic energy and potential energy of the ball?",
+        "answer": "D",
+        "choices": {
+            "A": "Bernoulli's principle of fluid dynamics.",
+            "B": "Pascal's law of pressure in fluids.",
+            "C": "Coulomb's law of electric forces.",
+            "D": "Conservation of mechanical energy."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "mmworld/Good Morning, Potato Fairy!.mp4",
+        "question": "Why might the frogs be placed in a bowl of water at the start of the video?",
+        "answer": "C",
+        "choices": {
+            "A": "The water helps them activate their photosynthesis process",
+            "B": "They absorb calcium from the water for stronger bones",
+            "C": "They need the moisture to survive",
+            "D": "It balances their internal pH for optimal digestion"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "mmworld/youtube_17.mp4",
+        "question": "Where does the peanut in the food processor come from?",
+        "answer": "D",
+        "choices": {
+            "A": "A health food store offering raw, unsalted peanuts in bulk.",
+            "B": "A family farm that specializes in non-GMO peanut cultivation.",
+            "C": "A specialty grocery store known for selling imported peanuts.",
+            "D": "A pan with a lot of roasted peanuts."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/Test Dummy Car Crash In SLOW MOTION (10,000fps)!.mp4",
+        "question": "What is the purpose in simulating these crashes?",
+        "answer": "A",
+        "choices": {
+            "A": "We can learn about the structural integrity of these cars through these crashes",
+            "B": "It is a good opportunity to enhance tire design in crash situations.",
+            "C": "To measure the speed of impact for insurance assessments.",
+            "D": "To test the durability of camera equipment in crash scenarios."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/science_v49.mp4",
+        "question": "Which describes a correct change of the evolution?",
+        "answer": "C",
+        "choices": {
+            "A": "The nostrils expand to increase sensory capability.",
+            "B": "The cheekbones develop to enhance facial muscle strength.",
+            "C": "The bridge of the nose gets higher.",
+            "D": "The jawline extends to maximize feeding efficiency."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "mmworld/v_MpKpjb7EamM_c051_00.mp4",
+        "question": "What do the players perform before performing helicopter?",
+        "answer": "C",
+        "choices": {
+            "A": "They're arranging merchandise for a market stall.",
+            "B": "They're engaging in a capoeira dance move.",
+            "C": "aerobic gymnastics illusion",
+            "D": "They're preparing a synchronized swimming routine."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "mmworld/POPSICLE STICKS CHAIN REACTION.mp4",
+        "question": "What scientific principle demonstrated in the video is crucial for understanding the concept of the chain reaction?",
+        "answer": "A",
+        "choices": {
+            "A": "Tension and Friction",
+            "B": "Resonance Frequency and Elasticity",
+            "C": "Quantum Entanglement and Kinetic Motion",
+            "D": "Chemical Catalysis and Thermal Expansion"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/v_It_vvQR6RPM_c012_00.mp4",
+        "question": "Does any team gain a point?",
+        "answer": "C",
+        "choices": {
+            "A": "Yes, the teams performed a simultaneous slam dunk which awarded points.",
+            "B": "Yes, one team made a successful touchdown.",
+            "C": "no",
+            "D": "Yes, both teams scored a penalty goal."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/_BmNJjQrsfg.mp4",
+        "question": "Why does the blue water not fuse with the red water when the blue water is placed on the top?",
+        "answer": "B",
+        "choices": {
+            "A": "The blue water is mixed with special compounds making it repel the red water through surface tension effects.",
+            "B": "The blue water is hot and has lower density than the red water. Thus, it stays on the top.",
+            "C": "The blue water contains dissolved gases which cause it to act as an insulator, preventing fusion with the red water."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/Food Coloring Diffusion.mp4",
+        "question": "What causes the colors to disperse differently in each glass?",
+        "answer": "D",
+        "choices": {
+            "A": "The molecular composition of the glass alters the dispersion",
+            "B": "The pH level of the dye solutions affects dispersion differently",
+            "C": "The different gases in the atmosphere influence dispersion",
+            "D": "The different temperatures cause different convection currents"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/Water Droplets Evaporation Time-Lapse.mp4",
+        "question": "What scientific principle demonstrated in the video is crucial for understanding the concept of this video?",
+        "answer": "C",
+        "choices": {
+            "A": "Cell Division",
+            "B": "Thermodynamics",
+            "C": "Evaporation",
+            "D": "Photosynthesis"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "mmworld/v_icDf81dWZHw_c006_01.mp4",
+        "question": "What are the players doing in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "basketball",
+            "B": "They are performing a complex rugby drill.",
+            "C": "The players are demonstrating curling techniques.",
+            "D": "The players are engaged in a strategic game of cricket."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/v_dw7LOz17Omg_c032_01.mp4",
+        "question": "How does the right team success to do saving?",
+        "answer": "C",
+        "choices": {
+            "A": "The right team success to do saving by using a tennis serve technique to redirect the ball.",
+            "B": "The right team employs a strategic defensive maneuver commonly used in basketball to save the situation.",
+            "C": "football caught",
+            "D": "The team executes a baseball-inspired rundown to prevent the opposing team from scoring."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/v_K5PFNpiP5aY_c008_00.mp4",
+        "question": "What is the reason for the defensive rebound of the left team?",
+        "answer": "C",
+        "choices": {
+            "A": "The left team used the offside trap to regain possession.",
+            "B": "The right team lost possession due to a turnover violation.",
+            "C": "basketball 2-point shot",
+            "D": "The left team intercepted a lateral pass intended for the opposing forward."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/TBsWos4T4OE_E_001505_001589.mp4",
+        "question": "What do the players perform before performing switch leap (leap forward with leg change)?",
+        "answer": "C",
+        "choices": {
+            "A": "They complete a roll into a bridge position",
+            "B": "They do a side aerial to a kneeling position.",
+            "C": "salto forward piked to cross stand",
+            "D": "They perform a lunge to a pirouette turn"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "mmworld/rrrgsW--AE8_E_014851_014914.mp4",
+        "question": "Do the players perform round-off?",
+        "answer": "C",
+        "choices": {
+            "A": "They are showcasing a parallel bar routine",
+            "B": "They are demonstrating a pommel horse skill",
+            "C": "yes",
+            "D": "They are executing a double somersault"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "mmworld/ego_10.mp4",
+        "question": "Why the person needs to do the step shown in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Because he wants to cook the raw meat.",
+            "B": "Because he wants to vacuum seal the meat to preserve freshness.",
+            "C": "Because he wants to shock the meat to tenderize it.",
+            "D": "Because he wants to marinate the meat for flavor infusion."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "mmworld/HwYkiYaGuLE.mp4",
+        "question": "What ingredients do they use to create snow?",
+        "answer": "B",
+        "choices": {
+            "A": "They use sodium bicarbonate and citric acid.",
+            "B": "They use sodium polyacrylate and vinegar.",
+            "C": "They use cellulose and glycerin."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/v_fCc2IXTBIxw_c009_00.mp4",
+        "question": "How many players are performing gymnastics?",
+        "answer": "B",
+        "choices": {
+            "A": "0",
+            "B": "2",
+            "C": "Five, as they perform a synchronized swimming motion in gymnastics.",
+            "D": "Three, forming a human pyramid, which is typical in acrobatics."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "mmworld/v_CoAiZeQaVCc_c011_00.mp4",
+        "question": "What action do the players perform?",
+        "answer": "C",
+        "choices": {
+            "A": "They perform a power-lifting snatch",
+            "B": "They execute a synchronized swimming routine",
+            "C": "aerobic gymnastics scissors leap",
+            "D": "They initiate a martial arts kata sequence"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "mmworld/youtube_19.mp4",
+        "question": "Why does the person drill so many nails into the wood?",
+        "answer": "D",
+        "choices": {
+            "A": "To evaluate the thermal conductivity of the wood during continuous drilling.",
+            "B": "To determine the optimal drill bit size for different densities of wood.",
+            "C": "To analyze the acoustic properties of wood based on nail placement patterns.",
+            "D": "To test the battery of the power drill."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "mmworld/science_v24.mp4",
+        "question": "Which is the most populated country in 2023?",
+        "answer": "A",
+        "choices": {
+            "A": "India.",
+            "B": "Antarctica, because of its seasonal research population expansions.",
+            "C": "The European Union, due to its extensive economic zones and population density."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/science_v23.mp4",
+        "question": "What leads to the 50km crack in Ethiopia?",
+        "answer": "C",
+        "choices": {
+            "A": "Ancient tectonic movements carved the crack thousands of years ago, with no current activity.",
+            "B": "A powerful volcanic eruption 5 years ago caused the crack.",
+            "C": "The African, Arabian and Somali Plates are pulling away from each other."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "mmworld/Jazz for Cows.mp4",
+        "question": "What aspect of music might the cows appreciat the most",
+        "answer": "D",
+        "choices": {
+            "A": "The texture of the sound waves",
+            "B": "The moisture content of the air during performance",
+            "C": "The nutritional value of the music",
+            "D": "The psychophysics of music"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "mmworld/v_NzCihhjR_NE_c015_01.mp4",
+        "question": "Do the players perform balance turn?",
+        "answer": "B",
+        "choices": {
+            "A": "Yes, they engage in synchronized pivots often confused with balance turns due to their fluidity.",
+            "B": "no",
+            "C": "Yes, they demonstrate a sidestepping maneuver which is mistaken for a balance turn.",
+            "D": "Yes, their swift rotational movements might be interpreted as balance turns but are actually pirouettes."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "mmworld/v_xd9oKtYYSGQ_c006_01.mp4",
+        "question": "Does any team score in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "No, the video concludes with a stalemate overview, highlighting the strategic formations without any scoring occurrence.",
+            "B": "yes",
+            "C": "No, the primary focus of the video is on the defensive setups, and scoring is not depicted.",
+            "D": "No, the narrative of the video is centered around team coordination rather than actual scoring instances."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "mmworld/lrwiYiFGQZE_E_004478_004516.mp4",
+        "question": "Do the players perform transition flight from low bar to high bar?",
+        "answer": "C",
+        "choices": {
+            "A": "The routine focuses solely on maintaining grip strength.",
+            "B": "They execute a triple twist dismount instead of transitions.",
+            "C": "yes",
+            "D": "They emphasize perfecting handstand positions on the floor."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "mmworld/ikea_01.mp4",
+        "question": "Why the man needs to do the step shown in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Becasue he needs to make sure the mounting holes are facing up so that the legs can be mounted.",
+            "B": "Becasue ensuring this alignment is critical to avoid interference with electromagnetic fields affecting the material.",
+            "C": "Becasue orienting the tabletop this way aligns with gravitational forces for proper weight distribution.",
+            "D": "Becasue the structural integrity of the table relies on parallel alignment with Earth's axial tilt."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/v_07uuHJ9yXBw_c039_00.mp4",
+        "question": "Does the right team do cross successfully?",
+        "answer": "D",
+        "choices": {
+            "A": "Yes, their advanced knowledge of zonal marking contributed to their cross success.",
+            "B": "Yes, the right team's use of the offside trap strategy allowed them to execute the cross successfully.",
+            "C": "Yes, they applied the law of inertia to maintain momentum, ensuring a successful cross.",
+            "D": "no"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/v_cC2mHWqMcjk_c009_00.mp4",
+        "question": "What does the right team do before adjust?",
+        "answer": "D",
+        "choices": {
+            "A": "They prepare for a rugby scrum",
+            "B": "They discuss a halftime strategy for football",
+            "C": "They analyze a cricket batting technique",
+            "D": "volleyball defend"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "mmworld/17QK2vSk67I.mp4",
+        "question": "What type of car is the player controlling in the video game scenario?",
+        "answer": "C",
+        "choices": {
+            "A": "A Koenigsegg, easily identified by its trademark noise reduction technology",
+            "B": "A Bugatti, known for being the fastest in the game due to its advanced engine physics",
+            "C": "An Audi",
+            "D": "A Tesla, recognized for its electric propulsion and autonomous features in the game"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "mmworld/SsK8DnOb5So.mp4",
+        "question": "Why does the light bulb light up?",
+        "answer": "C",
+        "choices": {
+            "A": "The light is powered by gravitational waves.",
+            "B": "It is due to the chemical reaction within the bulb.",
+            "C": "The movement of the magnet relative to the motor induce an electrical current in the circuit."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "mmworld/v_dw7LOz17Omg_c032_01.mp4",
+        "question": "Why does the right team do saving?",
+        "answer": "D",
+        "choices": {
+            "A": "The right team does saving as it is crucial for starting a chess match.",
+            "B": "The right team does saving to initiate a tennis serve.",
+            "C": "The right team performs saving to execute a basketball dribble.",
+            "D": "football cross"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "mmworld/v_2QhNRucNC7E_c028_00.mp4",
+        "question": "Why does the right team do tackle?",
+        "answer": "B",
+        "choices": {
+            "A": "Because it is part of a set piece to gain territorial advancement.",
+            "B": "football cross",
+            "C": "The right team performs a tackle as part of a line-out strategy to disrupt the opponent's pass.",
+            "D": "The right team does tackle to perform a scrum and restart play."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/pLH5UCisJGY.mp4",
+        "question": "Which of the following statements is true about the Rapa Nui people?",
+        "answer": "B",
+        "choices": {
+            "A": "They were the first inhabitants of Easter Island.",
+            "B": "They were the ones who built the Moai statues.",
+            "C": "They were the ones who discovered the Moai statues.",
+            "D": "They were the ones who named the Moai statues."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/a51VlNvDlYE.mp4",
+        "question": "What is the main topic of the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Fitness and nutrition",
+            "B": "How to use a cell phone",
+            "C": "How to do a proper push-up",
+            "D": "The benefits of meditation"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/1Duufz6kmsQ.mp4",
+        "question": "Which of the following best describes the relationship between the two men in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "They are old friends catching up",
+            "B": "They are discussing a topic for an upcoming debate",
+            "C": "They are having a casual conversation about their hobbies",
+            "D": "They are having a serious discussion about their religious beliefs"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/amZmjNsxwbc.mp4",
+        "question": "Which of the following is not a type of flower shown in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "Sunflowers",
+            "B": "Daisies",
+            "C": "Carnations",
+            "D": "Lilies"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "vcgbd/Arson001_x264.mp4",
+        "question": "What is the purpose of the police department's request for information in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "To identify individuals who may have been involved in a crime",
+            "B": "To gather information about a missing person",
+            "C": "To provide assistance to the community",
+            "D": "To locate a lost pet"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/4SDL1UwayNE.mp4",
+        "question": "What is the main topic of the video?",
+        "answer": "D",
+        "choices": {
+            "A": "A couple celebrating their anniversary",
+            "B": "A woman discussing a basketball player",
+            "C": "A man and woman talking about their relationship",
+            "D": "A woman speaking about a celebrity couple"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "vcgbd/MKuB0D_eVao.mp4",
+        "question": "Which car is the most reliable according to the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Honda",
+            "B": "Toyota",
+            "C": "Mazda",
+            "D": "Subaru"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/5U82R-webuI.mp4",
+        "question": "What is the reason behind the man being carried out of the house by paramedics?",
+        "answer": "A",
+        "choices": {
+            "A": "He was involved in a home invasion",
+            "B": "He was shot during a robbery",
+            "C": "He was injured in a car accident",
+            "D": "He fell down the stairs"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "vcgbd/Bp7JDf2yn3s.mp4",
+        "question": "What is the purpose of the strap on the scuba mask that the man in the video is demonstrating?",
+        "answer": "B",
+        "choices": {
+            "A": "To keep the mask in place when not in use",
+            "B": "To adjust the size and fit of the mask for a comfortable seal",
+            "C": "To prevent fogging by absorbing moisture from the breath",
+            "D": "To protect the eyes from harmful UV rays underwater"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/25MF9c06Opo.mp4",
+        "question": "Which of the following colors did the woman use to paint the border of the canvas?",
+        "answer": "A",
+        "choices": {
+            "A": "Blue",
+            "B": "Yellow",
+            "C": "Pink",
+            "D": "Green"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "vcgbd/5sMkIaLpMWw.mp4",
+        "question": "Which of the following statements is true about the kittens in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "The kittens were found in a bag.",
+            "B": "The kittens were abandoned by their mother.",
+            "C": "The kittens were rescued from a car.",
+            "D": "The kittens were born in a litter of 12."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "vcgbd/7A3n_hJJjgg.mp4",
+        "question": "Which team is wearing red and white jerseys in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "The team that scores first",
+            "B": "The team that loses",
+            "C": "The team that wins",
+            "D": "The team that plays defense"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/4vhedF7_35Q.mp4",
+        "question": "What is the man in the video doing?",
+        "answer": "B",
+        "choices": {
+            "A": "Hosting a news segment",
+            "B": "Reading from a paper",
+            "C": "Conducting an interview",
+            "D": "Presenting a sports team"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "vcgbd/v6zelV6qTYM.mp4",
+        "question": "What is the purpose of downloading and installing software on a computer?",
+        "answer": "C",
+        "choices": {
+            "A": "To play games",
+            "B": "To access the internet",
+            "C": "To perform specific tasks or functions",
+            "D": "To improve the computer's performance"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "vcgbd/ape0mh-aI5A.mp4",
+        "question": "What is the process of making a clay pipe?",
+        "answer": "shaping it with your hands and painting it",
+        "choices": {
+            "A": "Rolling it into a tube shape and baking it",
+            "B": "shaping it with your hands and painting it",
+            "C": "Rolling it in foil and baking it",
+            "D": "Shaping it with your hands and glazing it"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/0_W09RejL1c.mp4",
+        "question": "What is the man wearing in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "A plaid shirt",
+            "B": "A black suit",
+            "C": "A red tie",
+            "D": "A white shirt"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "vcgbd/Arson010_x264.mp4",
+        "question": "Which of the following statements is true about the events depicted in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The man who entered the van was carrying a bag.",
+            "B": "The man who entered the van was wearing a helmet.",
+            "C": "The man who entered the van was wearing a jacket.",
+            "D": "The man who entered the van was wearing a backpack."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/e6I86-n7fC4.mp4",
+        "question": "What is the purpose of using conditional formatting in Excel?",
+        "answer": "A",
+        "choices": {
+            "A": "To highlight specific cells based on certain criteria",
+            "B": "To create charts and graphs automatically",
+            "C": "To sort data in ascending or descending order",
+            "D": "To calculate complex mathematical formulas"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/s20lOy4WtRM.mp4",
+        "question": "What is the purpose of the cardboard box that the man in the video is holding?",
+        "answer": "A",
+        "choices": {
+            "A": "To store ice rink materials",
+            "B": "To package ice skates",
+            "C": "To hold hockey sticks",
+            "D": "To carry water bottles"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/7YfJ0sMf120.mp4",
+        "question": "What is the main topic of the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Dentistry",
+            "B": "Cleaning",
+            "C": "Cooking",
+            "D": "Gardening"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/H3d4fE7T9xI.mp4",
+        "question": "What is the main topic of the video?",
+        "answer": "B",
+        "choices": {
+            "A": "A man standing in front of a car",
+            "B": "A new Nissan vehicle being reviewed",
+            "C": "A man talking about a car he owns",
+            "D": "A man giving a speech"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "vcgbd/8phlrwkRVK4.mp4",
+        "question": "What is the purpose of the machine that the man in the blue shirt is using to sharpen objects?",
+        "answer": "C",
+        "choices": {
+            "A": "To cut wood",
+            "B": "To polish metal",
+            "C": "To sharpen objects",
+            "D": "To drill holes"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "vcgbd/2ZLz7CfNna8.mp4",
+        "question": "Which of the following statements is true about the space station crew members?",
+        "answer": "A",
+        "choices": {
+            "A": "They are all astronauts from different countries.",
+            "B": "They are all engineers from NASA.",
+            "C": "They are all pilots from the US Air Force.",
+            "D": "They are all scientists from various fields."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/y_Qo_y-6rCrJk_clip_2.mp4",
+        "question": "What is the purpose of the video?",
+        "answer": "B",
+        "choices": {
+            "A": "To showcase a new car model",
+            "B": "To provide driving tips and safe practices",
+            "C": "To advertise a car dealership",
+            "D": "To promote a new traffic light system"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/5JAg7drMRko.mp4",
+        "question": "Which of the following statements is true about the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The person in the video is walking through a farm at night, shining a flashlight on various animals and objects.",
+            "B": "The person in the video is walking through a zoo at night, shining a flashlight on various animals and objects.",
+            "C": "The person in the video is walking through a park at night, shining a flashlight on various plants and trees.",
+            "D": "The person in the video is walking through a city at night, shining a flashlight on various buildings and streets."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "vcgbd/MD1DM5X64N0.mp4",
+        "question": "Which of the following statements is true about the Dalmatian dogs featured in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "They are trained to pull fire engines.",
+            "B": "They are used as therapy dogs for children with autism.",
+            "C": "They are primarily used for their distinctive spotted coat pattern.",
+            "D": "They are known for their intelligence and obedience."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "vcgbd/4hln0FcCoUE.mp4",
+        "question": "What is the man wearing in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "A red hat",
+            "B": "A white shirt",
+            "C": "A black jacket",
+            "D": "A blue sweater"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "vcgbd/AwCnMIHXTjw.mp4",
+        "question": "What is the purpose of the calendar in the video game menu?",
+        "answer": "B",
+        "choices": {
+            "A": "To display the player's achievements",
+            "B": "To show the schedule of basketball games",
+            "C": "To select a player for the game",
+            "D": "To choose the difficulty level of the game"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/BQjlUg6cVPQ.mp4",
+        "question": "Which team scored the most goals in the game?",
+        "answer": "A",
+        "choices": {
+            "A": "Blue team",
+            "B": "Red team",
+            "C": "White team",
+            "D": "Black team"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/CmPKAqi3R3Q.mp4",
+        "question": "What is the man's profession?",
+        "answer": "A",
+        "choices": {
+            "A": "Salesman",
+            "B": "Mechanic",
+            "C": "Engineer",
+            "D": "Designer"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "vcgbd/a2Au_NtrY_c.mp4",
+        "question": "What is the name of the dessert shown in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "Apple pie",
+            "B": "Chocolate cake",
+            "C": "Fruit tart",
+            "D": "Cheesecake"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "vcgbd/5QclaUayLX4.mp4",
+        "question": "What is the significance of the Australian flag in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "It represents the country where the video was filmed.",
+            "B": "It symbolizes the presence of Australian military personnel or involvement in a conflict in the region.",
+            "C": "It indicates that the video features an event or situation related to Australia or its interests.",
+            "D": "It is simply a decorative element used for visual appeal."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/mkqT2tHbzh8.mp4",
+        "question": "What is the reason behind the neighbors' request for police patrols in the nearby woods?",
+        "answer": "A",
+        "choices": {
+            "A": "To prevent illegal dumping of trash",
+            "B": "To protect wildlife in the area",
+            "C": "To increase property values in the neighborhood",
+            "D": "To reduce noise pollution from nearby construction"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "vcgbd/C1HrTQ6hVJk.mp4",
+        "question": "What is the purpose of the news segment in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "To provide a weather forecast",
+            "B": "To report on a local baseball game",
+            "C": "To cover a local parade",
+            "D": "To announce the results of a news competition"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "vcgbd/8F89e8f1VW4.mp4",
+        "question": "What is the name of the game shown in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "Halo 5",
+            "B": "Halo 4",
+            "C": "Halo 3",
+            "D": "Halo 2"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "vcgbd/OyG4y7y5BCY.mp4",
+        "question": "What is the main ingredient used to make a hamburger patty?",
+        "answer": "A",
+        "choices": {
+            "A": "Beef",
+            "B": "Pork",
+            "C": "Chicken",
+            "D": "Fish"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/s34-d63-cam-002.avi",
+        "question": "What is the man doing in the kitchen?",
+        "answer": "cooking food",
+        "choices": {
+            "A": "Cleaning the floor",
+            "B": "Cooking food",
+            "C": "Putting dishes away",
+            "D": "Baking bread"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "vcgbd/y_Qo_y-6rCrJk_clip_7.mp4",
+        "question": "Which of the following statements is true about the video?",
+        "answer": "B",
+        "choices": {
+            "A": "The video shows a car driving on a highway.",
+            "B": "The video shows a car driving through a neighborhood and encountering various obstacles.",
+            "C": "The video shows a car driving in the rain.",
+            "D": "The video shows a car driving at night."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "vcgbd/mqdWNJm5CX0.mp4",
+        "question": "Which of the following statements is true about the people in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "They are all wearing green jackets.",
+            "B": "They are all hugging each other.",
+            "C": "They are all standing inside an airport.",
+            "D": "They are all wearing blue and white shirts."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "vcgbd/njrHUtydH8Y.mp4",
+        "question": "What is the purpose of an auto show?",
+        "answer": "B",
+        "choices": {
+            "A": "To sell cars",
+            "B": "To display new and concept cars",
+            "C": "To showcase car designs",
+            "D": "To compare different car models"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "vcgbd/3OJFwR077BQ.mp4",
+        "question": "What is the video about?",
+        "answer": "A",
+        "choices": {
+            "A": "Healthy food and vitamins",
+            "B": "A man giving a presentation",
+            "C": "A man showing how to make a salad",
+            "D": "A man showing how to cook pasta"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "vcgbd/y_LZe6ujj48bo_clip_5.mp4",
+        "question": "What was the reason for the driver's actions that led to the collision?",
+        "answer": "C",
+        "choices": {
+            "A": "The driver was distracted by their phone.",
+            "B": "The driver was driving over the speed limit.",
+            "C": "The driver ran a red light.",
+            "D": "The driver was under the influence of alcohol."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "vcgbd/U3LFZjkLIUs.mp4",
+        "question": "Which of the following statements is true about the fish in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "The fish are being kept in a plastic bag for transportation.",
+            "B": "The fish are being released back into the water.",
+            "C": "The fish are being sold at a local market.",
+            "D": "The fish are being cooked for dinner."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "vcgbd/iOOnqvDB3Io.mp4",
+        "question": "What is the purpose of using a spray can in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "To clean the car's windows",
+            "B": "To apply a protective coating on the car's glass",
+            "C": "To remove dirt from the car's exterior",
+            "D": "To paint the car's exterior"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "vcgbd/yymRTh9HdOo.mp4",
+        "question": "What was the reason behind the woman's arrest in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "She was caught shoplifting at a store.",
+            "B": "She was found with counterfeit money.",
+            "C": "She was involved in a car theft ring.",
+            "D": "She was caught using fake cash to make a purchase."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "vcgbd/MdRV5EDFgKk.mp4",
+        "question": "What is the purpose of the map shown in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "To show the location of a city",
+            "B": "To show the weather forecast for a specific area",
+            "C": "To show the population density of an area",
+            "D": "To show the elevation of an area"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "vcgbd/LeptNp9dRgg.mp4",
+        "question": "Which of the following statements is true about the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The video shows moments before an Uber SUV hit a pedestrian.",
+            "B": "The video shows moments after an Uber SUV hit a pedestrian.",
+            "C": "The video shows moments during an Uber SUV hit a pedestrian.",
+            "D": "The video does not show any moments related to an Uber SUV hitting a pedestrian."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/7sdJ9ba14po.mp4",
+        "question": "What is the main topic of the video?",
+        "answer": "C",
+        "choices": {
+            "A": "The benefits of consuming protein",
+            "B": "The nutritional content of yogurt",
+            "C": "The differences between Greek and regular yogurt",
+            "D": "The benefits of eating fruits and vegetables"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "vcgbd/fif2zSGA7Yg.mp4",
+        "question": "What is the topic of discussion in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Business and finance news",
+            "B": "Entertainment news",
+            "C": "Sports news",
+            "D": "Health and wellness news"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/6TbMH6rHbyQ.mp4",
+        "question": "What is the purpose of the scarecrow in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "To protect crops from birds",
+            "B": "To decorate the garden",
+            "C": "To scare away birds",
+            "D": "To collect rainwater"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "vcgbd/9PezI2n963Q.mp4",
+        "question": "What is the purpose of the angled workplane in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "To create a new object",
+            "B": "To modify an existing object",
+            "C": "To measure an object",
+            "D": "To display an object"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "vcgbd/Arrest004_x264.mp4",
+        "question": "Which of the following statements is true about the police officers in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "They are wearing casual clothes.",
+            "B": "They are responding to a car accident.",
+            "C": "They are escorting a group of motorcycles.",
+            "D": "They are conducting a traffic stop."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "vcgbd/4QyZcFV4Yw4.mp4",
+        "question": "What is the process of welding used for in the manufacturing of horse trailers?",
+        "answer": "A",
+        "choices": {
+            "A": "Joining metal parts together",
+            "B": "Painting the exterior of the trailer",
+            "C": "Installing windows and doors",
+            "D": "Attaching wheels to the trailer"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/CrdfPPPi2Uk.mp4",
+        "question": "Which of the following statements is true about the video?",
+        "answer": "C",
+        "choices": {
+            "A": "The video shows a group of people sitting in a room and laughing.",
+            "B": "The video shows a group of people sitting in a room and talking to each other.",
+            "C": "The video shows a group of people sitting in a room and watching a speaker.",
+            "D": "The video shows a group of people sitting in a room and playing games."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "vcgbd/eoLMkt09ro8.mp4",
+        "question": "What is the topic of the video?",
+        "answer": "C",
+        "choices": {
+            "A": "A man talking about his tattoos",
+            "B": "A man giving a speech in front of a green screen",
+            "C": "A man talking about his job as a radio host",
+            "D": "A man talking about his favorite TV show"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/gpTIlOCWXM0.mp4",
+        "question": "What is the woman in the video doing at the coffee shop?",
+        "answer": "A",
+        "choices": {
+            "A": "Making a drink",
+            "B": "Cleaning the counter",
+            "C": "Taking orders",
+            "D": "Preparing food"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/FlnU7arJXc8.mp4",
+        "question": "What is the main focus of the video?",
+        "answer": "D",
+        "choices": {
+            "A": "A basketball player's skills and achievements",
+            "B": "A shoe advertisement featuring a basketball player",
+            "C": "A montage of cupcakes and a shoe advertisement",
+            "D": "A tweet about a shoe advertisement for a basketball player"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "vcgbd/BPKgyo1mFcg.mp4",
+        "question": "What is the purpose of the video?",
+        "answer": "A",
+        "choices": {
+            "A": "To show how to fix a motorcycle engine",
+            "B": "To show how to fix a car engine",
+            "C": "To show how to fix a bicycle engine",
+            "D": "To show how to fix a boat engine"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "vcgbd/1Nm3Dy64_aw.mp4",
+        "question": "What is the purpose of the repair clinic logo on the side of the air conditioner?",
+        "answer": "A",
+        "choices": {
+            "A": "To show that it has been approved by the repair clinic",
+            "B": "To indicate that the repair clinic is a sponsor of the video",
+            "C": "To provide information about the brand of the air conditioner",
+            "D": "To display the contact information for the repair clinic"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/VO5YeDZ-jRE.mp4",
+        "question": "What is the main reason why women live longer than men according to the video?",
+        "answer": "C",
+        "choices": {
+            "A": "Women have a higher metabolism",
+            "B": "Women have a more efficient immune system",
+            "C": "Women have a better balance of hormones, particularly estrogen",
+            "D": "Women have a lower body mass index (BMI)"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "vcgbd/tNE8wfVOBYM.mp4",
+        "question": "What is the purpose of using a polishing compound on a car?",
+        "answer": "A",
+        "choices": {
+            "A": "To remove scratches and swirl marks",
+            "B": "To add color to the paint",
+            "C": "To make the car lighter",
+            "D": "To increase the speed of the car"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/jDOvsDfGMOQ.mp4",
+        "question": "What is the purpose of the metal piece that the man puts on top of the engine in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "To hold the engine together",
+            "B": "To cover a hole in the engine",
+            "C": "To act as a seal between the engine and another component",
+            "D": "To hold a hose in place"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "vcgbd/_hvolcVFvZw.mp4",
+        "question": "Which of the following is a reason why the new management deadline is important?",
+        "answer": "D",
+        "choices": {
+            "A": "It will help to improve patient care.",
+            "B": "It will increase the profits of the hospital.",
+            "C": "It will make the hospital more efficient.",
+            "D": "All of the above."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "vcgbd/eFaEGY1y6mU.mp4",
+        "question": "Which of the following statements is true about the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The video shows a group of people traveling to different locations in a city.",
+            "B": "The video depicts a woman wearing headphones and looking at her phone.",
+            "C": "The video features a man and a woman sitting together in a car.",
+            "D": "The video showcases a woman walking down the street with a shopping bag."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/fjiw-2PQ0Z4.mp4",
+        "question": "What is the purpose of the clamp seen in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "To hold a piece of wood",
+            "B": "To hold a pipe in place",
+            "C": "To hold a metal rod",
+            "D": "To hold a car bumper in place"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "vcgbd/JgSE4QxTfTc.mp4",
+        "question": "Which suitcase did the host choose to keep?",
+        "answer": "the blue one",
+        "choices": {
+            "A": "The blue one",
+            "B": "The red one",
+            "C": "The silver one",
+            "D": "The black one"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/qaoXYML2DaE.mp4",
+        "question": "What is the name of the dish that the person in the video is making?",
+        "answer": "C",
+        "choices": {
+            "A": "Beef and broccoli",
+            "B": "Sesame beef",
+            "C": "Garlic beef",
+            "D": "Chinese beef"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/5jYkNAi7QO8.mp4",
+        "question": "Which of the following statements is true about the car shown in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "The car has a manual transmission.",
+            "B": "The car has a hybrid engine.",
+            "C": "The car has a diesel engine.",
+            "D": "The car has a V8 engine."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/EwO93OLd73I.mp4",
+        "question": "What is the woman doing in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "Driving a car",
+            "B": "Holding a baby",
+            "C": "Waving to the camera",
+            "D": "Showing off her shirt"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/s36-d63-cam-002.avi",
+        "question": "What is the man doing in the kitchen?",
+        "answer": "D",
+        "choices": {
+            "A": "Cooking food",
+            "B": "Cleaning the floor",
+            "C": "Putting away groceries",
+            "D": "Making a sandwich"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/U1AK0GnqTss.mp4",
+        "question": "What is the reason behind Larry Baer's suspension as the CEO of the San Francisco Giants?",
+        "answer": "C",
+        "choices": {
+            "A": "Financial misconduct",
+            "B": "Misuse of company resources",
+            "C": "Unacceptable behavior and conduct",
+            "D": "Health reasons"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "vcgbd/6ok4D74pNU4.mp4",
+        "question": "What is the main focus of the video?",
+        "answer": "A",
+        "choices": {
+            "A": "A basketball game being played in a stadium",
+            "B": "A man wearing a black t-shirt with a lion on it",
+            "C": "A group of people playing soccer in a field",
+            "D": "A man playing tennis in a court"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/ClqZ61i_bXM.mp4",
+        "question": "What is the purpose of the green and white hats worn by some individuals in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "To show support for a soccer team",
+            "B": "To protect from sun glare",
+            "C": "To keep cool during warm weather",
+            "D": "To distinguish players from supporters"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/s35-d48-cam-002.avi",
+        "question": "What is the woman doing in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Cooking",
+            "B": "Cleaning",
+            "C": "Eating",
+            "D": "Dancing"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "vcgbd/g0edvyzEnkY.mp4",
+        "question": "Which of the following statements is true about the video?",
+        "answer": "C",
+        "choices": {
+            "A": "The news anchor is reporting on a story about a celebrity.",
+            "B": "The video shows a group of people walking in an airport.",
+            "C": "The video features a baby in a hospital bed.",
+            "D": "The video is about a legal case involving a parent."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/E4YJSicRqVM.mp4",
+        "question": "What is the video about?",
+        "answer": "B",
+        "choices": {
+            "A": "A man sitting at a desk with a laptop.",
+            "B": "Explaining what a check is and why a cashier's check is better than a regular check.",
+            "C": "A man showing off his office space.",
+            "D": "A man talking to the camera while sitting at a desk."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "vcgbd/Normal_Videos_246_x264.mp4",
+        "question": "Which of the following statements is true about the people in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "They are all wearing hats.",
+            "B": "They are all sitting at desks.",
+            "C": "They are all working on computers.",
+            "D": "They are all wearing different colored shirts."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "vcgbd/s5V3nsxduQ8.mp4",
+        "question": "What is the main ingredient used in the preparation of the dish shown in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Fish",
+            "B": "Vegetables",
+            "C": "Cheese",
+            "D": "Pesto"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/VKAg5Rrem3g.mp4",
+        "question": "What is the main message of the video?",
+        "answer": "B",
+        "choices": {
+            "A": "The man is promoting his YouTube channel.",
+            "B": "The man is discussing a topic related to his field of expertise.",
+            "C": "The man is giving a tutorial on how to make a video like this one.",
+            "D": "The man is sharing his personal life story."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/dw6aZdFlUaE.mp4",
+        "question": "What is the purpose of the video?",
+        "answer": "A",
+        "choices": {
+            "A": "To demonstrate how to use a new type of earbud",
+            "B": "To show how to clean an iPhone",
+            "C": "To explain how to connect two devices wirelessly",
+            "D": "To teach how to use a smartphone's sound settings"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "vcgbd/PZ4wWpPf-go.mp4",
+        "question": "What is the main topic of the video?",
+        "answer": "B",
+        "choices": {
+            "A": "How to cure ADHD",
+            "B": "How to manage symptoms of ADHD",
+            "C": "The causes of ADHD",
+            "D": "The history of ADHD"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "vcgbd/MU03iZSL6ZQ.mp4",
+        "question": "What is the main topic of the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Cooking and food preparation",
+            "B": "Religion and spirituality",
+            "C": "Travel and tourism",
+            "D": "Education and language learning"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "vcgbd/Y3LgTsEhODw.mp4",
+        "question": "What is the purpose of the National Weather Service's winter weather briefing?",
+        "answer": "D",
+        "choices": {
+            "A": "To provide information about the upcoming weather conditions in Norman, OK and surrounding areas",
+            "B": "To offer a general overview of the current weather conditions across the United States",
+            "C": "To give detailed forecasts for the entire country",
+            "D": "To inform people about the possibility of snow, sleet, and ice accumulations in certain areas"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "vcgbd/Mb_-rhZzX74.mp4",
+        "question": "What is the purpose of the technology demonstrated in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "To simulate the experience of flying a rocket ship",
+            "B": "To provide a platform for virtual reality experiences",
+            "C": "To facilitate communication between people in different locations",
+            "D": "To enable remote control of robots in space exploration"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "vcgbd/MH8HM18Ous0.mp4",
+        "question": "Which of the following statements is true about surfing?",
+        "answer": "D",
+        "choices": {
+            "A": "The surfer with the yellow shirt is always in the lead.",
+            "B": "The surfer with the blue shirt is never in the lead.",
+            "C": "The surfer with the yellow shirt wins the competition.",
+            "D": "The surfer with the blue shirt wins the competition."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "vcgbd/y_w8oNl1D20Hs_clip_1.mp4",
+        "question": "What was the cause of the accident captured in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "A car ran a red light and collided with a truck.",
+            "B": "A driver swerved to avoid hitting a deer, causing a collision with another vehicle.",
+            "C": "A driver was distracted by their phone and crashed into a parked truck.",
+            "D": "A driver fell asleep at the wheel and veered into oncoming traffic."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/VkMf_HMtUxA.mp4",
+        "question": "What is the purpose of the game shown in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "To create a virtual world for players to explore",
+            "B": "To teach players how to build and design virtual objects",
+            "C": "To provide a platform for players to play online games with others",
+            "D": "To simulate real-life scenarios for players to solve puzzles"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "vcgbd/HDEpH8FVwOY.mp4",
+        "question": "What is the name of the dessert featured in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Golden Ball",
+            "B": "Black and White Ball",
+            "C": "Chocolate Ball",
+            "D": "Vanilla Ball"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "vcgbd/SeYYA-X17rw.mp4",
+        "question": "Which of the following statements is true about the basketball player in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "The player is wearing a Superman cape.",
+            "B": "The player is playing for the Los Angeles Lakers.",
+            "C": "The player is performing a slam dunk.",
+            "D": "The player is wearing a yellow jersey."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "vcgbd/L2SMBwNJL9A.mp4",
+        "question": "What is the purpose of the Red Bull energy drink in this video?",
+        "answer": "B",
+        "choices": {
+            "A": "To provide hydration during physical activity",
+            "B": "To increase focus and concentration for extreme sports",
+            "C": "To act as a lubricant for high-speed machinery",
+            "D": "To serve as a base ingredient for a special energy drink"
+        },
+        "predict": "B"
+    }
+]

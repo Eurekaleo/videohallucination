@@ -1,0 +1,574 @@
+{
+    "number": {
+        "accuracy": 0.6845637583892618,
+        "unmatched_cases": [
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "4",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "1",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "4",
+                "expected_text": "5"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "7",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "3",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "4",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "5",
+                "expected_text": "6"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "2",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "2",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "5",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "3",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "4",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "2",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "1",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "3",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "7",
+                "expected_text": "6"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "5",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "4",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "4",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "4",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "4",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "6",
+                "expected_text": "5"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "2",
+                "expected_text": "11"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "2",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "4",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "3",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "2",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "5",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "3",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "4",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "3",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "4",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "5",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "5",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "5",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "5",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "3",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "3",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "5",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "5",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "12",
+                "expected_text": "8"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "3",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "2",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "3",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "6",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "2",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "7",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "2",
+                "expected_text": "6"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "2",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "5",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "2",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "5",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "5",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "6",
+                "expected_text": "5"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "2",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "3",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "5",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "5",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "3",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "5",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "4",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "seven",
+                "expected_text": "five"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "seven",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "seven",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "three",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "five",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "three",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "three",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "ten",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "ten",
+                "expected_text": "eight"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "twice",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "ten",
+                "expected_text": "seven"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "four",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "three",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "three",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "two",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "two",
+                "expected_text": "five"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "zero",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "four",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "zero",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "three",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "four",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "nine",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "four",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "three",
+                "expected_text": "five"
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "two",
+                "expected_text": "five"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "one",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "four",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "four",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "twelve",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "fourteen",
+                "expected_text": "nine"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "ten",
+                "expected_text": "nine"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "two",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "two",
+                "expected_text": "four"
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.6845637583892618
+    }
+}

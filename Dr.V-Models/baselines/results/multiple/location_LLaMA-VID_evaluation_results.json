@@ -1,0 +1,100 @@
+{
+    "location": {
+        "accuracy": 0.95,
+        "unmatched_cases": [
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "train station",
+                "expected_text": "classroom"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "beach",
+                "expected_text": "morning"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "museum",
+                "expected_text": "office"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "backyard",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "on a rooftop",
+                "expected_text": "by the window"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "subway station",
+                "expected_text": "bicycle"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "art gallery",
+                "expected_text": "garden"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "amusement park",
+                "expected_text": "park"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "forest",
+                "expected_text": "archery practice"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "inside a museum",
+                "expected_text": "shop"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "museum lobby",
+                "expected_text": "footpath"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "restaurant",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "caf\u00e9",
+                "expected_text": "bedroom"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "on the beach",
+                "expected_text": "man s lap"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "in a gymnasium",
+                "expected_text": "classroom"
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.95
+    }
+}

@@ -1,0 +1,1810 @@
+{
+    "location": {
+        "accuracy": 0.0,
+        "unmatched_cases": [
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN AN ARENA FOR A DOG SHOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "an arena for dog show"
+            },
+            {
+                "predicted": "THE ANSWER IS C. HOME.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "home"
+            },
+            {
+                "predicted": "THE LADIES IN THE VIDEO ARE SITTING ON A CHAIR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "chairs"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT THE THEATRE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "theatre"
+            },
+            {
+                "predicted": "THE EVENT IS TAKING PLACE AT THE PLAYGROUND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "playground"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN A BAKERY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) PARK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "park"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HANGING OUT AT THE ZOO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "zoo"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A LITTLE GIRL PLAYING WITH A DOLL IN A ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "classroom"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT HOME.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "home"
+            },
+            {
+                "predicted": "THE PEOPLE ARE HANGING OUT IN THE BEDROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "bedroom"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE PERFORMING ON A STAGE, WHICH IS LOCATED IN A SHOPPING MALL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "on stage"
+            },
+            {
+                "predicted": "THE TWO MEN IN THE VIDEO ARE LOCATED AT THE MOUNTAIN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "mountain"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE FIELD, WHICH IS THE CORRECT OPTION LETTER (B).",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "field"
+            },
+            {
+                "predicted": "THE PLACE IN THE VIDEO IS A PARK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "park"
+            },
+            {
+                "predicted": "THE VIDEO IS TAKEN AT THE A. ART GALLERY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "stage"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE HOME.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "home"
+            },
+            {
+                "predicted": "THE EVENT IS TAKING PLACE AT THE BASEBALL FIELD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "playing baseball"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE PLAYING AT THE POOL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pool"
+            },
+            {
+                "predicted": "THE ACTIVITY IN THE VIDEO IS TAKING PLACE AT THE LAKE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "near a water body"
+            },
+            {
+                "predicted": "THE TODDLER IS HANGING OUT IN THE LIVING ROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN A HOUSE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "house"
+            },
+            {
+                "predicted": "THE BOY IN RED IS SITTING ON THE LAP OF THE MAN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "man s lap"
+            },
+            {
+                "predicted": "THE TWO MEN IN THE VIDEO ARE WORKING IN THE FIELD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "field"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE ROOM, WHICH IS THE CORRECT OPTION LETTER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "room"
+            },
+            {
+                "predicted": "THE ACTIVITY IN THE VIDEO IS TAKING PLACE IN THE GARDEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "garden"
+            },
+            {
+                "predicted": "THE BOYS IN THE VIDEO ARE HANGING OUT IN THE LIVING ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HANGING OUT AT THE POOL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "swimming pool"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE DESERT, WHICH IS THE OPTION LETTER C.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "desert"
+            },
+            {
+                "predicted": "THE LADY AND THE BABY ARE PLAYING IN THE LIVING ROOM ACCORDING TO THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "on the floor"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HANGING OUT IN THE HOUSE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "house"
+            },
+            {
+                "predicted": "THE GIRL AND THE DOG ARE HANGING OUT IN THE GARDEN, AS PER THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "garden"
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, IT IS POSSIBLE THAT THE EVENT IS TAKING PLACE IN A LIBRARY. HOWEVER, IT IS NOT CLEAR IF THIS IS THE CORRECT ANSWER. COULD YOU PLEASE PROVIDE MORE CONTEXT OR INFORMATION ABOUT THE LOCATION OR EVENT MENTIONED IN THE QUESTION?",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "morning"
+            },
+            {
+                "predicted": "THE KEYBOARD IN THE VIDEO IS PLACED ON THE TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "on table"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HANGING OUT AT THE ROAD SHOULDER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "road shoulder"
+            },
+            {
+                "predicted": "THE PLACE IN THE VIDEO IS THE LIVING ROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HANGING OUT AT THE HOUSE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "in house"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT A LOCATION THAT RESEMBLES A BALLET STUDIO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE PLACE SHOWN IN THE VIDEO IS THE WEDDING HALL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "wedding hall"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS AT THE B CARPARK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "carpark"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE LIVING ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE PLACE IN THE VIDEO IS THE BEDROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bedroom"
+            },
+            {
+                "predicted": "THE LOCATION WHERE THIS IS TAKING PLACE IS THE LIVING ROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HANGING OUT AT THE OUTDOORS CAFE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "outdoors cafe"
+            },
+            {
+                "predicted": "THE VIDEO IS TAKEN IN THE LIVING ROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE OFFICE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "office"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE OFFICE BUILDING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "dancing hall"
+            },
+            {
+                "predicted": "THE LOCATION OF THE VIDEO IS THE KITCHEN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "kitchen"
+            },
+            {
+                "predicted": "THE ACTIVITY IS HAPPENING ON THE ROADSIDE, AS SUGGESTED BY THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "roadside"
+            },
+            {
+                "predicted": "THE ACTIVITY IN THE VIDEO IS HAPPENING IN THE PARK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "a park"
+            },
+            {
+                "predicted": "BASED ON THE CONTEXT OF THE QUESTION, IT IS LIKELY THAT THE ACTIVITY OF PRESSING ON SOMETHING IS TAKING PLACE IN A LABORATORY. HOWEVER, WITHOUT MORE INFORMATION, IT'S DIFFICULT TO PROVIDE A SPECIFIC ANSWER TO THIS QUESTION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "lab"
+            },
+            {
+                "predicted": "THE VIDEO IS TAKEN AT A POOL, WHICH IS THE APPROPRIATE ANSWER. SO, THE CORRECT OPTION LETTER IS B.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pool"
+            },
+            {
+                "predicted": "THE MUSICIANS ARE PERFORMING IN THE LIVING ROOM, ACCORDING TO THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE TAKING A SELFIE IN A GARDEN. SO, THE ANSWER OPTION LETTER TO RETURN IS A.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "garden"
+            },
+            {
+                "predicted": "BASED ON THE VIDEO, THE BABY IS HANGING OUT IN THE OFFICE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "room"
+            },
+            {
+                "predicted": "THE SNAKE IN THE VIDEO IS PRESENT ON THE ROAD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "on the road"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE LIVING ROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT THE PLAYGROUND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "playground"
+            },
+            {
+                "predicted": "THE BABY IN THE VIDEO IS LAYING ON THE GROUND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "pillow"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT A CAR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "on a car"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A BIRDBATH IN THE GARDEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "garden"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE FOREST.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "snow mountain"
+            },
+            {
+                "predicted": "THE WOMAN AND THE DOG CAN BE SEEN HANGING OUT IN THE PARK ACCORDING TO THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "park"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE CLASSROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "classroom"
+            },
+            {
+                "predicted": "THE ACTIVITY IS TAKING PLACE IN THE LIVING ROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION GIVEN, THE ANSWER IS D. BY THE WINDOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "by the window"
+            },
+            {
+                "predicted": "THE PLACE SHOWN IN THE VIDEO IS A BEACH, AND THE OPTION LETTER CORRESPONDING TO IT IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "beach"
+            },
+            {
+                "predicted": "THE PLACE SHOWN IN THE VIDEO IS THE LIVING ROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT THE ICE CREAM STORE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "ice cream store"
+            },
+            {
+                "predicted": "THE BOY WITH A CHECKERED SHIRT PUT THE TOYS THAT HE PICKED UP FROM THE FLOOR INSIDE A CONTAINER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "in the container"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE LIVING ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE PLACE SHOWN IN THE VIDEO IS A CASTLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "home"
+            },
+            {
+                "predicted": "THE EVENT IS TAKING PLACE IN THE CLASSROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "walkway"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT THE GRASS PATCH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "grass patch"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT THE HISTORICAL MUSEUM, WHICH IS MENTIONED AS THE OPTION LETTER A.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "carnival"
+            },
+            {
+                "predicted": "THE VIDEO IS TAKEN IN THE LIBRARY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "home"
+            },
+            {
+                "predicted": "THE VIDEO IS TAKING PLACE IN THE KITCHEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "kitchen"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN A DESERT, NOT AN AIRPORT TERMINAL, STAGE, OR FOREST.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "stage"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE PARK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "riverside"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HANGING OUT AT THE OUTDOORS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "outdoors"
+            },
+            {
+                "predicted": "THE CHILDREN ARE HANGING OUT IN THE LIVING ROOM, AS SHOWN IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE TRAMPOLINE IN THE VIDEO WAS PLACED OUTDOORS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "outdoors"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO WERE AT A BEACH, AND THEY WERE STANDING AT A DINING TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "dining"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT A SNOW JUNGLE, WHICH IS THE CORRECT OPTION LETTER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "snow jungle"
+            },
+            {
+                "predicted": "THE ANSWER IS C. POOL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pool"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) ON STAGE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "on stage"
+            },
+            {
+                "predicted": "THE GROUP OF PEOPLE CAN BE FOUND HANGING OUT IN THE LIVING ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE BATHROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "bathroom"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT THE TRAFFIC INTERSECTION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "along the road"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE FOREST.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "room"
+            },
+            {
+                "predicted": "THE TRAIN IN THE VIDEO IS MOVING ON THE TRACK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "train railway"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT A DESERT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "stage"
+            },
+            {
+                "predicted": "THE EVENT IS HAPPENING IN THE GARAGE ACCORDING TO THE GIVEN ANSWER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE DOGS ARE HANGING OUT IN THE FIELD, ACCORDING TO THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "field"
+            },
+            {
+                "predicted": "THE MEN IN THE VIDEO ARE PERFORMING AT AN OUTDOOR RESTAURANT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "outside restaurant"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HANGING OUT IN THE FIELD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "field"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE TRAIN, WHICH IS THE ANSWER OPTION PROVIDED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "train"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO HOLDS THE BABY ON HIS LAP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "put baby on lap"
+            },
+            {
+                "predicted": "THE EVENT IS TAKING PLACE AT A STATION. THEREFORE, THE ANSWER IS (D): TRAIN STATION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "train station"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HANGING OUT IN THE BACKYARD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "backyard"
+            },
+            {
+                "predicted": "THE COUPLE IN THE VIDEO IS DANCING INDOORS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "indoor"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN A FARM, ACCORDING TO THE ANSWER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "farm"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT THE BEACH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "home"
+            },
+            {
+                "predicted": "THE CAKE IN THE VIDEO IS KEPT ON THE TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "on the table"
+            },
+            {
+                "predicted": "THE EVENT IS HAPPENING AT THE AIRPORT LOUNGE ACCORDING TO THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "classroom"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN ON STAGE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "stage"
+            },
+            {
+                "predicted": "THE PLACE MENTIONED IN THE VIDEO IS A CLASSROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "classroom"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE LIVING ROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HANGING OUT IN THE LIVING ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE PERFORMANCE IS TAKING PLACE IN A BAR, AS SEEN IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bar"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS PLAYING TENNIS ON THE TENNIS COURTS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "tennis courts"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE OUTDOORS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "outdoors"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE LIVING ROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE ANSWER IS C. AMUSEMENT PARK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "forest"
+            },
+            {
+                "predicted": "THE VIDEO IS TAKEN IN THE RIVER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "river"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "bicycle"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HANGING OUT IN THE LIBRARY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "bedroom"
+            },
+            {
+                "predicted": "BASED ON THE GIVEN INFORMATION, IT SEEMS LIKE THE ACTIVITY IS HAPPENING IN THE BEDROOM. HOWEVER, WITHOUT MORE CONTEXT OR VISUAL CLUES, IT IS DIFFICULT TO PROVIDE A SPECIFIC LOCATION. THEREFORE, I SUGGEST CHECKING THE AVAILABLE OPTIONS FOR THE BEST ANSWER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "bedroom"
+            },
+            {
+                "predicted": "THE SPEAKER IS DELIVERING HIS SPEECH BEHIND THE PODIUM, AND THERE IS A MAN IN THE AUDIENCE LISTENING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "behind podium"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN INSIDE THE STADIUM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "field"
+            },
+            {
+                "predicted": "THE ACTIVITY IS TAKING PLACE AT THE HIGH ELEMENT CORNER OF THE MALL ENTRANCE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "high element corner"
+            },
+            {
+                "predicted": "THE LOCATION WHERE THIS IS TAKING PLACE IS THE CAVE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "cave"
+            },
+            {
+                "predicted": "THE PEOPLE ARE HANGING OUT IN THE LIVING ROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE EVENT IS TAKING PLACE ON THE GOLF COURT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "golf court"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE LOCATED IN THE FOREST.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "forest"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE GARDEN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "garden"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT AN INDOOR TRACK ACCORDING TO THE INFORMATION PROVIDED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "indoor track"
+            },
+            {
+                "predicted": "THE CHILD IN THE VIDEO IS IN THE BEDROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "bedroom"
+            },
+            {
+                "predicted": "THE DUCKS ARE SWIMMING IN THE RIVER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "river"
+            },
+            {
+                "predicted": "THE VIDEO IS TAKEN AT THE OBSERVATORY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "field"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE PARK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "park"
+            },
+            {
+                "predicted": "BASED ON THE GIVEN CONTEXT, THE ANSWER OPTION SEEMS TO BE RELATED TO A LIVING ROOM. THEREFORE, I BELIEVE THAT THE ANSWER SHOULD BE A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT THE TOP OF THE HILL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "snowy hill"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HANGING OUT AT A SKI RESORT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "near a field"
+            },
+            {
+                "predicted": "THE EVENT IS TAKING PLACE IN THE LIVING ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "in house"
+            },
+            {
+                "predicted": "THE LADY AND THE DOG CAN BE FOUND IN THE BATHROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bathroom"
+            },
+            {
+                "predicted": "THE PLACE SHOWN IN THE VIDEO IS A SHOPPING MALL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "swimming pool"
+            },
+            {
+                "predicted": "THE LOCATION SHOWN IN THE VIDEO IS A CLASSROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "classroom"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE LIVING ROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT THE SWIMMING POOL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "swimming pool"
+            },
+            {
+                "predicted": "THE VIDEO IS TAKEN FROM THE B-MART.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "mart"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE LIVING ROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, THE VIDEO WAS TAKEN AT THE LIVING ROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HANGING OUT AT THE HOME.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "home"
+            },
+            {
+                "predicted": "THE CAT CAN BE FOUND SITTING ON THE FLOOR IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "on the chair"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE PRACTICING THE PLAY ON STAGE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "stage"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS RIDING THE HORSE IN THE ART GALLERY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "garden"
+            },
+            {
+                "predicted": "THE VIDEO IS TAKING PLACE IN THE PARK, AS PER THE PROVIDED ANSWER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "park"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT THE STAGE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "stage"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE AT A SPACE OBSERVATORY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "by the water"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HANGING OUT IN THE KITCHEN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "kitchen"
+            },
+            {
+                "predicted": "THE CAT IN THE VIDEO GOT ITS WATER FROM THE SINK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "from tap"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT THE BEACH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "beach"
+            },
+            {
+                "predicted": "THE EVENT IS TAKING PLACE IN THE LIVING ROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN A ROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "in a room"
+            },
+            {
+                "predicted": "THE GOAT IN THE VIDEO WAS POSITIONED NEXT TO THE LADY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "in front"
+            },
+            {
+                "predicted": "THE PLACE SHOWN IN THE VIDEO IS THE PET HOUSE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pet house"
+            },
+            {
+                "predicted": "THE VIDEO IS TAKING PLACE IN A LIBRARY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "room"
+            },
+            {
+                "predicted": "THE LOCATION SHOWN IN THE VIDEO IS THE LIVING ROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "home"
+            },
+            {
+                "predicted": "THE FOOD IS DISPLAYED ON THE TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "on the table"
+            },
+            {
+                "predicted": "THE ACTIVITY IN THE VIDEO IS TAKING PLACE AT THE PARK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "archery practice"
+            },
+            {
+                "predicted": "THE BOY AND GIRL ARE PLAYING IN THE LIVING AREA.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "living area"
+            },
+            {
+                "predicted": "IT SEEMS THAT THE MAN GOT THE FOAM FROM THE BATHTUB, SO THE CORRECT ANSWER OPTION WOULD BE D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "bathtub"
+            },
+            {
+                "predicted": "THE ACTIVITY SHOWN IN THE VIDEO IS TAKING PLACE AT THE CHURCH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "blessing place"
+            },
+            {
+                "predicted": "BASED ON THE CONTEXT, IT SEEMS LIKE THE MAN AND GIRL ARE IN THE LIVING ROOM. HOWEVER, WITHOUT MORE INFORMATION, I CANNOT CONFIRM IF IT IS THE CORRECT ANSWER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE ANSWER IS C: PORT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "port"
+            },
+            {
+                "predicted": "THE ANIMALS ARE PRESENT IN THE C PIGSTY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pigsty"
+            },
+            {
+                "predicted": "THE LOCATION WHERE THE EVENT IS TAKING PLACE IS THE C POOL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "swimming pool"
+            },
+            {
+                "predicted": "THERE ARE A TOTAL OF THREE BABIES IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE EVENT IS OCCURRING AT HOME.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "home"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT THE POOL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "swimming pool"
+            },
+            {
+                "predicted": "THE EVENT TAKING PLACE IS HAPPENING AT HOME.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "home"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN INSIDE A LIBRARY ACCORDING TO THE GIVEN OPTION.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "car"
+            },
+            {
+                "predicted": "THE EVENT IN THE VIDEO IS TAKING PLACE AT A BOWLING ALLEY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bowling alley"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE HOUSE, SPECIFICALLY INSIDE A ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "in house"
+            },
+            {
+                "predicted": "THE LOCATION OF THEM IN THE VIDEO IS THE PARK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "park"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE BEDROOM, WHICH IS THE CORRECT ANSWER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bedroom"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS RESTING ON ROCKS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "sitting on the rocks"
+            },
+            {
+                "predicted": "THE BOY IN THE VIDEO IS HANGING OUT IN THE LIVING ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GARDEN WHERE CHICKENS ARE SEEN WALKING AROUND AND PECKING ON SOME PLANTS. THEREFORE, THE ANSWER IS (A) GARDEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "garden"
+            },
+            {
+                "predicted": "THE ACTIVITY IN THE VIDEO IS HAPPENING ON A MOUNTAIN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "on a mountain"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) FLOOR IN THE HOME.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "floor in the home"
+            },
+            {
+                "predicted": "THE VIDEO IS TAKING PLACE IN THE CITY, SPECIFICALLY ON A SIDEWALK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "bridge"
+            },
+            {
+                "predicted": "THE PEOPLE ARE HANGING OUT IN THE ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "room"
+            },
+            {
+                "predicted": "THE EVENT IS HAPPENING IN THE HOUSE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "house"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HANGING OUT AT THE PLAYGROUND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "playground"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE HOUSE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "house"
+            },
+            {
+                "predicted": "THE ACTIVITY SHOWN IN THE VIDEO IS TAKING PLACE IN THE FOREST.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "workplace"
+            },
+            {
+                "predicted": "THE PLACE WHERE THE DOG AND THE PERSON ARE HANGING OUT IS THE LIVING ROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE MAN IS TRYING OUT THE TOY IN THE SHOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "shop"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HANGING OUT IN THE FOREST.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "forest"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE LIBRARY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bedroom"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT THE SHOOTING RANGE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "shooting range"
+            },
+            {
+                "predicted": "THE EVENT IS TAKING PLACE IN THE BEDROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "bedroom"
+            },
+            {
+                "predicted": "THE EVENT OCCURRED IN THE AIRPORT LOUNGE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "house"
+            },
+            {
+                "predicted": "THE EVENT IS TAKING PLACE IN THE BACKYARD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "backyard"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN INSIDE A LIBRARY, WHICH IS THE CORRECT ANSWER ACCORDING TO THE GIVEN OPTIONS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "staircase at a park"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE LIVING ROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE LOCATION OF THIS IS THE GYMNASIUM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "gymnasium"
+            },
+            {
+                "predicted": "THE SETTING OF THE VIDEO IS IN THE DESERT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "desert"
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, THE ANSWER IS (C) ROOFTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "snow"
+            },
+            {
+                "predicted": "THE LADY AND THE BOY ARE WALKING ON THE TRAIL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "forest trail"
+            },
+            {
+                "predicted": "THE PLACE SHOWN IN THE VIDEO IS A TRAIN COMPARTMENT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "indoors"
+            },
+            {
+                "predicted": "THE EVENT IS TAKING PLACE AT THE PARK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "park"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT THE PARK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "outdoors"
+            },
+            {
+                "predicted": "THE CAT IN THE VIDEO IS HANGING OUT IN THE LIVING ROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "in the living room"
+            },
+            {
+                "predicted": "THE PLACE SHOWN IN THE VIDEO IS A LIVING ROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE LIVING ROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE AIRPLANE'S CABIN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "on the plane"
+            },
+            {
+                "predicted": "THE BABY IS SITTING ON A CHAIR WHILE EATING HER FOOD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "baby chair"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE UNDERGROUND TUNNEL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "road"
+            },
+            {
+                "predicted": "THE CATS CAN BE FOUND AT THE CAR PARK, AS PER THE ANSWER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "carpark"
+            },
+            {
+                "predicted": "THE PEOPLE ARE HANGING OUT IN THE LIVING ROOM ACCORDING TO THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, IT SEEMS THAT THE BOY IS HANGING OUT IN THE LIVING ROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT THE CONSTRUCTION SITE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "construction site"
+            },
+            {
+                "predicted": "BASED ON THE PROVIDED ANSWER, IT SEEMS THAT THE MAN AND WOMAN WERE AT THE C CAROUSEL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "rainforest"
+            },
+            {
+                "predicted": "THE PLACE WHERE THIS IS LOCATED IS THE HOSPITAL ROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "hospital room"
+            },
+            {
+                "predicted": "THE VIDEO IS TAKING PLACE AT THE BEACH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "petting zoo"
+            },
+            {
+                "predicted": "THE PLACE SHOWN IN THE VIDEO IS A LIVING ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE BABY IN THE VIDEO IS AT HOME.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "at home"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) CLASSROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HANGING OUT IN THE LIVING ROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE BOY IN THE VIDEO IS AT THE FOOTPATH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "footpath"
+            },
+            {
+                "predicted": "THE TWO PEOPLE IN THE VIDEO ARE DANCING IN THE LIVING ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE ANIMALS IN THE VIDEO ARE HANGING OUT IN THE GRASS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "outdoors"
+            },
+            {
+                "predicted": "THE WOMAN AND THE BABY ARE HANGING OUT IN THE DINING TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "dining table"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN OUTDOORS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "outdoors"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE SITTING ON A CHAIR, WHICH IS THE CORRECT ANSWER ACCORDING TO THE QUESTION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE ACTIVITY IS TAKING PLACE IN THE JUNGLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "river side"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS STANDING IN THE ROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "room"
+            },
+            {
+                "predicted": "THE ACTIVITY SHOWN IN THE VIDEO IS TAKING PLACE IN THE BATHROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "bathroom"
+            },
+            {
+                "predicted": "THE LOCATION OF THE OBJECT IN THE VIDEO IS A RESTAURANT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "home"
+            },
+            {
+                "predicted": "THE EVENT TOOK PLACE AT THE STAGE ACCORDING TO THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "stage"
+            },
+            {
+                "predicted": "THE PLACE DEPICTED IN THE VIDEO IS THE LIVING ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HANGING OUT AT A CONCERT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "by the thams"
+            },
+            {
+                "predicted": "THE SCENE IN THE VIDEO IS SET IN A HOSPITAL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "hospital"
+            },
+            {
+                "predicted": "THE PEOPLE ARE HANGING OUT IN THE FOREST, ACCORDING TO THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "forest"
+            },
+            {
+                "predicted": "THE PLACE SHOWN IN THE VIDEO IS A STREET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "street"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT THE FAST FOOD PLACE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "fast food place"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HANGING OUT ON THE TERRACE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "terrace"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE PARK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "road"
+            },
+            {
+                "predicted": "BASED ON THE VIDEO, IT SEEMS THAT THE GIRL IS CYCLING ON THE PAVEMENT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "on the pavement"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT A TRAIN RAILWAY STATION, WHICH IS ALSO KNOWN AS A TRAIN TRACK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "train railway"
+            },
+            {
+                "predicted": "THE LOCATION WHERE THE VIDEO IS TAKING PLACE IS THE OUTDOORS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "outdoors"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT THE BEACH, WHICH IS THE CORRECT OPTION LETTER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "beach"
+            },
+            {
+                "predicted": "THE LOCATION WHERE THIS IS HAPPENING IS THE OCEAN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "boat"
+            },
+            {
+                "predicted": "THE PLACE SHOWN IN THE VIDEO IS A RIVER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "river"
+            },
+            {
+                "predicted": "THE LOCATION WHERE THIS IS HAPPENING IS A PARTY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "at a party"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HANGING OUT IN THE BEDROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bedroom"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE AT A ROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "room"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A WOMAN AND TWO CHILDREN PLAYING IN A ROOM. IT APPEARS THAT THEY ARE IN THE HOUSE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "in house"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO IS PLAYING IN THE LIVING ROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE HOUSE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "house"
+            },
+            {
+                "predicted": "THE PLACE SHOWN IN THE VIDEO IS THE DINING ROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "dining room"
+            },
+            {
+                "predicted": "THE DOG'S FOOD WAS CONTAINED IN A BOWL, AS PER THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bowl"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT THE ZOO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "zoo"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE LIVING ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT THE HOME.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "home"
+            },
+            {
+                "predicted": "THE PLACE SHOWN IN THE VIDEO IS A ROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "a room"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HANGING OUT IN THE LIVING ROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT A LAKE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "lake"
+            },
+            {
+                "predicted": "THE PLACE IN THE VIDEO IS A CIRCUS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "obstacel court"
+            },
+            {
+                "predicted": "THE LOCATION OF THIS IS THE PARK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "park"
+            },
+            {
+                "predicted": "THE VIDEO IS HAPPENING IN THE LIVING ROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO GRABBED THE BALL FROM THE CAFETERIA.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "from pocket"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HANGING OUT ON THE LAWN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "lawn"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT THE SINK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "at a sink"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE AT THE SNOW MOUNTAIN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "snow moutain"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT THE ARCADE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "arcade"
+            },
+            {
+                "predicted": "THE PLACE SHOWN IN THE VIDEO IS A BEACH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "house"
+            },
+            {
+                "predicted": "THE DOG IN THE VIDEO IS SITTING IN THE MAN'S LAP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "man s lap"
+            },
+            {
+                "predicted": "THE DOGS IN THE VIDEO ARE RESTING ON A BED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bed"
+            },
+            {
+                "predicted": "THE MAN IN WHITE IS SITTING ON THE STAGE ACCORDING TO THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "at the side on the stage"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS STANDING INSIDE A LIBRARY, BUT THE QUESTION ASKS ABOUT HIS LOCATION ON THE WATER. THEREFORE, THE ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "on water"
+            },
+            {
+                "predicted": "THE ACTIVITY SHOWN IN THE VIDEO IS TAKING PLACE IN THE RIVER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "river"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE PARK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "park"
+            },
+            {
+                "predicted": "THE LADIES IN THE VIDEO ARE HANGING OUT AT THE STREAM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "by a stream"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE ROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "room"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT THE LIVING ROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE LOCATION OF THE EVENT IN THE VIDEO IS A TRAIN STATION.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "road"
+            },
+            {
+                "predicted": "THE ANSWER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "home"
+            },
+            {
+                "predicted": "THE EVENT IS HAPPENING ON THE BUS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bus"
+            },
+            {
+                "predicted": "THE VIDEO IS TAKING PLACE IN THE PRESENTATION HALL AND NOT THE LIBRARY, CAFETERIA, OR GARDEN. SO THE CORRECT ANSWER IS C: IN THE LIBRARY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "presentation hall"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE CLASSROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "classroom"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT THE ZOO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "zoo"
+            },
+            {
+                "predicted": "THE LOCATION IN THE VIDEO WHERE THIS IS HAPPENING IS THE FOREST.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "couch"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS STANDING BEHIND A GLASS ROSTRUM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "behing glass rostrum"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN UNDERWATER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "sea"
+            },
+            {
+                "predicted": "THE ACTIVITY IN THE VIDEO IS TAKING PLACE AT THE BEACH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "beach"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO ANY OF THE OPTIONS GIVEN. IT WOULD BE BETTER TO PROVIDE THE CORRECT ANSWER IF IT IS POSSIBLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN AT A CONCERT HALL, AS PER THE GIVEN ANSWER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "bedroom"
+            },
+            {
+                "predicted": "THE VIDEO IS TAKING PLACE AT THE BIRD FEEDER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bird feeder"
+            },
+            {
+                "predicted": "THE PLACE SHOWN IN THE VIDEO IS THE HOME.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "home"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO IS LOOKING AT THE CAKE THROUGHOUT THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "towards the cake"
+            },
+            {
+                "predicted": "THE ACTIVITY BEING SHOWN IN THE VIDEO IS TAKING PLACE AT THE AIRPORT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "on stage"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE CYCLING IN THE WOODS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "hill"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE CLASSROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "classroom"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A YOUNG MAN WEARING A BACKPACK AND WALKING DOWN A TUNNEL. HOWEVER, THERE'S NO HINT OR CLUE ABOUT WHERE HE IS. THEREFORE, I CANNOT PROVIDE ANY SPECIFIC ANSWER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "underpass"
+            },
+            {
+                "predicted": "THE CHILDREN WERE AT THE BEACH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "beach"
+            },
+            {
+                "predicted": "THE VIDEO WAS TAKEN IN THE LIVING ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "living room"
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.0
+    }
+}

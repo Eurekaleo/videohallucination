@@ -1,0 +1,28 @@
+{
+    "location": {
+        "accuracy": 0.99,
+        "unmatched_cases": [
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "beach",
+                "expected_text": "morning"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "museum lobby",
+                "expected_text": "footpath"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "train station",
+                "expected_text": "road"
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.99
+    }
+}

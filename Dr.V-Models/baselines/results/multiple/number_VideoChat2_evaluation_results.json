@@ -1,0 +1,1798 @@
+{
+    "number": {
+        "accuracy": 0.0,
+        "unmatched_cases": [
+            {
+                "predicted": "THE VIDEO SHOWS A TOTAL OF SEVEN RIDERS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THE ANSWER IS C. THERE ARE 2 DRUMS IN THE ROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) 2.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE CHEF HAS MADE A TOTAL OF 5 EGG ROLLS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS THREE PEOPLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. 2).",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) 1.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS (D.3).",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE NUMBER OF PEOPLE ON THE SHIP IS THREE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE PLAYING THE PIANO TOGETHER, AND THE NUMBER OF PEOPLE PLAYING THE PIANO IS FIVE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "5"
+            },
+            {
+                "predicted": "THE ANSWER IS (C: 2).",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) 2.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A PAIR OF PEOPLE, HENCE THE ANSWER OPTION C IS THE CORRECT ONE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A TOTAL OF THREE THROWS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS THREE PEOPLE, WHICH MEANS THE ANSWER TO THE QUESTION IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO USED 11 SECONDS TO TURN THE MAGIC CUBE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "11"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. 1).",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE INDIVIDUALS WHO WERE WEARING WHITE CLOTHES LOST THREE BALLS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF SEVEN PEOPLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "6"
+            },
+            {
+                "predicted": "THERE ARE A COUPLE OF PEOPLE WEARING BLUE SHORTS IN THE VIDEO, AND THEIR NUMBER IS MENTIONED AS TWO. HOWEVER, THEIR COLOR IS NOT MENTIONED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO PEOPLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS ONLY ONE PERSON.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO FEATURES A GROUP OF PEOPLE AND THEIR FOOD PREPARATION, SO THE ANSWER OPTIONS ARE RELATED TO THE NUMBER OF PEOPLE INVOLVED IN THE VIDEO AND NOT THE TIME. THEREFORE, THE ANSWER OPTION THAT FITS THE CONTEXT OF THE VIDEO IS A. THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO, SO I'M UNABLE TO PROVIDE A VALID RESPONSE TO THIS QUESTION. COULD YOU PLEASE PROVIDE MORE CONTEXT OR INFORMATION ABOUT THE VIDEO?",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) 3.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION AND DOES NOT PROVIDE ANY INFORMATION. COULD YOU PLEASE PROVIDE THE CORRECT QUESTION AND ANSWER?",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. 3).",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION AND DOES NOT PROVIDE ANY RELEVANT INFORMATION. PLEASE PROVIDE THE CORRECT ANSWER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A TOTAL OF 3 ATHLETES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A MAN RIDING A SURFBOARD, BUT THE NUMBER OF PEOPLE IN THE VIDEO IS NOT SPECIFIED. THEREFORE, THE ANSWER TO THE QUESTION IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS (D.5).",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO PEOPLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER PROVIDED IS NOT RELATED TO THE QUESTION. CAN YOU PLEASE PROVIDE A RELEVANT ANSWER TO THE QUESTION?",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) 4.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO DOES NOT PROVIDE INFORMATION ABOUT THE NUMBER OF PEOPLE IN IT. IT ONLY SHOWS A MAN AND A GIRL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF FOUR PEOPLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A PAIR OF CATS, WHICH MEANS THE ANSWER IS C.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO DOES NOT PROVIDE ANY INFORMATION ABOUT THE NUMBER OF PEOPLE. THEREFORE, THE ANSWER IS NOT AVAILABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO DOES NOT PROVIDE INFORMATION ON THE NUMBER OF JUDGES. HOWEVER, THE ANSWER OPTION LETTER (D) IS INCORRECT AS IT DOES NOT CORRESPOND WITH THE GIVEN ANSWER. THEREFORE, THE CORRECT ANSWER OPTION LETTER SHOULD BE (A).",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A TOTAL OF 4 PEOPLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO MENTIONS THE PRESENCE OF TWO JUDGES. SO, THE ANSWER TO THE QUESTION IS C: 5.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS FOUR PEOPLE AT THE BEGINNING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. 1).",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO DOES NOT PROVIDE ANY INFORMATION ABOUT THE NUMBER OF PEOPLE PRESENT. THEREFORE, THE ANSWER CANNOT BE DETERMINED FROM THE GIVEN OPTIONS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE. HOWEVER, THE SPECIFIC NUMBER OF INDIVIDUALS IN THE VIDEO CANNOT BE DETERMINED FROM THE GIVEN INFORMATION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "6"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO PEOPLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE ANSWER IS (D.5).",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. 3).",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO PEOPLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. 2).",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE NUMBER OF PEOPLE IN THE VIDEO IS THREE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. 3) WHICH IS THE NUMBER OF PEOPLE IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE NUMBER OF PEOPLE PRACTICING THE BALL IN THE VIDEO IS THREE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. 4).",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS THREE PEOPLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "5"
+            },
+            {
+                "predicted": "THE BLACK MAN IN THE VIDEO WIPED A SINGLE GLASS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "11"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS (D.4) THAT THERE ARE FOUR PEOPLE ON THE BALANCE WOOD IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) 2.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS ONLY ONE PERSON.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A MAN PLAYING THE DRUMS AND ANOTHER PERSON IN THE ROOM. THERE ARE A TOTAL OF TWO PEOPLE IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION. CAN YOU PLEASE PROVIDE THE CORRECT ANSWER?",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) 3.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO INDIVIDUALS PUSHING THE CURLING. THEREFORE, THE ANSWER IS (C) 1.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION. CAN YOU PLEASE PROVIDE THE QUESTION AND THE ANSWER AGAIN?",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS THREE PEOPLE PLAYING THE GUITAR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. 1).",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE SAILBOAT IN THE VIDEO HAS A TOTAL OF FOUR SAILS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. 2).",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THE MAN WITH THE HAT THREW THE OBJECT THREE TIMES IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE ANSWER IS (D.2).",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A COUPLE OF PEOPLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION AND DOES NOT PROVIDE ANY USEFUL INFORMATION RELATED TO THE VIDEO. PLEASE PROVIDE A VALID ANSWER BASED ON THE QUESTION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS THREE PEOPLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO PEOPLE AND THEIR LAWN TRACTOR. THEREFORE, THE CORRECT ANSWER IS D.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE NUMBER OF PEOPLE IN THE VIDEO IS 4.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. 3) THAT THERE ARE THREE PEOPLE IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE PERSON IN WHITE IS SHAKING HANDS WITH FIVE PEOPLE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO PEOPLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A MAN AND A WOMAN, SO THE ANSWER PROVIDED IS C: 1, WHICH MEANS THERE IS ONLY ONE PERSON IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE. THERE ARE THREE PEOPLE IN TOTAL, BUT I'M NOT SURE OF THEIR SPECIFIC ROLES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO PEOPLE PRESENT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS ONLY ONE PERSON, AND THEIR NAME IS LINDA.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A TOTAL OF THREE DOGS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS (D.8).",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE NO PEOPLE WEARING BLUE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS ONLY ONE PERSON, WHICH SUGGESTS THAT THE ANSWER TO THE QUESTION IS D.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. 1).",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ATHLETES IN THE VIDEO PERFORMED FIVE CIRCLES IN THE AIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE PERSON RIDING ON THE HORSE HAS TWO PEOPLE AROUND THEM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO ANY OF THE GIVEN OPTIONS. THEREFORE, I CANNOT PROVIDE A SOLUTION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "8"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION. CAN YOU PLEASE PROVIDE THE CORRECT ANSWER OR QUESTION?",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO FEATURES A GROUP OF PEOPLE WHO ARE PRACTICING SPORTS. THERE ARE A TOTAL OF FIVE PEOPLE IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE ANSWER IS (B: 1).",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE WERE A TOTAL OF THREE PEOPLE IN THE GREY COAT WHEN THE MAN HAD A HAIRCUT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO PEOPLE, WHICH IS THE ANSWER OPTION (B).",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. 5).",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO DOES NOT PROVIDE INFORMATION ABOUT THE NUMBER OF PEOPLE IN THE VIDEO. COULD YOU PLEASE PROVIDE MORE CONTEXT OR DETAILS TO HELP ME UNDERSTAND WHAT YOU ARE ASKING?",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS THREE PEOPLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE NUMBER OF PEOPLE BEHIND THE REFEREE IS THREE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE A TOTAL OF TWO INDIVIDUALS WEARING HATS IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) 2.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE IS ONLY ONE PERSON WEARING BLACK AND WHITE STRIPES IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. 3).",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. 2).",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE WHITE MEN IN THE VIDEO PLAYED DRUMS AND USED BOTH HANDS TO PLAY THEM, AS SEEN IN THE VIDEO. SO, THE ANSWER TO THE QUESTION IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE GROUND IN THE VIDEO HAS A TOTAL OF SIX BALLS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "6"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO PEOPLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) 4.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A SINGLE PERSON, AND THUS THE ANSWER OPTION LETTER IS (D): 4.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE MAKE-UP HAS A TOTAL OF FOUR RINGS ON THE RIGHT HAND.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE ANSWER IS, THERE IS ONLY ONE PERSON WEARING ORANGE PANTS IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION. COULD YOU PLEASE PROVIDE THE CORRECT ANSWER?",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE NUMBER OF PEOPLE IN THE VIDEO IS THREE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF SIX PEOPLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "5"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS THREE ELECTRIC CARS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. 2).",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. 3) WHICH MEANS THERE ARE THREE PEOPLE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS (B: 1).",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS THREE PEOPLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THE ANSWER IS C. THERE ARE FOUR JUDGES IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE VIDEO DOES NOT PROVIDE ENOUGH INFORMATION TO DETERMINE THE NUMBER OF PEOPLE PRESENT. THEREFORE, THE ANSWER IS NOT AVAILABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION. COULD YOU PLEASE PROVIDE THE CORRECT ANSWER?",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE VIDEO DOES NOT PROVIDE ANY INFORMATION ABOUT THE NUMBER OF PEOPLE IN IT. THEREFORE, THE ANSWER IS NOT AVAILABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS ONLY ONE PERSON.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A PAIR OF INDIVIDUALS. THEREFORE, THE ANSWER OPTION LETTER IS (A, B, C, D).",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE ANSWER IS (C: 5).",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. 2).",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE ANSWER IS C. THERE ARE NO PEOPLE IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE WEARING TWO HOOPS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE A TOTAL OF 4 PEOPLE STANDING ON THE EDGE OF THE WATER IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS THREE PEOPLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE ANSWER IS (B: 1).",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO DOESN'T PROVIDE THE ANSWER FOR THE QUESTION REGARDING THE NUMBER OF ATHLETES IN ALL. COULD YOU PLEASE PROVIDE MORE INFORMATION OR CONTEXT ABOUT THE VIDEO?",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A COUPLE, BUT THE NUMBER OF PEOPLE INVOLVED IN THE VIDEO IS FIVE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE MAN BENT DOWN A TOTAL OF EIGHT TIMES IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "twelve"
+            },
+            {
+                "predicted": "THERE ARE A TOTAL OF FIVE DOGS IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO DOES NOT PROVIDE A CLEAR ANSWER TO THE QUESTION ABOUT THE NUMBER OF CATS. IT MAY BE POSSIBLE TO COUNT THE NUMBER OF CATS IN THE VIDEO, BUT THERE IS NO CLEAR INDICATION OF THE ANSWER GIVEN. THEREFORE, THE ANSWER CANNOT BE PROVIDED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE BOY MIMICKED THE MOVEMENT OF THE TOY THREE TIMES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE BOY TRIES TO HOLD THE LADDER UP THREE TIMES IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "eight"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THERE ARE A TOTAL OF FIVE PEOPLE IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "five"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. THREE).",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS SIX PEOPLE BEING FILMED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "THE NUMBER OF CHILDREN IN THE VIDEO IS TWO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO DOES NOT CONTAIN ANY INFORMATION RELATED TO LADIES. HENCE, THE ANSWER TO THE QUESTION CANNOT BE DETERMINED WITH CERTAINTY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS THREE CHILDREN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. SIX).",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THERE ARE SEVEN DOGS IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) SIX.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE ANSWER IS (D.) TWO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) TWO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE TWO DOGS PRESENT IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) TWO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) FOUR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) ELEVEN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS THREE PEOPLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THERE ARE A TOTAL OF TWO CATS IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO DOGS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE THREE PEOPLE DANCING IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A TOTAL OF SEVEN ADULTS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) TWO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "ACCORDING TO THE VIDEO, THE WOMAN PASSED BY THREE PEOPLE WHILE CYCLING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION, SO I AM NOT SURE WHAT YOU ARE ASKING FOR. COULD YOU PLEASE REPHRASE THE QUESTION OR PROVIDE MORE CONTEXT TO THE ANSWER?",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) SEVEN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) THREE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ANSWER IS (B) THREE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS THREE PEOPLE, SO THE ANSWER OPTION SHOULD BE D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THE MAN SERVES THE BALL IN THE VIDEO SEVEN TIMES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO PEOPLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) NINE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE ANSWER IS (D): SEVEN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE ANSWER IS (B) TWO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A TOTAL OF SIX HAMSTERS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "THERE ARE A TOTAL OF SEVEN PEOPLE IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE NUMBER OF CHILDREN IN THE VIDEO IS TWO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE THREE GIRLS IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. FOUR).",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) THREE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) THREE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THE NUMBER OF PEOPLE IN THE VIDEO IS TWO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE A TOTAL OF FIVE PEOPLE TAKING PHOTOS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) SIX.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THE NUMBER OF KIDS WATCHING THE TOY IS FOUR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF CATS, AND THE NUMBER OF CATS VISIBLE IN THE VIDEO IS THREE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE ANSWER IS (D): TWO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "eight"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) EIGHT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "THE VIDEO INVOLVES TWO PEOPLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE BOY PERFORMS A FLIP IN THE VIDEO SIX TIMES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO DOES NOT PROVIDE THE ANSWER TO THE QUESTION. COULD YOU PLEASE PROVIDE MORE CONTEXT OR INFORMATION?",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "seven"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS FOUR PEOPLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THE ANSWER IS (D): EIGHT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) SIX.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) FOUR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) TEN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) FOUR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) THREE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE A TOTAL OF SIX CATS IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A TOTAL OF FOUR DOGS PRESENT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO MANAGED TO GO FROM ONE SIDE TO THE OTHER A TOTAL OF FOUR TIMES THROUGHOUT THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) THREE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) TWO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. ONE).",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) THREE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) FOUR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THERE IS ONLY ONE DOG IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) THREE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) TEN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "five"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A PAIR OF PEOPLE, WHICH MAKES IT A TOTAL OF TWO PEOPLE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "five"
+            },
+            {
+                "predicted": "THERE IS A SINGLE DOG IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO PEOPLE PLAYING WITH THE MACHINE. THEREFORE, THE CORRECT ANSWER IS A: ONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE NUMBER OF LADIES SINGING IN THE VIDEO IS THREE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) EIGHT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) EIGHT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE NUMBER OF PEOPLE SURROUNDING THE WOOD IN THE VIDEO IS THREE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) THREE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) TWO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) NINE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS ONLY ONE PERSON.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) EIGHT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS THAT THERE ARE A TOTAL OF THREE PEOPLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "THE ANSWER IS (D): SEVEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. FIVE).",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) FOUR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) SEVEN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE ANSWER IS (D): SIX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THERE ARE TWO CATS FIGHTING IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ANSWER IS (D): SEVEN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE. THE EXACT NUMBER OF PEOPLE CAN BE DETERMINED BY CLOSELY EXAMINING THE VIDEO. THEREFORE, THE ANSWER IS NOT A DIRECT COUNT OF PEOPLE IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) TEN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "five"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO PEOPLE PARAGLIDING AND IT IS CAPTURED FROM TWO DIFFERENT ANGLES. SO, THE ANSWER TO THE QUESTION IS D. TWO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) NINE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE VIDEO INVOLVES THREE PEOPLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) EIGHT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE VIDEO CAPTURES THE ACTIVITIES OF THREE INDIVIDUALS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "five"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO ELEPHANTS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A TOTAL OF SIX DOGS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. TWO).",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE LADY WEARING WHITE PANTS IN THE VIDEO TOUCHED THE PRAM A TOTAL OF TEN TIMES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "twice"
+            },
+            {
+                "predicted": "THE VIDEO CAPTURES A GROUP OF PEOPLE. HOWEVER, THE EXACT NUMBER OF PEOPLE CAPTURED IS NOT MENTIONED IN THE GIVEN ANSWER. SO, THE ANSWER OPTION IS NOT CORRECT AND THE ANSWER IS INCOMPLETE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "five"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) THREE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE ANSWER IS (B) FIVE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) TWO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO INVOLVES THREE PEOPLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) EIGHT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF THREE KIDS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE VIDEO INVOLVES ONLY ONE PERSON.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE BABY IN THE VIDEO IS HOLDING A TOY BALL. THE ANSWER IS C, TWO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO PEOPLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) THREE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO CARESSED THE CAT RESTING ON HIS LAP THREE TIMES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE VIDEO INVOLVES A PAIR OF PEOPLE. SO, THE ANSWER IS (A, B, C, D) TWO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE NUMBER OF LAMPS AT THE BACK IS THREE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO SQUEEZED THE BALL A TOTAL OF SIX TIMES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "five"
+            },
+            {
+                "predicted": "THE LADY WEARING THE HEADSET WAS HOLDING A TOTAL OF NINE TORCHERS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) FIVE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "five"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS FOUR PEOPLE JUMPING ON THE TRAMPOLINE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THE ANSWER IS (D: EIGHT).",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) TWO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. SEVEN).",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ANSWER IS (B): TWO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE LADY IN THE VIDEO TOOK OUT A TOTAL OF SIX ITEMS FROM THE BAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) TWO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) ZERO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) FOURTEEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "nine"
+            },
+            {
+                "predicted": "THE BOY PLACED A TOTAL OF TWO ITEMS ON THE SHELF IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE A TOTAL OF THREE BABIES PRESENT IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) EIGHT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "nine"
+            },
+            {
+                "predicted": "THE ANSWER IS (D.1)0.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THERE WERE A TOTAL OF SIX MEN IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO PEOPLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE NUMBER OF PEOPLE ON THE RAFT IN THE VIDEO IS TWO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) EIGHT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ANSWER IS (A) THREE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. TWO).",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE NUMBER OF PEOPLE IN THE VIDEO IS TWELVE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THE NUMBER OF PEOPLE ATTEMPTING TO CLIMB UP THE SLOPE AT THE START IS FOUR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THE ANSWER IS (B) THREE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "three"
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.0
+    }
+}

@@ -1,0 +1,1810 @@
+{
+    "ocr": {
+        "accuracy": 0.0,
+        "unmatched_cases": [
+            {
+                "predicted": "THE GREEN TRAIN HAS THE LETTER \"B\" WRITTEN ON IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "LSWR"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "for"
+            },
+            {
+                "predicted": "THE PRICE OF THE ITEM BEFORE VAT IS A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "134.99"
+            },
+            {
+                "predicted": "BASED ON THE VIDEO, IT SEEMS LIKE SHE TOOK A BOTTLE OF RANCH SAUCE AT THE END. THEREFORE, THE ANSWER IS B: RANCH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "RANCH"
+            },
+            {
+                "predicted": "THE PLAYER SHOWN IN THE VIDEO IS PLAYER 4 AND THEIR NAME IS KARRIGAN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "karrigan"
+            },
+            {
+                "predicted": "THE ANSWER IS D. REF LABEL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "RED LABEL"
+            },
+            {
+                "predicted": "THE NAME OF THE LEAGUE MENTIONED IN THE VIDEO IS WORLDS 2021.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Worlds 2021"
+            },
+            {
+                "predicted": "THE BOTTLE IN THE VIDEO DOES NOT HAVE ANY TEXT WRITTEN ON IT. IT'S NOT CLEAR WHICH LETTER OPTION YOU'RE REFERRING TO. CAN YOU PLEASE PROVIDE MORE INFORMATION OR CONTEXT ABOUT THE VIDEO?",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Omua Sangria Tea"
+            },
+            {
+                "predicted": "THE PERSON WHO KILLED ALEKSIB IS AVA.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "ropz"
+            },
+            {
+                "predicted": "THE CHOSEN ITEM COSTS 5.49 ACCORDING TO THE GIVEN INFORMATION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "4.95"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "$259"
+            },
+            {
+                "predicted": "THE FOURTH ITEM IN THE CRATE IS A SCOPE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2x Scope"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "16"
+            },
+            {
+                "predicted": "THE ANSWER IS D: RACHEL DRANE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Rachel Crane"
+            },
+            {
+                "predicted": "THE PERSON PRINTED ON THE BLACK T-SHIRT IN THE VIDEO IS KOBE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Yes"
+            },
+            {
+                "predicted": "THE TEAM WITH A SCORE OF 12 IN THE VIDEO IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "G2"
+            },
+            {
+                "predicted": "THE YELLOW FRUIT SHOWN IN THE VIDEO IS A BANANA.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "DURIAN"
+            },
+            {
+                "predicted": "THE YELLOW SIGN HAS THE LETTERS \"ONYX\" WRITTEN ON IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "EXIT ONLY"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO IS CARRYING A BOOK BAG IN HER BACK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "a backpack"
+            },
+            {
+                "predicted": "THE ANSWER IS D.2.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "0"
+            },
+            {
+                "predicted": "THE TEAM THAT IS COMPETING AGAINST G2 IN THE VIDEO IS CAVI.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "NAVI"
+            },
+            {
+                "predicted": "THE COST OF THE SECOND ITEM SHOWN IN THE VIDEO IS $149.58.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "$149.98"
+            },
+            {
+                "predicted": "IT IS NOT POSSIBLE TO PROVIDE A DIRECT ANSWER TO THIS QUESTION. PLEASE PROVIDE MORE CONTEXT OR CLARIFICATION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "47"
+            },
+            {
+                "predicted": "THE BLACK BUTTON ON THE SCREEN IS LABELLED WITH THE LETTER D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "ADD TO CART"
+            },
+            {
+                "predicted": "THE PLAYER SHOWN IN THE VIDEO IS PLAYING KOFING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "KONFIG"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Drinking hydroxychloroquine or detergent"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "NIGHTLY NEWS"
+            },
+            {
+                "predicted": "THE WORD ON THE LEFT OF THE BIKE IS \"B.\"",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "by"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO. CAN YOU PLEASE PROVIDE MORE CONTEXT OR INFORMATION ABOUT THE QUESTION?",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "11"
+            },
+            {
+                "predicted": "THE SECOND OPTION MENTIONED IN THE VIDEO IS VSCOCAM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "VSCOcam"
+            },
+            {
+                "predicted": "THE ANSWER IS C: CHRISTIAN BAESLER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "CHRISTIAN BAESLER"
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, IT SEEMS THAT THE FINGER IS POINTING TOWARDS THE ITEM \"FIRSPRICE\" AS THE ANSWER. HOWEVER, WITHOUT ADDITIONAL CONTEXT, I CANNOT CONFIRM WHETHER THIS IS THE CORRECT ANSWER. PLEASE PROVIDE MORE DETAILS OR CONTEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "FIRSTPRICE"
+            },
+            {
+                "predicted": "THE LED SIGNBOARD AT FIRST HAS THE TEXT \"DEL PARKING.\"",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "EXPECT HEAVY DELAYS"
+            },
+            {
+                "predicted": "THE ANSWER IS D. CASA DE CISNEEROS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Casa de Cisneros"
+            },
+            {
+                "predicted": "THE PLAYER WHO SCORED THE GOAL IS NUMBER 5.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "6"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION AND DOESN'T SEEM TO BE AN OPTION TO SELECT. PLEASE PROVIDE A VALID ANSWER THAT RELATES TO THE CONTENT OF THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "$3100"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "26"
+            },
+            {
+                "predicted": "THE BLACK SIGN IN THE VIDEO HAS THE WORD \"HARDWARE\" WRITTEN ON IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "HARDWEAR"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "865 1010"
+            },
+            {
+                "predicted": "THE BOTTOM OF THE OBJECT IN THE VIDEO IS WRITTEN WITH THE LETTER C.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Predator"
+            },
+            {
+                "predicted": "THE TEXT ON THE TOP LINE OF THE PACKAGE READS \"FAIRLY TRADED\".",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Fairly Traded"
+            },
+            {
+                "predicted": "THE PRODUCT'S BRAND IS MEMBER'S MARK, AS SEEN IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Member's Mark"
+            },
+            {
+                "predicted": "THE ANSWER IS (D): 83%.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "83%"
+            },
+            {
+                "predicted": "THE ANSWER IS C: STREET CLOSED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "STREET CLOSED"
+            },
+            {
+                "predicted": "THE GREEN SIGN ON THE LEFT SHOWS THE DIRECTION TOWARDS THE AIRPORT. SO, THE ANSWER OPTION LETTER IS C.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "San Francisco"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "73"
+            },
+            {
+                "predicted": "THE CAR PLATE OF THE CAR IN THE VIDEO IS FORDUNE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "FORTUNE"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "0"
+            },
+            {
+                "predicted": "THE WHITE SIGN IN THE VIDEO HAS THE WORD \"PROTO\" WRITTEN ON IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "PHOTO ENFORCED"
+            },
+            {
+                "predicted": "THE MATCH TIME MENTIONED IN THE VIDEO IS 30 MINUTES AND 23 SECONDS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "30:23"
+            },
+            {
+                "predicted": "THE ORANGE SIGN HAS A SIGN THAT READS \"ROAD WORK 500 FT\".",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "ROAD WORK 500 FT"
+            },
+            {
+                "predicted": "THE ORANGE SIGN HAS A MESSAGE THAT READS \"END OF THE TURN\".",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "END ROAD WORK"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) OBSESSION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "obsession"
+            },
+            {
+                "predicted": "THE COST OF THIS IS SHOWN AS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "7.49"
+            },
+            {
+                "predicted": "THE NUMBER TO CONTACT IF YOU'RE INTERESTED IN RENTING AN OFFICE IS D. IT'S THE PHONE NUMBER OF THE PERSON WHO CAN PROVIDE MORE INFORMATION ON THE TOPIC.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "516.817.8879"
+            },
+            {
+                "predicted": "THE ITEM SHOWN IN THE VIDEO HAS A BRAND NAME OF T2.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "T2"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS ENTERING A HOSPITAL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "A hospital"
+            },
+            {
+                "predicted": "THE BLACK SIGN IN THE MIDDLE OF THE VIDEO DISPLAYS THE OPTIONS A AND B.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Airport Exit VIA"
+            },
+            {
+                "predicted": "THE PLAYER WHO SCORED IN THE VIDEO IS WEARING THE NUMBER 44.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "40"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "beef mince 500g"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) 190.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "160"
+            },
+            {
+                "predicted": "THE PERSON WHO HAS BEEN SHUT DOWN IS NAMED DO SNOWMALKER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "DK ShowMaker"
+            },
+            {
+                "predicted": "THE ANSWER IS C. THE BROKY HAS FINALLY BEEN GIVEN $3850.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "$3850"
+            },
+            {
+                "predicted": "THE BRAND FOR THE TOP LEFT MILK IN THE VIDEO IS A2.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "a2"
+            },
+            {
+                "predicted": "THE PERSON WHO DIED THIRD IN THE VIDEO IS KONFIG.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "kOnfig"
+            },
+            {
+                "predicted": "THE TEXT ON THE TOP ORANGE SIGN IN THE END IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "KINDES"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "181"
+            },
+            {
+                "predicted": "THE ANSWER IS D. LINKS PROVIDED BELOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Links Provided Below"
+            },
+            {
+                "predicted": "THE EXIT MENTIONED IN THE VIDEO IS LOCATED ON THE RIGHT SIDE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Right"
+            },
+            {
+                "predicted": "THE ANSWER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "G"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "23"
+            },
+            {
+                "predicted": "THE WORD ON THE LEFT OF 'MASSACRE' IS 'PETERLOO'.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "PETERLOO"
+            },
+            {
+                "predicted": "THE ANSWER IS D. PATHFINDER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "PATHFINDER"
+            },
+            {
+                "predicted": "THE PERSON WHO KILLS THE MOST IN THE VIDEO IS AZ1LE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Ax1Le"
+            },
+            {
+                "predicted": "THE INDIVIDUAL POINTED TO THE OTIS OAT MILK FIRST.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "OTIS OAT MILK"
+            },
+            {
+                "predicted": "THE ANSWER IS C: GRAND CENTRAL PKWY EAST.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Grand Central Pkwy East"
+            },
+            {
+                "predicted": "THE ANSWER IS D. LOVE YOUR SELF..",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "love your self."
+            },
+            {
+                "predicted": "THE TEXT ON THE BLACK SIGN IN THE BOTTOM LEFT CORNER IS D.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "COFFER BAR"
+            },
+            {
+                "predicted": "THE ANSWER IS B. BEAUTIFUL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "beautiful"
+            },
+            {
+                "predicted": "THE ANSWER IS C. YES (ADR OF JACKX), WHICH MEANS THAT THE ADRENALINE RUSH (ADR) OF JACKZ IS HIGHER THAN THAT OF GLA1VE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "No"
+            },
+            {
+                "predicted": "THE TEAM LEADING THE SCOREBOARD IN THE VIDEO IS A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "LAC"
+            },
+            {
+                "predicted": "THE ADD-ONS FOR THE SECOND ITEM ARE PRICED AT $44.00.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "$40.00"
+            },
+            {
+                "predicted": "THE ANSWER IS C. SCOOL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "SCHOOL"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO IS WEARING A T-SHIRT OF THE COLOR PINK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Pink"
+            },
+            {
+                "predicted": "THE TRUCK ON THE LEFT BELONGS TO THE COMPANY FIDEX.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "FedEx"
+            },
+            {
+                "predicted": "THE FIRST OPTION IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Waterlogue"
+            },
+            {
+                "predicted": "THE GREEN SIGN ON THE LEFT READS \"VAN WYCK EXPWY.\"",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Van Wyck Expwy, Whitestone Br Bronx"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) TRU TD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "tru tv"
+            },
+            {
+                "predicted": "THE SPEED LIMIT MENTIONED IN THE VIDEO IS 50 KILOMETERS PER HOUR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "50"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "frequently"
+            },
+            {
+                "predicted": "THE TEAM THAT IS CURRENTLY LOSING IN THE GAME IS GSW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "GSW"
+            },
+            {
+                "predicted": "THE ANSWER IS D. GLA5VE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "gla1ve"
+            },
+            {
+                "predicted": "THE ANSWER IS D. REBONS PLUS GROND.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "REVONS PLUS GRAND"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS GETTING OFF THE CAR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "He is getting off the car."
+            },
+            {
+                "predicted": "THE ANSWER IS D. HOBBIT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Hobbit"
+            },
+            {
+                "predicted": "THERE IS NO GROUND COMBATANT IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "80"
+            },
+            {
+                "predicted": "THE ANSWER IS C: HUME.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "HOME"
+            },
+            {
+                "predicted": "THE FIRST ITEM THAT APPEARS IN THE AIR DROP IS A MILITARY VEST.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Military Vest (Lv. 3)"
+            },
+            {
+                "predicted": "THE YELLOW POINTS IN THE VIDEO REPRESENT A GAME OF TENNIS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Shot 6"
+            },
+            {
+                "predicted": "THE TEAMS THAT WILL BE PLAYING IN THE VIDEO ARE CHELSEA AND MANCHESTER CITY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Chelsea & anchester City"
+            },
+            {
+                "predicted": "THE ANSWER IS C. 9AM - 1030AM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "930am - 11am"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION. CAN YOU PLEASE PROVIDE THE CORRECT ANSWER RELATED TO THE QUESTION?",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "718.974.0505"
+            },
+            {
+                "predicted": "THE PLAYER BEING SHOWN ALONGSIDE KHAN IS FLONDER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "FLANDRE"
+            },
+            {
+                "predicted": "THE COST OF THE TRESOR RARE INTENSIVE RECOVERY JAPANESE MASK IS $5,005.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "$5,000"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) PINCE ST.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Prince St"
+            },
+            {
+                "predicted": "THE ANSWER IS A. BAT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "be"
+            },
+            {
+                "predicted": "THE BLACK SIGN IN THE VIDEO HAS THE NUMBER \"425\" WRITTEN ON IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "020125"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Gundo"
+            },
+            {
+                "predicted": "THE QUESTION DOES NOT HAVE ANY OPTIONS RELATED TO TIME. THE ANSWER SHOULD BE CHECKED BY REFERRING TO THE GIVEN OPTIONS AND CHECKING THE CONTEXT OF THE QUESTION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "3/4"
+            },
+            {
+                "predicted": "THE FIRST POINT SHOWN IN THE VIDEO IS THE STOCK MARKET'S DROP ON COVID IMPACT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "29,214.97"
+            },
+            {
+                "predicted": "THE ANSWER IS C: BEER, WINE & SPIRITS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "BEER, WINE & SPIRITS"
+            },
+            {
+                "predicted": "THE ANSWER IS D. EDG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "EDG"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GIRL BLOW-DRYING HER HAIR IN THE MORNING AT 7:30 AM. THEREFORE, THE ANSWER IS B.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "7:00am"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "NIP"
+            },
+            {
+                "predicted": "THE NAME OF THE NUMBER 7 MENTIONED IN THE VIDEO IS STERLING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Sterling"
+            },
+            {
+                "predicted": "THE ANSWER IS D. DELFT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Delft"
+            },
+            {
+                "predicted": "THE CATEGORY THAT SHE IS BROWSING IN THE VIDEO IS JEWELRY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "JEWELRY"
+            },
+            {
+                "predicted": "THE TEXT IN GREEN FONT AND YELLOW BACKGROUND IS RELATED TO TRADE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "MADE IN BANGLADESH"
+            },
+            {
+                "predicted": "THE WHITE SIGN IN THE VIDEO DISPLAYS THE LETTER C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "REDSTONE"
+            },
+            {
+                "predicted": "THE ANSWER IS D: JIEJIE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "JIEJIE"
+            },
+            {
+                "predicted": "THE YELLOW SIGN IN THE VIDEO IS DIRECTED TOWARDS A ROUNDABOUT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "BYPASS"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "17.04.21"
+            },
+            {
+                "predicted": "THE NAME OF THE BUS IN THE VIDEO IS D.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "FIVE STAR SCHOOL BUS LLC"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO OR QUESTION. CAN YOU PLEASE PROVIDE THE CORRECT ANSWER OR CLARIFY THE QUESTION?",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ANSWER IS C. PLAYUE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Playue"
+            },
+            {
+                "predicted": "IF TURNING LEFT, WE WILL REACH DEANSCAT ST PETER'S SQUARE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Deansgate St Peter's Square"
+            },
+            {
+                "predicted": "THE ANSWER IS D. LOUIS VOTTON.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "LOUIS VUITTON"
+            },
+            {
+                "predicted": "THE LARGEST WORD IN RED IN THE MIDDLE SCREEN IS MAD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "MAD"
+            },
+            {
+                "predicted": "THE ANSWER IS D.P.KHAN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "DK Khan"
+            },
+            {
+                "predicted": "THE ANSWER IS D.EDG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "EDG"
+            },
+            {
+                "predicted": "THE ANSWER IS B\u00c1HN SHOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "B\u00c1HN SHOP"
+            },
+            {
+                "predicted": "THE PRICE AFTER VAT FOR THE ITEM MENTIONED IN THE VIDEO IS C.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1559.98"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Motivation ark"
+            },
+            {
+                "predicted": "THE PERSON RESPONSIBLE FOR KILLING XYP9X IS C.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Aleksib"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "7"
+            },
+            {
+                "predicted": "THE ANSWER IS C. 78 AVE, QUEENS BLVD, RIGHT LANE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "78 Ave, Queens Blvd, Right Lane"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) ARNODS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "ARNOLD"
+            },
+            {
+                "predicted": "THE ANSWER IS D: CORONOVIRUS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "CORONAVIRUS"
+            },
+            {
+                "predicted": "THE ANSWER IS D. TERMINA1.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Terminal"
+            },
+            {
+                "predicted": "THE LOWER SIGN ON THE LEFT HAS THE TEXT \"NO PARKING.\"",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "NO U-TURN"
+            },
+            {
+                "predicted": "THE GREEN SHIRT LEFT FOR THE PERSON AT THE END HAS THE TEXT \"B\" PRINTED ON IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "ACK"
+            },
+            {
+                "predicted": "THE ANSWER IS C: LAS ANGELES LAKS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Los Angeles Lakers"
+            },
+            {
+                "predicted": "THE PRICE OF THE SAINSBURY'S VEGETABLE OIL IN A 3L PACK IS \u00a33.39, AS SHOWN IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "\u00a33.30"
+            },
+            {
+                "predicted": "THE ANSWER IS D. CARBREN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "CARBONE"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) STEP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Stop"
+            },
+            {
+                "predicted": "THE ANSWER IS C: THE CIRCES TAVERN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "THE CIRCUS TAVERN"
+            },
+            {
+                "predicted": "THE ANSWER IS C. MRARTHY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "MCARTHY"
+            },
+            {
+                "predicted": "THE ANSWER IS C: SINDURU NATURALS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "SUNDARI naturals"
+            },
+            {
+                "predicted": "THE ANSWER IS C: CAVA CAFE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "cava"
+            },
+            {
+                "predicted": "THE WHITE VAN PARKED IN FRONT OF GREGORY'S COFFEE BELONGS TO AIRSTREAM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "air stream"
+            },
+            {
+                "predicted": "THE ANSWER IS (D.1) ONE WAY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "one way"
+            },
+            {
+                "predicted": "THE NAME OF THE COMPANY DISPLAYED ON THE WHITE TRUCK NEAR THE BANK OF AMERICA BUILDING IS AIRSTREAM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "unitex"
+            },
+            {
+                "predicted": "THE BUSINESS SEEN RIGHT BEFORE THE UNITEX TRUCK PARKED ON THE RIGHT SIDE IS A BANK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bank of america"
+            },
+            {
+                "predicted": "THE SPEED LIMIT MENTIONED ON THE BOARD NEAR THE WHITE FENCE IS 50.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "25"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS C: RIGHT LANE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "left"
+            },
+            {
+                "predicted": "THE PHARMACY LOCATED ON THE RIGHT SIDE OF THE STREET IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "cvs"
+            },
+            {
+                "predicted": "THE LIQUOR SHOP LOCATED NEXT TO THE PHARMACY IS CALLED DUFFY'S.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "liquors"
+            },
+            {
+                "predicted": "THE ADVISORY SPEED LIMIT OF EXIT 17 N IS 15 MPH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "15 mph"
+            },
+            {
+                "predicted": "THE EXIT ONE SHOULD TAKE TO REACH HEMPSTEAD AVE IS THE ONE ON THE RIGHT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "17 n"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) YES, BASED ON THE PROVIDED INFORMATION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "sequoias"
+            },
+            {
+                "predicted": "THE WHITE TRUCK PARKED IN FRONT OF THE BUILDING ENTRANCE HAS A NUMBER WRITTEN ON TOP OF IT AND IT IS 926.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "927"
+            },
+            {
+                "predicted": "THE TRUCK PARKED OPPOSITE THE MAIN ENTRANCE OF THE BUILDING IS WHITE IN COLOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE SERVICE ROAD IN THE VIDEO LEADS TO AVE C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "35 ave"
+            },
+            {
+                "predicted": "THE ANSWER IS D.BACKWARD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "right"
+            },
+            {
+                "predicted": "IF THE VEHICLE MOVES STRAIGHT AHEAD WITHOUT TURNING, IT WILL REACH A 35 AVE ACCORDING TO THE GIVEN OPTIONS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "dead end"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) NO PARKING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "stop ahead"
+            },
+            {
+                "predicted": "THE ANSWER IS D. NISSAN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "nissan"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1 mile"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "jfk expwy"
+            },
+            {
+                "predicted": "THE ANSWER IS D. LOGAN AIRPORT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "kennedy airport"
+            },
+            {
+                "predicted": "TO GET TO WEBSTER AVE FROM THE HIGHWAY, YOU SHOULD TAKE EXIT 3B.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "exit 2b"
+            },
+            {
+                "predicted": "THE SPEED LIMIT FOR EXIT IN THE VIDEO IS 25 MILES PER HOUR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "30"
+            },
+            {
+                "predicted": "THE WHITE SIGN BOARD ON THE RIGHT SIDE HAS A CITY SPEED LIMIT MENTIONED ON IT. THE OPTIONS PROVIDED ARE A, B, C, AND D. CAN YOU PLEASE PROVIDE THE CORRECT ANSWER?",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "25"
+            },
+            {
+                "predicted": "TO REACH HARTFORD, CT, YOU NEED TO GO NORTH ON ROUTE 95 ACCORDING TO THE AVAILABLE OPTIONS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "new haven ct"
+            },
+            {
+                "predicted": "TO REACH THE ROAD MENTIONED IN THE QUESTION, YOU SHOULD TAKE THE EXIT MARKED 2B. THE ANSWER OPTION LETTER IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "webster ave"
+            },
+            {
+                "predicted": "THE WARNING ON THE ORANGE SIGN BOARD ON THE RIGHT SIDE OF THE STREET BEFORE TURNING TO EXIT 2B IS FOR THE DRIVERS TO WATCH OUT FOR CONSTRUCTION. SO, THE ANSWER IS A. CONSTRUCTION ZONE AHEAD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "road work ahead"
+            },
+            {
+                "predicted": "THE BILLBOARD RIGHT AFTER GAS TRAC IS THE ONE THAT ADVERTISES BEST BUY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "best buy"
+            },
+            {
+                "predicted": "THE LED LIGHT DISPLAY ON THE BUS IS SHOWING THE DIRECTION OF THE BUS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "q66"
+            },
+            {
+                "predicted": "THE DIRECTION TO TAKE TO REACH NORTHERN BOULEVARD SERVICE STATION INC FROM THE JUNCTION IS LEFT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "right"
+            },
+            {
+                "predicted": "THE BLACK LETTER THAT YOU SEE ON THE BUS IS WRITTEN AS C.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "643"
+            },
+            {
+                "predicted": "THE OPTION AVAILABLE FOR \"299\" IN GAS TRAC IS THE DIESEL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "diesel"
+            },
+            {
+                "predicted": "THE EXIT FOR MERRICK BLVD IS C EXIT 25B.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "exit 24b"
+            },
+            {
+                "predicted": "THE RECOMMENDED SPEED LIMIT FOR THE EXIT IS 50.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "25"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D. FRANCIS LEWIS STREET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "francis lewis blvd"
+            },
+            {
+                "predicted": "THE ANSWER IS D. EXIT 25.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "exit 24a"
+            },
+            {
+                "predicted": "THE ANSWER IS D.\n\nACCORDING TO THE GIVEN OPTIONS, THE EXIT TO TAKE IN ORDER TO REACH FRANCIS LEWIS BOULEVARD IS EXIT 24B.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "merrick blvd"
+            },
+            {
+                "predicted": "THE VEHICLES THAT ARE ALLOWED ON THE RIGHT-MOST LANE ARE BUSES, ACCORDING TO THE INFORMATION PROVIDED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "bus"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "20"
+            },
+            {
+                "predicted": "THE SPEED LIMIT AROUND THE SCHOOL PREMISES FROM MON-FRI IS 25.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "20"
+            },
+            {
+                "predicted": "THE ROAD IN THE VIDEO HAS WHITE BLOCK LETTERS THAT READ \"STOP\".",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "stop"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "212 660 7725"
+            },
+            {
+                "predicted": "THE STREET THAT GOES TO THE RIGHT FROM THE TRAFFIC SIGNAL IS WEBSTER AVENUE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "webster av"
+            },
+            {
+                "predicted": "THE WARNING TEXT WRITTEN ON THE ROAD IS ABOUT NOT DRIVING AGAINST THE TRAFFIC FLOW. THEREFORE, THE ANSWER IS D. DO NOT ENTER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "stop"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. NO.).",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE ANSWER IS D.RIGHT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "right"
+            },
+            {
+                "predicted": "THE VEHICLES IN THE VIDEO SHOULD MOVE TO THE LEFT AFTER PASSING THE STOP SIGN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "right"
+            },
+            {
+                "predicted": "THE CONTACT NUMBER OF D'MINELYS BEAUTY SALON IS 718-640-5655.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "718-975-0655"
+            },
+            {
+                "predicted": "THE ANSWER IS C: THE WASH HOUSE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "laundromat"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO. CAN YOU PLEASE PROVIDE THE CORRECT ANSWER FOR THE QUESTION AND EXPLAIN THE CONTEXT?",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "649-4324"
+            },
+            {
+                "predicted": "TO REACH BUFFALO AVE, ONE NEEDS TO HEAD TO THE RIGHT DIRECTION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "south"
+            },
+            {
+                "predicted": "THE LOGO OF MC'DONALD'S IS YELLOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE ADVISORY SPEED LIMIT IN THE EXIT 24 N IS 30 MPH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "30 mph"
+            },
+            {
+                "predicted": "TO REACH MEADOWBROOK RD, ONE SHOULD TAKE THE EXIT ON THE RIGHT ACCORDING TO THE ANSWER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "23"
+            },
+            {
+                "predicted": "THE ANSWER IS D.LEFT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "left"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) TURNING RIGHT IS PERMITTED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE ANSWER IS D. TURNING RIGHT IS PERMITTED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE TUNNEL THAT CAN BE ACCESSED AFTER TAKING A LEFT AT THE INTERSECTION IS THE QUEENS MIDTOWN TUNNEL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "holland tunnel"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO TRAFFIC INTERSECTIONS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO. COULD YOU PLEASE PROVIDE THE CORRECT ANSWER?",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1-800-573-2008"
+            },
+            {
+                "predicted": "THE ANSWER IS D: WWW.NUZZICE.INFO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "www.nuzzice.com"
+            },
+            {
+                "predicted": "THE ANSWER IS D. BROS.ICE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "u-haul"
+            },
+            {
+                "predicted": "THE ANSWER IS (B): STRAIGHT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "right"
+            },
+            {
+                "predicted": "THE ANSWER IS B: CHASE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "deli grocery"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION. COULD YOU PLEASE PROVIDE THE CORRECT ANSWER?",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "www.goodwillnynj.org"
+            },
+            {
+                "predicted": "BASED ON THE VIDEO, THE ANSWER IS D. YES, THERE IS CONSTRUCTION HAPPENING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE TRUCKS OF THE COMPANIES THAT ARE PARKED ON THE RIGHT SIDE INCLUDE A, B, AND C. THE OPTION LETTER FOR THE CORRECT ANSWER IS C, AS THE TRUCKS OF DHL, AMAZON, AND FEDEX ARE PARKED ON THE LEFT SIDE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "fedex"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) 35.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "school"
+            },
+            {
+                "predicted": "THE NAME OF THE VEHICLE SHOWN IN THE VIDEO IS AN AMBULETTE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "cathay express"
+            },
+            {
+                "predicted": "THE NUMBER OF THE STREET MENTIONED IN THE VIDEO IS 41ST.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "41 st"
+            },
+            {
+                "predicted": "THE WHITE ARROW ON THE BLACK BOARD PLACED ON THE RIGHT SIDE SUGGESTS THAT IT IS A CLEARANCE, OR NO ENTRY, SIGN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "one way"
+            },
+            {
+                "predicted": "THERE IS A SCHOOL AHEAD ACCORDING TO THE INFORMATION PROVIDED IN THE VIDEO. THEREFORE, THE ANSWER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE ANSWER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "mobil"
+            },
+            {
+                "predicted": "THE TRAFFIC SIGN NEAR THE FUEL RETAIL OUTLET INDICATES THAT YOU SHOULD NOT TURN IN THE DIRECTION OF THE LEFT. THE ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "right"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "7"
+            },
+            {
+                "predicted": "THE ADVISORY SPEED LIMIT MENTIONED IN THE VIDEO IS 716.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "30"
+            },
+            {
+                "predicted": "THE CONTACT NUMBER OF TONY'S BROOKLYN FACTORY IS D. IT IS 718-277-8300.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "718-277-8300"
+            },
+            {
+                "predicted": "THE ANSWER IS D: 10 TERMINAL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "8"
+            },
+            {
+                "predicted": "THE LAUNDRY SHOP IN THE VIDEO IS CALLED SUPER CLEAN LAUNDRY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "super laundromat"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "7"
+            },
+            {
+                "predicted": "THE TERMINAL THAT MENTIONS BRITISH AIRWAYS IS THE C TERMINAL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "7"
+            },
+            {
+                "predicted": "THE ANSWER IS D. UNFORTUNATELY, BASED ON THE VIDEO, IT SEEMS LIKE ONLY AUTHORIZED PERSONNEL CAN PARK THEIR VEHICLES IN THE LANE. THEREFORE, THE ANSWER OPTION IS C, NO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE COLOR OF THE TISSUE PLACED IN FRONT OF THE VEHICLE IS GRAY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE BUSINESS SEEN ON THE RIGHT SIDE ACROSS THE TRAFFIC INTERSECTION IS A BARBER SHOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "barber shop"
+            },
+            {
+                "predicted": "THE FOOD MARKET IS LOCATED ON THE LEFT SIDE WHEN YOU GO STRAIGHT FROM THE JUNCTION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "left"
+            },
+            {
+                "predicted": "THE WARNING WRITTEN ON THE ROAD IS RELATED TO TRAFFIC.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "stop"
+            },
+            {
+                "predicted": "THE BUSINESS LOCATED ON THE FLOOR ABOVE AMALGAMATED BANK IS A BANK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "mattress firm"
+            },
+            {
+                "predicted": "THE BANK LOCATED BELOW THE MATTRESS FIRM SHOWROOM IS A COMMUNITY BANK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "amalgamated bank"
+            },
+            {
+                "predicted": "THE VEHICLES MOVING IN THE MIDDLE LANE SHOULD TURN RIGHT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "straight"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "e 80 st"
+            },
+            {
+                "predicted": "THE ADVISORY SPEED LIMIT MENTIONED IN THE VIDEO IS 20.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "25"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "the blue"
+            },
+            {
+                "predicted": "THERE IS A SCHOOL CROSSING AHEAD, ACCORDING TO THE VIDEO. THEREFORE, THE ANSWER OPTION LETTER IS D.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE CAR IN THE VIDEO IS IN THE CORRECT LANE TO TURN LEFT. THUS, THE ANSWER IS A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE PIZZA RESTAURANT IS LOCATED ON THE RIGHT SIDE OF THE ROAD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "left"
+            },
+            {
+                "predicted": "THE YELLOW WARNING SIGNS ON BOTH SIDES OF THE ROAD ARE WARNING ABOUT A BUILDING AHEAD. SO, THE ANSWER IS A.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "school"
+            },
+            {
+                "predicted": "THE CONTACT NUMBER PROVIDED IN THE ADVERTISEMENT FOR DONATING A CAR IS B. IT IS 718-207-8781.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "718-207-8781"
+            },
+            {
+                "predicted": "THE SHOP ON THE RIGHT SIDE OF THE ROAD THAT DEALS IN NEW AND USED TIRES IS COLLADO TIRE WAREHOUSE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "collado tire shop"
+            },
+            {
+                "predicted": "THE WRITING ON THE ROAD WARNS ABOUT THE LIBRARY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "school"
+            },
+            {
+                "predicted": "THE WRITING ON THE ROAD IN THE VIDEO WARNS ABOUT A SCHOOL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "school"
+            },
+            {
+                "predicted": "IT IS NOT ALLOWED TO TURN LEFT AT THE SIGNAL ON 20 STREET. SO, THE ANSWER IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) FRIDAY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "sunday"
+            },
+            {
+                "predicted": "IF YOU TAKE A RIGHT TURN FROM THE SIGNAL AT 90 AV, IT'S POSSIBLE THAT THERE MAY BE VEHICLES COMING FROM THE OPPOSITE DIRECTION, BUT IT CANNOT BE CONFIRMED AS AN ABSOLUTE FACT. SO, THE ANSWER TO THE QUESTION IS C, NO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D: EXIT 14.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "exit 16"
+            },
+            {
+                "predicted": "THE OPTION LETTER THAT CORRESPONDS TO THE STREET THAT CAN BE REACHED FROM EXIT 15 IS D.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "e 106 st"
+            },
+            {
+                "predicted": "THE VEHICLES THAT ARE OVER 8000 LBS SHOULD TURN TO THE RIGHT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "right"
+            },
+            {
+                "predicted": "THE TYPE OF VEHICLE OVER 12' 7\" HEIGHT THAT SHOULD TAKE THE RIGHT TURN IS A VAN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "trucks"
+            },
+            {
+                "predicted": "THE TRAFFIC WILL BE MERGING FROM THE RIGHT SIDE, ACCORDING TO THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "right"
+            },
+            {
+                "predicted": "THE ANSWER IS A. CANDLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "canal"
+            },
+            {
+                "predicted": "THE BLUE SIGN ON THE RIGHT ADVERTISES THE LUGGAGE SHOP. THE ANSWER OPTION LETTER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "royal luggage"
+            },
+            {
+                "predicted": "THE ANSWER IS LATEX RUBBER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "foam rubber"
+            },
+            {
+                "predicted": "THE NAME OF THE STREET AHEAD IS D.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "greene st"
+            },
+            {
+                "predicted": "THE ANSWER IS (D. ROYAL.).",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE ROAD THAT LEADS TOWARDS THE RIGHT DIRECTION IS INDEED A ONE-WAY ROAD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) 24.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "24"
+            },
+            {
+                "predicted": "THE ROAD DOES HAVE A CYCLE BIKE LANE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "canal"
+            },
+            {
+                "predicted": "THE CYCLE BIKE LANE IS LOCATED ON THE RIGHT SIDE OF THE ROAD, AS PER THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "right"
+            },
+            {
+                "predicted": "THE NAME OF THE AUTOMOBILE REPAIR STORE SHOWN IN THE VIDEO IS D. IT STANDS FOR MASTER TECH AUTO CLINIC.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "master tech auto body"
+            },
+            {
+                "predicted": "THE CONTACT NUMBER FOR MASTER TECH AUTO BODY IS 510-842-3240.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "510-842-3241"
+            },
+            {
+                "predicted": "THE LAUNDRY SERVICE THAT HAS A PARKING AREA TO THE RIGHT IS EAST BAY LAUNDRY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "east bay laundry"
+            },
+            {
+                "predicted": "THE PARKING AREA FOR EAST BAY LAUNDRY IS LOCATED ON THE RIGHT SIDE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "right"
+            },
+            {
+                "predicted": "THE ANSWER IS D. 866-727-5738.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "866-727-5736"
+            },
+            {
+                "predicted": "THE BUS NUMBER MENTIONED IN THE QUESTION IS C.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "32"
+            },
+            {
+                "predicted": "THE BUS IN THE VIDEO IS HEADING TOWARDS THE AIRPORT. THEREFORE, THE ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "airport"
+            },
+            {
+                "predicted": "THE ANSWER IS D. 80 NEVINS ST.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "68 nevins st"
+            },
+            {
+                "predicted": "THE TRAFFIC IS ALLOWED TO MOVE TOWARDS THE LEFT ON STATE STREET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "left"
+            },
+            {
+                "predicted": "BASED ON THE VIDEO, IT SEEMS THAT VEHICLES ARE ALLOWED TO TURN RIGHT AT THE INTERSECTION. THEREFORE, THE CORRECT ANSWER IS C: VEHICLES MUST TURN RIGHT AT THE INTERSECTION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE SIGNBOARD ABOVE THE STREET NAME SIGNS ON THE RIGHT SIDE OF THE ROAD IN THE VIDEO SAYS \"ONE WAY\".",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "keep intersection clear"
+            },
+            {
+                "predicted": "THE EXIT THAT LEADS TO LINDEN BLVD IS EXIT 4.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "exit 3"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "12"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "95"
+            },
+            {
+                "predicted": "THE ANSWER IS D: 60 MPH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "40"
+            },
+            {
+                "predicted": "THE ADVISORY SPEED LIMIT ON THE RAMP SHOWN IN THE VIDEO IS 30 MPH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "40 mph"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO ANY OF THE OPTIONS PROVIDED AND IS NOT VALID. CAN YOU PLEASE PROVIDE A VALID ANSWER OR REFER TO THE CORRECT OPTIONS?",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE ROAD IS ONLY ACCESSIBLE TO VEHICLES WITH LICENSE PLATES. THEREFORE, THE ANSWER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "passenger cars"
+            },
+            {
+                "predicted": "THE VEHICLES THAT ARE NOT ALLOWED TO USE THE ROUTE ARE BUSES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "trucks"
+            },
+            {
+                "predicted": "THE ANSWER IS D. CROSS IS THE HIGHWAY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "cross is pkwy"
+            },
+            {
+                "predicted": "THERE IS NO PARKING AHEAD ACCORDING TO THE INFORMATION PROVIDED IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "TO AVOID CONFUSION, THE ANSWER GIVEN IN THE OPTIONS IS A COMBINATION OF BOTH OPTIONS A AND C. THE ANSWER LETTER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "right"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE ANSWER IS D. YES, THERE IS A PEDESTRIAN CROSSING ON THE LEFT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE PEDESTRIANS SHOULD AVOID THE ROAD AHEAD ACCORDING TO THE ANSWER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "detour"
+            },
+            {
+                "predicted": "THE EXIT THAT LEADS TO CROSS IS PKWY IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "23"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "right"
+            },
+            {
+                "predicted": "ACCORDING TO THE VIDEO, THE DRIVER NEEDS TO BE ON THE RIGHT LANE TO REACH CROSS IS. THUS, THE ANSWER IS A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE LEFT LANE CAN BE USED TO REACH EXIT 23.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "48"
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.0
+    }
+}

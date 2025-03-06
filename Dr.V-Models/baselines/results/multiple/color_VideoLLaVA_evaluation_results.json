@@ -1,0 +1,934 @@
+{
+    "color": {
+        "accuracy": 0.48494983277591974,
+        "unmatched_cases": [
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "white",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "yellow",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "black",
+                "expected_text": "dark blue"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "black",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "blue",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "brown",
+                "expected_text": "purple"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "red and green",
+                "expected_text": "black and white"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "blue",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "blue",
+                "expected_text": "purple"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "charcoal gray",
+                "expected_text": "navy blue"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "green",
+                "expected_text": "pink"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "green",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "purple",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "dark grey",
+                "expected_text": "navy blue"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "blue",
+                "expected_text": "cyan"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "black",
+                "expected_text": "golden"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "navy blue",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "brown",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "red",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "black",
+                "expected_text": "golden"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "red",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "green",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "black",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "blue",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "green",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "tan",
+                "expected_text": "brown"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "blue",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "brown",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "green",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "blue",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "red",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "light grey",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "red",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "brown",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "orange",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "red",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "black",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "orange",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "green and yellow",
+                "expected_text": "blue and red"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "pink",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "yellow",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "green",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "white",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "blue",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "brown",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "blue",
+                "expected_text": "orange"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "yellow",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "navy blue",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "grey and white",
+                "expected_text": "black and white"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "brown",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "green",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "light grey",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "green and brown",
+                "expected_text": "black and white"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "red",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "blue",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "light blue",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "light blue",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "purple",
+                "expected_text": "pink"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "yellow",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "light blue",
+                "expected_text": "cream"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "grey",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "pink",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "black",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "blue",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "blue",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "brown",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "green",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "blue",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "burgundy",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "blue",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "purple",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "brown",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "yellow",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "red",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "blue",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "black",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "red",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "yellow",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "purple and yellow",
+                "expected_text": "blue and green"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "purple",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "blue",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "white",
+                "expected_text": "dark green"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "red",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "yellow",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "auburn",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "silver",
+                "expected_text": "golden"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "black",
+                "expected_text": "brown"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "red",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "charcoal gray",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "yellow",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "green",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "green",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "black",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "green",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "copper",
+                "expected_text": "silver"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "blue",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "red",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "brown",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "blue and white",
+                "expected_text": "black and white"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "yellow",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "yellow",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "soft blue",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "blue",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "orange",
+                "expected_text": "purple"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "orange",
+                "expected_text": "brown"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "navy blue",
+                "expected_text": "gray"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "brown",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "brown",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "cream",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "blue",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "charcoal",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "blue",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "navy",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "yellow",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "auburn",
+                "expected_text": "golden"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "yellow and white",
+                "expected_text": "black and white"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "beige",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "red",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "blue",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "black",
+                "expected_text": "orange"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "yellow",
+                "expected_text": "gray"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "green",
+                "expected_text": "golden"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "yellow",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "white",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "yellow",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "navy blue",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "blue",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "yellow",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "yellow",
+                "expected_text": "transparent"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "black",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "blue",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "blue",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "red",
+                "expected_text": "silver"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "grey",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "white",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "dark grey",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "brown",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "orange",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "yellow",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "brown",
+                "expected_text": "gray"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "red",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "green",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "red",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "blonde",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "green",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "yellow",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "chestnut",
+                "expected_text": "golden"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "red",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "yellow",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "black",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "blue",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "green",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "blue",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "green",
+                "expected_text": "black"
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.48494983277591974
+    }
+}

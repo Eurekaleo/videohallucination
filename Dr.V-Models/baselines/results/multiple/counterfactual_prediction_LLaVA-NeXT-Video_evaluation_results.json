@@ -1,0 +1,700 @@
+{
+    "counterfactual_prediction": {
+        "accuracy": 0.6166666666666667,
+        "unmatched_cases": [
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "[person_1] would accidentally step on a slippery surface and fall.",
+                "expected_text": "[person_1] would not be able to keep up with the tempo."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "[person_1] will continue playing despite the rain.",
+                "expected_text": "[person_1] will enter the house."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The lights could go out, leaving [person_5] amazed in the dark.",
+                "expected_text": "Others would cheer for [person_5] together."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "[person_1] will make a mess in the kitchen that everyone enjoys.",
+                "expected_text": "The [person_1] will cook a gourmet meal instead of finishing the project."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "[person_1]'s shadow will detach and dance alone.",
+                "expected_text": "[person_1] can't turn around and jump."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "The lights will flicker, causing a minor distraction.",
+                "expected_text": "Nothing will happen."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "A rush of air will cause papers in the room to scatter everywhere.",
+                "expected_text": "[person_1] will pick it up without any damage."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "The group dynamics will drastically change, leading to a heated debate.",
+                "expected_text": "The other people would refuse that."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "[person_2] would laugh uncontrollably at jokes.",
+                "expected_text": "[person_2] will lie on the bed for a while."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "[person_1] will call for help from [cell phone_1].",
+                "expected_text": "[person_1] would not stand there."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "The wrapper might explode, scattering its contents everywhere.",
+                "expected_text": "The [person_2] would help the [person_1]."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "The [person_1] would become startled and jump back.",
+                "expected_text": "The balloon would be broken immediately."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Then [person_1] might decide to start a new game instead.",
+                "expected_text": "[person_1] and [person_2] will stop playing."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The generator will start automatically.",
+                "expected_text": "Nothing would happen"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "A teacher might begin delivering a lecture.",
+                "expected_text": "Students may have lunch."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The room will begin to fill with water.",
+                "expected_text": "[person_1] will call his mother."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "[person_2] might attempt to juggle to distract onlookers.",
+                "expected_text": "[person_2] and [person_3] will stretch their hands."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "[person_1] might suddenly start drumming instead.",
+                "expected_text": "[person_2] would not play the drums."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "[person_1] will throw the bubble wand away.",
+                "expected_text": "The string will fall on the ground."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "[person_1] would likely return the cymbals quickly.",
+                "expected_text": "[person_1] might be deemed as very impolite."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The [person_1] could begin dancing with an invisible partner.",
+                "expected_text": "[person_1] will give up."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "[person_1] might slip and fall on a puddle, causing him to lose his balance.",
+                "expected_text": "[person_1] will have to change into other clothes"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The wood might curve unexpectedly.",
+                "expected_text": "[person_1] would have to spend more time to plane it and show to the camera."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "[person_1] might start doing a happy dance.",
+                "expected_text": "Maybe [person_1] will jump up."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "[person_1] will lose balance and fall down.",
+                "expected_text": "[person_1] will continue playing."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "[person_1] will accidentally stick patches to the table.",
+                "expected_text": "[person_1] will watch [person_1] playing the toy."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The penguins will begin to dance.",
+                "expected_text": "The game will be over."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "[person_1] might spill the water she was holding.",
+                "expected_text": "[person_1] would hurt herself with a razor."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "[person_2] begins to spin around like they're skating.",
+                "expected_text": "[person_2] will then lie on the snow."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "[person_1] will drop the wood, causing it to splinter.",
+                "expected_text": "[person_1] will make a new one."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "[person_1] would quickly grab the handle to avoid falling.",
+                "expected_text": "[person_1] would stop for a minute."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "[person_1] might rush to shield the drum set from the flying mallets.",
+                "expected_text": "[person_1] may stand up to collect the mallets for [person_2]."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "[person_1] would accidentally hit a teammate with the ball.",
+                "expected_text": "[person_1] will be very confident in himself."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "[person_1] will expertly catch the guitar with one hand and continue playing.",
+                "expected_text": "[person_1] might not be expecting it and accidentally drop his guitar on the floor."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "[person_1] would accidentally trigger an alarm, causing everyone to evacuate.",
+                "expected_text": "The people at the funeral would begin to get aggressive with [person_1] , and he would apologize while he left quickly."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The lights might flicker and cause a distraction.",
+                "expected_text": "Maybe [person_2] will stop telling the audience about the workout."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The chair could tilt back slightly.",
+                "expected_text": "The bottle might strike down."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "The table might get suddenly cluttered with tools.",
+                "expected_text": "The kitchen table can be cleaner."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "It would mess up the piano keys.",
+                "expected_text": "It would not affect the feeling."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "[person_1] might start juggling to entertain [person_5].",
+                "expected_text": "[person_5] might get injured because of the sword."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "[person_1]'s cat would knock over a vase as a result of excitement.",
+                "expected_text": "[person_1] would invite her friend to eat the marshmallows."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "A surprise visitor might ring the doorbell at [person_1]'s house.",
+                "expected_text": "[person_1] wouldn't in the workshop."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "[person_1] might start singing instead.",
+                "expected_text": "[person_1] will miss the beat."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "[person_1] may suddenly feel the urge to sing.",
+                "expected_text": "[person_1] would tell with parents."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The lights on stage would start flickering unexpectedly.",
+                "expected_text": "[person_2] and [person_3] would fell too."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "[person_2] will likely gain another chance to guess a hidden tile.",
+                "expected_text": "[person_2] will win."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "[person_1] will decide to juggle the apples instead.",
+                "expected_text": "[person_1] will gather the apple."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "[person_1] would likely start packing up the stall.",
+                "expected_text": "[person_1] wouldn't pass the fruit to his customer."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "[person_1] will see colors more vividly.",
+                "expected_text": "[person_1] will have a rest"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The rope might snap, causing [person_2] to fall back.",
+                "expected_text": "The [person_2] could not pick blueberries."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "[person_1] might drop the hammer on their foot, causing a minor injury.",
+                "expected_text": "[person_1] will stop [person_1]."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "The table will suddenly collapse.",
+                "expected_text": "[book_12] will startle [person_1]."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "The apple could bounce back and hit [person_1].",
+                "expected_text": "[person_1] has to stand up."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "[person_1] will accidentally pop all the remaining bubbles.",
+                "expected_text": "[person_1] and [person_2] will find some foam and water."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The box will bounce back up and land on the table.",
+                "expected_text": "The box will break."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "The shelf nearby might unexpectedly tilt, threatening to topple.",
+                "expected_text": "[person_2] will call the manager of the shop."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "[person_1] could remain perfectly balanced on one foot.",
+                "expected_text": "[person_1] might not be able to do somersault."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "[person_1] may need to quickly grab the table to steady themselves.",
+                "expected_text": "[person_1] will fall down."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "[person_1] would quietly put down his bagpipes and walk away from the camera, avoiding eye contact.",
+                "expected_text": "[person_1] would stop acting silly while playing the bagpipes the moment he sees the camera."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "[person_1] will trip over the paper and fall.",
+                "expected_text": "[person_1] will be very amused."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "[person_1]'s glasses would be picked up by a helpful passerby who then starts a conversation.",
+                "expected_text": "[person_1] wouldn't read the newspaper anymore."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The cups will form a tower that topples over.",
+                "expected_text": "[person_1] will be lose."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "The books could topple over and scatter.",
+                "expected_text": "Perhaps the cup will fall."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Water from the fridge will splash all over [person_1] when the door opens.",
+                "expected_text": "The [person_1] will fall to the ground."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "[person_1] might trip over an unseen step due to glare.",
+                "expected_text": "[person_1] might be irritated by the sun."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "[person_1] may accidentally poke the table with the pencil.",
+                "expected_text": "[person_1] will draw a picture."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "[person_1] may decide to dance across the stage.",
+                "expected_text": "The [person_1] will not meet difficulty in holding accordion balance rightly."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "The [person_1] might decide to report it to a supervising adult.",
+                "expected_text": "He would ask their mother to help them."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The music player would stop on its own.",
+                "expected_text": "The bag of the present will not be opened by [person_1]."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "[person_1]'s fall will cause the nearby objects to levitate temporarily.",
+                "expected_text": "[person_2] probably wouldn't get up and imitate [person_1]."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "[person_1] would assume they are in a movie scene and start narrating what happens next.",
+                "expected_text": "[person_1] will be scared."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "[person_1] would awkwardly hold the clarinet without playing it.",
+                "expected_text": "[person_1] would not be able to be on a stage."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The floor will become slippery, causing [person_1] to fall.",
+                "expected_text": "The apple skin will be tumble on the floor too."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "[person_1] might drop the coco and hit the piano keys.",
+                "expected_text": "The bottle would be struck down."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The ceiling fan might start spinning in reverse.",
+                "expected_text": "[person_1] would switch off [tv_1]."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "the child would begin to wander off in the garden.",
+                "expected_text": "the child of [person_1] who is wearing a cap would not be able to stand."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "[person_1] might end up spinning in circles trying to catch it.",
+                "expected_text": "[person_1] couldn't turn the stick over and catch the plate on the other end of the stick."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The camels might start eating nearby plants.",
+                "expected_text": "They will be frightened."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "[person_1] will start dancing energetically in the room.",
+                "expected_text": "[person_1] will stop raising her eyebrows."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "[person_1] will encourage others to embrace getting wet.",
+                "expected_text": "[person_1] will run away."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The [person_1] might accidentally peel the table instead of the potato.",
+                "expected_text": "The [person_1] will save time when peeling by bare hands."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Maybe [person_1] will suddenly start dancing.",
+                "expected_text": "Maybe [person_1] will feel hot."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "[person_1] will start to float gently above [chair_1].",
+                "expected_text": "[person_1] would not be able to put her arms down the side."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "the book may close by itself.",
+                "expected_text": "[person_1] will feel excited."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "[person_1] will make all the other instruments sound off-tune.",
+                "expected_text": "Maybe [person_1] will replay that beat."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The room will fill with bubbles and everyone will dance.",
+                "expected_text": "[person_1] will call their mother."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "[person_1] could try clapping hands to make noise.",
+                "expected_text": "[person_1] will have to get one."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "[person_1] might damage the razor blade.",
+                "expected_text": "[person_1] would be sad about it."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "[person_1] and others will start clapping.",
+                "expected_text": "They would be all right."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "[person_1] will decide to practice even harder.",
+                "expected_text": "[person_1] cannot continue to practice."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Then [person_1] may decide to switch instruments.",
+                "expected_text": "[person_1] will sing the wrong music."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "[person_1] might slip and fall backwards.",
+                "expected_text": "[person_1] could not slide down."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The hat will cause [person_1] to mistakenly kick it and slip.",
+                "expected_text": "[person_1] will have to steer clear of high - impact moves."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The chessboard could be accidentally overturned by [person_1].",
+                "expected_text": "[person_1] will break the chessman."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "[person_1] would jump back startled but remain unharmed.",
+                "expected_text": "It would seriously hurt [person_1]'s leg."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The gift might contain a loud alarm that will start ringing unexpectedly.",
+                "expected_text": "Water will spill over the floor."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The lights at the party might flicker unexpectedly.",
+                "expected_text": "[person_2] would share her present with [person_1]."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The cap falling might startle the animals nearby.",
+                "expected_text": "[person_1] might not be able to play well."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "[person_1] might accidentally drop the bagpipes.",
+                "expected_text": "[person_1] will quit playing the bagpipes."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "[person_1] could cause water to make the floor slippery, leading to an unexpected dance.",
+                "expected_text": "There would be many water drops flying anywhere."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "[person_2] might drop the accordion, leading to a noise incident.",
+                "expected_text": "[person_2] may have a quick tidy - up."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "[person_1] will accidently damage the equipment.",
+                "expected_text": "[person_1] will change another driller."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "[person_2] might accidentally trip over the dices.",
+                "expected_text": "[person_1] and [person_2] may compete again."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "The [person_1] would perform a quick spin to maintain balance.",
+                "expected_text": "The [person_1] would not walk with the stilts."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "[person_1] might get invited to a TV show for talented riders.",
+                "expected_text": "[person_1] would be very happy."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The cooking process would come to a halt.",
+                "expected_text": "The [person_1] will peel them faster."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "It could bounce back with force, knocking [person_1] off balance.",
+                "expected_text": "The tire would not be broken."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "The guests will start a spontaneous dance to distract from the accident.",
+                "expected_text": "The waiters would come to help with that."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "[person_3] will whistle to get attention.",
+                "expected_text": "[person_3] will speak loud."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "The dog might jump away to avoid the tumble.",
+                "expected_text": "[person_1] will lie on top of the dog."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "The symptoms might immediately worsen, causing an unexpected health improvement.",
+                "expected_text": "The medicine won't work to its fullest effect."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "[person_2] will start looking for candles to continue playing chess.",
+                "expected_text": "[person_2] will stop playing chess."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "[person_1] might begin painting.",
+                "expected_text": "[person_1] maybe afraid."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "[person_1] would light a candle and continue reading.",
+                "expected_text": "[person_1] would neither keep reading [book_1] nor talk with people."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "[person_1] will decide to run alongside the vehicle for faster progress.",
+                "expected_text": "[person_1] will continue walking the horse."
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.6166666666666667
+    }
+}

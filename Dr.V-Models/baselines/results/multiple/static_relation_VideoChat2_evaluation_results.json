@@ -1,0 +1,2872 @@
+{
+    "static_relation": {
+        "accuracy": 0.0,
+        "unmatched_cases": [
+            {
+                "predicted": "THE ANSWER IS (C) HOUSE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "THE ANSWER IS D. BOOKSHELF.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pot"
+            },
+            {
+                "predicted": "THE PERSON IN PURPLE CLOTHES HAS THEIR FEET ON THE HORIZONTAL BAR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "horizontal bar"
+            },
+            {
+                "predicted": "THE PERSON WEARING WHITE CLOTHES HAS A BOOKSHELF IN FRONT OF THEM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "food"
+            },
+            {
+                "predicted": "THE OBJECT IN FRONT OF THE PERSON IN GRAY IS A CUPBOARD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "cabinet"
+            },
+            {
+                "predicted": "THE OBJECT THAT IS LOCATED ON THE RIGHT OF THE PERSON IN THE GREEN COAT IS A BOOKSHELF.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "hair drier"
+            },
+            {
+                "predicted": "THE GROUND IS UNDER THE TABLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "THE WOMAN IN FRONT IS WEARING A SWEATER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "boiler"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS STANDING ON THE GROUND WHILE WEARING SHOES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "woman in white"
+            },
+            {
+                "predicted": "THE ANSWER IS C. TABLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE PERSON WEARING BLUE IN THE VIDEO HAS A BOOKSHELF BEHIND THEM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "white man"
+            },
+            {
+                "predicted": "THE LEFT SIDE OF THE WOMAN WEARING LIGHT BLUE CLOTHES IS THE WOMAN IN BLUE CLOTHES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "child"
+            },
+            {
+                "predicted": "THE WOMAN WEARING GLASSES IS BEHIND A BOOKSHELF FILLED WITH BOOKS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "ornament"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blue plastic film"
+            },
+            {
+                "predicted": "THE OBJECT THAT CAN BE SEEN IN FRONT OF THE REFEREE IS A SCOREBOARD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "guardrail net"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bullfighting field"
+            },
+            {
+                "predicted": "THE ATHLETE IS PERFORMING A DIVE IN THE POOL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "pool"
+            },
+            {
+                "predicted": "THE ANSWER IS D.MOUNTAIN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "THE LEFT-HANDED INJURED GIRL IS STANDING NEXT TO A BOOKSHELF.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "wood"
+            },
+            {
+                "predicted": "THE ANSWER IS D. RUG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE ANSWER IS D.SPECTATOR SEATS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "spectator seats"
+            },
+            {
+                "predicted": "THE ANSWER IS D. FOREST.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "floor"
+            },
+            {
+                "predicted": "THE ANSWER IS D. WATER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "water"
+            },
+            {
+                "predicted": "THE OBJECT THAT IS VISIBLE IN FRONT OF THE AUDIENCE IS A LARGE TREE WITH A BENCH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "horse running yard"
+            },
+            {
+                "predicted": "THE ANSWER IS D.PADS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pads"
+            },
+            {
+                "predicted": "THE PERSON MAKING THE FIRE IS STANDING ON THE RIGHT SIDE. THEREFORE, THE ANSWER IS C.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "fence"
+            },
+            {
+                "predicted": "THE PERSON WHO PUSHES THE SHOT IS WEARING A TRACK SHOE, WHICH IS UNDER THEIR FOOT. SO, THE CORRECT OPTION LETTER IS C.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "circle"
+            },
+            {
+                "predicted": "THE GIRL WEARING A BLUE VEST IS UNDERGOING TRAINING ON THE BARS, WHICH ARE ALSO KNOWN AS BALANCE BEAMS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "gymnastic mat"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "main committee"
+            },
+            {
+                "predicted": "THE PERSON IN THE BLACK T-SHIRT IS STANDING IN FRONT OF A TABLE FOOTBALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "table football"
+            },
+            {
+                "predicted": "THE CHILD IN BLACK IS WEARING A WHITE SHIRT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "white man"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS BEHIND A BOOKSHELF.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "sofa"
+            },
+            {
+                "predicted": "THE PERSON WEARING THE SWEATER CHAIN IN THE VIDEO HAS A TABLE BEHIND THEM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE LEFT SIDE OF THE PERSON WEARING WHITE CLOTHES IS COVERED IN A BLANKET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE LEFT SIDE OF THE 9TH PLAYER IN THE VIDEO IS A LOCKER ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "THE BACK ROW OF THE WOMAN IN THE VIDEO IS A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "recreational machines"
+            },
+            {
+                "predicted": "THE LEFT SIDE OF THE PURPLE-HAIRED FEMALE'S BODY IN THE VIDEO IS THE ARENA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "THE SWIMSUIT-CLAD PERSON IN THE VIDEO IS WEARING A WETSUIT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "surf board"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS HOLDING A VACUUM CLEANER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "vacuum cleaner"
+            },
+            {
+                "predicted": "THE FRONT OF THE PERSON WEARING BLACK SHORT SLEEVES IS A MACHINE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "machine"
+            },
+            {
+                "predicted": "THE ANSWER IS D. SNOW MOUNTAIN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "snow mountain"
+            },
+            {
+                "predicted": "THE LAMP UNDER THE SHELF NEAR THE TABLE IS THE ANSWER TO THE QUESTION.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "seasoning"
+            },
+            {
+                "predicted": "THE BRUNETTE GIRL IS SURROUNDED BY BOOKSHELVES IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "cabinet"
+            },
+            {
+                "predicted": "THE PERSON WEARING A BLACK TIE IN THE VIDEO IS WEARING A TUXEDO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "water tap"
+            },
+            {
+                "predicted": "THE THING THAT IS UNDER THE WATER TANK IS A SMALL WOODEN BOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "marble"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS PLAYING THE HARMONICA AND THE RIGHT SIDE OF THE PERSON IS A LAMP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "door"
+            },
+            {
+                "predicted": "THE MAN IN WHITE HAS A SHELF ON THE RIGHT WALL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "paper"
+            },
+            {
+                "predicted": "THE ANSWER IS D.TABLE TENNIS TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "table tennis table"
+            },
+            {
+                "predicted": "THE PERSON IN BLACK IS BEHIND A BOOKSHELF.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "THE PERSON WEARING A BLUE VEST IN THE VIDEO IS CARRYING A STICK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "playground"
+            },
+            {
+                "predicted": "THE ANSWER IS D. WINDOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "window"
+            },
+            {
+                "predicted": "THE TOP OF THE FAUCET IN THE VIDEO IS COVERED WITH A DETERGENT DISPENSER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "hand washing box"
+            },
+            {
+                "predicted": "THE ANSWER IS C. RING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "ring"
+            },
+            {
+                "predicted": "THE WOMAN IN TIGHTS IN THE VIDEO IS SURROUNDED BY A ROW OF COLORFUL LOCKERS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "oxygen bottle"
+            },
+            {
+                "predicted": "THE GROUND IN FRONT OF THE PERSON IN THE VIDEO IS COVERED WITH SNOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "vehicle"
+            },
+            {
+                "predicted": "THE MAN PLAYING THE GUITAR IS AHEAD OF A TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "microphone"
+            },
+            {
+                "predicted": "THE ANSWER IS D. FLAG POLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "billboard"
+            },
+            {
+                "predicted": "THE ANSWER IS C. LAMP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "mirror"
+            },
+            {
+                "predicted": "THE PERSON IN THE RED COAT IS STANDING IN FRONT OF A NET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "ball net"
+            },
+            {
+                "predicted": "THE ANSWER IS D: A TALL BUILDING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "spider man"
+            },
+            {
+                "predicted": "THE OBJECT THAT CAN BE SEEN AT THE FEET OF TWO MEN IN THE VIDEO IS A D AIR CUSHION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "air cushion"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) FLOWER BED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "water sled"
+            },
+            {
+                "predicted": "THE OBJECT THAT IS IN FRONT OF THE CHILD IN THE VIDEO IS A VASE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "wine bottle"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING A HARNESS TO CLIMB DOWN BELOW THEM. SO, THE ANSWER IS D. HARNESS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "river"
+            },
+            {
+                "predicted": "THE ANSWER IS WINDOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "mirror"
+            },
+            {
+                "predicted": "THE ANSWER IS D. PARK BENCH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "THE PERSON WEARING A STRIPED SHIRT ON THE RIGHT SIDE IS HOLDING A MICROPHONE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) A ROW OF BICYCLES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "iron block"
+            },
+            {
+                "predicted": "THE PERSON WEARING BLACK CLOTHES IS SEEN STANDING ON THE RIGHT SIDE OF THE FRAME.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "THE ANSWER IS C. WINDOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "window"
+            },
+            {
+                "predicted": "THE ITEM THAT IS BEHIND THE PERSON IN THE VIDEO IS A BOOKSHELF.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "television"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO IS STANDING BEHIND THE BUNGEE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "swimming pool"
+            },
+            {
+                "predicted": "THE ATHLETE IN THE VIDEO IS PLAYING A GAME OF BASKETBALL ON A BASKETBALL COURT. THEREFORE, THE ANSWER TO THE QUESTION MUST BE B.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "rim"
+            },
+            {
+                "predicted": "THE OBJECT THAT CAN BE SEEN IN FRONT OF THE PERSON IN THE VIDEO IS A TELEVISION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "kitchen sink"
+            },
+            {
+                "predicted": "THE PERSON IN BLUE CLOTHES IS STANDING NEXT TO A LARGE BOULDER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "model"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "ball frame"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) SPATULA.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "seasoning"
+            },
+            {
+                "predicted": "THE GROUND THAT THE SKIER IS STANDING ON IS COVERED WITH SNOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "ski"
+            },
+            {
+                "predicted": "THE PERSON AT THE BEGINNING OF THE VIDEO HAS A ROAD IN FRONT OF THEM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pool"
+            },
+            {
+                "predicted": "THE OBJECT ON THE LEFT OF THE MAN IS A BOOKSHELF.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE MAN WEARING A WHITE SHIRT ON THE RIGHT SIDE OF THE VIDEO IS THE ONE HOLDING A CELL PHONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black hat man"
+            },
+            {
+                "predicted": "THE PERSON IN YELLOW CLOTHES IS WEARING A PAINTING ON THEIR CLOTHES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "timer"
+            },
+            {
+                "predicted": "THE ANSWER IS (A) LIGHTHOUSE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "mountain"
+            },
+            {
+                "predicted": "THE PERSON IN RED CLOTHES IS STANDING IN FRONT OF A BALL TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "ball table"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WEARING A TIE IS A WOMAN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "woman"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO IS WEARING A DRESS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE PERSON GETTING THEIR HAIR CUT IN THE VIDEO HAS A PAIR OF SCISSORS IN FRONT OF THEM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE OBJECT IN FRONT OF THE PERSON IN THE VIDEO IS A COUCH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "juicer"
+            },
+            {
+                "predicted": "THE PERSON WEARING BLUE CLOTHES IN THE VIDEO IS STANDING ON THE RIGHT SIDE OF THE VIDEO AND IS HOLDING A SHOVEL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE MAN IN BLACK IS STANDING BEHIND A WALL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE FRONT OF THE FEMALE ATHLETE IN THE BEGINNING OF THE VIDEO IS A FLOWER GARDEN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "small house"
+            },
+            {
+                "predicted": "THE OBJECT THAT IS VISIBLE IN FRONT OF THE MAN IN BLACK IS A TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE ANSWER IS D: AUDIENCE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "THE PERSON WEARING WHITE IS ON A MAT UNDER THEIR FEET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "yoga mat"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS PERFORMING UNDERWATER. SO, THE CORRECT OPTION LETTER FOR THE ANSWER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "water"
+            },
+            {
+                "predicted": "THE ANSWER IS D. CAR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "car"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO IS WEARING ROLLER SKATES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "lake"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING A CAP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "vehicle"
+            },
+            {
+                "predicted": "THE ANSWER IS D.SPECTATOR SEATS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "spectator seats"
+            },
+            {
+                "predicted": "THE WOMAN WEARING A WHITE HAT IS STANDING BEHIND A NEWS CREW IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "automobile"
+            },
+            {
+                "predicted": "THE LAST BLONDE WOMAN ON THE LEFT HAND OF THE VIDEO IS A CURLING BRUSH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "curling brush"
+            },
+            {
+                "predicted": "THE FRONT OF THE WOMAN WITH LONG HAIR IS THE TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "mirror"
+            },
+            {
+                "predicted": "THE OBJECT ON THE MAN'S LEG WEARING A FLOWER SHIRT IS A LEG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "black hair girl"
+            },
+            {
+                "predicted": "THE PERSON IN THE WHITE SHIRT IS STANDING NEXT TO A SWIMMING POOL, BUT THERE IS NO SIGN OF A LARGE OAK TREE, PICNIC TABLE, OR A BASKETBALL COURT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "swimming pool"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) A BOWL IN FRONT OF THE TV.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "ice cream"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE GIVEN OPTIONS. IT SEEMS TO BE RELATED TO A RIVER OR WATERWAY IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "yellow bag"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS USING A HARNESS AND A LEASH TO WALK THE DOG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "glass"
+            },
+            {
+                "predicted": "THE ANSWER IS D.STAND.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "stand"
+            },
+            {
+                "predicted": "THE PERSON IN BLACK APPEARS TO BE STANDING BEHIND A SMALL WINDOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "small window"
+            },
+            {
+                "predicted": "THE ANSWER IS D. WALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE OBJECT THAT IS BEHIND THE CHRISTMAS TREE IN THE VIDEO IS A CANDLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "window"
+            },
+            {
+                "predicted": "THE ITEM THAT IS SEEN ON THE ROUND TABLE IS A WINE GLASS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "wine glass"
+            },
+            {
+                "predicted": "THE FRONT OF THE MAN WEARING A DIVING SUIT IN THE VIDEO IS THE SEA BED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "shoal of fish"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) OCEAN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SHOOTING TOWARDS THE LEFT, WHICH IS IN THE DIRECTION OF THE TREE ON THE LEFT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "front"
+            },
+            {
+                "predicted": "THE ANSWER IS D.ENCLOSURE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "enclosure"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS PLAYING A HARMONICA BEHIND HIM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "THE ANSWER IS A. CANVAS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "canvas"
+            },
+            {
+                "predicted": "THE TOP OF THE CLOCK IN THE VIDEO IS LABELED D.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "air conditioner"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO IS PLAYING IN A FIELD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "playground"
+            },
+            {
+                "predicted": "THE PERSON WHO IS PULLING THE ROPE IN THE VIDEO IS BEING PULLED BY THE CURRENT OF THE RIVER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "shore"
+            },
+            {
+                "predicted": "THE ANSWER IS D. GRASS FIELD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "gymnastic mat"
+            },
+            {
+                "predicted": "THE ANSWER IS C. TREE OVERSHADOWING THE SKIER FROM THE RIGHT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "sedan"
+            },
+            {
+                "predicted": "THE LEFT SIDE OF THE PERSON WHO FIRST DIGS THE GROUND WITH A SPADE IS A FENCE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "enclosure"
+            },
+            {
+                "predicted": "THE ANSWER IS A. SAW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "saw"
+            },
+            {
+                "predicted": "THE THING THAT CAN BE SEEN IN FRONT OF THE SAND IS A GROUP OF PEOPLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sea"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS BEHIND A KIOSK STAND.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "spectator seats"
+            },
+            {
+                "predicted": "THE SKI RESORT IN THE VIDEO HAS A LAKE IN FRONT OF IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "wood"
+            },
+            {
+                "predicted": "THE ANSWER IS C. A SCOREBOARD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "spectator seats"
+            },
+            {
+                "predicted": "THE ANSWER IS D: AUDIENCE STANDS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "referee"
+            },
+            {
+                "predicted": "THE EXERCISER IS HOLDING A BAR DIPS ON THE LEFT SIDE IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "grassland"
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "shelf"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "red baffle"
+            },
+            {
+                "predicted": "THE PERSON WEARING THE PLAID SHIRT IS STANDING IN FRONT OF A TREE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "basket"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) MOUNTAIN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "house"
+            },
+            {
+                "predicted": "THE RIGHT SIDE OF THE PERSON WEARING BLUE SWIMMING TRUNKS IS THE BOTTOM SIDE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "ladder"
+            },
+            {
+                "predicted": "THE PERSON WEARING A WHITE APRON HAS A FLOWER POT IN FRONT OF THEM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) STAR SHAPED TOY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "star shaped toy"
+            },
+            {
+                "predicted": "THE OBJECT THAT CAN BE SEEN IN FRONT OF THE PERSON WEARING BLACK CLOTHES IS A TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE LEFT SIDE OF THE SLIDE FEATURES A LINE OF BUSHES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "grass"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) WOODEN HOUSE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "wooden house"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "snow land"
+            },
+            {
+                "predicted": "THE PERSON WEARING YELLOW CLOTHES IS STANDING ON A FLOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "inverted reflection in water"
+            },
+            {
+                "predicted": "THE LEFT SIDE OF THE FORK IN THE VIDEO IS THE FORK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "plate"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "bicycle"
+            },
+            {
+                "predicted": "THE ANSWER IS C: AUDIENCE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) A BICYCLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "club signs"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "wall column"
+            },
+            {
+                "predicted": "THE PERSON WEARING WHITE CLOTHES IS STANDING IN FRONT OF A FLOWER VASE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "ball table"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING A HAT WITH A CROWN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "lamp"
+            },
+            {
+                "predicted": "THE RIGHT SIDE OF THE RUNWAY IN THE VIDEO IS AN AIRPLANE HANGAR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "cameraman"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) TWO LITTLE FUNNY BIRDS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two little funny birds"
+            },
+            {
+                "predicted": "THE PERSON WEARING GREEN SWIMMING TRUNKS IS FACING A LIFEGUARD TOWER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "sandy beach"
+            },
+            {
+                "predicted": "THE KITCHEN SINK IS IN FRONT OF THE PERSON WEARING GREEN CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "kitchen sink"
+            },
+            {
+                "predicted": "THE PERSON IN GRAY CLOTHES IS STANDING IN FRONT OF A LAKE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "grassland"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING THE STRIPE ON THE RIGHT SIDE OF THEIR OUTFIT. THEREFORE, THE ANSWER IS D. PERSON WEARING A HAT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "person wearing a hat"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE GIVEN VIDEO. IT IS NOT POSSIBLE TO DETERMINE WHAT IS BEHIND THE STANDING PERSON FROM THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "door"
+            },
+            {
+                "predicted": "THE PERSON WEARING RED CLOTHES HAS A BICYCLE UNDER THEIR FOOT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bicycle"
+            },
+            {
+                "predicted": "THE ANSWER IS D. WALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE MAN IN BLACK APPEARS TO BE WEARING A BLACK TANK TOP, WHICH IS NOT THE CORRECT ANSWER TO THE QUESTION. THE CORRECT ANSWER IS THAT BEHIND HIM IS A MIRROR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "mirror"
+            },
+            {
+                "predicted": "THE ANSWER IS D. VEHICLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "vehicle"
+            },
+            {
+                "predicted": "THE ANSWER IS C. BOOKSHELF.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "glass"
+            },
+            {
+                "predicted": "THE OBJECT ON THE TABLE IN THE VIDEO IS A TOOL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "tool"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING A VEST.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "wine glass"
+            },
+            {
+                "predicted": "THE OBJECT THAT IS UNDER THE BATHTUB IS A DOG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "pool"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS STANDING IN FRONT OF A BENCH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "tool"
+            },
+            {
+                "predicted": "THE ANSWER IS D. SLIDE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "slide"
+            },
+            {
+                "predicted": "THE PERSON WEARING BLACK CLOTHES IS STANDING IN FRONT OF A GAZEBO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "hillside"
+            },
+            {
+                "predicted": "THE ANSWER IS D. SMALL BRICK HOUSE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "grassland"
+            },
+            {
+                "predicted": "THE PERSON WEARING A BLACK COAT IN THE VIDEO IS HOLDING A MIRROR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "mirror"
+            },
+            {
+                "predicted": "THE ANSWER IS D.ENCLOSURE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "enclosure"
+            },
+            {
+                "predicted": "THE PERSON WEARING RED IS STANDING IN FRONT OF A RUNWAY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "runway"
+            },
+            {
+                "predicted": "THE ITEM IN FRONT OF THE FIRST ROW OF AUDITORIUMS IS A CROSSBAR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "cross bar"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) BENCH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "guard net"
+            },
+            {
+                "predicted": "THE OPTION THAT IS RELATED TO THE GAME IS \"C: TABLE\". SO, THE ANSWER TO THE QUESTION IS \"C: TABLE\".",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) BRIDGE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "house"
+            },
+            {
+                "predicted": "THE WHITE-HAIRED PERSON IN THE VIDEO IS STANDING BEHIND A GAZEBO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "telegraph pole"
+            },
+            {
+                "predicted": "THE PLAYGROUND HAS A PARKING LOT ON THE LEFT SIDE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "audiences stand"
+            },
+            {
+                "predicted": "THE PERSON IN THE RED CLOTHES IS STANDING IN FRONT OF A BENCH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "railing"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO ANY OF THE GIVEN OPTIONS. THEREFORE, IT'S NOT POSSIBLE TO PROVIDE A DEFINITIVE ANSWER TO THIS QUESTION.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE PERSON WEARING GRAY CLOTHES IS HOLDING A BRUSH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE ANSWER IS D. NETWORK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "network"
+            },
+            {
+                "predicted": "THE ANSWER IS C: TREE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "THE PERSON WEARING RED CLOTHES IS STANDING IN FRONT OF THE BUNKER WHILE PERFORMING THE LONG JUMP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bunker"
+            },
+            {
+                "predicted": "THE OBJECT THAT IS IN FRONT OF THE PERSON WEARING BLUE CLOTHES IS A FOUNTAIN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "road"
+            },
+            {
+                "predicted": "THE MAN WEARING A WHITE SHIRT IN THE VIDEO IS STANDING ON THE RIGHT SIDE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "stand"
+            },
+            {
+                "predicted": "THE ANSWER IS D. WALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE BACKDROP BEHIND THE PERSON IN BLUE APPEARS TO BE A CURTAIN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "blue screen"
+            },
+            {
+                "predicted": "THE ANSWER IS D. TREE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "THE OBJECT IN FRONT OF THE PERSON WEARING BLACK CLOTHES IS A MIRROR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "glass"
+            },
+            {
+                "predicted": "THE OPTION THAT RELATES TO THE QUESTION IS THE GARDEN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "garden"
+            },
+            {
+                "predicted": "THE PERSON WEARING WHITE CLOTHES IN THE VIDEO IS FACING A DECORATIVE STATUE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "flower receptacle"
+            },
+            {
+                "predicted": "THE GROUND IN THE VIDEO CONTAINS A BALL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "ball"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) TREE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "snow"
+            },
+            {
+                "predicted": "THE ANSWER IS D. WATER FOUNTAIN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "guardrail"
+            },
+            {
+                "predicted": "THE PERSON IN WHITE CLOTHES HAS A BENCH ON THEIR LEFT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "spectator seats"
+            },
+            {
+                "predicted": "THE ANSWER IS D. PATCH OF MOSS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sapling"
+            },
+            {
+                "predicted": "THE PERSON WEARING WHITE CLOTHES IS STANDING IN FRONT OF A BLUE BENCH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "red clothes"
+            },
+            {
+                "predicted": "THE SNOW SWEEPER IN THE VIDEO IS IN FRONT OF A BUILDING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "THE OBJECT IN FRONT OF THE VIDEO IS A D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "ski"
+            },
+            {
+                "predicted": "THE PERSON WEARING BLUE CLOTHES IS WEARING A CAP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "men in black"
+            },
+            {
+                "predicted": "THE PERSON WEARING A GREEN COAT HAS A VENDING MACHINE ON THEIR RIGHT SIDE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "THE PERSON WEARING A PURPLE HAT IS STANDING ON A STAGE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "stage"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION. CAN YOU PLEASE PROVIDE MORE CONTEXT OR INFORMATION ABOUT THE QUESTION?",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "THE UNDERNEATH OF THE ATHLETE IN THE VIDEO IS THE BALANCE BEAM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "balance beam"
+            },
+            {
+                "predicted": "THE PERSON WEARING A WHITE HELMET IS WEARING A RED JERSEY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "ball net"
+            },
+            {
+                "predicted": "THE GIRL WITH YELLOW HAIR IS WEARING A PAIR OF SHOES UNDER HER FEET IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pedal"
+            },
+            {
+                "predicted": "THE PERSON WEARING BLACK SHORTS IS STANDING ON THE RIVERBANK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "meadow"
+            },
+            {
+                "predicted": "THE PERSON WEARING A WHITE SHIRT IN THE VIDEO IS SITTING ON A CHAIR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON IN GRAY CLOTHES IS STANDING IN FRONT OF A BOWLING PIN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "bowling"
+            },
+            {
+                "predicted": "THE PERSON WEARING BLACK CLOTHES IS STANDING IN FRONT OF A SMALL GARDEN WITH COLORFUL FLOWERS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "men in blue"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) WINDOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "window"
+            },
+            {
+                "predicted": "THE GROUND VEGETABLES SEEN UNDER THE SANDWICH ARE CORIANDER LEAVES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "mat cloth"
+            },
+            {
+                "predicted": "THE PERSON WEARING RED IN THE VIDEO IS BEHIND A MIRROR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "guardrail net"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION. THE QUESTION IS ABOUT A CHRISTMAS TREE AND THE PEOPLE IN RED CLOTHES. IT DOES NOT MAKE SENSE TO PROVIDE AN ANSWER RELATED TO A BOOKSHELF.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "christmas tree"
+            },
+            {
+                "predicted": "THE RIGHT SIDE OF THE LAWN, AS SHOWN IN THE VIDEO, IS A TREE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS HOLDING A BOOK ON THE LEFT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "stool"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "forest"
+            },
+            {
+                "predicted": "THE REFEREE IN THE VIDEO IS FACING A CONTESTANT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "contestant"
+            },
+            {
+                "predicted": "THE STRUCTURE LOCATED IN FRONT OF THE PAVILION IS A POOL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pool"
+            },
+            {
+                "predicted": "THE LEFT SIDE OF THE PERSON IN THE BLACK COAT CONTAINS A BOOKSHELF.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE PEOPLE WEARING MILITARY GREEN CLOTHES ARE UNDER A CONCRETE SURFACE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "earth"
+            },
+            {
+                "predicted": "THE FIELD IN THE VIDEO IS SURROUNDED BY TREES, BUT THE GROUND IS VISIBLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "stand"
+            },
+            {
+                "predicted": "THE MAN HOLDING THE PAPER IN HIS RIGHT HAND IS STANDING IN FRONT OF A TABLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE WOMAN IN WHITE CLOTHES IS WEARING A PAIR OF SHOES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "circular site"
+            },
+            {
+                "predicted": "THE MAN WEARING BLACK PANTS IN THE VIDEO IS HOLDING A WEAPON.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "mirror"
+            },
+            {
+                "predicted": "THE PERSON IN RED CLOTHES IS HOLDING A CAMERA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE ANSWER IS C. WINDOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "window"
+            },
+            {
+                "predicted": "THE PERSON WEARING GRAY CLOTHES HAS THE RIGHT SIDE OF THEIR BODY ON THE MASONRY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "masonry"
+            },
+            {
+                "predicted": "THE DISABILITY IN THE VIDEO REFERS TO THE PERSON STANDING BEHIND THE MAN IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "house"
+            },
+            {
+                "predicted": "THE OBJECT IN FRONT OF THE ONLOOKERS IN THE VIDEO IS A PUCK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "enclosure"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO AND IS UNRELATED TO THE CONTENT. THEREFORE, I CANNOT PROVIDE A RELEVANT ANSWER TO THIS QUESTION.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "screen"
+            },
+            {
+                "predicted": "THE PERSON WEARING WHITE CLOTHES HAS A TABLE IN FRONT OF THEM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "drum"
+            },
+            {
+                "predicted": "THE PERSON WEARING A PLAID JACKET IS BEHIND A WALL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) SWIMMING POOL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "THE OBJECT IN FRONT OF THE PERSON WEARING RED CLOTHES IS A MIRROR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "mirror"
+            },
+            {
+                "predicted": "THE ANSWER IS D. SOLAR PANELS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "snow"
+            },
+            {
+                "predicted": "THE PERSON IN RED TAKES OFF AND THEN MOVES TO A DIFFERENT POSITION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "springboard"
+            },
+            {
+                "predicted": "THE ITEM UNDER THE PERSON WEARING GRAY CLOTHES IS A RUG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON IN GREEN CLOTHES IS HOLDING A FOUNTAIN, WHICH IS LOCATED ON THEIR RIGHT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "personal information"
+            },
+            {
+                "predicted": "THE UNDERWATER OBJECT THAT IS LOCATED BELOW THE SURFBOARD IS A ROCK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "seawater"
+            },
+            {
+                "predicted": "THE FRONT OF THE RED MAN IN THE VIDEO IS EMPTY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "bet"
+            },
+            {
+                "predicted": "THE PERSON IN GRAY CLOTHES IS ACCOMPANIED BY A DOG ON THE RIGHT SIDE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "surround masses"
+            },
+            {
+                "predicted": "THE PERSON WEARING A GRAY COAT IN THE VIDEO HAS A HAND IN FRONT OF THEM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE OBJECT ON THE WHITE TABLE IS A CAKE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "cake"
+            },
+            {
+                "predicted": "THE PERSON IN BLUE CLOTHES IS STANDING IN FRONT OF A BUILDING, BUT I'M NOT SURE ABOUT THE ANSWER GIVEN. COULD YOU PROVIDE MORE CONTEXT OR INFORMATION ABOUT THE QUESTION?",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "vehicle"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) WATERFALL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sound"
+            },
+            {
+                "predicted": "THE PERSON WEARING YELLOW CLOTHES IS STANDING IN FRONT OF A TABLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE LEFT SIDE OF THE GREEN BASIN IS FILLED WITH WATER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "yellow basin"
+            },
+            {
+                "predicted": "THE PERSON IN THE RED COAT IS FACING A DRUM KIT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "drum kit"
+            },
+            {
+                "predicted": "THE PERSON IN BLUE CLOTHES IS STANDING IN FRONT OF A TREE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "wood"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "wood"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING A SHORT-SLEEVED SHIRT, BUT THE RIGHT SIDE OF THE SHIRT IS NOT VISIBLE IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "ceramic tile"
+            },
+            {
+                "predicted": "THE ITEM ON THE LEFT SIDE OF THE CHAIR IS A BOOKSHELF.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "christmas tree"
+            },
+            {
+                "predicted": "THE RIGHT SIDE OF THE STEREO IS THE FRONT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sofa"
+            },
+            {
+                "predicted": "THE PERSON PLAYING THE VIOLIN ON THE STAGE IS SURROUNDED BY A SERIES OF BRIGHT SPOTLIGHTS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "THE PERSON WEARING BLACK CLOTHES IS STANDING IN FRONT OF A CAR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "vehicle"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) WATER FOUNTAIN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "vehicle"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) A TREE STUMP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS HOLDING A MOWER WHILE WEARING GREEN CLOTHES. THE QUESTION IS RELATED TO THE ITEM THAT IS ON THE RIGHT OF THE PERSON. COULD YOU PLEASE PROVIDE THE ANSWER IN RELATION TO THE OBJECT AND NOT JUST THE PERSON?",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "fence"
+            },
+            {
+                "predicted": "THE ANSWER IS D. ROLLERBLADES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "bicycle"
+            },
+            {
+                "predicted": "THE THING IN FRONT OF THE CHILD IS A FENCE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "rope"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "grassland"
+            },
+            {
+                "predicted": "THE PERSON IN GREEN CLOTHES IS PLAYING A GAME ON THE RIGHT OF THE GRASSLAND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "grassland"
+            },
+            {
+                "predicted": "THE PERSON WEARING A BLUE COAT IN THE VIDEO HAS A LARGE GLASS OF WINE IN FRONT OF THEM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bread"
+            },
+            {
+                "predicted": "THE ANSWER IS (A) WALL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE PERSON IN GRAY CLOTHES IS IN FRONT OF A LAMP POST.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE HEIGHT MEASURING ROD IS BELOW A PAIR OF PADS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "pads"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) PARK BENCH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE PERSON IN BLACK CLOTHES IS WEARING A SHIRT WITH A CAT ON IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "piano frame"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS STANDING IN FRONT OF A TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE PERSON WEARING WHITE CLOTHES IS STANDING IN FRONT OF A SINK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "wash basin"
+            },
+            {
+                "predicted": "THE ANSWER IS D. PARKING LOT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "kitchen"
+            },
+            {
+                "predicted": "THE ANSWER IS D. A SMALL GARDEN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pumpkin shed"
+            },
+            {
+                "predicted": "THE ANSWER IS D.DOG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "dog"
+            },
+            {
+                "predicted": "THE PERSON WEARING WHITE CLOTHES IS RIDING A HOVERBOARD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "skate"
+            },
+            {
+                "predicted": "THE ANSWER IS D. CABIN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "THE ITEM ON THE CUPBOARD IS A LAMP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "bottle"
+            },
+            {
+                "predicted": "THE POSSIBLE ANSWER THAT CAN BE FOUND IS THE OXYGEN BOTTLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "oxygen bottle"
+            },
+            {
+                "predicted": "THE OBJECT LOCATED ON THE LEFT SIDE OF THE PERSON IN BLUE IS A LAMP POST.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "trash"
+            },
+            {
+                "predicted": "THE PERSON SITTING IN THE BEGINNING OF THE VIDEO HAS A TELEVISION IN FRONT OF THEM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE PERSON WEARING A BLACK JACKET IS WEARING A CAP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "THE PERSON WEARING RED PANTS ON THE LEFT SIDE IS HOLDING A JUMP ROPE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "street lamp"
+            },
+            {
+                "predicted": "THE ANSWER IS A. FEMALE HOST.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "female host"
+            },
+            {
+                "predicted": "THE ANSWER IS FOREST.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "mountain"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WHO IS WEARING BLACK PANTS IS RIDING A SKATEBOARD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "ground"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) A PARKING LOT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "THE ANSWER IS D.DESERT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "desert"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "ground"
+            },
+            {
+                "predicted": "THE OBJECT IN FRONT OF THE PERSON IN THE VIDEO IS A CUP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE QUESTION IS ASKING FOR THE ANSWER RELATED TO THE VIDEO, WHICH OPTION LETTER REPRESENTS THE CORRECT ANSWER? THE ANSWER SHOULD BE A, A GARDEN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) A DECK CHAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2 people"
+            },
+            {
+                "predicted": "THE ANSWER IS D. STAIRS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE PERSON WEARING THE RED DRESS IS FACING A STAGE IN FRONT OF A GRAND PIANO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "THE OBJECT BEHIND THE MAN IN THE BLACK VEST IS A HORIZONTAL BAR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "horizontal bar"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS STANDING IN FRONT OF A BATHROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bathing pool"
+            },
+            {
+                "predicted": "THE FRONT OF THE PERSON WEARING THE PLAID CLOTHES IS THE GROUND.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "grinder machine"
+            },
+            {
+                "predicted": "THE TOP OF THE VIDEO AT THE BEGINNING OF THE SHIP IS A CAVE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "cave"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO HAS A DOG IN FRONT OF THEM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "dog"
+            },
+            {
+                "predicted": "THE ANSWER IS C: LIGHTING EQUIPMENT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "THE WOMAN IS JUMPING WITH HER RIGHT SIDE FACING THE CAMERA.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE ANSWER IS C. WINDOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "window"
+            },
+            {
+                "predicted": "THE PERSON IN BLACK CLOTHES IS IN FRONT OF A BOWLING PIN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "bowling pin"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) BENCH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) GARDEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE PERSON WEARING THE HAT IS WEARING A GLOVE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "glove"
+            },
+            {
+                "predicted": "THE PERSON WEARING THE BLACK COAT IS BEHIND A MIRROR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "plain white cloth"
+            },
+            {
+                "predicted": "THE OBJECT BEHIND THE CHILD IS A TELEVISION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "television"
+            },
+            {
+                "predicted": "THE PERSON WEARING YELLOW CLOTHES IN THE VIDEO IS WEARING A JACKET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "playground"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "dry powder plate"
+            },
+            {
+                "predicted": "THE UNDERCARRIAGE OF THE CAR IS SUPPORTED BY A LIFTING JACK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "lifting jack"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) WINDOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "mirror"
+            },
+            {
+                "predicted": "THE ANSWER IS D. HAIR STYLIST.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "hair stylist"
+            },
+            {
+                "predicted": "THE PERSON WEARING BLUE CLOTHES IS WEARING A TABLE ON THE RIGHT SIDE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE OBJECT IN FRONT OF THE PERSON DANCING IN THE VIDEO IS A TREE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "THE OBJECT IN FRONT OF THE BALD PERSON IN THE VIDEO IS A BAR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "enclosure"
+            },
+            {
+                "predicted": "THE ANSWER IS D. MIRROR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "mirror"
+            },
+            {
+                "predicted": "THE ANSWER IS D. PARK BENCH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "row of fences"
+            },
+            {
+                "predicted": "THE PERSON WEARING YELLOW CLOTHES IS ON THE TRACK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "rubber runway"
+            },
+            {
+                "predicted": "THE ANSWER IS B. CAR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "car"
+            },
+            {
+                "predicted": "THE ANSWER IS (B) RIVER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "river"
+            },
+            {
+                "predicted": "THE LEFT SIDE OF THE MAN ON THE BRIDGE IS B.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "dog"
+            },
+            {
+                "predicted": "THE PERSON WEARING RED CLOTHES IS STANDING IN FRONT OF A STONE WALL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "stone"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) HILL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "THE PERSON WEARING WHITE CLOTHES IS STANDING IN FRONT OF A WALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE PERSON IN BLACK CLOTHES HAS A PARKED BICYCLE IN FRONT OF THEM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "white man"
+            },
+            {
+                "predicted": "THE ANSWER IS D. BASED ON THE QUESTION AND THE AVAILABLE OPTIONS, IT IS LIKELY THAT THE ANSWER REFERS TO THE OPTION LETTER FOR THE OPTION \"D. LARGE BOOKSHELF.\"",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "television"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) WINDOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "door"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "drifting air cushion"
+            },
+            {
+                "predicted": "THE PERSON WEARING BLACK PANTS IS STANDING IN FRONT OF A WINDOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "door"
+            },
+            {
+                "predicted": "THE OBJECT UNDER THE BLONDE GIRL'S FOOT IS A KITE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "lawn"
+            },
+            {
+                "predicted": "THE ANSWER IS D. PAINTED WALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "painted wall"
+            },
+            {
+                "predicted": "THE POSSIBLE ANSWER THAT IS RELATED TO THE VIDEO IS A. TREADMILL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "treadmill"
+            },
+            {
+                "predicted": "THE PERSON IN YELLOW IS BEHIND THE CAMERA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "wood"
+            },
+            {
+                "predicted": "THE PERSON WEARING RED IS STANDING IN FRONT OF AN AQUARIUM WITH COLORFUL FISH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "lot of boxes"
+            },
+            {
+                "predicted": "THE GROUNDED PERSON IN THE VIDEO HAS A SHIRT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "grassland"
+            },
+            {
+                "predicted": "THE ANSWER IS D. WINDOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "curtain"
+            },
+            {
+                "predicted": "THE PERSON WEARING BLACK PANTS IS LYING ON A RUG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "blanket"
+            },
+            {
+                "predicted": "THE PERSON WEARING A BLUE JACKET IS STANDING BEHIND A LAKE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "street"
+            },
+            {
+                "predicted": "THE MAN WEARING BLUE SHORTS IS STANDING IN FRONT OF A BARBELL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "barbell"
+            },
+            {
+                "predicted": "THE UNDERNEATH PERSON WEARING RED CLOTHES IN THE VIDEO IS A PLAYER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "sand"
+            },
+            {
+                "predicted": "THE THING THAT IS ABOVE THE TOP OF THEIR HEADS IS THE CEILING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "ceiling"
+            },
+            {
+                "predicted": "THE ANSWER IS C. CUPBOARD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "drawing board"
+            },
+            {
+                "predicted": "THE PERSON IN WHITE CLOTHES IS STANDING IN FRONT OF A MOUNTAIN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "cruise"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "blonde"
+            },
+            {
+                "predicted": "THE ITEM IN FRONT OF THE PERSON IN THE VIDEO IS A BOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE PERSON IN A WHITE DRESS IS BEHIND THE FIREPLACE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "television"
+            },
+            {
+                "predicted": "THE ANSWER IS D. GOAL POST.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "THE FRONT OF THE CHILD WEARING BLUE AND WHITE STRIPES IN THE VIDEO IS A SHIRT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "board"
+            },
+            {
+                "predicted": "THE PERSON IN WHITE CLOTHES IS STANDING IN FRONT OF A FOUNTAIN WITH RUNNING WATER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "man in blue"
+            },
+            {
+                "predicted": "THE PERSON WEARING GRAY CLOTHES IS STANDING NEXT TO A ROW OF TIRES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "row of tires"
+            },
+            {
+                "predicted": "THE PERSON IN THE RED CLOTHES IS SITTING IN FRONT OF A BOOKSHELF.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "tea table"
+            },
+            {
+                "predicted": "THE PERSON DANCING ALONE IN BLACK IS SURROUNDED BY A GROUP OF PEOPLE. SO, THE CORRECT ANSWER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "white walls"
+            },
+            {
+                "predicted": "THE PERSON WEARING YELLOW CLOTHES IS STANDING IN FRONT OF A COUNTER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "counter"
+            },
+            {
+                "predicted": "THE PERSON WEARING A GOLDEN COAT IS ON THE RIGHT SIDE, AS SHOWN IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "THE PERSON WEARING GREEN PANTS IS SAILING ON THE WATER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sea"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blue dress man"
+            },
+            {
+                "predicted": "THE OBJECT IN FRONT OF THE PERSON WEARING A RED HAT IS A DRUM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "THE PERSON WEARING A BLACK SUIT AND BLUE SHIRT HAS A WINDOW BEHIND THEM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON WEARING A GRAY COAT IS STANDING IN FRONT OF A TREE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "THE OBJECT IN FRONT OF THE PERSON IN THE VIDEO IS A TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "BASED ON THE VIDEO, THE THING THAT IS UNDER THE PERSON'S FOOT IS A DRUM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "toilet paper"
+            },
+            {
+                "predicted": "THE WHITE CLOTHES IN THE VIDEO ARE BEHIND A CHAIR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "white woman"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) MOUNTAIN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO HAS A ROPE TIED TO THEIR FEET WHILE THEY ARE STANDING ON A CONCRETE PLATFORM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "bridge frame"
+            },
+            {
+                "predicted": "THE PERSON WEARING A GREEN SWIMSUIT IS STANDING BEHIND A DIVING BOARD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "swimming pool"
+            },
+            {
+                "predicted": "THE ANSWER IS A. MUSIC STAND.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "THE PERSON IN WHITE CLOTHES HAS A BICYCLE IN FRONT OF THEM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "floor"
+            },
+            {
+                "predicted": "THE PERSON IN A WHITE SHIRT IS WEARING A BLACK BELT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "grassland"
+            },
+            {
+                "predicted": "THE PERSON IN BLUE IS STANDING ON A FLOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "floor"
+            },
+            {
+                "predicted": "THE GIRL IN THE ORANGE DRESS IS WEARING A SPONGE PAD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sponge pad"
+            },
+            {
+                "predicted": "THE ANSWER IS D: LAMP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "window"
+            },
+            {
+                "predicted": "THE LEFT SIDE OF THE HOUSE IN THE VIDEO IS PAINTED WHITE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "THE PERSON WEARING RED CLOTHES IN THE VIDEO IS STANDING IN FRONT OF THE WATER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "water"
+            },
+            {
+                "predicted": "THE WEIGHTLIFTER IN THE VIDEO IS STANDING NEXT TO THE BRITISH FLAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "british flag"
+            },
+            {
+                "predicted": "THE UNDERNEATH OF THE TRAMP IS COVERED IN CARDBOARD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "cardboard"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) COASTER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "coaster"
+            },
+            {
+                "predicted": "THE WOMAN BEHIND THE GIRL IS A LADY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE PERSON WEARING BLACK CLOTHES IS STANDING IN FRONT OF A LAMP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "cake"
+            },
+            {
+                "predicted": "THE JUDGE'S SEAT ABOVE IS LETTERED C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "awning"
+            },
+            {
+                "predicted": "THE PLAYER IN THE VIDEO IS STANDING IN FRONT OF A LONG POLE WITH A NET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pads"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS ON A CURLING RUNWAY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "curling runway"
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "protective net"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING A UNIFORM. THEREFORE, THE ANSWER OPTION LETTER TO SELECT IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pads"
+            },
+            {
+                "predicted": "THE PERSON TAKING THE TOWEL IS STANDING IN FRONT OF A WALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE MAN IN FRONT OF THE VIDEO IS WEARING A RED SHIRT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE THING ON TOP OF THE PERSON IN THE VIDEO IS A SKY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "sky"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) A PARKING LOT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "billboard"
+            },
+            {
+                "predicted": "THE EXERCISER IN THE VIDEO IS BEHIND A WALL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) PIANO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "toaster oven"
+            },
+            {
+                "predicted": "THE PERSON IN RED CLOTHES IS STANDING IN FRONT OF THE ROAD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "road"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS STANDING IN FRONT OF A LAMP POST.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "vehicle"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "automobile"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE GIVEN OPTIONS. THEREFORE, THE GIVEN ANSWER IS INCORRECT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "glass cabinet"
+            },
+            {
+                "predicted": "THE PERSON WEARING BLACK CLOTHES HAS A VINTAGE GRAMOPHONE ON THEIR RIGHT SIDE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "silverware cadets"
+            },
+            {
+                "predicted": "THE PERSON WEARING GRAY CLOTHES IS IN FRONT OF A TABLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE PERSON WEARING A PURPLE DRESS HAS A HAT ON THEIR HEAD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "hat"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS HOLDING A PAPER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "paper"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) LAMP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "sofa"
+            },
+            {
+                "predicted": "THE RUNNER IN THE VIDEO STARTS WITH A POLE THAT IS PLACED IN FRONT OF HIM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "hopping viaduct"
+            },
+            {
+                "predicted": "THE ANSWER IS D. BUILDING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "fountain"
+            },
+            {
+                "predicted": "THE PERSON WEARING A RED SKIRT IN THE VIDEO IS STANDING IN FRONT OF A CROWD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "THE REAR OF THE BRUNETTE WOMAN IS A DOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "door"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) MOUNTAIN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE CHEF IN THE VIDEO IS STANDING IN FRONT OF A STOVE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "pool"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) GARDEN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "river"
+            },
+            {
+                "predicted": "THE FRONT OF THE PERSON WEARING A BLACK AND WHITE SHIRT IN THE VIDEO IS A BLACK AND WHITE SHIRT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "magic cube"
+            },
+            {
+                "predicted": "THE MAN WEARING GRAY CLOTHES IN THE VIDEO IS WEARING A JACKET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "house"
+            },
+            {
+                "predicted": "THE FRONT OF THE TWO PEOPLE IN THE VIDEO APPEARS TO BE A VENDING MACHINE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "microphone"
+            },
+            {
+                "predicted": "THE ANSWER IS D. WINDOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE WHITE MAN IN THE VIDEO IS BEHIND A WALL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE ANSWER IS C. MIRROR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "mirror"
+            },
+            {
+                "predicted": "THE PERSON IN RED IS WEARING A SKI SUIT, BUT THE GROUND BENEATH THEIR FEET IS A PUDDLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "skate"
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "stand"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS A. SEABED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "seabed"
+            },
+            {
+                "predicted": "THE ANSWER IS D.HOUSE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "house"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO IS HOLDING A FOUNTAIN IN FRONT OF HER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "agitation machine"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) SPARE TIRE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "spare tire"
+            },
+            {
+                "predicted": "THE MAN IN PURPLE CLOTHES IS STANDING BEHIND A SHELF.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "shelf"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS STANDING IN FRONT OF A WINDOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "window"
+            },
+            {
+                "predicted": "THE MAN WEARING A GREY COAT HAS A TABLE UNDER HIS ARM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE OBJECT THAT CAN BE SEEN IN FRONT OF THE FIREWOOD IS A FLOWER POT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "wood pile"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "cabinet"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO HAS A BOOKSHELF ON THEIR RIGHT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "glass table"
+            },
+            {
+                "predicted": "THE RUNNER STARTS FROM A BUNKER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bunker"
+            },
+            {
+                "predicted": "THE FALLEN LEAF PILE HAS A TREE IN FRONT OF IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "THE PERSON WEARING A WHITE COAT IS STANDING IN FRONT OF A CHAIR, BUT IT IS NOT THE ANSWER TO THE QUESTION. THE OPTIONS PROVIDED ARE A COAT RACK, A CHAIR, A LAMP, AND A DESK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE FRONT OF THE GIRL WITH LONG HAIR IN THE VIDEO IS THE FACE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "dresser"
+            },
+            {
+                "predicted": "THE FRONT WALL OF THE PERSON IN THE VIDEO IS MADE OF A WOODEN FRAME.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "tool"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO HAS A PAIR OF PLIERS IN FRONT OF THEM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "wheel"
+            },
+            {
+                "predicted": "THE PERSON WEARING YELLOW CLOTHES IS STANDING BEHIND A TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "oven"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) STAR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "circle"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) SEALING LAYER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "sealing layer"
+            },
+            {
+                "predicted": "THE PERSON IN THE BLACK COAT IS BEHIND A FLAG, BUT THE ANSWER OPTION LETTER IS NOT RELEVANT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "national flag"
+            },
+            {
+                "predicted": "THE ANSWER IS D. TARGET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "target"
+            },
+            {
+                "predicted": "THE ANSWER IS C: COURT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "court"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "road"
+            },
+            {
+                "predicted": "THE PERSON WEARING ORANGE PANTS IS RIDING A SKATEBOARD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "ski"
+            },
+            {
+                "predicted": "THE WOMAN IN BLACK CLOTHES IS HOLDING A BOOK ON HER RIGHT SIDE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) LIBRARY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "swimming pool"
+            },
+            {
+                "predicted": "THE OBJECT THAT IS IN FRONT OF THE WOOD THAT HAS NOT BEEN SMASHED IS A TOOLBOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "chopped wood"
+            },
+            {
+                "predicted": "THE LEFT SIDE OF THE PERSON DRIFTING IN THE VIDEO BELONGS TO THE RIVER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "bushes"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) CONCERT STAGE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "football field"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) FLOWER BED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "gymnastic mat"
+            },
+            {
+                "predicted": "THE RIGHT SIDE OF THE GIRL IN THE VIDEO IS THE CUP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "casement window"
+            },
+            {
+                "predicted": "THE ANSWER IS C. AUTOMOBILE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "automobile"
+            },
+            {
+                "predicted": "THE ANSWER IS C. WALL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "THE PERSON WHO OPENED THE REFRIGERATOR WAS WEARING A T-SHIRT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "refrigerator"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE GIVEN OPTIONS AND CANNOT BE DETERMINED FROM THE PROVIDED INFORMATION. PLEASE PROVIDE MORE DETAILS OR CONTEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "mirror"
+            },
+            {
+                "predicted": "THE ANSWER IS D.BOOKSHELF.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE ATHLETE IN THE VIDEO IS STANDING IN FRONT OF A BICYCLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "trampoline"
+            },
+            {
+                "predicted": "THE OBJECT LOCATED IN FRONT OF THE BASKETBALL HOOP IS A CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE ANSWER IS D. LAKE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "THE LEFT SIDE OF THE PERSON IN A HAT IN THE VIDEO IS HOLDING A WELDING TORCH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "steel pipe"
+            },
+            {
+                "predicted": "THE ANSWER IS D.BED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "bed"
+            },
+            {
+                "predicted": "THE PERSON WEARING WHITE CLOTHES IN THE VIDEO IS HOLDING A DECK OF CARDS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "THE REAR OF THE OLD MAN IN A BLUE SWEATER IS A WOVEN GOOD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "woven goods"
+            },
+            {
+                "predicted": "THE MAN IN THE WHITE SHOES IS STANDING IN FRONT OF A WALL WITH A POSTER OF A CITY SKYLINE ON IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "photo"
+            },
+            {
+                "predicted": "THE LAST SHOT BEHIND THE RED MAN IN THE VIDEO IS A GARDEN GATE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "enclosure"
+            },
+            {
+                "predicted": "THE ATHLETE IN THE VIDEO IS JUMPING INTO A POOL. SO, THE ANSWER TO THE QUESTION IS C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "pool"
+            },
+            {
+                "predicted": "THE PERSON IN THE WHITE HAT IS STANDING IN FRONT OF A CROQUET SET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "THE PERSON IN WHITE CLOTHES IS UNDERWATER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "lake"
+            },
+            {
+                "predicted": "THE ANSWER IS C: ROOF.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two pieces of exhibition board"
+            },
+            {
+                "predicted": "THE PERSON WEARING PURPLE CLOTHES IN THE VIDEO IS STANDING IN FRONT OF A JUDGE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "judges"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "vehicle"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) BOOKSHELF.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "railing"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "grassland"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO IS FACING THE MIRROR ON THE LEFT SIDE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black hair woman"
+            },
+            {
+                "predicted": "THE UNDERNEATH OF THE PERSON WEARING AN ORANGE LIFE JACKET IS A WOODEN BOAT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "wooden boat"
+            },
+            {
+                "predicted": "THE DIVE PLATFORM IN THE VIDEO HAS A DIVING BOARD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "tree"
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.0
+    }
+}

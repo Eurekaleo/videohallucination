@@ -1,0 +1,2914 @@
+{
+    "action": {
+        "accuracy": 0.3277777777777778,
+        "unmatched_cases": [
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Drank from the bottle.",
+                "expected_text": "Threw the shoes"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Folded the clothes neatly.",
+                "expected_text": "Took the bag."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Wrote a note on the paper.",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Gently placed it on a nearby bench.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Ironed the clothes.",
+                "expected_text": "Washed the clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Hung the clothes on a line.",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Folded neatly.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Held it against the chest.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Typed on the laptop.",
+                "expected_text": "Took the phone/camera."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Looked inside.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Set down the laptop.",
+                "expected_text": "Took the paper/notebook."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Flipped through the book.",
+                "expected_text": "Adjusted the blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Wrote a note on a piece of paper.",
+                "expected_text": "Ate the sandwich."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Folded.",
+                "expected_text": "Sat at."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Checked the time on the wall clock.",
+                "expected_text": "Opened the door."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Ironed the clothes.",
+                "expected_text": "Put down the clothes."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Folded them neatly.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Reclined.",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Started wrapping the box as a gift.",
+                "expected_text": "Opened the box."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Started folding a blanket.",
+                "expected_text": "Took the broom."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Opened the box on the floor.",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Took the bag and started packing.",
+                "expected_text": "Tidied up the blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Typed on the keyboard.",
+                "expected_text": "Put down the laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Folded the blanket neatly.",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Picked up the magazine.",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Adjusted the bag on their back.",
+                "expected_text": "Took the pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Packed them into a suitcase.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Poured a drink into the bottle.",
+                "expected_text": "Took the blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Arranged the groceries.",
+                "expected_text": "Put down the picture."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Connected to a charger.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Highlighted text in the book.",
+                "expected_text": "Closed the book."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Adjusted the bag's strap.",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Locked.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Write a note inside the book.",
+                "expected_text": "Closed the book."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Connected to a charger.",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Sorted through the mail.",
+                "expected_text": "Ate the medicine."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Knelt to tie the shoelace.",
+                "expected_text": "Touched the shoe."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Adjusted the door handle.",
+                "expected_text": "Put down the broom."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Painted.",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Folded the blanket neatly.",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Polished with a cloth.",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Swept the floor.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Checked the mirror for dust.",
+                "expected_text": "Tidied up the closet."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Wrapped the towel around their head.",
+                "expected_text": "Threw the towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Unpacked the groceries.",
+                "expected_text": "Tidied up the table."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Folded the clothes neatly.",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Folded a piece of clothing.",
+                "expected_text": "Opened the laptop."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Wrapped the blanket around themselves.",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Swung the blanket around playfully.",
+                "expected_text": "Tidied up the blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Checked the contents of the bag.",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Carefully adjusted the laptop.",
+                "expected_text": "Took the bag."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Packed items into the box.",
+                "expected_text": "Closed the box."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Folded the clothes.",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Spread out on the floor as if making a bed.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Took a sip from the cup.",
+                "expected_text": "Opened the bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Typed on the laptop keyboard.",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Rearranged the cushions on the sofa.",
+                "expected_text": "Closed the door."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Examined the documents inside the box.",
+                "expected_text": "Tidied up the table."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Folded the clothes neatly.",
+                "expected_text": "Ate the sandwich."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Folded the clothes.",
+                "expected_text": "Took the shoe."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Folded the clothes neatly and placed them in a suitcase.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Placed the bag on the chair.",
+                "expected_text": "Took the bag."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Picked up the book and started reading.",
+                "expected_text": "Put down the paper/notebook."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Passed the book to another person.",
+                "expected_text": "Closed the book."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Started writing in the book.",
+                "expected_text": "Took the book."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Added a bookmark to the book.",
+                "expected_text": "Opened the book."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Held the towel up to the door.",
+                "expected_text": "Closed the closet."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Folded the towel neatly.",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Folded the towel neatly.",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Organized books on the shelf.",
+                "expected_text": "Took the laptop."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Hung up.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Wrapped the towel around their shoulders.",
+                "expected_text": "Threw the towel."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Carefully placed the bag on a chair.",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Connected it to a projector.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Moved to another room.",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Rearranged cushions.",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Packed them into a suitcase.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Tucked it under their arm.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Folded the clothes quickly.",
+                "expected_text": "Took the clothes."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Placed something into the box.",
+                "expected_text": "Put down the box."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Took a bite of the sandwich.",
+                "expected_text": "Took the bag."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Hugged tightly and placed on the couch.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Wrapped up.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Folded the blanket neatly.",
+                "expected_text": "Took the blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Opened a document on the laptop.",
+                "expected_text": "Took the book."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Typed a message on the laptop.",
+                "expected_text": "Tidied up the table."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Started typing on.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Passed it to someone.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Wrapped up.",
+                "expected_text": "took"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Unwrapped the sandwich.",
+                "expected_text": "Ate the sandwich."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Wrote notes in the book.",
+                "expected_text": "Took the book."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Flipped over.",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Opened the book and started reading.",
+                "expected_text": "Took the laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Carefully examined the box interior.",
+                "expected_text": "Took the box."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Hung them up to dry.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Adjusted the temperature settings of.",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Examined the contents of the bag.",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Rolled into a ball.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Browsed the internet on the laptop.",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Tidied up.",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Hung them on a clothesline.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Examined the underside of the box.",
+                "expected_text": "opened the box"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Turned on the hallway light.",
+                "expected_text": "Closed the door."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Gestured with the book while talking.",
+                "expected_text": "Closed the book."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Put down.",
+                "expected_text": "Swept the floor."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Closed the door gently.",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Reached for the water bottle.",
+                "expected_text": "Closed the book."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Wrapped the blanket around themselves.",
+                "expected_text": "Put down the clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Adjusted the screen angle.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Flipped through the pages of the book.",
+                "expected_text": "Opened the book."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Swung the bag over their shoulder.",
+                "expected_text": "Threw the bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Organized clothes in the closet.",
+                "expected_text": "Closed the closet."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Packed into a bag.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Read a book.",
+                "expected_text": "Took the dish."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Carefully folded each piece.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Folded the towel neatly.",
+                "expected_text": "Hung the towel on a hook."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Typed rapidly on the laptop.",
+                "expected_text": "Threw the pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Folded the napkin neatly on the table.",
+                "expected_text": "Put down the clothes."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Put down.",
+                "expected_text": "Checked for messages."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Folded neatly.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Unlocked.",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Hung the towel on a rack.",
+                "expected_text": "Put down the towel."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Packed it away.",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Reached for a pen on the table.",
+                "expected_text": "Put down the paper/notebook."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Poured into the cup/glass/bottle.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Gestured with the book in hand.",
+                "expected_text": "Put down the book."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Adjusted their glasses.",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Opened the refrigerator to grab a drink.",
+                "expected_text": "Closed the door."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Tossed aside.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Wrapped the blanket around their shoulders.",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Placed the food on the pillow.",
+                "expected_text": "Took the pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Rested their head on it.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Carefully examined the box.",
+                "expected_text": "Opened the box."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Folded the blanket neatly.",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Folded neatly.",
+                "expected_text": "Packed into a box."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Lifted one side.",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Polished.",
+                "expected_text": "Washed."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Hung the clothes on a rack.",
+                "expected_text": "Took the clothes."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Handed it over to someone nearby.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Folded.",
+                "expected_text": "Sat at."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Wrote in a notebook.",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Folded the paper into a shape.",
+                "expected_text": "Put down the book."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Offered to someone.",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Draped a blanket over.",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Wrapped the blanket around themselves.",
+                "expected_text": "Wash the clothes."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Installed new curtains.",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Opened the laptop.",
+                "expected_text": "Threw the broom."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Fluffed the pillow.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Folded neatly.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Carefully packed the tablet.",
+                "expected_text": "Took the laptop."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Balanced the pillow on their head.",
+                "expected_text": "Threw the pillow."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Folded a blanket neatly on the bed.",
+                "expected_text": "Opened the closet."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Poured a drink.",
+                "expected_text": "Took the shoe."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Held the laptop over their head.",
+                "expected_text": "Put down the laptop."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Ironed them.",
+                "expected_text": "Got dressed"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Read a passage aloud from the book.",
+                "expected_text": "Closed the book."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Hung the towel on the rack.",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Recorded a video with the camera.",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Tucked under arm.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Poured a drink from.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Adjusted the pillow.",
+                "expected_text": "Ate the medicine."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Checked the laptop's temperature.",
+                "expected_text": "Adjusted laptop screen position."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Showed a presentation on the laptop.",
+                "expected_text": "Cleaned the screen."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Wrapped up the sandwich.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Gently placed the bag on the table.",
+                "expected_text": "Threw the bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Wrapped.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Wrapped and stored.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Hanged the towel on a hook.",
+                "expected_text": "Put down the towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Adjusted the laptop settings.",
+                "expected_text": "Opened the laptop."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Pulled clothes from.",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Quickly stored away.",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Cleaned the shelves.",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Adjusted the position.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Wrapped the towel around their shoulders.",
+                "expected_text": "Threw the towel."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Folded and organized.",
+                "expected_text": "Put on"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Hung on the line.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Pulled up the covers.",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Carefully wrapped it in a cloth.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Packed into a suitcase.",
+                "expected_text": "Washed."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Lifted the laptop off the table.",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Opened a document on the laptop.",
+                "expected_text": "Took the book."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Loaded groceries into.",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Repositioned the laptop.",
+                "expected_text": "Took the pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Folded neatly.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Checked messages on the laptop.",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Wiped the table.",
+                "expected_text": "Took the paper/notebook."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Examined each piece closely.",
+                "expected_text": "Took the clothes."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Folded the towel neatly.",
+                "expected_text": "Threw the towel."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Swept.",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Placed a tablet on the bed.",
+                "expected_text": "Took the laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Polished it with a cloth.",
+                "expected_text": "Sat at."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Folded the towel nicely.",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Opened the box and took something out.",
+                "expected_text": "Put down the box."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Wrapped around themselves.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Hung on a clothesline.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Hung up to dry.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Packed away.",
+                "expected_text": "Washed."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Carefully tucked it under the arm.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Used the towel to dry a dish.",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Checked their phone.",
+                "expected_text": "Put down the towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Flipped it upside down.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Unzipped gently.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Read from the book aloud.",
+                "expected_text": "Opened the book."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Dried after washing.",
+                "expected_text": "Washed."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Kicked.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Wrapped another person with the blanket.",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Packed some clothes into the bag.",
+                "expected_text": "Opened the bag."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Patted the pillow gently.",
+                "expected_text": "Threw the pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Folded the newspaper.",
+                "expected_text": "Tidied up the towel."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Started reading aloud from the book.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Inspected the contents of the box.",
+                "expected_text": "Put down the box."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Hung up the towel on a rack.",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Folded neatly.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Tossed onto the chair.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Turned off the lights.",
+                "expected_text": "Closed the door."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Carefully folded.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Ironed them.",
+                "expected_text": "Washed."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Wrote a note in the notebook.",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Adjusted items on the shelf.",
+                "expected_text": "Opened the closet."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Adjusted the screen angle.",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Organized items inside.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Carefully slid the book under the notebook.",
+                "expected_text": "Threw the book."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Laid on.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Wiped their hands with the towel.",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Ironed the clothes.",
+                "expected_text": "Took the clothes."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Folded the bedsheet.",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Turned off the laptop.",
+                "expected_text": "Opened the laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Recorded a video.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Folded the towel.",
+                "expected_text": "Took the blanket."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Hung up.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Pulled the covers back.",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Wrapped the blanket around themselves and sat down.",
+                "expected_text": "Took the blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Flipped through.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Folded neatly.",
+                "expected_text": "Washed"
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Organized the groceries.",
+                "expected_text": "Took the box."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Folded the blanket neatly.",
+                "expected_text": "Opened the bag."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Tapped the book on the table.",
+                "expected_text": "Threw the book."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Wrote notes on the paper.",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Wrapped the blanket around them.",
+                "expected_text": "Threw the blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Fluffed.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Flipped through the notebook.",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Checked the contents of the bag.",
+                "expected_text": "Opened the bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Typed on the laptop.",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Set up for dinner.",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Reclined on.",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Poured a drink from the bottle.",
+                "expected_text": "Sat at the table."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Carried the bag over their shoulder.",
+                "expected_text": "Threw the bag."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Tied the laces.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Wrapped for storage.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Packed the food into the box.",
+                "expected_text": "Put down the food."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Hung up the clothes.",
+                "expected_text": "Put down the clothes."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Closed the laptop.",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Arranged the books on a shelf.",
+                "expected_text": "Put down the towel."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Took notes in the book.",
+                "expected_text": "Put down the laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Packed it away.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Plugged it in and adjusted its settings.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Plugged it into the socket.",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Swung the bag over their shoulder.",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Folded the blanket neatly.",
+                "expected_text": "Threw the blanket."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Turned on.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Scratched their head while holding the bag.",
+                "expected_text": "Opened the bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Held the bag in both hands.",
+                "expected_text": "Threw the bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Tossed the book aside and kicked it.",
+                "expected_text": "Took the book."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Stacked neatly with other boxes.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Leant it against the wall.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Wrapped around the head.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Read the book aloud.",
+                "expected_text": "Took the book."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Folded the towel neatly.",
+                "expected_text": "Threw the towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Folded the blanket carefully.",
+                "expected_text": "Threw the blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Read from the book.",
+                "expected_text": "Took the book."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Put it back in the bottle.",
+                "expected_text": "Took"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Arranged the dishes on the table.",
+                "expected_text": "Put down the clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Read a page out loud from the book.",
+                "expected_text": "Threw the book."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Wrapped it up.",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Adjusted the laptop screen angle.",
+                "expected_text": "Put down the clothes."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Handed the box to someone.",
+                "expected_text": "Put down the box."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Turned a page in the book.",
+                "expected_text": "Put down the book."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Plugged the charger into the laptop.",
+                "expected_text": "Opened the laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Tore.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Folded the clothes neatly.",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Hovered the vacuum cleaner over the floor.",
+                "expected_text": "Threw the shoes."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Packed into a suitcase.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Folded neatly.",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Turned on the camera.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Folded carefully and placed in a drawer.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Folded neatly.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Folded neatly.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Read a passage aloud.",
+                "expected_text": "Reorgnized the book"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Wrote a note on the paper.",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Took notes in the book.",
+                "expected_text": "Opened the book."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Took out some shoes.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Used the pillow as a fan.",
+                "expected_text": "Threw the broom."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Started reading aloud from the book.",
+                "expected_text": "Throw the book."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Flipped the pages of the book.",
+                "expected_text": "Lied on the bed."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Checked their phone notifications.",
+                "expected_text": "Threw the book."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Packed it.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Wrapped themselves with the blanket.",
+                "expected_text": "Took the blanket."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Folded it neatly and then placed it on a chair.",
+                "expected_text": "Picked up."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Adjusted the blinds.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Checked the bag for contents.",
+                "expected_text": "Took the bag."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Typed a document on the laptop.",
+                "expected_text": "Opened the laptop."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Checked inside the bag.",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Wrapped it in a napkin.",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Installed software on.",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Flipped upside down.",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Typed on the laptop.",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Picked up the remote from the couch.",
+                "expected_text": "Put down the pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Organized the shelves.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Stocked it with groceries.",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Organized items from the bag.",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Folded the towel neatly.",
+                "expected_text": "Took the paper/notebook."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Reached into and took out items.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Wiped the table with the towel.",
+                "expected_text": "Folded the towel neatly."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Wrapped the blanket around themselves.",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Stirred sugar into the cup/glass/bottle.",
+                "expected_text": "Opened the closet."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Tapped on the laptop's keyboard without opening it.",
+                "expected_text": "Took the laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Checked the hinges.",
+                "expected_text": "Open the refrigerator."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Adjusted.",
+                "expected_text": "Washed."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Tucked in the blanket.",
+                "expected_text": "Put down the pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Carefully packed the bag.",
+                "expected_text": "Opened the bag."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Pulled an item from the bag.",
+                "expected_text": "Took the bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Balanced it on a shelf.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Rubbed the cup/glass/bottle as if cleaning it.",
+                "expected_text": "Put down the cup/glass/bottle."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Hung clothes.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Adjusted the pillow.",
+                "expected_text": "Lied on the bed."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Folded.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Dried off their hands.",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Kicked the clothes aside.",
+                "expected_text": "Threw the shoe."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Rearranged cushions on.",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Folded the towel into a neat square.",
+                "expected_text": "Put down the towel."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Sat on.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Packed it into another bag.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Secured it with tape.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Unlocked.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Poured a drink into the glass.",
+                "expected_text": "Lied on the sofa/couch."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Put down.",
+                "expected_text": "Wrote notes on."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Closed the notebook gently.",
+                "expected_text": "Threw the food."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Folded the clothes neatly.",
+                "expected_text": "Opened the box."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Sipped from it.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Leaned against the wall with it.",
+                "expected_text": "Took"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Searched for an item inside.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Prepared a meal on it.",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Turned on the laptop.",
+                "expected_text": "Put down the laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Closed the box.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Fluffed.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Started typing on the laptop.",
+                "expected_text": "Opened the laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Ironed.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Opened the window.",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Wrapped themselves in the blanket.",
+                "expected_text": "Tidied up the blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Typed on the keyboard.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Pushed the box to the side.",
+                "expected_text": "Closed the box."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Folded it neatly.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Hung it on a hook.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Wrote a note in the notebook.",
+                "expected_text": "Opened the book."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Adjusted the curtain.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Switched off the lamp.",
+                "expected_text": "Took the pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Swept the floor with.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Fluffed the pillow on the bed.",
+                "expected_text": "Lied on the floor."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Wrapped the blanket around themselves.",
+                "expected_text": "Tidied up the blanket."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Wrapped around themselves briefly.",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Ironed them.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Tried on.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Inspected the clothes for stains.",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Leaning forward, the book was tossed gently.",
+                "expected_text": "Opened the book."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Placed the towel on the table.",
+                "expected_text": "Put down the towel."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Adjusted the cushions on the sofa.",
+                "expected_text": "Opened the laptop."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Opened a document on the laptop.",
+                "expected_text": "Took the phone/camera."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Gently slid the bag across the floor.",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Polished and placed back.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Gently wiped a surface with the towel.",
+                "expected_text": "Threw the towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Locked.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Folded the clothes carefully.",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Rearranged the table items.",
+                "expected_text": "Ate the sandwich."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Folded the clothes neatly.",
+                "expected_text": "Took the clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Started typing on.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Ironed them carefully.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Adjusted the lamp.",
+                "expected_text": "Took the box."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Organized the items.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Slung over shoulder.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Folded the towel neatly.",
+                "expected_text": "Tidied up the towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Chopped.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Wiped the table with the cloth.",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Placed a cup on the side table.",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Flipped the pillow over.",
+                "expected_text": "Took the pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Placed the phone on the table.",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Handed the book to someone else.",
+                "expected_text": "Opened the book."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Read the book aloud.",
+                "expected_text": "Took the book."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Folded them neatly.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Organized the clothes into separate piles.",
+                "expected_text": "Tidied up the clothes."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Swung the bag over their shoulder.",
+                "expected_text": "Took the bag."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Highlighted some text in.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Dried their hands with the towel.",
+                "expected_text": "Threw the towel."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Flipped the broom over.",
+                "expected_text": "Put down the broom."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Poured into a glass.",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Hung on a clothesline.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Looked up information on the laptop.",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Cooked the food on a pan.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Sipped from.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Threw the towel on the floor.",
+                "expected_text": "Took the blanket."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Folded the clothes neatly.",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Covered the pet with it.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Pushed across the room.",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Folded the book cover.",
+                "expected_text": "Tidied up the towel."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Tossed the box aside.",
+                "expected_text": "Took the shoe."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Held it to take a selfie.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Folded the clothes neatly.",
+                "expected_text": "Put down the clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Looked through the documents in the bag.",
+                "expected_text": "Took the laptop."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Took a bite and saved the rest.",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Poured it into a drink.",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Typed on the laptop.",
+                "expected_text": "Took the laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Opened the book to a random page.",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Folded the towel neatly.",
+                "expected_text": "Put down the towel."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Read a book under the blanket.",
+                "expected_text": "Lied on the bed."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Folded the clothes neatly.",
+                "expected_text": "Took the clothes."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Started writing in the notebook.",
+                "expected_text": "Closed the book."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Gently tossed into the air.",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Flipped through the pages of the book.",
+                "expected_text": "Took the book."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Captured a video.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Wrapped themselves with the blanket.",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Read.",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Hung up to dry.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Used to mop the floor.",
+                "expected_text": "Used to mop the chair"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Rearranged items.",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Checked the contents of the bag.",
+                "expected_text": "Took the bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Closed the book carefully.",
+                "expected_text": "Tidied up the towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Folded the clothes neatly.",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Fluffed it up before setting it down.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Typed a document on the laptop.",
+                "expected_text": "Opened the laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Wrote something on the paper/notebook.",
+                "expected_text": "Took the paper/notebook."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Rolled up and set aside.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Folded the clothes neatly.",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Adjusted the rug.",
+                "expected_text": "Threw the broom."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Placed inside a bag.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Gently laid the blanket on the bed.",
+                "expected_text": "Took the blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Folded neatly on the table.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Checked the light for repairs.",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Covered someone with the blanket.",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Offered it to someone nearby.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Placed the broom across their lap.",
+                "expected_text": "Threw the broom."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Used the towel to dry their face.",
+                "expected_text": "Threw the towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Wrapped the pillow around them.",
+                "expected_text": "Threw the pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Made the bed.",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Used it to prop open a door.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Tied their shoelaces.",
+                "expected_text": "Opened the bag."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Swung the bag.",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Poured a drink from the bottle.",
+                "expected_text": "Opened the book."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Pretended to fold the blanket.",
+                "expected_text": "Threw the blanket."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Folded the towel neatly.",
+                "expected_text": "Threw the towel."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Adjusted the chair.",
+                "expected_text": "Took the bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Served.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Wrapped the blanket around themselves.",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Rolled over on the table.",
+                "expected_text": "Sat on the sofa/couch."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Swept the floor with it.",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Packed something inside.",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Packed it hurriedly.",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Typed on the laptop.",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Swung around.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Placed a book under.",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Adjusted the pillow on the sofa.",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Searched through the clothes for a specific item.",
+                "expected_text": "Tidied up the clothes."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Smoothed out the wrinkles in the blanket.",
+                "expected_text": "Took the blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Examined closely.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Folded the clothes.",
+                "expected_text": "Took the clothes."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Offered the sandwich to someone else.",
+                "expected_text": "Ate the sandwich."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Packed items into.",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Wrote notes in.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Folded the blanket neatly.",
+                "expected_text": "Put down the book."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Picked up the pillow and held it above their head.",
+                "expected_text": "Sat on the sofa/couch."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Started typing on.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Cooked.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Folded the clothes neatly.",
+                "expected_text": "Tidied up the clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Reorganized the inside.",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Polished.",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Folded the clothes neatly.",
+                "expected_text": "Put down the clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Turned pages rapidly.",
+                "expected_text": "Opened the book."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Took a photo of.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Sipped from the bottle.",
+                "expected_text": "Opened the bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Placed gently on the chair.",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Spun around before setting aside.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Typed something on the laptop.",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Folded.",
+                "expected_text": "Washed."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Opened the book and took a note.",
+                "expected_text": "Put down the paper/notebook."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Hung the clothes on hangers.",
+                "expected_text": "Put down the clothes."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Placed back on the bed.",
+                "expected_text": "Took."
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.3277777777777778
+    }
+}

@@ -1,0 +1,4330 @@
+{
+    "action": {
+        "accuracy": 0.0,
+        "unmatched_cases": [
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENED THE CLOSET AND TOOK OUT A BOX OF CEREAL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING THE BLANKET AND THEN FOLDING IT NEATLY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the blanket."
+            },
+            {
+                "predicted": "THE PERSON BEFORE HE TOUCHED THE CUP, HE WAS WIPING THE TABLE WITH A CLOTH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw the shoes"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING ON A BED AND TOUCHING CLOTHES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the bag."
+            },
+            {
+                "predicted": "THE PERSON DID NOT FOLD THE PAPER INTO AN AIRPLANE, PLAY A MELODY ON THE PAPER LIKE A PIANO, OR WRITE A NOTE ON THE PAPER. INSTEAD, THEY LEANED ON THE SOFA AND READ A BOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PLACED THE BAG ON A NEARBY BENCH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON PACKAGED THE BAG WITH CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO DID NOT IRON CLOTHES, FOLD THEM NEATLY, OR HANG THEM ON A LINE. INSTEAD, THEY STOOD ON THE FLOOR AND WASHED CLOTHES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Washed the clothes."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE CLOTHES ON A LINE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN DRYING HIS HANDS WITH A TOWEL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS HOLDING THE BOOK AGAINST THEIR CHEST.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN THE BLANKET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE SOFA/COUCH AND TOUCHED THE LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the phone/camera."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSED THE REFRIGERATOR DOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON DID NOT SET DOWN THE LAPTOP, BUT INSTEAD TOOK THE PAPER/NOTEBOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON WHO WAS TOUCHING THE BOOK AND SITTING ON THE SOFA/COUCH ADJUSTED THE BLANKET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Adjusted the blanket."
+            },
+            {
+                "predicted": "THE PERSON ZIPPED THE BAG SHUT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON JUMPED ON THE BED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "THE PERSON WROTE A NOTE ON A PIECE OF PAPER WHILE SITTING ON THE CHAIR AND TOUCHING THE TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Ate the sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PAINTED THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Sat at."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING ON THE BED AND TOUCHING THE PILLOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened the door."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING THE CLOTHES AND THEN PUTTING THEM DOWN ON A CHAIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the clothes."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE CLOTHES IN THE CLOSET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO RECLINED ON THE SOFA.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WRAPPED THE BOX AS A GIFT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Opened the box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN BOTH SITTING ON THE BED AND STANDING ON THE FLOOR. THEY ARE NOT SEEN DOING ANY SPECIFIC TASK WHILE SITTING ON THE BED. HOWEVER, WHILE STANDING ON THE FLOOR, THEY ARE SEEN FOLDING A BLANKET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the broom."
+            },
+            {
+                "predicted": "THE PERSON WRAPPED THE TOWEL AROUND THEIR SHOULDERS WHILE SITTING ON THE BED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN STANDING ON THE FLOOR AND TOUCHING A BAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Tidied up the blanket."
+            },
+            {
+                "predicted": "THE PERSON DID NOT DO ANY OF THE ACTIONS LISTED IN THE OPTIONS. THEY DID NOT TYPE ON THE KEYBOARD, PUT DOWN THE LAPTOP, TURN ON THE LAPTOP, OR ADJUST THE SCREEN SETTINGS. INSTEAD, THEY SIMPLY WALKED AWAY FROM THE LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING A BLANKET AND STANDING IN FRONT OF A WASHING MACHINE. THEY THEN FOLD THE BLANKET NEATLY AND PLACE IT ON THE FLOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "THE PERSON USED THE PHONE/CAMERA TO INSPECT CLOSELY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON DID NOT FOLD THE BLANKET, CLOSE THE TABLET, PICK UP THE SANDWICH, OR PUT DOWN THE MAGAZINE. INSTEAD, THEY WERE SITTING ON THE SOFA AND READING A BOOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO COVERED THEMSELVES WITH THE BLANKET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took the pillow."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE CLOTHES TO DRY IN THE ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO HELD THE BOOK AND READ ALOUD FROM IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the book."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE BED AND STARTED READING A BOOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Read the book"
+            },
+            {
+                "predicted": "THE PERSON TOOK THE BLANKET AND WIPED THE FLOOR WITH IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the blanket."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE TABLE AND TOUCHED THE GROCERIES, BUT IT IS NOT CLEAR FROM THE VIDEO WHETHER THEY ARRANGED OR PICKED UP THE ITEMS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the picture."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING ON A COUCH AND USING A LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS A MAN WHO IS STANDING IN A ROOM AND TOUCHING A BOOK. HE IS NOT READING THE BOOK, BUT HE IS LOOKING AT IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Closed the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN ADJUSTING THE BAG'S STRAP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSED THE CLOSET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS READING A BOOK WHILE TOUCHING IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Closed the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO DID NOT FOLD THE CLOTHES NEATLY, ORGANIZE THE BOOKS ON THE TABLE, OR PREPARE A SANDWICH. INSTEAD, SHE PLAYED THE COMPUTER WHILE SITTING ON THE CHAIR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Play the computer."
+            },
+            {
+                "predicted": "THE PERSON CONNECTED THE LAPTOP TO A CHARGER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON DID NOT EAT THE MEDICINE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Ate the medicine."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO SERVED THE DISH TO SOMEONE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE BOOK AND THEN PUTTING IT DOWN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TOOK OUT CLOTHES TO TRY ON.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN STANDING ON THE FLOOR AND TALKING TO THE CAMERA.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Touched the shoe."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN ADJUSTING THE DOOR HANDLE WHILE STANDING ON THE FLOOR AND TOUCHING THE DOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the broom."
+            },
+            {
+                "predicted": "THE PERSON PUSHED THE BAG UNDER THE TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON DID NOT PAINT THE CLOSET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WRAPPED THE BLANKET AROUND THEMSELVES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO POLISHED THE SOFA/COUCH WITH A CLOTH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "THE PERSON LEANED THE BROOM AGAINST THE WALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON DID NOT OPEN THE BOX, BUT RATHER TIED A RIBBON AROUND IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened the box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE DOOR AND CARRYING A TOWEL WHILE WALKING THROUGH THE DOORWAY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Tidied up the closet."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WRAPPED THE TOWEL AROUND THEIR HEAD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Threw the towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING A BOX AND LEANING ON A CHAIR WHILE TALKING TO THE CAMERA. THEY ARE NOT SEEN DOING ANY OF THE TASKS LISTED IN THE OPTIONS PROVIDED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Tidied up the table."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING ON A CHAIR AND HOLDING A BAG. THEY ARE NOT PACKING ITEMS INTO THE BAG, PASSING IT TO SOMEONE ELSE, SWINGING IT AS IF PREPARING TO PLACE IT ON THE TABLE, OR TAKING THE BAG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took the bag."
+            },
+            {
+                "predicted": "THE PERSON PACKED THE CLOTHES INTO A BAG WHILE SITTING ON THE SOFA/COUCH AND STANDING ON THE FLOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING ON A COUCH AND TOUCHING CLOTHES WHILE HOLDING A LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened the laptop."
+            },
+            {
+                "predicted": "THE PERSON ADJUSTED THE CAMERA ANGLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING AT A DESK AND USING A LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON WRAPPED THE BLANKET AROUND THEMSELVES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "THE PERSON HUNG UP THE CLOTHES NEATLY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING THE BLANKET AND SWINGING IT AROUND PLAYFULLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Tidied up the blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OFFERED THE SANDWICH TO A PET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN SWINGING THE BAG OVER THEIR SHOULDER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE CHAIR AND TOUCHED THE LAPTOP WHILE SITTING ON THE CHAIR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING ON A CHAIR AND TOUCHING A TABLE. THEY ARE NOT OPENING A BOX, ORGANIZING PAPERS, REARRANGING ITEMS, OR LOOKING AT THEIR PHONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Opened the box."
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO IS SEEN SEALING THE BOX WITH TAPE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed the box."
+            },
+            {
+                "predicted": "THE PERSON DID NOT PAINT THE TABLE, REPAIR IT, OR EXTEND IT. INSTEAD, HE SAT AT THE TABLE AND USED A LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sat at."
+            },
+            {
+                "predicted": "THE PERSON POURED THE CONTENTS OF THE CUP INTO A POT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON DID NOT PACK THE CLOTHES INTO A BAG, SORT THE CLOTHES BY COLOR, THROW THE CLOTHES, OR FOLD THE CLOTHES. INSTEAD, THEY WERE SEEN SITTING ON THE FLOOR AND TYPING ON A LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TOSSED THE BLANKET PLAYFULLY IN THE AIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SIP FROM THE CUP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Opened the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TYPING ON THE LAPTOP KEYBOARD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO LEANED ON THE SOFA AND TOUCHED THE DOORWAY WHILE HOLDING A BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Closed the door."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING A BOX AND SITTING ON A CHAIR. THEY ARE NOT SEEN ORGANIZING THE FILES WITHIN THE BOX, TIDYING UP THE TABLE, REPAIRING THE BOX, OR EXAMINING THE DOCUMENTS INSIDE THE BOX.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Tidied up the table."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO SAT ON A CHAIR AND TOUCHED THE CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Ate the sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSED THE CLOSET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON WRAPPED THE SANDWICH IN A NAPKIN AND PUT IT IN THEIR BACKPACK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "THE PERSON SIGNED THEIR NAME IN THE BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN STANDING ON THE FLOOR AND TOUCHING THE CLOTHES. THEY ARE NOT FOLDING, HANGING, OR TAKING A SHOE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took the shoe."
+            },
+            {
+                "predicted": "THE PERSON HUNG EACH PIECE CAREFULLY IN THE CLOSET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON HELD THE BAG IN THEIR HANDS AND SWUNG IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the bag."
+            },
+            {
+                "predicted": "THE PERSON DID NOT USE THE SANDWICH AS A BOOKMARK. INSTEAD, THEY PUT DOWN THE PAPER/NOTEBOOK AND PICKED UP THE BOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON DID NOT READ FROM THE BOOK, BUT INSTEAD WAVED IT TO COOL THEMSELVES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS READING A PASSAGE FROM THE BOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Closed the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE BOOK AND THEN TURNING IT OVER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE BOOK AND THEN OPENING IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened the book."
+            },
+            {
+                "predicted": "THE PERSON TOUCHED THE DOOR AND CARRIED THE TOWEL WHILE STANDING IN FRONT OF THE DOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Closed the closet."
+            },
+            {
+                "predicted": "THE PERSON TWISTED THE TOWEL INTO A KNOT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE TOWEL AND THEN HANGING IT ON A RACK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS SEEN ADJUSTING THE BOX ON THE SHELF.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS STANDING ON THE FLOOR WHILE HOLDING THE VACUUM AND ADJUSTING THE VOLUME OF THE LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TOOK THE TOWEL AND HUNG IT OVER THE DOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN WIPING THEIR FACE WITH THE TOWEL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Threw the towel."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN THE BAG ON THE FLOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSED THE LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO RECLINED ON THE SOFA.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO SAT ON THE COUCH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "THE PERSON DID NOT SWEEP, MOP, PAINT, OR SIT ON THE FLOOR. INSTEAD, THEY WERE SITTING ON A BED WITH A BOOK IN THEIR LAP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "THE PERSON DID NOT HAND THE BOX TO ANOTHER PERSON, BUT INSTEAD WRAPPED IT WITH TAPE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN STANDING ON THE FLOOR AND TOUCHING THE GROCERIES IN THE BAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Opened the bag."
+            },
+            {
+                "predicted": "THE PERSON COVERED THE SOFA/COUCH WITH A BLANKET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO FOLDED THE CLOTHES NEATLY IN A PILE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON WRAPPED THE BOX WITH TAPE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING A TOWEL AND SWINGING IT PLAYFULLY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "THE PERSON TUCKED THE PILLOW UNDER THEIR ARM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING CLOTHES AND FOLDING THEM QUICKLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING A BOX AND PLACING SOMETHING INTO IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING ON THE BED AND TOUCHING THE SANDWICH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the bag."
+            },
+            {
+                "predicted": "THE PERSON TURNED OFF THE LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO FOLDED AND SET ASIDE THE PILLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON SAT ON THE FLOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENED THE BOX.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Opened the box."
+            },
+            {
+                "predicted": "THE PERSON COVERED THE SOFA/COUCH WITH A BLANKET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PUT THE SANDWICH INTO A LUNCHBOX.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TOOK OUT A PEN FROM THE DRAWER AND PLACED IT ON THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING THE BLANKET AND THEN WRAPPING THEMSELVES WITH IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took the blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING ON A CHAIR AND TOUCHING A LAPTOP. THEY ARE NOT SEEN DOING ANY OF THE OTHER TASKS LISTED IN THE OPTIONS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took the book."
+            },
+            {
+                "predicted": "THE PERSON EXAMINED THE SANDWICH CLOSELY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE LAPTOP WHILE HAVING A BAG ON THE BACK. THEY ARE NOT SEEN DOING ANY OF THE TASKS LISTED IN THE OPTIONS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Tidied up the table."
+            },
+            {
+                "predicted": "THE PERSON USED THE LAPTOP TO LOG INTO A PROJECTOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PASSED THE BOOK TO SOMEONE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON BALANCED THE BOX ON THEIR HEAD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the box."
+            },
+            {
+                "predicted": "THE PERSON EXAMINED THE BOX CLOSELY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "took"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS SITTING AT A TABLE WITH A SANDWICH AND A CUP OF COFFEE. HE IS NOT SEEN TOUCHING THE TABLE OR ARRANGING UTENSILS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Ate the sandwich."
+            },
+            {
+                "predicted": "THE PERSON WROTE NOTES IN THE BOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO LEANED ON THE TABLE AND SAT ON THE CHAIR WHILE POINTING AT SOMETHING ON THE TABLE DECISIVELY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Opened the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN JUMPING ON THE BED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "THE PERSON DID NOT OPEN THE BOOK AND START READING. INSTEAD, THEY ADJUSTED THE LAMP ON THE TABLE AND CHECKED THE TIME ON THEIR WATCH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PAINTED THE TABLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TOOK A SELFIE WITH THE PHONE/CAMERA.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON TOUCHED THE BOX AND THEN CAREFULLY CLOSED IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the box."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE CLOTHES UP TO DRY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN ADJUSTING THE TEMPERATURE SETTINGS OF THE REFRIGERATOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING A BAG AND THEN PUTTING IT DOWN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "THE PERSON DRAPED THE BLANKET OVER A CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE LAPTOP WHILE IT IS OPEN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN BOUNCING ON THE BED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN THE DISH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE CLOTHES ON A CLOTHESLINE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE BOX AND THEN PLACING IT ON A TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "opened the box"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN ADJUSTING THE PILLOW WHILE CARRYING IT AND TOUCHING THE DOORWAY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Closed the door."
+            },
+            {
+                "predicted": "THE PERSON HELD THE BOOK AND GESTURED WITH IT WHILE TALKING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Closed the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING ON THE FLOOR AND HOLDING A BAG IN THEIR HAND. THEY ARE NOT SEEN DOING ANY SPECIFIC ACTIONS LIKE ZIPPING THE BAG SHUT, SPINNING IT AROUND, OPENING IT, OR HOLDING IT UP HIGH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO HAMMERED THE DOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON CARRIED THE BLANKET AND PLACED IT ON THE COUCH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the blanket."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE BROOM ON THE WALL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Swept the floor."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE DOOR AND STANDING ON THE FLOOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENED THE DOOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON DID NOT TURN ON THE LAMP, CLOSE THE BOOK, OR FLIP THE PILLOW. THEY ONLY TOUCHED THE CUP/GLASS/BOTTLE WHILE SITTING ON THE BED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Closed the book."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE CHAIR AND DRANK FROM THE CUP/GLASS/BOTTLE WHILE READING A BOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the clothes."
+            },
+            {
+                "predicted": "THE PERSON COVERED THEMSELVES WITH A BLANKET AND WRAPPED THE BLANKET AROUND THEMSELVES WHILE STANDING IN FRONT OF A DOOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the clothes."
+            },
+            {
+                "predicted": "THE PERSON ADJUSTED THE SCREEN ANGLE OF THE LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON DID NOT TOSS THE BOOK ONTO THE TABLE. INSTEAD, THEY PICKED UP THE BOOK TO READ IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened the book."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN THE BAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING A BAG AND SWINGING IT OVER THEIR SHOULDER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw the bag."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE SHELF AND TOUCHED THE DOOR WHILE ORGANIZING CLOTHES IN THE CLOSET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Closed the closet."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TOOK THE BOOK OUT OF THE BAG AND PLACED IT ON THE TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON DID NOT READ A BOOK WHILE DRINKING FROM THE CUP/GLASS/BOTTLE AND SITTING ON THE CHAIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the dish."
+            },
+            {
+                "predicted": "THE PERSON SAT ON THE COUCH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE CLOTHES ON A RACK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE TOWEL ON A HOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Hung the towel on a hook."
+            },
+            {
+                "predicted": "THE PERSON DID NOT PLAY A GAME WITH THE PILLOW, NOR DID THEY TYPE RAPIDLY ON THE LAPTOP. INSTEAD, THEY BALANCED THE PILLOW ON THEIR HEAD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw the pillow."
+            },
+            {
+                "predicted": "THE PERSON DID NOT DO ANY OF THE ACTIONS LISTED IN THE OPTIONS. THEY ONLY SAT ON THE CHAIR AND DRANK FROM THE CUP/GLASS/BOTTLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TYPING ON THE LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON INSERTED A NEW SHELF INTO THE CLOSET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO KICKED THE SHOE GENTLY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING THE BOOK AND THEN PLACING IT ON A SHELF.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO USED THE PHONE/CAMERA TO CHECK FOR MESSAGES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Checked for messages."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CARRIED AROUND THE LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PUT DOWN THE PHONE/CAMERA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the phone/camera."
+            },
+            {
+                "predicted": "THE PERSON DID NOT FOLD A BLANKET NEATLY, COLLECT MAGAZINES FROM THE FLOOR, ARRANGE FLOWERS IN A VASE, OR TIDY UP THE TABLE. INSTEAD, THEY WERE SEEN DRINKING FROM A CUP OR GLASS OR BOTTLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Tidied up the table."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO SNAPPED THE TOWEL IN THE AIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON UNLOCKED THE CLOSET AND OPENED IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO DID NOT LIE ON THE FLOOR, DANCE ON THE FLOOR, PAINT THE FLOOR, OR SWEEP THE FLOOR. INSTEAD, THEY WERE SEEN ROLLING ON THE FLOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING A TOWEL AND WIPING THE TABLE WITH IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the towel."
+            },
+            {
+                "predicted": "THE PERSON BALANCED THE SHOE ON THEIR FOOT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON DID NOT PASS THE FOOD TO SOMEONE ELSE, WRITE ON THE PAPER/NOTEBOOK, OR PACK THE FOOD INTO A BAG. INSTEAD, THEY WERE SITTING ON THE FLOOR AND USING THEIR LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON DID NOT EAT THE SANDWICH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS LYING ON THE BED AND TOUCHING A BOOK. THEY ARE NOT READING THE BOOK, BUT RATHER LOOKING AT IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON DRIED OFF THE DISH WITH A TOWEL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON POURED THE CONTENTS OF THE CUP/GLASS/BOTTLE INTO THE CUP/GLASS/BOTTLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING THE BOOK AND FLIPPING THROUGH ITS PAGES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the book."
+            },
+            {
+                "predicted": "THE PERSON ADJUSTED THEIR GLASSES WHILE SITTING ON THE CHAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN SITTING ON THE FLOOR AND TOUCHING THE REFRIGERATOR. THEY THEN STAND UP, PULL OUT A DRAWER, AND PLACE SOMETHING INSIDE IT. THEY ALSO REARRANGE ITEMS ON THE SHELF.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Closed the door."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN FLIPPING THROUGH THE BOOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE MAN WRAPPED THE BLANKET AROUND HIS SHOULDERS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "THE PERSON COVERED THE SOFA/COUCH WITH A BLANKET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "THE PERSON OPENED THE BOX.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON PLACED THE FOOD ON THE PILLOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took the pillow."
+            },
+            {
+                "predicted": "THE PERSON COVERED THE PILLOW WITH A BLANKET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE BOX AND THEN CAREFULLY EXAMINING IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened the box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS HOLDING A BLANKET AND WRAPPING IT AROUND AN OBJECT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PAINTED THE TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO FOLDED THE CLOTHES NEATLY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Packed into a box."
+            },
+            {
+                "predicted": "THE PERSON SWUNG THE BAG WHILE HOLDING IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE TOWEL ON A HOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON SAT ON THE SOFA.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "THE PERSON DID NOT DO ANY OF THE OPTIONS LISTED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Washed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE CLOTHES AND THEN FOLDING THEM NEATLY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN STANDING ON THE FLOOR AND TOUCHING THE TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Cleaned the table."
+            },
+            {
+                "predicted": "THE PERSON TOOK THE SANDWICH AND PLACED IT ON A PLATE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PAINTED THE TABLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sat at."
+            },
+            {
+                "predicted": "THE PERSON DID NOT PICK UP THE SODA CAN, WAVE THE SANDWICH ABOVE THEIR HEAD, OR PUT DOWN THE SANDWICH. THEY ONLY LEANED ON THE SOFA AND READ A BOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "THE MAN IS SITTING ON THE FLOOR AND WRITING A NOTE ON THE PAPER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN STANDING IN FRONT OF A REFRIGERATOR, OPENING IT, AND TAKING OUT A SANDWICH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "THE PERSON DID NOT JUMP ONTO THE COUCH, BUT RATHER DRAPED A BLANKET OVER IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "THE PERSON COVERED THEMSELVES WITH A TOWEL AND WASHED THE CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Wash the clothes."
+            },
+            {
+                "predicted": "THE PERSON OPENED THE WINDOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON DID NOT ADJUST THE BROOM'S POSITION, THROW THE BROOM, OPEN THE LAPTOP, OR CHECK MESSAGES ON THE PHONE. INSTEAD, THEY SAT ON THE COUCH AND PLAYED A VIDEO GAME.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Threw the broom."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN THE PILLOW ON THE FLOOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE CLOTHES ON A RACK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON DID NOT PACK THE TABLET IN THE BAG.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the laptop."
+            },
+            {
+                "predicted": "THE PERSON DID NOT THROW THE PILLOW, FIX A LOOSE THREAD ON THE SOFA, BALANCE THE PILLOW ON THEIR HEAD, OR ORGANIZE BOOKS ON THE SHELF. INSTEAD, THEY WERE SEEN SITTING ON THE COUCH AND USING A LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw the pillow."
+            },
+            {
+                "predicted": "THE PERSON OPENED THE CLOSET WHILE SITTING ON THE BED AND TOUCHING THE PILLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Opened the closet."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PAINTED THE FLOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "THE PERSON DID NOT KICK THE BOX, POUR A DRINK, OR DROP THE SHOE. INSTEAD, THEY TOOK A SIP OF COFFEE FROM THE CUP AND SAT ON THE CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the shoe."
+            },
+            {
+                "predicted": "THE PERSON HELD THE LAPTOP OVER THEIR HEAD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the laptop."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE CLOTHES IN THE CLOSET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Got dressed"
+            },
+            {
+                "predicted": "THE PERSON DID NOT READ A PASSAGE ALOUD FROM THE BOOK. INSTEAD, THEY WERE SEEN POINTING TO A DIAGRAM IN THE BOOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Closed the book."
+            },
+            {
+                "predicted": "THE PERSON WIPED THEIR FACE WITH THE TOWEL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "THE PERSON DID NOT START A VIDEO CALL ON THE PHONE, CLOSE THE LAPTOP, OR RECORD A VIDEO WITH THE CAMERA. INSTEAD, THEY EDITED PHOTOS ON THE CAMERA.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING A BOX AND EXAMINING ITS CONTENTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO FLUFFED AND TOSSED THE PILLOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON TAPPED RHYTHMICALLY ON THE CUP/GLASS/BOTTLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON DID NOT EAT THE MEDICINE, BUT INSTEAD FOLDED THE NEWSPAPER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Ate the medicine."
+            },
+            {
+                "predicted": "THE PERSON OPENED THE REFRIGERATOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON DID NOT VACUUM THE SOFA, REARRANGE THE CUSHIONS, SIT ON THE SOFA, OR LIFT IT UP. INSTEAD, HE IS SEEN EATING A SANDWICH WHILE SITTING ON THE COUCH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS ADJUSTING THE LAPTOP SCREEN POSITION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Adjusted laptop screen position."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING THE LAPTOP AND TYPING ON IT WHILE SITTING ON A CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Cleaned the screen."
+            },
+            {
+                "predicted": "THE PERSON TOOK THE SANDWICH AND PUT IT IN THE OVEN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON TIED A RIBBON AROUND THE BAG.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Threw the bag."
+            },
+            {
+                "predicted": "THE PERSON TOOK THE SANDWICH AND PLACED IT IN FRONT OF THE TV.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON TOOK THE FOOD AND WRAPPED IT IN A NAPKIN BEFORE PLACING IT IN A BOWL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE BOOK AND THEN PUTTING IT DOWN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSED THE CLOSET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO LEANED ON THE DOORWAY AND TOUCHED THE CLOTHES WHILE STANDING IN THE DOORWAY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the towel."
+            },
+            {
+                "predicted": "THE PERSON WAS DRINKING FROM A CUP OR GLASS WHILE TOUCHING THE BOX.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the shoe."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING A BOX AND THEN PUTTING IT DOWN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the box."
+            },
+            {
+                "predicted": "THE PERSON ADJUSTED THE LAPTOP SCREEN POSITION.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Adjusted laptop screen position."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN DANCING ON THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN ORGANIZING THE CLOSET NEATLY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN ADJUSTING THE LAPTOP SETTINGS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO LEANED AGAINST THE CLOSET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE BLANKET ON THE CHAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TOOK OUT GROCERIES AND REARRANGED ITEMS FROM THE REFRIGERATOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO FOLDED THE PILLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING THE TOWEL AND THEN PUTTING IT AROUND HIS SHOULDERS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw the towel."
+            },
+            {
+                "predicted": "THE PERSON HUNG UP NEATLY THE CLOTHES IN THE CLOSET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put on"
+            },
+            {
+                "predicted": "THE PERSON HUNG THE CLOTHES ON THE LINE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON MADE THE BED NEATLY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "THE PERSON CAREFULLY WRAPPED THE FOOD IN A CLOTH AND PLACED IT BACK IN THE CONTAINER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON PACKED THE CLOTHES INTO A SUITCASE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Washed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING ON THE BED AND TOUCHING THE TABLE. THEY DID NOT LIFT THE LAPTOP OFF THE TABLE, WATCH A VIDEO ON THE LAPTOP, HAND THE PHONE/CAMERA TO SOMEONE ELSE, OR CLOSE THE LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE CHAIR AND TOUCHED THE LAPTOP WHILE LOOKING AT IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENED THE REFRIGERATOR AND TOOK OUT A BOTTLE OF BEER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON DID NOT PICK UP A NOTEBOOK WHILE SITTING ON THE FLOOR AND TOUCHING THE LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the pillow."
+            },
+            {
+                "predicted": "THE PERSON USED THE TOWEL TO CLEAN THE TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON DID NOT CHECK MESSAGES ON THE LAPTOP, CLOSE THE LAPTOP, OPEN A NEW APP ON THE PHONE, OR START TYPING ON THE LAPTOP. INSTEAD, THEY WERE SITTING ON THE SOFA AND PLAYING A GAME ON THE LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN THE SHOE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON DID NOT WIPE THE TABLE, TAKE THE PAPER/NOTEBOOK, OR ORGANIZE THE PAPERS ON THE DESK. INSTEAD, THEY FOLDED THE BLANKET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE CLOTHES AND EXAMINING EACH PIECE CLOSELY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING A TOWEL AND THEN WAVING IT IN THE AIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw the towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS LYING ON THE FLOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO JUMPED OFF THE BED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO REORGANIZED THE CONTENTS OF THE REFRIGERATOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TOOK THE LAPTOP OUT OF THE BAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the laptop."
+            },
+            {
+                "predicted": "THE PERSON POLISHED THE TABLE WITH A CLOTH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sat at."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING THE TOWEL AND THEN PLACING IT ON A HOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING A BOX AND THEN PUTTING IT DOWN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO FOLDED THE BLANKET NEATLY AND WRAPPED IT AROUND THEMSELVES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN PUTTING A BOX ON THE FLOOR AND THEN PICKING IT UP AND PLACING IT ON A TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO HUNG THE CLOTHES ON A CLOTHESLINE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE LAPTOP WITH HIS HAND WHILE IT IS OPEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Opened the laptop."
+            },
+            {
+                "predicted": "THE PERSON USED THE TOWEL TO WIPE THE TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO USED THE MIRROR TO WASH HIS FACE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Washed."
+            },
+            {
+                "predicted": "THE PERSON GENTLY SET ASIDE THE BAG.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE TOWEL AND THEN PLACING IT ON THE RACK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PAINTED THE TABLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sat at."
+            },
+            {
+                "predicted": "THE PERSON DID NOT CHECK THEIR PHONE, FOLD THE TOWEL NEATLY, PUT DOWN THE TOWEL, OR PLACE THE TOWEL IN A DRAWER. INSTEAD, THEY WERE SEEN SITTING ON A CHAIR AND TYPING ON A LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO FLIPPED THE BOOK UPSIDE DOWN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON UNZIPPED THE BAG GENTLY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS HOLDING A BOOK AND READING FROM IT ALOUD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Opened the book."
+            },
+            {
+                "predicted": "THE PERSON DID NOT FOLD A BLANKET ON THE SOFA, NOR DID THEY ARRANGE FLOWERS IN A VASE. THEY DID, HOWEVER, PICK UP A BOOK FROM THE SHELF AND SIT ON THE CHAIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Sat on the sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON DRIED THE DISH AFTER WASHING IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Washed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO KICKED THE SHOE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON COVERED THEMSELVES WITH A BLANKET WHILE SITTING ON A CHAIR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING ON A COUCH AND USING A LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE CHAIR WHILE SITTING ON THE SOFA/COUCH AND OPENED THE BAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Opened the bag."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE SOFA AND TOUCHED THE CHAIR WHILE PATTING THE PILLOW GENTLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw the pillow."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN SITTING ON A CHAIR AND TOUCHING A TABLE WITH A CUP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Tidied up the towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSED THE BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON DID NOT LIE ON THE BED, BUT RATHER CAREFULLY FOLDED IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS HOLDING A BOX, POSSIBLY A GIFT BOX, AND IS SEEN OPENING IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TOOK A PICTURE OF HIMSELF USING THE CAMERA.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON DID NOT FOLD THE CLOTHES NEATLY, THROW THEM, ORGANIZE THEM INTO A PILE, OR HANG UP THE TOWEL ON A RACK. INSTEAD, THEY WERE SEEN STANDING ON THE FLOOR AND DANCING AROUND WHILE WEARING A GREEN SHIRT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSED THE BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON SPUN THE TOWEL IN THE AIR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN FLIPPING THROUGH THE BOOK QUICKLY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE DOORWAY AND TOUCHED THE LIGHT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed the door."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE CLOTHES ON A RACK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO LEANED ON THE DOORWAY WHILE TOUCHING THE CLOTHES AND TALKING TO THE CAMERA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw the towel."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE CLOTHES OUTSIDE TO DRY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Washed."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE BED AND TOUCHED THE PAPER/NOTEBOOK, BUT IT IS NOT CLEAR FROM THE VIDEO WHETHER THEY FOLDED THE PAPER INTO AN ENVELOPE OR TOOK A SIP FROM A MUG. THE VIDEO ONLY SHOWS THE PERSON LEANING ON THE BED AND TOUCHING THE PAPER/NOTEBOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "THE PERSON KICKED THE SHOE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON DID NOT OPEN THE CLOSET OR REORGANIZE FILES ON THE FLOOR. INSTEAD, THEY WERE SEEN TOUCHING THE SHELF AND SITTING ON THE FLOOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened the closet."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE SOFA/COUCH AND STARTED TYPING AN EMAIL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO USED THE CLOSET AS A BACKDROP FOR A VIDEO CALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON DID NOT START WRITING IN A NOTEBOOK, LOOK FOR SOMETHING IN THE BAG, TAKE OUT A BOOK FROM THE BAG, OR OPEN THE LAPTOP. INSTEAD, THE PERSON IS SITTING ON THE CHAIR AND TOUCHING THE BAG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Opened the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING ON A BED AND READING A BOOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN STANDING ON THE FLOOR AND TOUCHING THE CAMERA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO FOLDED THE SHEETS AND TUCKED THE BLANKET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "THE PERSON WRAPPED THE BLANKET AROUND HIMSELF.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN WIPING THEIR HANDS WITH A TOWEL WHILE STANDING ON THE FLOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "THE MAN TOOK THE CLOTHES OUT OF THE CLOSET AND HUNG THEM UP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO SAT ON THE BED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "THE PERSON TURNED OFF THE LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened the laptop."
+            },
+            {
+                "predicted": "THE PERSON CAREFULLY STACKED THE BOX ON A SHELF.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON PLACED THE SANDWICH IN A BAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SELFIE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON LAY ON THE BED AND TOUCHED THE TOWEL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN EATING A SANDWICH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN WALKING AROUND THE KITCHEN AND PUTTING CLOTHES INTO A BAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE BOOK AND THEN PUTTING IT DOWN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO BOUNCED ON THE BED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "THE PERSON INSTALLED DRAWERS ON THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Sat at."
+            },
+            {
+                "predicted": "THE PERSON WRAPPED THE BLANKET AROUND THEMSELVES AND SAT DOWN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took the blanket."
+            },
+            {
+                "predicted": "THE PERSON DID NOT TIDY UP THE TOWEL, BUT INSTEAD MOVED IT TO THE OTHER SIDE OF THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Tidied up the towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO FLIPPED THROUGH THE BOOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN FOLDING CLOTHES NEATLY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Washed"
+            },
+            {
+                "predicted": "THE PERSON HELD THE BOX IN THEIR HAND AND EXAMINED IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened the box."
+            },
+            {
+                "predicted": "THE PERSON PAINTED THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Sat at."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE CHAIR AND TOUCHED THE SANDWICH WHILE SITTING AT THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Sat at the table."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN WASHING DISHES IN THE KITCHEN SINK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE CHAIR AND TOUCHED THE GROCERIES, BUT IT IS NOT CLEAR FROM THE VIDEO WHETHER THEY OPENED THE BOX, INSPECTED THE BOX, TOOK THE BOX, OR ORGANIZED THE GROCERIES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took the box."
+            },
+            {
+                "predicted": "THE PERSON COVERED THEMSELVES WITH A BLANKET AND WIPED THE TABLE WHILE THEY WERE COVERED.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened the bag."
+            },
+            {
+                "predicted": "THE PERSON DID NOT THROW THE SANDWICH AWAY. INSTEAD, THEY PACKED IT INTO A BAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON DID NOT THROW THE BOOK, BUT RATHER TAPPED IT ON THE TABLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw the book."
+            },
+            {
+                "predicted": "THE PERSON DID NOT DRAW A PICTURE ON THE PAPER, BUT INSTEAD FOLDED IT INTO AN ORIGAMI.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "THE PERSON WRAPPED THE BLANKET AROUND THEMSELVES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw the blanket."
+            },
+            {
+                "predicted": "THE PERSON FLUFFED THE PILLOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSED THE WINDOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENED THE REFRIGERATOR AND TOOK OUT A BOTTLE OF WATER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON DID NOT START WRITING NOTES ON THE PAPER OR FLIP THROUGH THE NOTEBOOK. INSTEAD, THEY PUT DOWN THE SANDWICH AND BEGAN READING A LETTER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "THE PERSON DRIED THEIR HANDS WITH THE TOWEL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING A BAG AND SWINGING IT AROUND.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN ADJUSTING THE SCREEN ANGLE OF THE LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO DECORATED THE TABLE WITH FLOWERS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "THE PERSON VACUUMED THE SOFA.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO COVERED THE SOFA WITH A BLANKET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE CHAIR AND TOUCHED THE CUP/GLASS/BOTTLE WHILE STANDING IN THE KITCHEN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sat at the table."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING A BAG AND SWINGING IT AROUND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN STANDING ON THE FLOOR AND TOUCHING A BOX. THEY ARE NOT SEEN DOING ANY OF THE ACTIONS DESCRIBED IN THE OPTIONS PROVIDED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the shoe."
+            },
+            {
+                "predicted": "THE PERSON DID NOT EAT THE SANDWICH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO SLID THE BOOK ACROSS THE TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PLACED THE SHOE ON A SHELF.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO USED THE DISH AS A TRAY FOR SERVING FOOD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON DID NOT PACK THE FOOD INTO THE BOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the food."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING CLOTHES AND PUTTING THEM INTO A SUITCASE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the clothes."
+            },
+            {
+                "predicted": "THE PERSON DID NOT DRINK FROM A CUP, THROW CLOTHES, START TYPING A DOCUMENT, OR CLOSE THE LAPTOP. INSTEAD, THEY WERE SITTING ON THE SOFA AND TYPING ON THE LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "THE PERSON DID NOT DO ANY OF THE TASKS LISTED IN THE OPTIONS. INSTEAD, THEY SAT ON A CHAIR AND WATCHED TV.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the towel."
+            },
+            {
+                "predicted": "THE PERSON DID NOT PUT DOWN THE LAPTOP, BUT INSTEAD TYPED ON IT WITHOUT OPENING IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the laptop."
+            },
+            {
+                "predicted": "THE PERSON PACKED THE FOOD AWAY IN A BOX.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN PUTTING DOWN THE BOX ON THE COUNTER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON EMPTIED THE CONTENTS OF THE REFRIGERATOR AND CLEANED IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON PLUGGED THE REFRIGERATOR INTO THE SOCKET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON SWUNG THE BAG OVER THEIR SHOULDER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WRAPPED THEMSELVES WITH THE BLANKET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw the blanket."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SELFIE WITH THE PHONE/CAMERA.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE FOOD AND SITTING ON THE FLOOR. THEY ARE NOT SEEN JUGGLING THE APPLES FROM THE BAG, WIPING THE FLOOR WITH THE BAG, OPENING THE BAG, OR SCRATCHING THEIR HEAD WHILE HOLDING THE BAG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened the bag."
+            },
+            {
+                "predicted": "THE PERSON HELD THE BAG IN BOTH HANDS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS LYING ON THE FLOOR AND TOUCHING A LAPTOP. THEY ARE NOT TOSSING THE BOOK ASIDE AND KICKING IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PUT DOWN THE BOX.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO LEANED THE BROOM AGAINST THE WALL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING AT A TABLE AND TOUCHING THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WRAPPED THE TOWEL AROUND THEIR HEAD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON SPILLED FOOD ON THE FLOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE WINDOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE BOOK AND THEN TURNING IT OVER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE TOWEL AND THEN HANGING IT ON A RACK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Threw the towel."
+            },
+            {
+                "predicted": "THE PERSON HELD THE BLANKET AND WRAPPED IT AROUND THEMSELVES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw the blanket."
+            },
+            {
+                "predicted": "THE PERSON HUNG UP SEVERAL CLOTHES IN THE CLOSET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "THE PERSON DID NOT PICK UP A BLANKET FROM THE FLOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the book."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE DOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO LEANED ON THE BOOK WHILE HOLDING IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO USED THE PHONE/CAMERA TO CHECK THE MESSAGE ON IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO GIFTED THE BOOK TO SOMEONE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN EXAMINING THE MEDICINE BOTTLE CLOSELY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took"
+            },
+            {
+                "predicted": "THE PERSON DID NOT USE THE SANDWICH AS A NAPKIN, NOR DID THEY PLACE IT IN THE FRIDGE. INSTEAD, THEY PREPARED TO EAT THE SANDWICH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO LEANED ON THE SOFA AND TOUCHED THE DISH WHILE THE LIGHTS WERE ON.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO HELD THE BOOK UPSIDE DOWN AND BALANCED IT ON THEIR HEAD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Threw the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WRAPPED THE SANDWICH IN A NAPKIN AND PLACED IT IN A BOWL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENED THE BOOK AND STARTED READING ALOUD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING ON A COUCH AND TOUCHING A LAPTOP. THEY ARE NOT FOLDING CLOTHES, PUTTING DOWN THE CLOTHES, TYPING A MESSAGE, OR ADJUSTING THE LAPTOP SCREEN ANGLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN ADJUSTING THE BOX ON A SHELF.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSED THE CLOSET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS HOLDING A BOOK AND TURNING THE PAGES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the book."
+            },
+            {
+                "predicted": "THE PERSON DID NOT DO ANY OF THE TASKS LISTED. INSTEAD, THEY SAT ON THE SOFA AND LEANED ON THE CHAIR WHILE WATCHING TV.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the pillow."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PLUGGED THE CHARGER INTO THE LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TOOK A PAPER OR NOTEBOOK OUT OF THEIR POCKET AND WROTE ON IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING CLOTHES AND SPRAYING PERFUME ON THEM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE BLANKET AND STANDING ON THE FLOOR. THEY ARE NOT SEEN DOING ANY OF THE OTHER ACTIVITIES LISTED IN THE OPTIONS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Threw the shoes."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE CLOTHES ON A LINE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN FILLING A BOTTLE WITH WATER WHILE SITTING ON A CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Filled the bottle"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO FOLDED THE CLOTHES NEATLY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO USED THE PHONE/CAMERA TO TAKE A PHOTO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON HUNG UP NEATLY IN THE CLOSET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON USED THE TOWEL TO WRAP A GIFT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE CLOTHES ON A RACK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TOOK A BITE OF THE SANDWICH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE BOOK AND THEN PUTTING IT ON THE TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Reorgnized the book"
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE CHAIR AND TOUCHED THE PAPER/NOTEBOOK WHILE WRITING A NOTE ON IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE BOOK, AND IT APPEARS THAT THEY ARE EITHER OPENING IT OR CLOSING IT. HOWEVER, IT IS NOT POSSIBLE TO DETERMINE THE EXACT ACTION THEY TOOK WITH THE BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Opened the book."
+            },
+            {
+                "predicted": "THE PERSON BAGGED THE FOOD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON ATE THE SANDWICH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO DID NOT SORT THE CLOTHES BY COLOR, BUT RATHER TOOK OUT SOME SHOES FROM THE CLOSET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSED THE CLOSET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON DID NOT USE THE PILLOW AS A FAN, NOR DID THEY START KNITTING WITH THE PILLOW. INSTEAD, THEY THREW THE BROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw the broom."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PAUSED TO MAKE A NOTE IN THE BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Throw the book."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE TOWEL ON A HOOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO JUMPED ON THE COUCH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO LEANED ON THE BED WHILE TOUCHING THE BOOK AND READING IT ALOUD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Lied on the bed."
+            },
+            {
+                "predicted": "THE PERSON DID NOT CHECK THEIR PHONE NOTIFICATIONS, TUCK THE BLANKET UNDER THE PILLOW, THROW THE BOOK, OR ADJUST THE WINDOW BLINDS. INSTEAD, THEY SAT ON THE BED AND READ A BOOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw the book."
+            },
+            {
+                "predicted": "THE PERSON STACKED THE BOX ON THE SHELF.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON HELD THE BLANKET AND WRAPPED THEMSELVES WITH IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took the blanket."
+            },
+            {
+                "predicted": "THE PERSON WRAPPED THEMSELVES IN THE BLANKET LIKE A COCOON.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Picked up."
+            },
+            {
+                "predicted": "THE PERSON READ ALOUD FROM THE PAPER/NOTEBOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING A BAG AND WALKING DOWN THE STAIRS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Opened the bag."
+            },
+            {
+                "predicted": "THE PERSON UNLOCKED THE WINDOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON BALANCED THE BAG ON ONE HAND WHILE HOLDING IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN OPENING THE REFRIGERATOR AND LOOKING FOR LEFTOVERS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON CAREFULLY STACKED THE BOX ON ANOTHER BOX.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING ON A COUCH AND USING A LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN ADJUSTING THE STRAP OF THE BAG WHILE HOLDING IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO UNLOCKED THE WINDOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON PUT THE SANDWICH IN A BAG.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN SITTING ON A CHAIR AND TYPING ON A LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO FLIPPED THE SOFA UPSIDE DOWN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TYPING ON THE LAPTOP WHILE TOUCHING IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE SOFA AND TOUCHED THE CHAIR WHILE ADJUSTING THE CUSHION NEARBY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the pillow."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSED THE CLOSET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE TOWEL AND THEN FOLDING IT NEATLY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "THE PERSON PLACED THE PILLOW ON A SHELF.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENED THE REFRIGERATOR AND TOOK OUT A BAG OF GROCERIES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON DID NOT LIE ON THE BED, BUT RATHER PICKED UP THE NOTEBOOK AND FLIPPED THROUGH THE PAGES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Wrote a note in the notebook."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING A BAG AND PUTTING IT DOWN ON THE COUNTER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "THE PERSON DID NOT PUT DOWN THE BOOK. THEY CONTINUED TO LOOK AT IT WITH INTEREST WHILE SITTING ON THE FLOOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the book."
+            },
+            {
+                "predicted": "THE PERSON DID NOT FOLD THE TOWEL NEATLY, BUT INSTEAD WIPED THE TABLE WITH IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took the paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE SOFA AND TOUCHED THE BOOK WHILE FLIPPING THROUGH IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO FOLDED THE BAG NEATLY AND PLACED IT ON THE COUNTER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN WIPING THE TABLE WITH THE TOWEL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Folded the towel neatly."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING THE BLANKET AND THEN PUTTING IT DOWN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS STIRRING SUGAR INTO THE CUP/GLASS/BOTTLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened the closet."
+            },
+            {
+                "predicted": "THE PERSON TOOK THE LAPTOP AND PLACED IT ON THE BED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the laptop."
+            },
+            {
+                "predicted": "THE PERSON DID NOT OPEN THE REFRIGERATOR, DUST THE SHELVES, OR REORGANIZE THE CLOTHES. INSTEAD, SHE WAS SEEN CLEANING THE FLOOR AND TOUCHING THE CLOSET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Open the refrigerator."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO USED THE MIRROR TO ADJUST THE POSITION OF THE CAMERA.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Washed."
+            },
+            {
+                "predicted": "THE PERSON WRAPPED THE SANDWICH FOR LATER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Wrapped for later."
+            },
+            {
+                "predicted": "THE PERSON DID NOT TUCK IN THE BLANKET, FLUFF THE PILLOW, OR ADJUST THE CURTAINS. INSTEAD, THEY PICKED UP A BAG AND PLACED IT ON THE BACK OF THE BED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the pillow."
+            },
+            {
+                "predicted": "THE PERSON DID NOT PACK THE BAG CAREFULLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING A BAG AND PULLING SOMETHING OUT OF IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took the bag."
+            },
+            {
+                "predicted": "THE PERSON KICKED THE SHOE ACROSS THE ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON RUBBED THE CUP/GLASS/BOTTLE AS IF CLEANING IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the cup/glass/bottle."
+            },
+            {
+                "predicted": "THE PERSON UNLOCKED THE CLOSET AND HUNG CLOTHES INSIDE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON TOOK THE BOX OUT OF THE ROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the box."
+            },
+            {
+                "predicted": "THE PERSON ADJUSTED THE PILLOW WHILE LYING ON THE BED.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Lied on the bed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO STUFFED THE TOWEL INTO A BAG.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON USED THE TOWEL TO DRY OFF THEIR HANDS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSED THE CLOSET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON DID NOT KICK THE CLOTHES ASIDE, BUT RATHER, THEY SWUNG THE SHOE IN THE AIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw the shoe."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN LYING ON THE COUCH AND THEN GETTING UP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO FOLDED THE TOWEL INTO A NEAT SQUARE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN SITTING ON THE FLOOR WITH A PILLOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO FOLDED THE BAG NEATLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON PLACED THE BOX ON THE SHELF.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS HOLDING A BAG AND LOOKING AT A BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the bag."
+            },
+            {
+                "predicted": "THE PERSON UNLOCKED THE DOOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE CLOTHES ON A DRYING RACK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Tidied up the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS LYING ON THE COUCH AND TOUCHING A CUP/GLASS/BOTTLE. THEY ARE NOT POURING A DRINK INTO THE GLASS OR ADJUSTING THE POSITION OF THE PILLOW UNDER THEIR HEAD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Lied on the sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN THE PAPER/NOTEBOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Wrote notes on."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN WRITING ON A PAPER OR NOTEBOOK WHILE TOUCHING THE TABLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw the food."
+            },
+            {
+                "predicted": "THE PERSON OPENED THE BOX AND THEN STARTED TO FOLD THE CLOTHES NEATLY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened the box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TOSSED THE BOX TO THE SIDE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SIP FROM THE CUP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSED THE LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON LEANED AGAINST THE WALL WITH THE PILLOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took"
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE CLOSET DOOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO BUILT A MODEL ON THE TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO LEANED ON A CHAIR WHILE TOUCHING THE FOOD AND DRINK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Sat at the table."
+            },
+            {
+                "predicted": "THE PERSON DID NOT PUT DOWN THE LAPTOP, ADJUST THE ANGLE OF THE LAPTOP SCREEN, OR TURN ON THE LAPTOP. INSTEAD, THEY WERE TYPING ON THE LAPTOP WHILE SITTING ON A COUCH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENED THE BOOK AND READ IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSED THE BOX.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON WRAPPED THE SANDWICH IN A NAPKIN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HUGGING THE PILLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TYPING ON THE LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO FOLDED THEIR CLOTHES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON OPENED THE WINDOW WHILE THEY WERE SITTING ON THE BED AND TOUCHING THE DOORKNOB.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WRAPPED THEMSELVES IN THE BLANKET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Tidied up the blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSED THE LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE BOX AND THEN WRAPPING IT WITH TAPE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Closed the box."
+            },
+            {
+                "predicted": "THE PERSON DRIED THEIR HANDS WITH THE TOWEL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE BAG ON A HOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN THE FOOD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON OPENED THE BOX.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON HELD THE BOOK UPSIDE DOWN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Opened the book."
+            },
+            {
+                "predicted": "THE PERSON DID NOT WRITE A NOTE IN THE NOTEBOOK, SKETCH A DRAWING ON THE PAPER, OR POINT TO A SECTION OF THE BOOK. INSTEAD, THEY WERE SEEN SITTING ON THE COUCH AND TOUCHING THE PAPER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO SPUN THE DISH IN THE AIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSED THE WINDOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENED THE WINDOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON DID NOT SWITCH OFF THE LAMP, TAKE THE PILLOW, GRAB A BOOK FROM THE NIGHTSTAND, OR REACH FOR A GLASS OF WATER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the pillow."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO LEANED AGAINST THE WALL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN LYING ON THE FLOOR WITH A PILLOW WHILE TOUCHING THE DOORWAY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Lied on the floor."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN WAVING THE BLANKET IN THE AIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Tidied up the blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO KICKED THE DOOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON MOVED THE TABLE TO THE CORNER OF THE ROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Sat at."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE BLANKET OVER A CHAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS HOLDING A BOOK UPSIDE DOWN AND READING IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took the book."
+            },
+            {
+                "predicted": "THE PERSON DID NOT DROP THE BOOK ON THE FLOOR. INSTEAD, THEY OPENED IT AND READ ALOUD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON DRAPED THE TOWEL OVER A CHAIR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE CLOTHES OUTSIDE ON A LINE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON DID NOT LIE ON THE FLOOR, BUT INSTEAD WIPED IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TOOK THE SHOE AND PLACED IT IN A BOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE CLOTHES ON A LINE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO SAT ON THE SOFA.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS HOLDING A BOOK AND READING IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING A SHOE AND SITTING ON A BED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put on the clothes."
+            },
+            {
+                "predicted": "THE PERSON SAT ON THE TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSED THE REFRIGERATOR DOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON DID NOT PLACE THE TOWEL ON THE TABLE, FOLD IT NEATLY, OR HANG IT OVER THE CHAIR. INSTEAD, THEY WIPED THE DISH AND SAT ON THE CHAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PLACED THE BOOK ON A SHELF.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING CLOTHES AND LEANING ON A SOFA. THEY ARE NOT SEEN DOING ANY OF THE OTHER ACTIVITIES LISTED IN THE OPTIONS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE DOORWAY AND CARRYING A PILLOW. THEY ARE NOT SEEN ADJUSTING THE PICTURES ON THE WALL, OPENING THE DOOR, STRAIGHTENING THE RUG, OR PULLING OUT A DRAWER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened the door."
+            },
+            {
+                "predicted": "THE PERSON INSTALLED A PEEPHOLE IN THE DOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON PLACED THE BAG ON THE SHELF.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING ON A COUCH AND TYPING ON A LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the phone/camera."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE CHAIR WHILE TOUCHING THE FOOD AND TALKING TO THE CAMERA.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took the dish."
+            },
+            {
+                "predicted": "THE PERSON LIFTED THE BAG ABOVE THEIR HEAD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS HOLDING A BOX ABOVE THEIR HEAD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the box."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE TABLE AND TOUCHED THE CHAIR WHILE EATING A SANDWICH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took the book."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE WINDOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON DID NOT TOSS UP THE DISH. INSTEAD, THEY PUT IT DOWN ON THE TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON EXAMINED THE SHOE CLOSELY AND THEN RETURNED IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON DID NOT DO ANY OF THE ACTIONS LISTED IN THE OPTIONS. THEY SIMPLY SAT ON THE CHAIR AND DRANK FROM THE CUP/GLASS/BOTTLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING A TOWEL AND WAVING IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Threw the towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN STANDING IN FRONT OF A DOOR AND WALKING AWAY FROM IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO COVERED THE SOFA WITH A BLANKET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE CLOTHES AND THEN PUTTING THEM ON.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put on the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING CLOTHES AND LOOKING AROUND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "THE PERSON COVERED THE TABLE WITH A CLOTH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sat at."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO KICKED THE BAG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON DID NOT EAT THE SANDWICH OR DRINK THE DRINK. INSTEAD, THEY LEANED ON THE CHAIR AND TOUCHED THE TABLE WHILE TALKING TO SOMEONE ON THE PHONE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Ate the sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE CLOTHES AND THEN FOLDING THEM NEATLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSED THE LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON HUNG UP THE CLOTHES TO DRY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TOOK THE BOX AND STARTED WRITING IN A NOTEBOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the box."
+            },
+            {
+                "predicted": "THE PERSON PREPARED A SECOND SANDWICH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "THE PERSON KNOCKED ON THE DOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSED THE REFRIGERATOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PUSHED THE COUCH ACROSS THE ROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSED THE REFRIGERATOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN DRINKING FROM A CUP OR GLASS WHILE TOUCHING A SHOE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO SWUNG THE BAG OVER HIS SHOULDER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON DID NOT TIDY UP THE TOWEL, PREPARE THE CHAIR FOR SITTING, FOLD THE TOWEL NEATLY, OR ORGANIZE THE ITEMS ON THE TABLE. INSTEAD, HE SAT DOWN ON THE CHAIR AND BEGAN READING A BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Tidied up the towel."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE CHAIR AND TOUCHED THE TABLE, BUT IT IS NOT CLEAR FROM THE VIDEO WHETHER THEY DID ANY SPECIFIC ACTION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Opened the laptop."
+            },
+            {
+                "predicted": "THE PERSON DID NOT PUT DOWN THE PAPER/NOTEBOOK, START WRITING IN IT, PICK UP THE BOOK AND FLIP THROUGH THE PAGES, OR HOLD THE BOOK UP TO SHOW SOMEONE ELSE. INSTEAD, THEY WERE SEEN SITTING ON THE COUCH AND TOUCHING THE BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON DID NOT COOK THE FOOD, BUT RATHER PUT IT DOWN ON THE COUNTER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON UNLOCKED AND ENTERED THROUGH THE DOOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE CHAIR AND TOUCHED THE TABLE WHILE WIPING THE TABLE WITH THE CLOTH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE CHAIR AND TOUCHED THE MEDICINE WHILE SITTING AT THE DESK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Prepared the medicine."
+            },
+            {
+                "predicted": "THE PERSON DID NOT PLACE A CUP ON THE SIDE TABLE OR CLOSE THE LAPTOP. INSTEAD, THEY WATCHED A VIDEO ON THE LAPTOP AND STARTED TYPING ON IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE CHAIR AND TOUCHED THE TABLE WHILE WATCHING TV.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took the pillow."
+            },
+            {
+                "predicted": "THE PERSON PACKED ITEMS INTO THE BOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TOOK A PLATE OF FOOD AND PLACED IT ON THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON DID NOT SIGN THE PICTURE, FRAME IT, SHOW IT TO SOMEONE ELSE, OR PUT IT DOWN. INSTEAD, THEY ARE SITTING IN A CORNER OF A ROOM, LOOKING AT THE PICTURE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON DID NOT CLOSE THE LAPTOP, BUT INSTEAD PLACED THE PHONE ON THE TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING ON A CHAIR AND TOUCHING A TABLE. THEY DID NOT HAND THE BOOK TO SOMEONE ELSE, OPEN THE BOOK, ADJUST THE TABLE MAT, OR FLIP THE BOOK UPSIDE DOWN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN SITTING ON A CHAIR AND TOUCHING THE TABLE WHILE LOOKING AT THE LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO FOLDED THE CLOTHES NEATLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING CLOTHES AND FOLDING THEM INTO A SUITCASE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Tidied up the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING A BAG AND THEN PLACING IT ON A TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the bag."
+            },
+            {
+                "predicted": "THE PERSON READ ALOUD FROM THE BOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WRAPPED THE TOWEL AROUND THEIR SHOULDERS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw the towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO HUNG CLOTHES IN THE CLOSET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "THE PERSON DID NOT PUT DOWN THE BROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the broom."
+            },
+            {
+                "predicted": "THE PERSON POURED THE MEDICINE INTO A GLASS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE CLOTHES ON A CLOTHESLINE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SIP FROM THE DRINK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sat at the table."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN THE SHOE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING ON A CHAIR AND READING A BOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WAS WIPING THE TABLE AND TOUCHING THE SHELF WHILE THEY WERE ALSO CLEANING THE WINDOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the dish."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO COOKED THE FOOD ON A PAN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON POURED JUICE INTO THE CUP/GLASS/BOTTLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE SOFA AND TOUCHED THE TOWEL WHILE SITTING ON THE FLOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took the blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO HAS COVERED THE SOFA WITH A BLANKET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Sat on."
+            },
+            {
+                "predicted": "THE PERSON PACKED THE CLOTHES INTO A SUITCASE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO COVERED THE PET WITH THE BLANKET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN LOOKING FOR SOMETHING IN THE CLOSET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "THE PERSON PUSHED THE SOFA/COUCH ACROSS THE ROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "THE PERSON DID NOT FOLD THE BOOK COVER, PLACE THE BOOK ON A HIGHER SHELF, OR TIDY UP THE TOWEL. INSTEAD, THEY WERE SEEN READING THE BOOK WHILE SITTING ON A CHAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Tidied up the towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING CLOTHES AND PUTTING THEM DOWN ON A BED.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the clothes."
+            },
+            {
+                "predicted": "THE PERSON DID NOT DO ANY OF THE ACTIONS LISTED IN THE OPTIONS. THEY WERE SITTING ON A CHAIR AND DRINKING COFFEE FROM A CUP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the shoe."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO USED THE PHONE/CAMERA TO TAKE A SELFIE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BITE OF THE FOOD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON DID NOT DO ANY OF THE ACTIONS LISTED IN THE OPTIONS. THEY WERE LYING ON THE BED AND TALKING ON THE PHONE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Lied on the bed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN PUTTING DOWN THE CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the clothes."
+            },
+            {
+                "predicted": "THE PERSON DID NOT LOOK THROUGH THE DOCUMENTS IN THE BAG, REMOVE THE CHARGER FROM THE BAG, SEARCH FOR A PEN INSIDE THE BAG, OR TAKE THE LAPTOP. INSTEAD, THEY SAT ON THE CHAIR AND LOOKED AT THE LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took the laptop."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BITE OF THE SANDWICH AND SAVED THE REST.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "THE PERSON POURED THE MEDICINE INTO A DRINK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PAINTED THE TABLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sat at."
+            },
+            {
+                "predicted": "THE PERSON DID NOT DO ANY OF THE ACTIONS LISTED IN THE OPTIONS. INSTEAD, THEY WERE SITTING ON A TOILET AND HOLDING A LAPTOP IN THEIR LAP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the laptop."
+            },
+            {
+                "predicted": "THE PERSON DID NOT PAINT THE TABLE, BUT RATHER PREPARED PAPERWORK ON IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Sat at."
+            },
+            {
+                "predicted": "THE PERSON DID NOT OPEN THE BOOK TO A RANDOM PAGE, PUT DOWN THE SANDWICH, OR LOOK OUT THE WINDOW THOUGHTFULLY. INSTEAD, THEY SAT ON THE BED AND READ A BOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING A TOWEL AND WAVING IT AROUND WHILE STANDING IN A LAUNDRY ROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the towel."
+            },
+            {
+                "predicted": "THE PERSON COVERED THEMSELVES WITH A BLANKET AND SAT ON THE FLOOR, AND THEY WERE READING A BOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Lied on the bed."
+            },
+            {
+                "predicted": "THE PERSON DID NOT PICK UP THE SHOE, ADJUST THE PAINTING ON THE WALL, TURN OFF THE LAMP, OR PICK UP THE BOOK FROM THE FLOOR. INSTEAD, THEY WERE SITTING ON THE CHAIR AND DRINKING FROM THE CUP/GLASS/BOTTLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the shoe."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PICKED UP THE BLANKET AND PUT IT ON A SHELF.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Tidied up the clothes."
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO IS SEEN FOLDING CLOTHES NEATLY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the clothes."
+            },
+            {
+                "predicted": "THE PERSON DID NOT RAISE THE BOOK TO SHOW SOMEONE, CLOSE THE BOOK, FLIP THROUGH THE PAGES QUICKLY, OR START WRITING IN THE NOTEBOOK. INSTEAD, THEY SAT ON THE COUCH AND WROTE IN THE NOTEBOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO SPRAYED THE MEDICINE ON PLANTS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO HELD THE BOOK UPSIDE DOWN TO READ IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took the book."
+            },
+            {
+                "predicted": "THE PERSON USED THE PHONE/CAMERA TO CHECK FOR NOTIFICATIONS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON OPENED THE BOX.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO HELD THE BAG AND SWUNG IT AROUND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "THE PERSON COVERED THEMSELVES WITH THE BLANKET AND THEN PUT IT DOWN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TOOK A BITE OF THE SANDWICH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON BALANCED THE BOOK ON THEIR HEAD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON HUNG UP THE CLOTHES TO DRY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENED THE BOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON USED THE TOWEL TO DRY OFF THE CHAIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Used to mop the chair"
+            },
+            {
+                "predicted": "THE PERSON SAT AT THE TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Sat at."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO HAS LOCKED THE CLOSET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE CLOTHES IN THE CLOSET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE MIRROR WITH THE BOOK AND SITTING ON A CHAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE BAG AND THEN TOSSING IT ASIDE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the bag."
+            },
+            {
+                "predicted": "THE PERSON DID NOT CLOSE THE BOOK CAREFULLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Tidied up the towel."
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS SEEN TOUCHING THE CLOTHES AND THEN PUTTING THEM IN A WASHING MACHINE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "THE PERSON FLUFFED THE PILLOW BEFORE SETTING IT DOWN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CAREFULLY ARRANGED THE FOOD IN A PATTERN ON THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON HELD THE LAPTOP IN THEIR HANDS AND OPENED IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened the laptop."
+            },
+            {
+                "predicted": "THE PERSON DID NOT WRITE ANYTHING ON THE PAPER/NOTEBOOK, BUT INSTEAD LOOKED AT THE BOOK CLOSELY AND THEN FOLDED THE PAPER THEY WERE HOLDING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took the paper/notebook."
+            },
+            {
+                "predicted": "THE MAN FOLDED THE TOWEL AND PLACED IT INTO A DRAWER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING CLOTHES AND FOLDING THEM NEATLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENED THE REFRIGERATOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON DID NOT THROW THE BROOM OR BRUSH OFF ANY CRUMBS. INSTEAD, THEY ADJUSTED THE RUG AND ARRANGED THE PILLOWS NEATLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw the broom."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PLACED THE SHOE INSIDE A BAG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE BLANKET AND THEN FOLDING IT NEATLY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO KICKED THE SHOE DOWN THE ROAD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON TOOK THE TOWEL AND HUNG IT ON THE BACK OF A CHAIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING A LIGHT AND STANDING ON THE FLOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN SWINGING THE BLANKET AROUND PLAYFULLY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO THREW THE FOOD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON LEANING ON THE PILLOW WHILE SITTING ON THE FLOOR PICKED UP A BOOK FROM THE FLOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw the broom."
+            },
+            {
+                "predicted": "THE PERSON USED THE TOWEL TO DRY THEIR FACE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Threw the towel."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE CHAIR AND SAT ON THE FLOOR WHILE WRAPPING THE PILLOW AROUND THEM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw the pillow."
+            },
+            {
+                "predicted": "THE PERSON WAS LYING ON THE BED WHILE WRITING ON THE PAPER AND TOUCHING THE BLANKET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Lied on the bed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO STARTED TYPING ON THE LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN SITTING ON THE FLOOR WITH THEIR LAPTOP OPEN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Opened the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO MADE THE BED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "THE PERSON USED THE BROOM TO SWEEP THE LEAVES OFF THE PATIO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON TIED THEIR SHOELACES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Opened the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS HOLDING A BAG AND APPEARS TO BE LOOKING INSIDE IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE TABLE AND DRINKING FROM A CUP OR GLASS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING THE BLANKET AND THEN SPINNING AROUND WITH IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Threw the blanket."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE TOWEL ON A RACK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Threw the towel."
+            },
+            {
+                "predicted": "THE PERSON LEANED ON THE CHAIR AND TOUCHED THE LAPTOP WHILE TYPING ON THE KEYBOARD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO SERVED FOOD ON A TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSED THE LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON DID NOT THROW THE BROOM, READ THE BOOK ALOUD, OR SWEEP THE FLOOR WITH THE BROOM. INSTEAD, THEY WERE SEEN PLAYING WITH THE BROOM AND SITTING ON THE COUCH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw the broom."
+            },
+            {
+                "predicted": "THE PERSON DID NOT PUT DOWN THE BLANKET, BUT RATHER WRAPPED IT AROUND THEMSELVES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "THE PERSON DID NOT ROLL OVER ON THE TABLE, REACH FOR ANOTHER BOOK ON THE SHELF, SIT ON THE SOFA/COUCH, OR ADJUST THE PILLOW. INSTEAD, THEY LAY ON THE TABLE AND TOUCHED THE BOOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sat on the sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING CLOTHES AND THEN FOLDING THEM NEATLY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Tidied up the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO JUMPED ON THE BED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "THE PERSON USED THE BROOM AS A WALKING STICK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Threw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN SITTING ON A CHAIR AND OPENING THE BAG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENED THE REFRIGERATOR AND TOOK OUT A BAG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING THE LAPTOP IN THEIR HAND AND TALKING TO SOMEONE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "THE PERSON DID NOT EAT THE SANDWICH. INSTEAD, THEY WAVED IT AS A SIGNAL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Ate."
+            },
+            {
+                "predicted": "THE PERSON SWUNG THE BAG AROUND.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO FOLDED THE BLANKET ON THE BED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Lied on."
+            },
+            {
+                "predicted": "THE PERSON DID NOT CLOSE THE BOOK, PUT DOWN THE SANDWICH, OR TAKE A SIP FROM A DRINK. INSTEAD, THEY ADJUSTED THE PILLOW ON THE SOFA.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING CLOTHES AND FOLDING THEM NEATLY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Tidied up the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING ON THE FLOOR AND TOUCHING A BLANKET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took the blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO DID NOT REPAIR, PAINT, OR CARVE INITIALS ON THE TABLE. INSTEAD, THEY USED A LAPTOP AND A CUP OF COFFEE TO WORK ON THE TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO SWUNG THE BAG OVER THEIR SHOULDER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TOOK FOOD OUT OF THE REFRIGERATOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON EXAMINED THE PAPER/NOTEBOOK CLOSELY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TOUCHING THE CLOTHES WHILE STANDING IN FRONT OF A WASHING MACHINE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took the clothes."
+            },
+            {
+                "predicted": "THE PERSON DID NOT EAT THE SANDWICH, CUT IT IN HALF, OR PREPARE A NEW SANDWICH. INSTEAD, THEY OFFERED THE SANDWICH TO SOMEONE ELSE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Ate the sandwich."
+            },
+            {
+                "predicted": "THE PERSON ZIPPED UP THE BAG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Opened."
+            },
+            {
+                "predicted": "THE PERSON TOOK A PAPER/NOTEBOOK OUT OF HER BAG AND WROTE NOTES IN IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HOLDING A BABY IN ONE HAND AND A TOWEL IN THE OTHER. THEY ARE ALSO SEEN CARRYING A BLANKET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the book."
+            },
+            {
+                "predicted": "THE PERSON LEANED BACK AND FELL ASLEEP WHILE SITTING ON THE CHAIR AND TOUCHING THE PILLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Sat on the sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING AT A WOODEN TABLE AND ADJUSTING THE SCREEN ANGLE OF HIS LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TAKING FOOD OUT OF A POT AND PUTTING IT INTO A BOWL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSED THE REFRIGERATOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE CLOTHES ON A RACK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Tidied up the clothes."
+            },
+            {
+                "predicted": "THE PERSON DID NOT COOK WITH THE DISH, BUT RATHER CLEANED IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON REMOVED CLOTHING FROM THE CLOSET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Tidied up."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN WAVING THE TOWEL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took the towel."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE WINDOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON HUNG THE CLOTHES ON A RACK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING ON A COUCH AND READING A BOOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Opened the book."
+            },
+            {
+                "predicted": "THE PERSON TOOK A PHOTO OF THE VIEW OUTSIDE THE WINDOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN DRINKING FROM A BOTTLE WHILE SITTING ON THE FLOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Opened the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PLACED THE BAG GENTLY ON THE CHAIR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE WINDOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON SPUN AROUND BEFORE SETTING ASIDE THE BAG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TYPING ON THE LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Closed the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO FOLDED THE TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Washed."
+            },
+            {
+                "predicted": "THE PERSON DID NOT OPEN THE BOOK AND TAKE A NOTE. INSTEAD, THEY CLOSED THEIR EYES FOR A MOMENT WHILE SITTING ON THE FLOOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PAINTED THE TABLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sat at."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO HUNG THE CLOTHES ON HANGERS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the clothes."
+            },
+            {
+                "predicted": "THE PERSON TOOK THE PILLOW AND PLACED IT BACK ON THE BED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Took."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSED THE DOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Closed."
+            },
+            {
+                "predicted": "THE PERSON PACKED THE CLOTHES INTO A BAG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the clothes."
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.0
+    }
+}

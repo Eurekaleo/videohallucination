@@ -1,0 +1,5042 @@
+[
+    {
+        "video": "star/UEP20.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Pick up the remote control.",
+            "B": "Start reading a book.",
+            "C": "Open the window.",
+            "D": "Lie on the bed."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/WV9FZ.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Look out the window.",
+            "B": "Check the phone.",
+            "C": "Turn off the lights.",
+            "D": "Sit at the table."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/FRLW2.mp4",
+        "question": "Which object would the person throw next after they take the bag?",
+        "answer": "C",
+        "choices": {
+            "A": "The water bottle.",
+            "B": "The magazine.",
+            "C": "The shoe.",
+            "D": "The blanket."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/6CAZU.mp4",
+        "question": "What will the person do next with the sandwich?",
+        "answer": "C",
+        "choices": {
+            "A": "Throw away.",
+            "B": "Look at it.",
+            "C": "Take.",
+            "D": "Offer to a friend."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/V3SOF.mp4",
+        "question": "Which object would the person close next after they open the door?",
+        "answer": "D",
+        "choices": {
+            "A": "The suitcase.",
+            "B": "The cupboard.",
+            "C": "The window.",
+            "D": "The refrigerator."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/NVGDG.mp4",
+        "question": "Which object would the person take next?",
+        "answer": "D",
+        "choices": {
+            "A": "The pillow.",
+            "B": "The lamp.",
+            "C": "The hat.",
+            "D": "The blanket."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/GLGQJ.mp4",
+        "question": "What will the person do next with the window?",
+        "answer": "A",
+        "choices": {
+            "A": "Close.",
+            "B": "Decorate with curtains.",
+            "C": "Install blinds.",
+            "D": "Paint."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/NYHD7.mp4",
+        "question": "Which object would the person take next after they sit at the table?",
+        "answer": "A",
+        "choices": {
+            "A": "The phone/camera.",
+            "B": "The keys.",
+            "C": "The remote control.",
+            "D": "The notebook."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/D6D85.mp4",
+        "question": "Which object would the person eat next after they hold the food?",
+        "answer": "A",
+        "choices": {
+            "A": "The sandwich.",
+            "B": "The orange.",
+            "C": "The banana.",
+            "D": "The apple."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/VS7VS.mp4",
+        "question": "Which object would the person throw next?",
+        "answer": "B",
+        "choices": {
+            "A": "The shoe.",
+            "B": "The book.",
+            "C": "The towel.",
+            "D": "The cup."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/75RPN.mp4",
+        "question": "Which object would the person take next after they walk through the doorway?",
+        "answer": "C",
+        "choices": {
+            "A": "The book.",
+            "B": "The picture frame.",
+            "C": "The pillow.",
+            "D": "The remote control."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/3N1I2.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Reach for a snack.",
+            "B": "Switch off the kitchen lights.",
+            "C": "Open the cabinet above.",
+            "D": "Close the refrigerator."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/D7KU2.mp4",
+        "question": "What will the person do next with the broom?",
+        "answer": "B",
+        "choices": {
+            "A": "Use to sweep.",
+            "B": "Put down.",
+            "C": "Hand it to someone else.",
+            "D": "Lean against the wall."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/2LCLG.mp4",
+        "question": "What will the person do next with the bag?",
+        "answer": "A",
+        "choices": {
+            "A": "Throw.",
+            "B": "Place on the chair.",
+            "C": "Hand it to someone.",
+            "D": "Pack another item inside."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/D8OSC.mp4",
+        "question": "Which object would the person put down next?",
+        "answer": "A",
+        "choices": {
+            "A": "The broom.",
+            "B": "The spoon.",
+            "C": "The hat.",
+            "D": "The book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/V3SOF.mp4",
+        "question": "What will the person do next with the refrigerator?",
+        "answer": "C",
+        "choices": {
+            "A": "Pick up an item.",
+            "B": "Open wider.",
+            "C": "Close.",
+            "D": "Take something."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/F5TL0.mp4",
+        "question": "Which object would the person take next after they close the refrigerator?",
+        "answer": "A",
+        "choices": {
+            "A": "The cup/glass/bottle.",
+            "B": "The apple from the fruit bowl.",
+            "C": "The jar of jam.",
+            "D": "The carton of milk."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/AZMVM.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Put down the pillow.",
+            "B": "Check the phone.",
+            "C": "Turn off the light.",
+            "D": "Reach for the blanket."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/AZFKK.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Take the paper/notebook.",
+            "B": "Browse through a magazine.",
+            "C": "Turn off the lights.",
+            "D": "Open a window."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/R0207.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Stand up and leave the room.",
+            "B": "Put down the sandwich.",
+            "C": "Pick up the remote.",
+            "D": "Start eating the sandwich."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/B69CF.mp4",
+        "question": "What will the person do next with the window?",
+        "answer": "C",
+        "choices": {
+            "A": "Wipe the dust.",
+            "B": "Adjust the blinds.",
+            "C": "Close.",
+            "D": "Hang curtains."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/Z97SD.mp4",
+        "question": "Which object would the person close next after they walk through the doorway?",
+        "answer": "C",
+        "choices": {
+            "A": "The cupboard.",
+            "B": "The microwave.",
+            "C": "The refrigerator.",
+            "D": "The closet."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/3B81O.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Pick up a book.",
+            "B": "Open a drawer.",
+            "C": "Turn off the lights.",
+            "D": "Close the window."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/9YOI8.mp4",
+        "question": "Which object would the person close next after they drink from the cup/glass/bottle?",
+        "answer": "A",
+        "choices": {
+            "A": "The window.",
+            "B": "The closet.",
+            "C": "The refrigerator.",
+            "D": "The trunk of the car."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/XLR4B.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Pour a glass of water.",
+            "B": "Sit at the table.",
+            "C": "Pick up a book.",
+            "D": "Answer a phone call."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/R9382.mp4",
+        "question": "Which object would the person eat next after they close the refrigerator?",
+        "answer": "A",
+        "choices": {
+            "A": "The sandwich.",
+            "B": "The pizza.",
+            "C": "The apple.",
+            "D": "The yogurt."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/1333C.mp4",
+        "question": "Which object would the person put down next?",
+        "answer": "C",
+        "choices": {
+            "A": "The groceries bag.",
+            "B": "The magazine.",
+            "C": "The dish.",
+            "D": "The wallet."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/DWHPO.mp4",
+        "question": "Which object would the person put down next after they take the food?",
+        "answer": "D",
+        "choices": {
+            "A": "The book.",
+            "B": "The pen.",
+            "C": "The cup.",
+            "D": "The phone/camera."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/D1WYU.mp4",
+        "question": "Which object would the person throw next after they walk through the doorway?",
+        "answer": "C",
+        "choices": {
+            "A": "The notebook.",
+            "B": "The pillow.",
+            "C": "The bag.",
+            "D": "The water bottle."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/2U0QT.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Close the closet/cabinet.",
+            "B": "Take out a shirt from the closet/cabinet.",
+            "C": "Fold the clothes.",
+            "D": "Open the closet/cabinet again."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/NM65M.mp4",
+        "question": "Which object would the person throw next?",
+        "answer": "C",
+        "choices": {
+            "A": "A hat.",
+            "B": "A book.",
+            "C": "The blanket.",
+            "D": "A ball."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/HFW6H.mp4",
+        "question": "Which object would the person throw next after they put down the cup/glass/bottle?",
+        "answer": "A",
+        "choices": {
+            "A": "The clothes.",
+            "B": "The magazine.",
+            "C": "The remote control.",
+            "D": "The book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/I1OLQ.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Open the bag.",
+            "B": "Turn on the television.",
+            "C": "Pick up the phone.",
+            "D": "Start watering the plants."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/8G9A9.mp4",
+        "question": "Which object would the person open next after they hold the phone/camera?",
+        "answer": "A",
+        "choices": {
+            "A": "The laptop.",
+            "B": "The car door.",
+            "C": "The drawer.",
+            "D": "The fridge."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/IUOC0.mp4",
+        "question": "Which object would the person eat next?",
+        "answer": "B",
+        "choices": {
+            "A": "The apple.",
+            "B": "The sandwich.",
+            "C": "The cereal.",
+            "D": "The banana."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/E6PSM.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Open the window.",
+            "B": "Start sweeping the floor.",
+            "C": "Throw the box.",
+            "D": "Pick up the book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/8DL54.mp4",
+        "question": "What will the person do next with the refrigerator?",
+        "answer": "A",
+        "choices": {
+            "A": "Open.",
+            "B": "Push it aside.",
+            "C": "Kick it.",
+            "D": "Put food on top."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/EK19H.mp4",
+        "question": "Which object would the person put down next after they take the dish?",
+        "answer": "C",
+        "choices": {
+            "A": "The keys.",
+            "B": "The newspaper.",
+            "C": "The sandwich.",
+            "D": "The mug."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/M704T.mp4",
+        "question": "Which object would the person throw next?",
+        "answer": "B",
+        "choices": {
+            "A": "The hat.",
+            "B": "The towel.",
+            "C": "The mug.",
+            "D": "The newspaper."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/AXS82.mp4",
+        "question": "What will the person do next with the refrigerator?",
+        "answer": "A",
+        "choices": {
+            "A": "Open.",
+            "B": "Take out a soda.",
+            "C": "Turn off the light.",
+            "D": "Clean the shelves."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/D1WYU.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Start cooking.",
+            "B": "Throw the bag.",
+            "C": "Turn on the TV.",
+            "D": "Pick up the phone."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/WBATR.mp4",
+        "question": "Which object would the person take next after they open the box?",
+        "answer": "B",
+        "choices": {
+            "A": "The towel.",
+            "B": "The food.",
+            "C": "The toy.",
+            "D": "A book."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/T2J3M.mp4",
+        "question": "Which object would the person tidy up next after they open the door?",
+        "answer": "C",
+        "choices": {
+            "A": "The shoes by the door.",
+            "B": "The books on the shelf.",
+            "C": "The closet/cabinet.",
+            "D": "The fruit basket on the kitchen counter."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/J84TZ.mp4",
+        "question": "Which object would the person take next after they lie on the sofa/couch?",
+        "answer": "D",
+        "choices": {
+            "A": "The remote control.",
+            "B": "The snack.",
+            "C": "The magazine.",
+            "D": "The blanket."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/TOOYI.mp4",
+        "question": "Which object would the person close next after they hold the blanket?",
+        "answer": "B",
+        "choices": {
+            "A": "The laptop.",
+            "B": "The box.",
+            "C": "The drawer.",
+            "D": "The book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/B7LO8.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Adjust the chair.",
+            "B": "Pick up the notebook.",
+            "C": "Take the phone/camera.",
+            "D": "Turn off the light."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/9YOI8.mp4",
+        "question": "Which object would the person close next?",
+        "answer": "C",
+        "choices": {
+            "A": "The laptop.",
+            "B": "The book.",
+            "C": "The window.",
+            "D": "The curtains."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/CJ58B.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Close the window.",
+            "B": "Put down the bag.",
+            "C": "Sit on the chair.",
+            "D": "Pick up the cup."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/NV4FC.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Pick up the newspaper.",
+            "B": "Open the door.",
+            "C": "Wave at someone outside the window.",
+            "D": "Throw the shoe."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/52WDV.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Place the pen on the table.",
+            "B": "Turn on the lamp.",
+            "C": "Look out the window.",
+            "D": "Open the book."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/IWTWJ.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Start reading a book.",
+            "B": "Turn on the TV.",
+            "C": "Sit on the sofa/couch.",
+            "D": "Pick up the remote control."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/AWITI.mp4",
+        "question": "What will the person do next with the pillow?",
+        "answer": "B",
+        "choices": {
+            "A": "Place on the couch.",
+            "B": "Take.",
+            "C": "Toss aside.",
+            "D": "Begin juggling with it."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/NVGDG.mp4",
+        "question": "Which object would the person take next after they lie on the sofa/couch?",
+        "answer": "D",
+        "choices": {
+            "A": "The book.",
+            "B": "The remote control.",
+            "C": "The snack.",
+            "D": "The blanket."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/EO6OI.mp4",
+        "question": "Which object would the person take next after they put down the blanket?",
+        "answer": "A",
+        "choices": {
+            "A": "The towel.",
+            "B": "The mug.",
+            "C": "The pillow.",
+            "D": "The book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/NJANX.mp4",
+        "question": "Which object would the person wash next after they take the box?",
+        "answer": "A",
+        "choices": {
+            "A": "The table.",
+            "B": "The bowl.",
+            "C": "The spoon.",
+            "D": "The plate."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/JF36Q.mp4",
+        "question": "What will the person do next with the laptop?",
+        "answer": "A",
+        "choices": {
+            "A": "Close.",
+            "B": "Place in a bag.",
+            "C": "Move to another room.",
+            "D": "Pack away."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/AFTMI.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Pick up the remote control.",
+            "B": "Take the pillow.",
+            "C": "Look out the window.",
+            "D": "Turn off the lights."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/M6ERH.mp4",
+        "question": "Which object would the person sit at next after they put down the food?",
+        "answer": "B",
+        "choices": {
+            "A": "The ottoman.",
+            "B": "The table.",
+            "C": "The bench.",
+            "D": "The armchair."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/55AH5.mp4",
+        "question": "Which object would the person lie on next after they hold the food?",
+        "answer": "A",
+        "choices": {
+            "A": "The sofa/couch.",
+            "B": "The hammock.",
+            "C": "The dining chair.",
+            "D": "The kitchen counter."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/106AY.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Pick up a book.",
+            "B": "Look at the clock.",
+            "C": "Reach for the remote control.",
+            "D": "Put down the cup/glass/bottle."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/MC6J7.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Prepare a snack.",
+            "B": "Begin to read a book.",
+            "C": "Turn on the television.",
+            "D": "Take the clothes."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/NJANX.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Wash the table.",
+            "B": "Pick up a book.",
+            "C": "Open a cabinet.",
+            "D": "Hold the mop."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/BQKW5.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Put down the towel.",
+            "B": "Pick up the phone.",
+            "C": "Close the window.",
+            "D": "Start cooking."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/6TV29.mp4",
+        "question": "Which object would the person close next?",
+        "answer": "C",
+        "choices": {
+            "A": "The drawer.",
+            "B": "The curtains.",
+            "C": "The door.",
+            "D": "The notebook."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/2BO2G.mp4",
+        "question": "Which object would the person put down next after they put the groceries?",
+        "answer": "B",
+        "choices": {
+            "A": "The fruit.",
+            "B": "The picture.",
+            "C": "The paper bag.",
+            "D": "The vase."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/E6PSM.mp4",
+        "question": "Which object would the person throw next after they open the door?",
+        "answer": "D",
+        "choices": {
+            "A": "The keys.",
+            "B": "The hat.",
+            "C": "The umbrella.",
+            "D": "The box."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/A0ZW3.mp4",
+        "question": "Which object would the person open next?",
+        "answer": "A",
+        "choices": {
+            "A": "The laptop.",
+            "B": "The backpack.",
+            "C": "The refrigerator.",
+            "D": "The drawer."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/L8Y8D.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Pick up the remote control.",
+            "B": "Prepare a sandwich.",
+            "C": "Take out a drink from the refrigerator.",
+            "D": "Close the refrigerator."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/AZMVM.mp4",
+        "question": "Which object would the person put down next after they throw the clothes?",
+        "answer": "B",
+        "choices": {
+            "A": "The bag.",
+            "B": "The pillow.",
+            "C": "The blanket.",
+            "D": "The plate."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/ABHC6.mp4",
+        "question": "Which object would the person take next?",
+        "answer": "D",
+        "choices": {
+            "A": "The umbrella.",
+            "B": "The hat.",
+            "C": "The book.",
+            "D": "The clothes."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/AJTDO.mp4",
+        "question": "Which object would the person put down next?",
+        "answer": "A",
+        "choices": {
+            "A": "The pillow.",
+            "B": "The book.",
+            "C": "The shoes.",
+            "D": "The phone."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/DGPAW.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Sit on the chair.",
+            "B": "Open the door.",
+            "C": "Pick up the phone.",
+            "D": "Turn on the light."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/R9382.mp4",
+        "question": "Which object would the person eat next?",
+        "answer": "D",
+        "choices": {
+            "A": "The apple.",
+            "B": "The banana.",
+            "C": "The cereal box.",
+            "D": "The sandwich."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/YHXU9.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Pick up the phone.",
+            "B": "Throw the book.",
+            "C": "Turn off the light.",
+            "D": "Open the door."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/9O0HH.mp4",
+        "question": "What will the person do next with the food?",
+        "answer": "B",
+        "choices": {
+            "A": "Toss to another person.",
+            "B": "Put down.",
+            "C": "Take a bite.",
+            "D": "Offer to someone nearby."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/8G9A9.mp4",
+        "question": "Which object would the person open next after they take the cup/glass/bottle?",
+        "answer": "A",
+        "choices": {
+            "A": "The laptop.",
+            "B": "The microwave.",
+            "C": "The refrigerator.",
+            "D": "The window."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/DQEC3.mp4",
+        "question": "What will the person do next with the bag?",
+        "answer": "D",
+        "choices": {
+            "A": "Open.",
+            "B": "Move it to another spot.",
+            "C": "Close it.",
+            "D": "Take an item out."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/OQ54Y.mp4",
+        "question": "Which object would the person open next?",
+        "answer": "D",
+        "choices": {
+            "A": "The cupboard.",
+            "B": "The window.",
+            "C": "The oven.",
+            "D": "The refrigerator."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/TK76G.mp4",
+        "question": "Which object would the person put down next after they take the food?",
+        "answer": "C",
+        "choices": {
+            "A": "The glass.",
+            "B": "The clothes.",
+            "C": "The towel.",
+            "D": "The utensils."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/5INX3.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Take the clothes.",
+            "B": "Reach for the cup.",
+            "C": "Pick up the phone.",
+            "D": "Look out the window."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/S673O.mp4",
+        "question": "What will the person do next with the sandwich?",
+        "answer": "D",
+        "choices": {
+            "A": "Wrap it up.",
+            "B": "Pack it in a lunchbox.",
+            "C": "Offer it to someone else.",
+            "D": "Eat."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/EG1XK.mp4",
+        "question": "What will the person do next with the door?",
+        "answer": "D",
+        "choices": {
+            "A": "Slam.",
+            "B": "Lock.",
+            "C": "Decorate.",
+            "D": "Open."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/ZOMM2.mp4",
+        "question": "Which object would the person eat next after they walk through the doorway?",
+        "answer": "D",
+        "choices": {
+            "A": "The cake.",
+            "B": "The cereal.",
+            "C": "The apple.",
+            "D": "The sandwich."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/Z6HEA.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Sit on the floor.",
+            "B": "Look out the window.",
+            "C": "Pick up the phone.",
+            "D": "Turn on the TV."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/0BZAD.mp4",
+        "question": "Which object would the person take next?",
+        "answer": "A",
+        "choices": {
+            "A": "The food.",
+            "B": "The map.",
+            "C": "The keys.",
+            "D": "The phone."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/U5T4M.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Open the window.",
+            "B": "Sit at the table.",
+            "C": "Pick up the book.",
+            "D": "Adjust the chair."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/MA15X.mp4",
+        "question": "Which object would the person throw next after they put down the cup/glass/bottle?",
+        "answer": "C",
+        "choices": {
+            "A": "The book.",
+            "B": "The remote control.",
+            "C": "The blanket.",
+            "D": "The shoes."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/QJXNG.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Walk to the window.",
+            "B": "Pick up the phone.",
+            "C": "Start writing notes.",
+            "D": "Put down the bag."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/BDWIX.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Turn off the light.",
+            "B": "Pick up the book.",
+            "C": "Take off shoes",
+            "D": "Close the window."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/LY10X.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Eat the medicine.",
+            "B": "Begin jogging in place.",
+            "C": "Start watching TV.",
+            "D": "Pick up a book to read."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/ZZ89F.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Start sweeping the floor.",
+            "B": "Close the refrigerator.",
+            "C": "Grab a glass from the counter.",
+            "D": "Open the cupboard."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/NV4FC.mp4",
+        "question": "Which object would the person throw next?",
+        "answer": "B",
+        "choices": {
+            "A": "The pillow.",
+            "B": "The shoe.",
+            "C": "The ball.",
+            "D": "The chair."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/Z6HEA.mp4",
+        "question": "What will the person do next with the floor?",
+        "answer": "D",
+        "choices": {
+            "A": "Sweep.",
+            "B": "Dance on.",
+            "C": "Polish.",
+            "D": "Sit on."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/NKCXF.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Look out the window.",
+            "B": "Take a sip of water.",
+            "C": "Switch off the lights.",
+            "D": "pillow"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/2LCLG.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Look at the clock on the wall.",
+            "B": "Throw the bag.",
+            "C": "Walk towards the door.",
+            "D": "Call someone on the phone."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/X5YL3.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Close the refrigerator.",
+            "B": "Grab a snack from the counter.",
+            "C": "Turn on the TV.",
+            "D": "Pick up the phone."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/78R4Y.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Sit on the chair.",
+            "B": "Walk to the window.",
+            "C": "Put down the bag.",
+            "D": "Look at the clock."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/0Z36L.mp4",
+        "question": "What object would the person take?",
+        "answer": "B",
+        "choices": {
+            "A": "The book.",
+            "B": "The bag.",
+            "C": "The keys.",
+            "D": "The phone."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/IHSRC.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Look out the window.",
+            "B": "Touch the picture",
+            "C": "Wave at the camera.",
+            "D": "Start reading a book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/EK19H.mp4",
+        "question": "Which object would the person put down next?",
+        "answer": "C",
+        "choices": {
+            "A": "The keys.",
+            "B": "The book.",
+            "C": "The sandwich.",
+            "D": "The phone."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/27JQL.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Eat the sandwich.",
+            "B": "Turn on the TV.",
+            "C": "Pick up the phone.",
+            "D": "Pour a glass of water."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/JOLLV.mp4",
+        "question": "What will the person do next with the refrigerator?",
+        "answer": "D",
+        "choices": {
+            "A": "Move it.",
+            "B": "Defrost it.",
+            "C": "Paint it.",
+            "D": "Open."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/GLGQJ.mp4",
+        "question": "Which object would the person close next?",
+        "answer": "D",
+        "choices": {
+            "A": "The curtains.",
+            "B": "The refrigerator.",
+            "C": "The laptop.",
+            "D": "The window."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/9ZQ0R.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Turn on the television.",
+            "B": "Pick up the remote control.",
+            "C": "Start writing in a notebook.",
+            "D": "Put down the phone/camera."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/U6L1X.mp4",
+        "question": "Which object would the person put down next after they turn on the light?",
+        "answer": "D",
+        "choices": {
+            "A": "The backpack.",
+            "B": "The notebook.",
+            "C": "The remote control.",
+            "D": "The broom."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/5INX3.mp4",
+        "question": "What will the person do next with the clothes?",
+        "answer": "D",
+        "choices": {
+            "A": "Fold.",
+            "B": "Hang.",
+            "C": "Pack.",
+            "D": "Take."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/XLR4B.mp4",
+        "question": "Which object would the person sit at next after they hold the food?",
+        "answer": "A",
+        "choices": {
+            "A": "The table.",
+            "B": "The kitchen counter.",
+            "C": "The balcony chair.",
+            "D": "The garden bench."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/ZNQVC.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Take the shoe.",
+            "B": "Pour a drink.",
+            "C": "Open the door.",
+            "D": "Pick up the book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/0PVKV.mp4",
+        "question": "Which object would the person put down next after they eat the sandwich?",
+        "answer": "D",
+        "choices": {
+            "A": "The knife.",
+            "B": "The napkin.",
+            "C": "The dessert spoon.",
+            "D": "The cup/glass/bottle."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/U6L1X.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Put down the broom.",
+            "B": "Turn off the light.",
+            "C": "Sit on the chair.",
+            "D": "Pick up the phone."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/80E3X.mp4",
+        "question": "Which object would the person take next after they turn on the light?",
+        "answer": "B",
+        "choices": {
+            "A": "The remote control.",
+            "B": "The food.",
+            "C": "The phone.",
+            "D": "The keys."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/BZD0Q.mp4",
+        "question": "Which object would the person put down next?",
+        "answer": "A",
+        "choices": {
+            "A": "The cup/glass/bottle.",
+            "B": "The book.",
+            "C": "The phone.",
+            "D": "The remote control."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/J8JOQ.mp4",
+        "question": "Which object would the person put down next?",
+        "answer": "A",
+        "choices": {
+            "A": "The phone/camera.",
+            "B": "The remote control.",
+            "C": "The keys.",
+            "D": "The cup."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/G6ZOB.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Pick up the phone.",
+            "B": "Put down the book.",
+            "C": "Sit down on the chair.",
+            "D": "Turn on the TV."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/EXPOA.mp4",
+        "question": "Which object would the person take next?",
+        "answer": "C",
+        "choices": {
+            "A": "The keys.",
+            "B": "The water bottle.",
+            "C": "The clothes.",
+            "D": "The book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/OK2AF.mp4",
+        "question": "Which object would the person take next after they watch the television?",
+        "answer": "A",
+        "choices": {
+            "A": "The book.",
+            "B": "The snack/chips.",
+            "C": "The phone.",
+            "D": "The remote control."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/LLOGB.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Put on a jacket.",
+            "B": "Adjust the TV remote.",
+            "C": "Take the phone/camera.",
+            "D": "Pick up a book from the table."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/M7BD4.mp4",
+        "question": "Which object would the person close next after they put down the paper/notebook?",
+        "answer": "C",
+        "choices": {
+            "A": "The pencil case.",
+            "B": "The desk drawer.",
+            "C": "The laptop.",
+            "D": "The binder."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/O2OUX.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Pick up the phone.",
+            "B": "Start writing in the notebook.",
+            "C": "Stand up and leave the room.",
+            "D": "Close the laptop."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/BJXRT.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Pick up the remote.",
+            "B": "Adjust the chair.",
+            "C": "Take the blanket",
+            "D": "Pour a drink."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/4BEZX.mp4",
+        "question": "What object would the person take?",
+        "answer": "A",
+        "choices": {
+            "A": "The towel.",
+            "B": "The hat.",
+            "C": "The shoe.",
+            "D": "The pillow."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/L7HA6.mp4",
+        "question": "Which object would the person put down next after they drink from the cup/glass/bottle?",
+        "answer": "A",
+        "choices": {
+            "A": "The clothes",
+            "B": "The notepad.",
+            "C": "The cup/glass/bottle.",
+            "D": "The spoon/fork."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/3DO95.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Take the book.",
+            "B": "Pick up the jacket.",
+            "C": "Write a note.",
+            "D": "Make a phone call."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/15PMU.mp4",
+        "question": "What will the person do next with the clothes?",
+        "answer": "A",
+        "choices": {
+            "A": "Put down.",
+            "B": "Hang them up.",
+            "C": "Pack into a suitcase.",
+            "D": "Fold them neatly."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/ZOL0R.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Open the book.",
+            "B": "Grab the broom.",
+            "C": "Pick up the remote.",
+            "D": "Throw the clothes."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/GPR89.mp4",
+        "question": "Which object would the person put down next?",
+        "answer": "B",
+        "choices": {
+            "A": "The sunglasses.",
+            "B": "The paper/notebook.",
+            "C": "The keys.",
+            "D": "The phone."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/WLA52.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Take the remote control.",
+            "B": "Put down the blanket.",
+            "C": "Reach for the book.",
+            "D": "Adjust the curtains."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/UDGP2.mp4",
+        "question": "What will the person do next with the food?",
+        "answer": "D",
+        "choices": {
+            "A": "Pack.",
+            "B": "Offer it to someone.",
+            "C": "Eat.",
+            "D": "Put down."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/EBTD6.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Pour a drink.",
+            "B": "Wave to someone.",
+            "C": "Put down the sandwich.",
+            "D": "Look at their phone."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/EK19H.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Turn on the TV.",
+            "B": "Reach for the remote control.",
+            "C": "Put down the sandwich.",
+            "D": "Pick up the newspaper."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/K9UXS.mp4",
+        "question": "Which object would the person tidy up next?",
+        "answer": "A",
+        "choices": {
+            "A": "The clothes",
+            "B": "The dishes in the sink.",
+            "C": "The books on the shelf.",
+            "D": "The magazines on the table."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/TOOYI.mp4",
+        "question": "Which object would the person close next after they take the blanket?",
+        "answer": "B",
+        "choices": {
+            "A": "The cabinet.",
+            "B": "The box.",
+            "C": "The drawer.",
+            "D": "The backpack."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/ATNBT.mp4",
+        "question": "What will the person do next with the floor?",
+        "answer": "C",
+        "choices": {
+            "A": "Scratch.",
+            "B": "Start cleaning.",
+            "C": "Sit on.",
+            "D": "Paint."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/ANA5N.mp4",
+        "question": "Which object would the person open next after they close the door?",
+        "answer": "D",
+        "choices": {
+            "A": "The fridge.",
+            "B": "The window.",
+            "C": "The oven.",
+            "D": "The closet/cabinet."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/A2X7Q.mp4",
+        "question": "Which object would the person put down next after they take the bag?",
+        "answer": "D",
+        "choices": {
+            "A": "The water bottle.",
+            "B": "The keys.",
+            "C": "The shoes.",
+            "D": "The sandwich."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/0QES3.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Turn on the TV.",
+            "B": "Read a book.",
+            "C": "Close the door.",
+            "D": "Pick up the phone."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/MDG2T.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Turn off the light.",
+            "B": "Pick up the soap.",
+            "C": "Pick up the towel",
+            "D": "Fold the towel."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/9MNZ5.mp4",
+        "question": "What will the person do next with the book?",
+        "answer": "A",
+        "choices": {
+            "A": "Open.",
+            "B": "Close.",
+            "C": "Pass to a friend.",
+            "D": "Read aloud."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/1E7VU.mp4",
+        "question": "Which object would the person close next?",
+        "answer": "B",
+        "choices": {
+            "A": "The drawer.",
+            "B": "The closet/cabinet.",
+            "C": "The dishwasher.",
+            "D": "The oven."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/P4HXN.mp4",
+        "question": "Which object would the person put down next?",
+        "answer": "A",
+        "choices": {
+            "A": "The laptop.",
+            "B": "The mug.",
+            "C": "The book.",
+            "D": "The pen."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/M1GW9.mp4",
+        "question": "Which object would the person throw next?",
+        "answer": "D",
+        "choices": {
+            "A": "The hat.",
+            "B": "The book.",
+            "C": "The water bottle.",
+            "D": "The pillow."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/NVBBD.mp4",
+        "question": "What will the person do next with the shoe?",
+        "answer": "C",
+        "choices": {
+            "A": "Place it on a shelf.",
+            "B": "Polish the shoe.",
+            "C": "Take off",
+            "D": "Kick."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/WV9FZ.mp4",
+        "question": "Which object would the person sit at next?",
+        "answer": "C",
+        "choices": {
+            "A": "The kitchen counter.",
+            "B": "The armchair.",
+            "C": "The table.",
+            "D": "The window seat."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/2MJ72.mp4",
+        "question": "What will the person do next with the door?",
+        "answer": "B",
+        "choices": {
+            "A": "Install a lock.",
+            "B": "Close.",
+            "C": "Decorate with a wreath.",
+            "D": "Paint."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/N2GFQ.mp4",
+        "question": "What will the person do next with the sofa/couch?",
+        "answer": "A",
+        "choices": {
+            "A": "Lie on.",
+            "B": "Move to another room.",
+            "C": "Stack cushions.",
+            "D": "Stretch the fabric."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/0Z36L.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Pick up a magazine.",
+            "B": "Open the fridge.",
+            "C": "Pick up the bag",
+            "D": "Adjust their hat."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/GTK8W.mp4",
+        "question": "Which object would the person take next after they watch outside the window?",
+        "answer": "D",
+        "choices": {
+            "A": "The umbrella.",
+            "B": "The book from the shelf.",
+            "C": "The coffee mug.",
+            "D": "The bag."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/9OMY1.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Pick up the TV remote.",
+            "B": "Start reading a book from the table.",
+            "C": "Sit on the sofa/couch.",
+            "D": "Pour a drink from a kettle."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/NG1Q8.mp4",
+        "question": "What will the person do next with the closet/cabinet?",
+        "answer": "A",
+        "choices": {
+            "A": "Close.",
+            "B": "Take a nap.",
+            "C": "Fold clothes.",
+            "D": "Check contents."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/MQ4YR.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "The remote control.",
+            "B": "The blanket.",
+            "C": "The water bottle.",
+            "D": "Get up"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/SPUPH.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Check the phone.",
+            "B": "Pour a drink.",
+            "C": "Switch on the TV.",
+            "D": "Eat the sandwich."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/7ZCXJ.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Pick up the blanket",
+            "B": "Pick up the phone.",
+            "C": "Open the window.",
+            "D": "Turn on the TV."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/24XHS.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Walk out of the room.",
+            "B": "Turn off the lights.",
+            "C": "Open the refrigerator.",
+            "D": "Pick up a jacket."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/84893.mp4",
+        "question": "What will the person do next with the blanket?",
+        "answer": "D",
+        "choices": {
+            "A": "Toss aside.",
+            "B": "Fold neatly.",
+            "C": "Sit on.",
+            "D": "Pick up"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/727IZ.mp4",
+        "question": "What object would the person take next?",
+        "answer": "D",
+        "choices": {
+            "A": "The pen.",
+            "B": "The cup.",
+            "C": "The bag.",
+            "D": "The paper/notebook."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/1FIGA.mp4",
+        "question": "Which object would the person put down next?",
+        "answer": "A",
+        "choices": {
+            "A": "The book.",
+            "B": "The pen.",
+            "C": "The phone.",
+            "D": "The notepad."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/2ZXJ5.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Pick up the phone.",
+            "B": "Turn on the lamp.",
+            "C": "Put down the pillow.",
+            "D": "Sit on the chair."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/EO6OI.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Drink a glass of water.",
+            "B": "Take the broom.",
+            "C": "Start vacuuming the floor.",
+            "D": "Arrange the books on the shelf."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/QRWQ3.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Pick up the book.",
+            "B": "Open the box.",
+            "C": "Place the box on the table.",
+            "D": "Take a seat on the chair."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/LY10X.mp4",
+        "question": "Which object would the person eat next after they open the closet/cabinet?",
+        "answer": "A",
+        "choices": {
+            "A": "The medicine.",
+            "B": "The chocolate bar.",
+            "C": "The cereal box.",
+            "D": "The loaf of bread."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/8UCK1.mp4",
+        "question": "What will the person do next with the closet/cabinet?",
+        "answer": "D",
+        "choices": {
+            "A": "Take out a hat.",
+            "B": "Walk away.",
+            "C": "Turn the light off inside.",
+            "D": "Close."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/V0ZD9.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Take the clothes.",
+            "B": "Turn off the light.",
+            "C": "Open the window.",
+            "D": "Start reading a book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/E6PSM.mp4",
+        "question": "Which object would the person throw next?",
+        "answer": "C",
+        "choices": {
+            "A": "The toy car.",
+            "B": "The backpack.",
+            "C": "The box.",
+            "D": "The ball."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/OQ54Y.mp4",
+        "question": "Which object would the person sit at next?",
+        "answer": "C",
+        "choices": {
+            "A": "The kitchen counter.",
+            "B": "The armchair.",
+            "C": "The table.",
+            "D": "The dining bench."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/AJTDO.mp4",
+        "question": "Which object would the person throw next?",
+        "answer": "D",
+        "choices": {
+            "A": "The book.",
+            "B": "The water bottle.",
+            "C": "The keys.",
+            "D": "The pillow."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/M1GW9.mp4",
+        "question": "Which object would the person throw next after they walk through the doorway?",
+        "answer": "C",
+        "choices": {
+            "A": "The water bottle.",
+            "B": "The remote control.",
+            "C": "The pillow.",
+            "D": "The keys."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/15PMU.mp4",
+        "question": "Which object would the person put down next after they watch outside the window?",
+        "answer": "B",
+        "choices": {
+            "A": "The coffee mug.",
+            "B": "The clothes.",
+            "C": "The magazine.",
+            "D": "The phone."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/OQ54Y.mp4",
+        "question": "Which object would the person open next after they close the door?",
+        "answer": "C",
+        "choices": {
+            "A": "The cabinet.",
+            "B": "The cupboard.",
+            "C": "The refrigerator.",
+            "D": "The oven."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/0Z36L.mp4",
+        "question": "What object is the person taking after they grasp onto the doorknob?",
+        "answer": "A",
+        "choices": {
+            "A": "The bag.",
+            "B": "The umbrella.",
+            "C": "The keys.",
+            "D": "The book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/8DSGI.mp4",
+        "question": "Which object would the person open next after they walk through the doorway?",
+        "answer": "B",
+        "choices": {
+            "A": "The window blinds.",
+            "B": "The book.",
+            "C": "The refrigerator door.",
+            "D": "The laptop case."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/8DSGI.mp4",
+        "question": "Which object would the person open next after they hold the clothes?",
+        "answer": "C",
+        "choices": {
+            "A": "The drawer.",
+            "B": "The backpack.",
+            "C": "The book.",
+            "D": "The wardrobe."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/P2UBC.mp4",
+        "question": "Which object would the person take next?",
+        "answer": "C",
+        "choices": {
+            "A": "The hat.",
+            "B": "The water bottle.",
+            "C": "The shoe.",
+            "D": "The book."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/UEP20.mp4",
+        "question": "What will the person do next with the book?",
+        "answer": "A",
+        "choices": {
+            "A": "Close.",
+            "B": "Offer it to someone.",
+            "C": "Read aloud.",
+            "D": "Pack it in a bag."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/2PREF.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Sit on the chair.",
+            "B": "Pick up the newspaper.",
+            "C": "Open the closet/cabinet.",
+            "D": "Turn off the light."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/QPX3S.mp4",
+        "question": "What will the person do next with the food?",
+        "answer": "C",
+        "choices": {
+            "A": "Taste.",
+            "B": "Offer to someone nearby.",
+            "C": "Eat",
+            "D": "Throw."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/AJTDO.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Turn on the TV.",
+            "B": "Pick up the remote.",
+            "C": "Put down the pillow.",
+            "D": "Start reading the book."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/Z6LYG.mp4",
+        "question": "What will the person do next with the refrigerator?",
+        "answer": "B",
+        "choices": {
+            "A": "Take out a can of soda.",
+            "B": "Close.",
+            "C": "Switch the light off inside it.",
+            "D": "Pull out the vegetable drawer."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/M704T.mp4",
+        "question": "Which object would the person take next?",
+        "answer": "C",
+        "choices": {
+            "A": "The hat.",
+            "B": "The sunglasses.",
+            "C": "The towel.",
+            "D": "The book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/A2X7Q.mp4",
+        "question": "What object would the person take after they open the closet/cabinet?",
+        "answer": "D",
+        "choices": {
+            "A": "The jacket.",
+            "B": "The umbrella.",
+            "C": "The backpack.",
+            "D": "The bag"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/5X5DT.mp4",
+        "question": "Which object would the person take next after they hold the laptop?",
+        "answer": "C",
+        "choices": {
+            "A": "The charger.",
+            "B": "The headphones.",
+            "C": "The bag.",
+            "D": "The phone."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/CCCUJ.mp4",
+        "question": "Which object would the person put down next after they close the door?",
+        "answer": "D",
+        "choices": {
+            "A": "The jacket.",
+            "B": "The book.",
+            "C": "The backpack.",
+            "D": "The laptop."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/YVH4J.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Close the door.",
+            "B": "Pick up the keys.",
+            "C": "Open the bag.",
+            "D": "Lift the box."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/B69CF.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Sit on the bed.",
+            "B": "Turn off the light.",
+            "C": "Open the cupboard.",
+            "D": "Close the window."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/IO712.mp4",
+        "question": "Which object would the person open next?",
+        "answer": "D",
+        "choices": {
+            "A": "The fridge.",
+            "B": "The mailbox.",
+            "C": "The laptop.",
+            "D": "The book."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/MY5CQ.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Open the book.",
+            "B": "Put on the jacket.",
+            "C": "Pick up the phone.",
+            "D": "Turn off the light."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/AJTDO.mp4",
+        "question": "Which object would the person put down next after they hold the clothes?",
+        "answer": "B",
+        "choices": {
+            "A": "The shoe.",
+            "B": "The pillow.",
+            "C": "The hat.",
+            "D": "The book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/OO4FE.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Take the book.",
+            "B": "Turn on the TV.",
+            "C": "Open the door.",
+            "D": "Sit on the chair."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/3CLVI.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Put the towel on the chair.",
+            "B": "Throw the towel.",
+            "C": "Fold the towel.",
+            "D": "Hang the towel."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/ZOMM2.mp4",
+        "question": "Which object would the person eat next?",
+        "answer": "A",
+        "choices": {
+            "A": "The sandwich.",
+            "B": "The apple.",
+            "C": "The banana.",
+            "D": "The orange."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/KV99H.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Sit down on the chair.",
+            "B": "Open the window.",
+            "C": "Pick up the phone.",
+            "D": "Put down the shoe."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/W0XPU.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Turn on the TV.",
+            "B": "Take the sandwich.",
+            "C": "Sit on the couch.",
+            "D": "Reach for a glass of water."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/9A58F.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Stand up and stretch.",
+            "B": "Look out the window.",
+            "C": "Close the laptop.",
+            "D": "Pick up the phone."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/A0ZW3.mp4",
+        "question": "What will the person do next with the laptop?",
+        "answer": "A",
+        "choices": {
+            "A": "Open.",
+            "B": "Plug in.",
+            "C": "Put to sleep.",
+            "D": "Type."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/NTXXB.mp4",
+        "question": "What will the person do next with the phone/camera?",
+        "answer": "A",
+        "choices": {
+            "A": "Take.",
+            "B": "Start recording.",
+            "C": "Point at someone.",
+            "D": "Throw it."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/JBJGX.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Pick up the book.",
+            "B": "Close the refrigerator.",
+            "C": "Open the laptop.",
+            "D": "Turn off the TV."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/R971Z.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Pick up the pen.",
+            "B": "Take the shoes",
+            "C": "Close the window.",
+            "D": "Turn on the TV."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/JF36Q.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Pick up the headphones.",
+            "B": "Open the window",
+            "C": "Make a phone call.",
+            "D": "Open a window."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/C5BMA.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Begin writing in a notebook.",
+            "B": "Eat the food",
+            "C": "Start organizing the books.",
+            "D": "Sit down and fold the laundry."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/KVYOZ.mp4",
+        "question": "Which object would the person take next after they sit on the floor?",
+        "answer": "C",
+        "choices": {
+            "A": "The book.",
+            "B": "The blanket.",
+            "C": "The cup/glass/bottle.",
+            "D": "The remote control."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/727IZ.mp4",
+        "question": "What will the person do next with the table?",
+        "answer": "D",
+        "choices": {
+            "A": "Move closer.",
+            "B": "Fold.",
+            "C": "Open a drawer.",
+            "D": "Sit at."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/K9UXS.mp4",
+        "question": "Which object would the person tidy up next after they take the clothes?",
+        "answer": "A",
+        "choices": {
+            "A": "The blanket.",
+            "B": "The pillow.",
+            "C": "The lamp.",
+            "D": "The magazine rack."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/HA02S.mp4",
+        "question": "Which object would the person put down next?",
+        "answer": "C",
+        "choices": {
+            "A": "The plate.",
+            "B": "The book.",
+            "C": "The broom.",
+            "D": "The bottle."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/NEM29.mp4",
+        "question": "Which object would the person open next?",
+        "answer": "A",
+        "choices": {
+            "A": "The bag.",
+            "B": "The drawer.",
+            "C": "The box.",
+            "D": "The fridge."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/7TA23.mp4",
+        "question": "Which object would the person throw?",
+        "answer": "B",
+        "choices": {
+            "A": "The towel.",
+            "B": "The clothes",
+            "C": "The headphones.",
+            "D": "The backpack."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/6KIA4.mp4",
+        "question": "Which object would the person wash next?",
+        "answer": "A",
+        "choices": {
+            "A": "The table.",
+            "B": "The floor.",
+            "C": "The kitchen counter.",
+            "D": "The windows."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/55AH5.mp4",
+        "question": "Which object would the person lie on next?",
+        "answer": "A",
+        "choices": {
+            "A": "The sofa/couch.",
+            "B": "The dining table.",
+            "C": "The carpet.",
+            "D": "The coffee table."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/FVITB.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Grab a cup from the counter.",
+            "B": "Open the refrigerator.",
+            "C": "Pour a drink.",
+            "D": "Check the oven."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/727IZ.mp4",
+        "question": "Which object would the person sit at next?",
+        "answer": "A",
+        "choices": {
+            "A": "The table.",
+            "B": "The kitchen counter.",
+            "C": "The armchair.",
+            "D": "The coffee table."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/OEE36.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Pick up the remote.",
+            "B": "Turn off the lamp.",
+            "C": "Take the blanket.",
+            "D": "Open the closet."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/92UB5.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Throw the pillow",
+            "B": "Walk towards the door.",
+            "C": "Pick up the book.",
+            "D": "Turn off the light."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/727IZ.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Reach for the remote control.",
+            "B": "Adjust the chair position.",
+            "C": "Sit at the table",
+            "D": "Turn off the light switch."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/6ALEL.mp4",
+        "question": "What will the person do next with the food?",
+        "answer": "A",
+        "choices": {
+            "A": "Take.",
+            "B": "Offer it to a friend.",
+            "C": "Place it in the cart.",
+            "D": "Look for a table to sit."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/9A58F.mp4",
+        "question": "Which object would the person close next after they throw the shoe?",
+        "answer": "D",
+        "choices": {
+            "A": "The window.",
+            "B": "The drawer.",
+            "C": "The bedside lamp.",
+            "D": "The laptop."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/8J723.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Open the window.",
+            "B": "Pick up the phone.",
+            "C": "Sit on the chair.",
+            "D": "Take off the hat."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/RQRRD.mp4",
+        "question": "Which object would the person take next after they walk through the doorway?",
+        "answer": "A",
+        "choices": {
+            "A": "The clothes.",
+            "B": "The book.",
+            "C": "The keys.",
+            "D": "The backpack."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/HA02S.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Lean the broom against the wall.",
+            "B": "Sweep the floor with the broom.",
+            "C": "Put down the broom.",
+            "D": "Carry the broom to the closet."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/NJANX.mp4",
+        "question": "Which object would the person wash next?",
+        "answer": "C",
+        "choices": {
+            "A": "The door handle.",
+            "B": "The cutting board.",
+            "C": "The table.",
+            "D": "The window."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/YHXU9.mp4",
+        "question": "Which object would the person throw next after they tidy up the clothes?",
+        "answer": "A",
+        "choices": {
+            "A": "The book.",
+            "B": "The basket.",
+            "C": "The remote control.",
+            "D": "The magazine."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/9632M.mp4",
+        "question": "What will the person do next with the towel?",
+        "answer": "A",
+        "choices": {
+            "A": "Take.",
+            "B": "Throw out of the window.",
+            "C": "Fold neatly.",
+            "D": "Hang on a rail."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/WV9FZ.mp4",
+        "question": "Which object would the person sit at next after they take the food?",
+        "answer": "B",
+        "choices": {
+            "A": "The balcony chair.",
+            "B": "The table.",
+            "C": "The garden bench.",
+            "D": "The kitchen stool."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/5XKVP.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Turn off the light.",
+            "B": "Pick up the phone.",
+            "C": "Sit down on the chair.",
+            "D": "Take the book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/3CAPI.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Start a phone call.",
+            "B": "Take the blanket",
+            "C": "Turn on the television.",
+            "D": "Sit on the couch."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/9BCZU.mp4",
+        "question": "What will the person do next with the clothes?",
+        "answer": "C",
+        "choices": {
+            "A": "Fold neatly.",
+            "B": "Pack into a bag.",
+            "C": "Take.",
+            "D": "Hang on the rack."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/8J723.mp4",
+        "question": "What will the person do next with the window?",
+        "answer": "C",
+        "choices": {
+            "A": "Install a curtain.",
+            "B": "Adjust the blinds.",
+            "C": "Open.",
+            "D": "Decorate with lights."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/D8OSC.mp4",
+        "question": "Which object would the person put down next after they grasp onto the doorknob?",
+        "answer": "C",
+        "choices": {
+            "A": "The keys.",
+            "B": "The phone.",
+            "C": "The broom.",
+            "D": "The book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/9207X.mp4",
+        "question": "What will the person do next with the closet/cabinet?",
+        "answer": "D",
+        "choices": {
+            "A": "Hang clothes.",
+            "B": "Take out a sweater.",
+            "C": "Lock it.",
+            "D": "Open."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/NW0KT.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Stand up from the chair.",
+            "B": "Look out the window.",
+            "C": "Take the book",
+            "D": "Turn off the lamp."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/RQRRD.mp4",
+        "question": "Which object would the person throw next after they open the box?",
+        "answer": "C",
+        "choices": {
+            "A": "The book.",
+            "B": "The toy.",
+            "C": "The clothes.",
+            "D": "The ball."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/M1TZR.mp4",
+        "question": "Which object would the person put down next?",
+        "answer": "C",
+        "choices": {
+            "A": "The phone.",
+            "B": "The water bottle.",
+            "C": "The sandwich.",
+            "D": "The book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/0F453.mp4",
+        "question": "What will the person do next with the paper/notebook?",
+        "answer": "C",
+        "choices": {
+            "A": "Draw something.",
+            "B": "Tear into pieces.",
+            "C": "Take.",
+            "D": "Fold neatly."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/6H78U.mp4",
+        "question": "Which object would the person take next after they put down the blanket?",
+        "answer": "C",
+        "choices": {
+            "A": "The book.",
+            "B": "The phone.",
+            "C": "The towel.",
+            "D": "The remote control."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/JBJGX.mp4",
+        "question": "Which object would the person open next?",
+        "answer": "C",
+        "choices": {
+            "A": "The suitcase.",
+            "B": "The kitchen drawer.",
+            "C": "The laptop.",
+            "D": "The backpack."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/RJCNV.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Close the window.",
+            "B": "Look at the phone screen.",
+            "C": "Open the door",
+            "D": "Turn off the lamp."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/9A58F.mp4",
+        "question": "Which object would the person close next?",
+        "answer": "C",
+        "choices": {
+            "A": "The window.",
+            "B": "The backpack.",
+            "C": "The laptop.",
+            "D": "The book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/MY5CQ.mp4",
+        "question": "What will the person do next with the book?",
+        "answer": "D",
+        "choices": {
+            "A": "Flip upside down.",
+            "B": "Toss on the bed.",
+            "C": "Place on the shelf.",
+            "D": "Open."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/6H78U.mp4",
+        "question": "Which object would the person take next after they put down the clothes?",
+        "answer": "C",
+        "choices": {
+            "A": "The remote control.",
+            "B": "The water bottle.",
+            "C": "The towel.",
+            "D": "The book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/MA15X.mp4",
+        "question": "Which object would the person throw next after they take the cup/glass/bottle?",
+        "answer": "C",
+        "choices": {
+            "A": "The magazine.",
+            "B": "The keys.",
+            "C": "The blanket.",
+            "D": "The remote control."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/VS7VS.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Start writing a letter.",
+            "B": "Lie on the couch.",
+            "C": "Throw the book.",
+            "D": "Answer a phone call."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/OUAIS.mp4",
+        "question": "What will the person do next with the pillow?",
+        "answer": "A",
+        "choices": {
+            "A": "Throw.",
+            "B": "Lean against wall.",
+            "C": "Place on chair.",
+            "D": "Cover face."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/E7Q3R.mp4",
+        "question": "What will the person do next with the cup/glass/bottle?",
+        "answer": "C",
+        "choices": {
+            "A": "Raise to take a sip.",
+            "B": "Pour into another container.",
+            "C": "Put down.",
+            "D": "Rinse in the sink."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/E6PSM.mp4",
+        "question": "Which object would the person throw next after they close the door?",
+        "answer": "D",
+        "choices": {
+            "A": "The umbrella.",
+            "B": "The keys.",
+            "C": "The remote control.",
+            "D": "The box."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/Z7KC1.mp4",
+        "question": "Which object would the person take next after they sit on the chair?",
+        "answer": "A",
+        "choices": {
+            "A": "The broom.",
+            "B": "The headphones.",
+            "C": "The magazine.",
+            "D": "The TV remote."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/WLA52.mp4",
+        "question": "Which object would the person take next after they hold the clothes?",
+        "answer": "D",
+        "choices": {
+            "A": "The iron.",
+            "B": "The laundry basket.",
+            "C": "The hanger.",
+            "D": "The broom."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/136V6.mp4",
+        "question": "What will the person do next with the book?",
+        "answer": "C",
+        "choices": {
+            "A": "Turn a page.",
+            "B": "Place on a shelf.",
+            "C": "Close.",
+            "D": "Open wider."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/6KIA4.mp4",
+        "question": "What will the person do next with the table?",
+        "answer": "C",
+        "choices": {
+            "A": "Polish it.",
+            "B": "Cover it with a cloth.",
+            "C": "Wash.",
+            "D": "Set the table."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/JBJGX.mp4",
+        "question": "Which object would the person open next after they take the clothes?",
+        "answer": "A",
+        "choices": {
+            "A": "The laptop.",
+            "B": "The glove compartment.",
+            "C": "The suitcase.",
+            "D": "The fridge."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/VKXLL.mp4",
+        "question": "What will the person do next with the box?",
+        "answer": "D",
+        "choices": {
+            "A": "Put it on the shelf.",
+            "B": "Wrap it with a string.",
+            "C": "Hand it to someone else.",
+            "D": "Open."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/75RPN.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Sit on the chair.",
+            "B": "Take the pillow.",
+            "C": "Take another pillow.",
+            "D": "Turn off the light."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/S1J2Q.mp4",
+        "question": "Which object would the person take next after they close the refrigerator?",
+        "answer": "B",
+        "choices": {
+            "A": "The carton of milk.",
+            "B": "The food.",
+            "C": "The bottle of juice.",
+            "D": "The bag of apples."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/BE51K.mp4",
+        "question": "What will the person do next with the bed?",
+        "answer": "A",
+        "choices": {
+            "A": "Sit on.",
+            "B": "Make.",
+            "C": "Fold.",
+            "D": "Remove the cover."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/R9382.mp4",
+        "question": "Which object would the person eat next after they open the refrigerator?",
+        "answer": "B",
+        "choices": {
+            "A": "The apple.",
+            "B": "The sandwich.",
+            "C": "The carrot.",
+            "D": "The yogurt."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/C1DK7.mp4",
+        "question": "Which object would the person put down next after they close the laptop?",
+        "answer": "B",
+        "choices": {
+            "A": "The notebook.",
+            "B": "The phone/camera.",
+            "C": "The mug.",
+            "D": "The sunglasses."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/FL6DF.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Close the book and start typing.",
+            "B": "Stand up and walk towards the door.",
+            "C": "Pick up the phone to make a call.",
+            "D": "Put down the laptop."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/NLWBW.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Leave the room.",
+            "B": "Check the phone.",
+            "C": "Turn off the light.",
+            "D": "Take the bag."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/D6D85.mp4",
+        "question": "Which object would the person eat next?",
+        "answer": "D",
+        "choices": {
+            "A": "The banana.",
+            "B": "The apple.",
+            "C": "The bag of chips.",
+            "D": "The sandwich."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/432NL.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Eat the medicine.",
+            "B": "Take a sip of water.",
+            "C": "Start reading a book.",
+            "D": "Search for the phone."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/M6ERH.mp4",
+        "question": "What will the person do next with the table?",
+        "answer": "A",
+        "choices": {
+            "A": "Sit at.",
+            "B": "Prepare a meal on.",
+            "C": "Build a model on.",
+            "D": "Play cards on."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/O2OUX.mp4",
+        "question": "Which object would the person close next after they hold the broom?",
+        "answer": "C",
+        "choices": {
+            "A": "The cabinet.",
+            "B": "The washing machine.",
+            "C": "The chair",
+            "D": "The window."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/8LAK1.mp4",
+        "question": "Which object would the person take next?",
+        "answer": "C",
+        "choices": {
+            "A": "The pen.",
+            "B": "The jacket.",
+            "C": "The shoe.",
+            "D": "The book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/T2J3M.mp4",
+        "question": "Which object would the person tidy up next after they hold the clothes?",
+        "answer": "B",
+        "choices": {
+            "A": "The books on the table.",
+            "B": "The closet/cabinet.",
+            "C": "The shoes.",
+            "D": "The shelf."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/E6PSM.mp4",
+        "question": "Which object would the person throw next after they walk through the doorway?",
+        "answer": "A",
+        "choices": {
+            "A": "The box.",
+            "B": "The book.",
+            "C": "The jacket.",
+            "D": "The remote control."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/L9J5I.mp4",
+        "question": "Which object would the person take next?",
+        "answer": "B",
+        "choices": {
+            "A": "The charger/cables.",
+            "B": "The paper/notebook.",
+            "C": "The coffee mug.",
+            "D": "The magazine."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/J8JOQ.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Wave to someone.",
+            "B": "Put down the phone/camera.",
+            "C": "Take a picture.",
+            "D": "Start recording a video."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/OA9W5.mp4",
+        "question": "Which object would the person put down next after they take the food?",
+        "answer": "B",
+        "choices": {
+            "A": "The water bottle.",
+            "B": "The sandwich.",
+            "C": "The fruit.",
+            "D": "The keys."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/MDG2T.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Close the laptop.",
+            "B": "Take the towel",
+            "C": "Wave at someone.",
+            "D": "Pick up the keys."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/MA15X.mp4",
+        "question": "Which object would the person throw next?",
+        "answer": "B",
+        "choices": {
+            "A": "The pillow.",
+            "B": "The blanket.",
+            "C": "The book.",
+            "D": "The magazine."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/75RPN.mp4",
+        "question": "Which object would the person take next?",
+        "answer": "A",
+        "choices": {
+            "A": "The pillow.",
+            "B": "The remote control.",
+            "C": "The blanket.",
+            "D": "The book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/74DPG.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Wash the hands.",
+            "B": "Serve the food.",
+            "C": "Put down the dish.",
+            "D": "Open the closet/cabinet."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/G87XG.mp4",
+        "question": "Which object would the person put down next?",
+        "answer": "D",
+        "choices": {
+            "A": "The key.",
+            "B": "The remote control.",
+            "C": "The folder.",
+            "D": "The book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/9YOI8.mp4",
+        "question": "What will the person do next with the window?",
+        "answer": "D",
+        "choices": {
+            "A": "Paint.",
+            "B": "Install curtains.",
+            "C": "Decorate.",
+            "D": "Close."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/3ZC4Y.mp4",
+        "question": "Which object would the person close next?",
+        "answer": "D",
+        "choices": {
+            "A": "The window.",
+            "B": "The oven.",
+            "C": "The laptop.",
+            "D": "The refrigerator."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/GBMNT.mp4",
+        "question": "Which object would the person take next?",
+        "answer": "D",
+        "choices": {
+            "A": "The hat.",
+            "B": "The umbrella.",
+            "C": "The book.",
+            "D": "The bag."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/6UMSJ.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Take the phone/camera.",
+            "B": "Close the window.",
+            "C": "Arrange the pillows.",
+            "D": "Check the clock."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/9K2TY.mp4",
+        "question": "What object would the person take next?",
+        "answer": "D",
+        "choices": {
+            "A": "The towel.",
+            "B": "The jacket.",
+            "C": "The books.",
+            "D": "The pillow."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/UYZKX.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Close the window.",
+            "B": "Throw the blanket.",
+            "C": "Turn off the light.",
+            "D": "Pick up the book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/D1WYU.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Sit on the chair.",
+            "B": "Take off the shoe",
+            "C": "Start writing a note.",
+            "D": "Put on a coat."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/9YOI8.mp4",
+        "question": "Which object would the person close next after they walk through the doorway?",
+        "answer": "A",
+        "choices": {
+            "A": "The window.",
+            "B": "The laptop.",
+            "C": "The refrigerator.",
+            "D": "The curtains."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/9MNZ5.mp4",
+        "question": "Which object would the person open next?",
+        "answer": "A",
+        "choices": {
+            "A": "The book.",
+            "B": "The drawer.",
+            "C": "The laptop.",
+            "D": "The suitcase."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/3ZC4Y.mp4",
+        "question": "Which object would the person close next after they hold the dish?",
+        "answer": "B",
+        "choices": {
+            "A": "The window.",
+            "B": "The refrigerator.",
+            "C": "The microwave.",
+            "D": "The oven."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/R0207.mp4",
+        "question": "Which object would the person put down next after they take the food?",
+        "answer": "D",
+        "choices": {
+            "A": "The bottle.",
+            "B": "The book.",
+            "C": "The fruit.",
+            "D": "The sandwich."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/TOOYI.mp4",
+        "question": "Which object would the person close next after they put down the blanket?",
+        "answer": "A",
+        "choices": {
+            "A": "The box.",
+            "B": "The window.",
+            "C": "The door.",
+            "D": "The drawer."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/0BZAD.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Start writing a note.",
+            "B": "Take the food.",
+            "C": "Turn on the television.",
+            "D": "Pick up the newspaper."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/X8JVY.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Turn off the light.",
+            "B": "Open the drawer.",
+            "C": "Take the book.",
+            "D": "Close the window."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/M1GW9.mp4",
+        "question": "Which object would the person throw next after they open the door?",
+        "answer": "D",
+        "choices": {
+            "A": "The keys.",
+            "B": "The book.",
+            "C": "The backpack.",
+            "D": "The pillow."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/NUKJ0.mp4",
+        "question": "What will the person do next with the book?",
+        "answer": "A",
+        "choices": {
+            "A": "Close.",
+            "B": "Turn a page.",
+            "C": "Drop.",
+            "D": "Scribble inside."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/K87AC.mp4",
+        "question": "Which object would the person take next after they close the door?",
+        "answer": "D",
+        "choices": {
+            "A": "The water bottle.",
+            "B": "The book.",
+            "C": "The umbrella.",
+            "D": "The clothes."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/I1OLQ.mp4",
+        "question": "Which object would the person open next after they close the door?",
+        "answer": "A",
+        "choices": {
+            "A": "The bag.",
+            "B": "The window.",
+            "C": "The book.",
+            "D": "The TV remote."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/K87AC.mp4",
+        "question": "Which object would the person take next?",
+        "answer": "B",
+        "choices": {
+            "A": "The book.",
+            "B": "The clothes.",
+            "C": "The backpack.",
+            "D": "The sunglasses."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/WBATR.mp4",
+        "question": "Which object would the person take next after they drink from the cup/glass/bottle?",
+        "answer": "B",
+        "choices": {
+            "A": "The phone.",
+            "B": "The food.",
+            "C": "The napkin.",
+            "D": "The spoon."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/Z6LYG.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Take out a sandwich from the fridge.",
+            "B": "Grab the milk from the refrigerator.",
+            "C": "Look for something in the freezer.",
+            "D": "Close the refrigerator."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/I1OLQ.mp4",
+        "question": "Which object would the person open next after they walk through the doorway?",
+        "answer": "D",
+        "choices": {
+            "A": "The suitcase.",
+            "B": "The backpack.",
+            "C": "The laptop.",
+            "D": "The bag."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/I1OLQ.mp4",
+        "question": "Which object would the person open next?",
+        "answer": "C",
+        "choices": {
+            "A": "The suitcase.",
+            "B": "The drawer.",
+            "C": "The bag.",
+            "D": "The cupboard."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/9BCZU.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Open the window.",
+            "B": "Make a phone call.",
+            "C": "Pick up the remote control.",
+            "D": "Take the clothes."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/RKGG5.mp4",
+        "question": "Which object would the person lie on next after they take the pillow?",
+        "answer": "A",
+        "choices": {
+            "A": "The sofa/couch.",
+            "B": "The table.",
+            "C": "The bean bag.",
+            "D": "The chair."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/DWHPO.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Begin writing in a notebook.",
+            "B": "Turn on the television.",
+            "C": "Put down the food",
+            "D": "Pick up a pair of scissors."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/9MNZ5.mp4",
+        "question": "Which object would the person open next after they close the box?",
+        "answer": "A",
+        "choices": {
+            "A": "The book.",
+            "B": "The cupboard.",
+            "C": "The window.",
+            "D": "The drawer."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/TVCQF.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Pick up the phone.",
+            "B": "Open the box.",
+            "C": "Turn off the light.",
+            "D": "Close the door."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/4BEZX.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Close the window.",
+            "B": "Place the book on the shelf.",
+            "C": "Turn on the lamp.",
+            "D": "Take the towel"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/35ZZP.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Put down the food.",
+            "B": "Start eating the food.",
+            "C": "Turn on the TV.",
+            "D": "Pick up the phone."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/D1WYU.mp4",
+        "question": "Which object would the person throw next?",
+        "answer": "D",
+        "choices": {
+            "A": "The tablet.",
+            "B": "The umbrella.",
+            "C": "The coat.",
+            "D": "The bag."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/ZNQVC.mp4",
+        "question": "Which object would the person take next?",
+        "answer": "D",
+        "choices": {
+            "A": "The pillow.",
+            "B": "The remote control.",
+            "C": "The phone.",
+            "D": "The shoe."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/J8JOQ.mp4",
+        "question": "Which object would the person put down next after they walk through the doorway?",
+        "answer": "C",
+        "choices": {
+            "A": "The keys.",
+            "B": "The backpack.",
+            "C": "The phone/camera.",
+            "D": "The water bottle."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/1333C.mp4",
+        "question": "Which object would the person put down next after they throw the towel?",
+        "answer": "C",
+        "choices": {
+            "A": "The book.",
+            "B": "The phone.",
+            "C": "The dish.",
+            "D": "The shoes."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/V0ZD9.mp4",
+        "question": "What will the person do next with the clothes?",
+        "answer": "A",
+        "choices": {
+            "A": "Take.",
+            "B": "Pack away.",
+            "C": "Hang up.",
+            "D": "Fold."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/AJTDO.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Pick up a toy car.",
+            "B": "Start reading a book.",
+            "C": "Throw the pillow.",
+            "D": "Turn on the television."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/VKXLL.mp4",
+        "question": "Which object would the person open next?",
+        "answer": "A",
+        "choices": {
+            "A": "The box.",
+            "B": "The closet.",
+            "C": "The suitcase.",
+            "D": "The drawer."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/RBC8N.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Start writing in the notebook.",
+            "B": "Pick up the coffee mug.",
+            "C": "Put on the headphones.",
+            "D": "Take the pillow."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/KFI7N.mp4",
+        "question": "Which object would the person throw next after they walk through the doorway?",
+        "answer": "B",
+        "choices": {
+            "A": "The remote control.",
+            "B": "The broom.",
+            "C": "The toy.",
+            "D": "The cap."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/8DSGI.mp4",
+        "question": "Which object would the person open next?",
+        "answer": "D",
+        "choices": {
+            "A": "The briefcase.",
+            "B": "The suitcase.",
+            "C": "The laptop.",
+            "D": "The book."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/K9UXS.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Tidy up the blanket.",
+            "B": "Look out the window.",
+            "C": "Sit on the chair.",
+            "D": "Pick up the phone."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/TPSUY.mp4",
+        "question": "What object would the person throw next?",
+        "answer": "D",
+        "choices": {
+            "A": "The book.",
+            "B": "The shoes.",
+            "C": "The lamp.",
+            "D": "The broom"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/AWITI.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Adjust the curtains.",
+            "B": "Turn off the lights.",
+            "C": "Take the pillow.",
+            "D": "Pick up a magazine."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/NV4FC.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Pick up the remote control.",
+            "B": "Open the drawer.",
+            "C": "Take the paper/notebook.",
+            "D": "Look out the window."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/T2J3M.mp4",
+        "question": "Which object would the person tidy up next?",
+        "answer": "B",
+        "choices": {
+            "A": "The stack of books.",
+            "B": "The closet/cabinet.",
+            "C": "The pile of clothes.",
+            "D": "The scattered papers."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/GLGQJ.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Close the window.",
+            "B": "Open the closet door.",
+            "C": "Turn off the lights and leave the room.",
+            "D": "Pick up the book from the table."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/6ZWSU.mp4",
+        "question": "What will the person do next with the shoe?",
+        "answer": "B",
+        "choices": {
+            "A": "Put in the bag.",
+            "B": "Put down.",
+            "C": "Kick.",
+            "D": "Pass to someone."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/KFC28.mp4",
+        "question": "What will the person do next with the closet/cabinet?",
+        "answer": "D",
+        "choices": {
+            "A": "Take out a jacket.",
+            "B": "Organize the shelves.",
+            "C": "Search for keys.",
+            "D": "Close."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/R9382.mp4",
+        "question": "What will the person do next with the sandwich?",
+        "answer": "D",
+        "choices": {
+            "A": "Share with the dog.",
+            "B": "Offer it to a friend.",
+            "C": "Pack it for later.",
+            "D": "Eat."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/GLGQJ.mp4",
+        "question": "Which object would the person close next after they wash the cup/glass/bottle?",
+        "answer": "A",
+        "choices": {
+            "A": "The window.",
+            "B": "The dishwasher.",
+            "C": "The cabinet.",
+            "D": "The oven."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/XPDI1.mp4",
+        "question": "What object would the person put down next?",
+        "answer": "B",
+        "choices": {
+            "A": "The phone.",
+            "B": "The dish.",
+            "C": "The wallet.",
+            "D": "The book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/M7BD4.mp4",
+        "question": "Which object would the person close next?",
+        "answer": "B",
+        "choices": {
+            "A": "The desk drawer.",
+            "B": "The laptop.",
+            "C": "The window blinds.",
+            "D": "The suitcase."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/7SXQS.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Take the blanket.",
+            "B": "Open the window.",
+            "C": "Turn off the lights.",
+            "D": "Read a book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/C5BMA.mp4",
+        "question": "What object would the person take next?",
+        "answer": "A",
+        "choices": {
+            "A": "The food.",
+            "B": "The apple.",
+            "C": "The remote control.",
+            "D": "The magazine."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/HOYUT.mp4",
+        "question": "What object would the person open next?",
+        "answer": "A",
+        "choices": {
+            "A": "The door",
+            "B": "The shoes.",
+            "C": "The book.",
+            "D": "The keys."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/T2J3M.mp4",
+        "question": "Which object would the person tidy up next after they walk through the doorway?",
+        "answer": "B",
+        "choices": {
+            "A": "The bookshelf.",
+            "B": "The closet/cabinet.",
+            "C": "The chair.",
+            "D": "The picture frame."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/Q3HZI.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Pick up the phone.",
+            "B": "Put on the hat.",
+            "C": "Take the bag.",
+            "D": "Turn off the light."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/KX8VW.mp4",
+        "question": "What will the person do next with the cup/glass/bottle?",
+        "answer": "D",
+        "choices": {
+            "A": "Pour into another container.",
+            "B": "Smell.",
+            "C": "Offer to someone.",
+            "D": "Put down."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/03M0K.mp4",
+        "question": "Which object would the person open next after they sit on the chair?",
+        "answer": "A",
+        "choices": {
+            "A": "The laptop.",
+            "B": "The backpack.",
+            "C": "The window blinds.",
+            "D": "The desk drawer."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/6VF2L.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Look out the window.",
+            "B": "Put down the clothes.",
+            "C": "Turn on the TV.",
+            "D": "Pick up the jacket."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/C1DK7.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Put down the phone/camera.",
+            "B": "Start writing on a notepad.",
+            "C": "Stand up and stretch.",
+            "D": "Begin eating a sandwich."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/337O2.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Throw the clothes.",
+            "B": "Water the plants.",
+            "C": "Pick up the shoes.",
+            "D": "Open the fridge."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/J84TZ.mp4",
+        "question": "Which object would the person take next?",
+        "answer": "C",
+        "choices": {
+            "A": "The remote control.",
+            "B": "The magazine.",
+            "C": "The blanket.",
+            "D": "The phone."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/V54TI.mp4",
+        "question": "Which object would the person take next after they hold the picture?",
+        "answer": "D",
+        "choices": {
+            "A": "The pen.",
+            "B": "The cup.",
+            "C": "The book.",
+            "D": "The pillow."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/EBTD6.mp4",
+        "question": "Which object would the person put down next after they take the food?",
+        "answer": "A",
+        "choices": {
+            "A": "The sandwich.",
+            "B": "The water bottle.",
+            "C": "The book.",
+            "D": "The fruit."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/U6L1X.mp4",
+        "question": "Which object would the person put down next?",
+        "answer": "A",
+        "choices": {
+            "A": "The broom.",
+            "B": "The glasses.",
+            "C": "The water bottle.",
+            "D": "The remote control."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/727IZ.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Start writing.",
+            "B": "Pick up the phone.",
+            "C": "Turn off the lamp.",
+            "D": "Sit at the table"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/5T0NX.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Start cleaning the table.",
+            "B": "Pour a drink.",
+            "C": "Turn off the light.",
+            "D": "Take the dish."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/ZS9XR.mp4",
+        "question": "Which object would the person put down next after they sit on the sofa/couch?",
+        "answer": "A",
+        "choices": {
+            "A": "The paper/notebook.",
+            "B": "The smartphone.",
+            "C": "The TV remote.",
+            "D": "The keys."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/RKGG5.mp4",
+        "question": "Which object would the person lie on next?",
+        "answer": "A",
+        "choices": {
+            "A": "The sofa/couch.",
+            "B": "The carpet.",
+            "C": "The dining chair.",
+            "D": "The table."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/NNG97.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Take the laptop.",
+            "B": "Turn off the lights.",
+            "C": "Pick up the phone.",
+            "D": "Sit down on the chair."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/IFQS1.mp4",
+        "question": "What will the person do next with the blanket?",
+        "answer": "D",
+        "choices": {
+            "A": "Cover themselves.",
+            "B": "Hang over a chair.",
+            "C": "Fold neatly.",
+            "D": "Put down."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/9OMY1.mp4",
+        "question": "What will the person do next with the sofa/couch?",
+        "answer": "C",
+        "choices": {
+            "A": "Push it aside.",
+            "B": "Turn it over.",
+            "C": "Sit on.",
+            "D": "Fold it up."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/A2X7Q.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Turn off the lights.",
+            "B": "Take the bag",
+            "C": "Begin a phone call.",
+            "D": "Start writing a note."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/RKGG5.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Start reading the book.",
+            "B": "Pick up the remote.",
+            "C": "Open the window.",
+            "D": "Lie on the sofa/couch."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/DH66I.mp4",
+        "question": "Which object would the person open next after they take the food?",
+        "answer": "B",
+        "choices": {
+            "A": "The drawer.",
+            "B": "The bag.",
+            "C": "The fridge.",
+            "D": "The window."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/P4HXN.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Open a book.",
+            "B": "Begin a phone call.",
+            "C": "Put down the laptop.",
+            "D": "Start writing notes."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/T2J3M.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Pick up a book from the shelf.",
+            "B": "Look through the window.",
+            "C": "Go to the kitchen and start cooking.",
+            "D": "Tidy up the closet/cabinet."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/EDVAM.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Open the door.",
+            "B": "Close the window.",
+            "C": "Turn on the fan.",
+            "D": "Pick up the remote control."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/ACJBD.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Make a phone call.",
+            "B": "Take the clothes",
+            "C": "Start reading a book.",
+            "D": "Open a window."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/43FG9.mp4",
+        "question": "What will the person do next with the towel?",
+        "answer": "A",
+        "choices": {
+            "A": "Throw.",
+            "B": "Wipe the table.",
+            "C": "Hang on the hook.",
+            "D": "Fold neatly."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/GBMNT.mp4",
+        "question": "Which object would the person take next after they walk through the doorway?",
+        "answer": "B",
+        "choices": {
+            "A": "The umbrella.",
+            "B": "The bag.",
+            "C": "The book.",
+            "D": "The laptop."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/FRLW2.mp4",
+        "question": "Which object would the person throw next after they put down the bag?",
+        "answer": "A",
+        "choices": {
+            "A": "The shoe.",
+            "B": "The cushion.",
+            "C": "The magazine.",
+            "D": "The frisbee."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/NLWBW.mp4",
+        "question": "Which object would the person take next after they close the door?",
+        "answer": "C",
+        "choices": {
+            "A": "The hat.",
+            "B": "The newspaper.",
+            "C": "The bag.",
+            "D": "The keys."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/7TA23.mp4",
+        "question": "Which object would the person put down next?",
+        "answer": "D",
+        "choices": {
+            "A": "The bag.",
+            "B": "The hat.",
+            "C": "The book.",
+            "D": "The clothes"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/VS5IY.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Fold the clothes neatly.",
+            "B": "Hang the clothes in the closet.",
+            "C": "Organize the clothes on the bed.",
+            "D": "Take the clothes."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/HA02S.mp4",
+        "question": "Which object would the person put down next after they open the door?",
+        "answer": "C",
+        "choices": {
+            "A": "The hat.",
+            "B": "The keys.",
+            "C": "The broom.",
+            "D": "The sunglasses."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/C6LW1.mp4",
+        "question": "Which object would the person put down next?",
+        "answer": "D",
+        "choices": {
+            "A": "The book.",
+            "B": "The remote.",
+            "C": "The hat.",
+            "D": "The phone/camera."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/ZAJAJ.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Start writing a note.",
+            "B": "Leave the room.",
+            "C": "Take the picture.",
+            "D": "Turn off the lights."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/C5BMA.mp4",
+        "question": "What object would the person eat next?",
+        "answer": "A",
+        "choices": {
+            "A": "The food.",
+            "B": "The plate.",
+            "C": "The shoe.",
+            "D": "The book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/EO6OI.mp4",
+        "question": "Which object would the person take next after they throw the clothes?",
+        "answer": "A",
+        "choices": {
+            "A": "The towel.",
+            "B": "The hat.",
+            "C": "The book.",
+            "D": "The pillow."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/M52K2.mp4",
+        "question": "Which object would the person take next?",
+        "answer": "A",
+        "choices": {
+            "A": "The bag.",
+            "B": "The laptop.",
+            "C": "The book.",
+            "D": "The phone."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/J4RPL.mp4",
+        "question": "Which object would the person throw next after they put down the paper/notebook?",
+        "answer": "A",
+        "choices": {
+            "A": "The towel.",
+            "B": "The keys.",
+            "C": "The pencil.",
+            "D": "The cup."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/TK76G.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Take the food",
+            "B": "Fold the clothes.",
+            "C": "Hang the towel.",
+            "D": "Start reading a book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/XPDI1.mp4",
+        "question": "Which object would the person take next after they drink from the cup/glass/bottle?",
+        "answer": "A",
+        "choices": {
+            "A": "The dish.",
+            "B": "The notebook.",
+            "C": "The phone.",
+            "D": "The book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/TCN06.mp4",
+        "question": "What will the person do next with the blanket?",
+        "answer": "D",
+        "choices": {
+            "A": "Fold neatly.",
+            "B": "Throw aside.",
+            "C": "Cover someone.",
+            "D": "Take"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/GPR89.mp4",
+        "question": "Which object would the person put down next after they tidy up the table?",
+        "answer": "D",
+        "choices": {
+            "A": "The cup.",
+            "B": "The vase.",
+            "C": "The book.",
+            "D": "The paper/notebook."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/VWAEL.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Respond to a phone call.",
+            "B": "Start reading the document.",
+            "C": "Drink the coffee.",
+            "D": "Take the box."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/TZL6H.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Look out the window.",
+            "B": "Pick up the towel.",
+            "C": "Turn on the television.",
+            "D": "Wash the mirror."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/L9ANI.mp4",
+        "question": "Which object would the person take next after they walk through the doorway?",
+        "answer": "A",
+        "choices": {
+            "A": "The towel.",
+            "B": "The backpack.",
+            "C": "The phone.",
+            "D": "The keys."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/OQ54Y.mp4",
+        "question": "What will the person do next with the table?",
+        "answer": "D",
+        "choices": {
+            "A": "Decorate.",
+            "B": "Move.",
+            "C": "Paint.",
+            "D": "Sit at."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/2BO2G.mp4",
+        "question": "Which object would the person put down next?",
+        "answer": "D",
+        "choices": {
+            "A": "The mug.",
+            "B": "The remote control.",
+            "C": "The notebook.",
+            "D": "The picture."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/ABHC6.mp4",
+        "question": "What object is the person taking?",
+        "answer": "B",
+        "choices": {
+            "A": "The book.",
+            "B": "The bag",
+            "C": "The umbrella.",
+            "D": "The keys."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/WOD0G.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Start cooking.",
+            "B": "Throw the clothes.",
+            "C": "Turn on the TV.",
+            "D": "Pick up the phone."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/EBTD6.mp4",
+        "question": "Which object would the person put down next?",
+        "answer": "B",
+        "choices": {
+            "A": "The sunglasses.",
+            "B": "The sandwich.",
+            "C": "The coffee mug.",
+            "D": "The newspaper."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/3IRHH.mp4",
+        "question": "What will the person do next with the book?",
+        "answer": "A",
+        "choices": {
+            "A": "Open.",
+            "B": "Drop it on the floor.",
+            "C": "Throw.",
+            "D": "Close."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/8G9A9.mp4",
+        "question": "Which object would the person close next after they put down the cup/glass/bottle?",
+        "answer": "A",
+        "choices": {
+            "A": "The laptop.",
+            "B": "The notebook.",
+            "C": "The refrigerator.",
+            "D": "The window."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/M6ERH.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Pour a drink.",
+            "B": "Walk to the window.",
+            "C": "Prepare the utensils.",
+            "D": "Sit at the table."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/5O31N.mp4",
+        "question": "Which object would the person put down next?",
+        "answer": "D",
+        "choices": {
+            "A": "The shoes.",
+            "B": "The book.",
+            "C": "The phone.",
+            "D": "The clothes."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/337O2.mp4",
+        "question": "What will the person do next with the clothes?",
+        "answer": "B",
+        "choices": {
+            "A": "Fold.",
+            "B": "Throw.",
+            "C": "Hang up.",
+            "D": "Pack."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/VNVRA.mp4",
+        "question": "Which object would the person put down next?",
+        "answer": "D",
+        "choices": {
+            "A": "The magazine.",
+            "B": "The sunglasses.",
+            "C": "The book bag.",
+            "D": "The box."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/BFH78.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Take the towel",
+            "B": "Turn on the TV.",
+            "C": "Pick up the pen.",
+            "D": "Drink water."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/YACA8.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Take the shoe.",
+            "B": "Start reading a magazine.",
+            "C": "Pick up the pillow.",
+            "D": "Look out the window."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/3MLVF.mp4",
+        "question": "What will the person do next with the cup/glass/bottle?",
+        "answer": "C",
+        "choices": {
+            "A": "Drink from.",
+            "B": "Throw away.",
+            "C": "Put down.",
+            "D": "Wash out."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/U5T4M.mp4",
+        "question": "Which object would the person sit at next after they take the food?",
+        "answer": "C",
+        "choices": {
+            "A": "The kitchen counter.",
+            "B": "The stairs.",
+            "C": "The table.",
+            "D": "The armchair."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/TPSUY.mp4",
+        "question": "What will the person do next?",
+        "answer": "B",
+        "choices": {
+            "A": "Look at the watch.",
+            "B": "Throw the broom",
+            "C": "Start reading a book.",
+            "D": "Make a phone call."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/65UVU.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Kick the soccer ball.",
+            "B": "Open a cupboard.",
+            "C": "Check their watch.",
+            "D": "Take the box"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/BE51K.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Sit on the bed.",
+            "B": "Turn off the light.",
+            "C": "Start reading a book.",
+            "D": "Pick up the phone."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/I4N6K.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Take the broom and start sweeping.",
+            "B": "Open the bag to put something inside.",
+            "C": "Put down the paper/notebook.",
+            "D": "Pour a drink from the cup/glass/bottle."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/J4RPL.mp4",
+        "question": "Which object would the person throw next?",
+        "answer": "A",
+        "choices": {
+            "A": "The towel.",
+            "B": "The ball.",
+            "C": "The hat.",
+            "D": "The book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/TVCQF.mp4",
+        "question": "Which object would the person open next?",
+        "answer": "A",
+        "choices": {
+            "A": "The box.",
+            "B": "The drawer.",
+            "C": "The envelope.",
+            "D": "The cabinet."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/OY3LS.mp4",
+        "question": "Which object would the person put down next after they throw the clothes?",
+        "answer": "D",
+        "choices": {
+            "A": "The blanket.",
+            "B": "The hat.",
+            "C": "The notebook.",
+            "D": "The phone/camera."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/5ZDNU.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Take the book",
+            "B": "Pick up the phone.",
+            "C": "Open the window.",
+            "D": "Sit on the chair."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/IO712.mp4",
+        "question": "Which object would the person open next after they close the window?",
+        "answer": "A",
+        "choices": {
+            "A": "The book.",
+            "B": "The refrigerator.",
+            "C": "The laptop.",
+            "D": "The drawer."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/1O1JS.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Put down the towel.",
+            "B": "Open the window.",
+            "C": "Turn on the fan.",
+            "D": "Pick up the phone."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/EXPOA.mp4",
+        "question": "Which object would the person take next after they sit at the table?",
+        "answer": "A",
+        "choices": {
+            "A": "The clothes.",
+            "B": "The book.",
+            "C": "The cup.",
+            "D": "The pen."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "star/EO6OI.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Walk out of the room.",
+            "B": "Pick up the mop.",
+            "C": "Start sweeping the floor.",
+            "D": "Put down the broom."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/3ND23.mp4",
+        "question": "What will the person do next with the blanket?",
+        "answer": "D",
+        "choices": {
+            "A": "Cover the chair with it.",
+            "B": "Fold neatly.",
+            "C": "Wrap around themselves.",
+            "D": "Take"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/6H78U.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Put down the towel.",
+            "B": "Start sweeping the floor.",
+            "C": "Close the window.",
+            "D": "Pick up the phone."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/T2J3M.mp4",
+        "question": "Which object would the person tidy up next after they grasp onto the doorknob?",
+        "answer": "B",
+        "choices": {
+            "A": "The picture frame.",
+            "B": "The closet/cabinet.",
+            "C": "The shoe rack.",
+            "D": "The lamp."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/FRLW2.mp4",
+        "question": "Which object would the person throw next?",
+        "answer": "C",
+        "choices": {
+            "A": "The towel.",
+            "B": "The book.",
+            "C": "The shoe.",
+            "D": "The pillow."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/HOZ76.mp4",
+        "question": "Which object would the person open next after they walk through the doorway?",
+        "answer": "C",
+        "choices": {
+            "A": "The refrigerator.",
+            "B": "The drawer.",
+            "C": "The book.",
+            "D": "The window."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/NVBBD.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Pick up a cup of coffee.",
+            "B": "Pick up a ball.",
+            "C": "Put down the shoe.",
+            "D": "Start writing a note."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/1FIGA.mp4",
+        "question": "Which object would the person put down next after they close the box?",
+        "answer": "D",
+        "choices": {
+            "A": "The phone.",
+            "B": "The remote control.",
+            "C": "The keys.",
+            "D": "The book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/3ND23.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Pick up the phone.",
+            "B": "Sit on the chair.",
+            "C": "Take the blanket",
+            "D": "Turn on the lamp."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/57A1A.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Turn on the TV.",
+            "B": "Pick up the phone.",
+            "C": "Take the broom",
+            "D": "Walk out of the room."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/I713Z.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Take a glass from the table.",
+            "B": "Look out the window.",
+            "C": "Open the refrigerator.",
+            "D": "Pick up the keys from the counter."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/JY6TC.mp4",
+        "question": "What will the person do next with the cup/glass/bottle?",
+        "answer": "D",
+        "choices": {
+            "A": "Drop.",
+            "B": "Throw.",
+            "C": "Drink.",
+            "D": "Take."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/K9UXS.mp4",
+        "question": "Which object would the person tidy up next after they hold the clothes?",
+        "answer": "A",
+        "choices": {
+            "A": "The blanket.",
+            "B": "The toy chest.",
+            "C": "The shoes.",
+            "D": "The bookshelf."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/BI31D.mp4",
+        "question": "What will the person do next with the bed?",
+        "answer": "D",
+        "choices": {
+            "A": "Push it aside.",
+            "B": "Adjust the pillows.",
+            "C": "Fold the sheets.",
+            "D": "Sit on."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/UDGRS.mp4",
+        "question": "Which object would the person put down next?",
+        "answer": "A",
+        "choices": {
+            "A": "The phone/camera.",
+            "B": "The keys.",
+            "C": "The glass of water.",
+            "D": "The book."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/3064K.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Pour a drink.",
+            "B": "Stand up to leave.",
+            "C": "Put down the sandwich.",
+            "D": "Answer a phone call."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/5X5DT.mp4",
+        "question": "What will the person do next with the bag?",
+        "answer": "B",
+        "choices": {
+            "A": "Start packing it.",
+            "B": "Take.",
+            "C": "Put on the shoulder.",
+            "D": "Walk away with it."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/6H78U.mp4",
+        "question": "Which object would the person take next after they hold the clothes?",
+        "answer": "C",
+        "choices": {
+            "A": "The water bottle.",
+            "B": "The hairbrush.",
+            "C": "The towel.",
+            "D": "The bag."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/S673O.mp4",
+        "question": "What will the person do next?",
+        "answer": "C",
+        "choices": {
+            "A": "Pour a drink from the jug.",
+            "B": "Take a small nap.",
+            "C": "Eat the sandwich.",
+            "D": "Pick up the phone to make a call."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/Z7KC1.mp4",
+        "question": "Which object would the person take next after they sit at the table?",
+        "answer": "C",
+        "choices": {
+            "A": "The pen.",
+            "B": "The newspaper.",
+            "C": "The broom.",
+            "D": "The cup."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "star/432NL.mp4",
+        "question": "What will the person do next with the medicine?",
+        "answer": "A",
+        "choices": {
+            "A": "Eat.",
+            "B": "Place back in the cabinet.",
+            "C": "Mix with water.",
+            "D": "Wrap it in a cloth."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/43FG9.mp4",
+        "question": "What will the person do next?",
+        "answer": "A",
+        "choices": {
+            "A": "Throw the towel.",
+            "B": "Move the chair.",
+            "C": "Sip the drink.",
+            "D": "Adjust the hat."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/VNVRA.mp4",
+        "question": "Which object would the person put down next after they open the closet/cabinet?",
+        "answer": "A",
+        "choices": {
+            "A": "The box.",
+            "B": "The pillow.",
+            "C": "Their coat.",
+            "D": "Their shoes."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "star/EDVAM.mp4",
+        "question": "What will the person do next with the window?",
+        "answer": "B",
+        "choices": {
+            "A": "Look out of.",
+            "B": "Close.",
+            "C": "Decorate with stickers.",
+            "D": "Adjust blinds."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "star/GTK8W.mp4",
+        "question": "What will the person do next?",
+        "answer": "D",
+        "choices": {
+            "A": "Close the laptop.",
+            "B": "Pick up the book.",
+            "C": "Turn off the light.",
+            "D": "Take the bag."
+        },
+        "predict": "A"
+    }
+]

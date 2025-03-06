@@ -1,0 +1,982 @@
+{
+    "knowledge_based_explanation": {
+        "accuracy": 0.55,
+        "unmatched_cases": [
+            {
+                "predicted": "A",
+                "expected": "E",
+                "predicted_text": "[person_1] will strum the guitar strings in rhythm.",
+                "expected_text": "[person_1]'s right hand will probably hit the guitar body."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "[person_2] is going to adjust their racket for the next hit.",
+                "expected_text": "[person_2] is going to pick up the badminton shuttlecock after [person_1] hitting it."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "[person_1] will start performing breathing exercises.",
+                "expected_text": "[person_1] will hold his breath for 10 seconds."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "[person_1] will start stretching to prevent muscle cramps.",
+                "expected_text": "[person_1] will have a break."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "[person_5] will look for more marshmallows to roast.",
+                "expected_text": "[person_5] will eat the marshmallows."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "[person_1] is about to tell a joke.",
+                "expected_text": "[person_1] is going to whistle."
+            },
+            {
+                "predicted": "A",
+                "expected": "E",
+                "predicted_text": "[person_1] is going to organize a meeting to discuss logistics.",
+                "expected_text": "[person_1] is going to move the product to the warehouse."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "[person_1] will adjust the pillow under [person_2]'s head.",
+                "expected_text": "[person_1] will ask [person_2] to turn over [person_2]'s body."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "[person_1] will show you how to run properly.",
+                "expected_text": "[person_1] will feel a lot of fatigue in his shoulders and thighs."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "[person_10] is going to help someone with carrying grape baskets.",
+                "expected_text": "[person_10] is going to continue trying to stomp the grapes."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "[person_1] will begin to dance around.",
+                "expected_text": "[person_1] will take a break."
+            },
+            {
+                "predicted": "A",
+                "expected": "E",
+                "predicted_text": "[person_1] is getting ready to bake some cookies.",
+                "expected_text": "[person_1] is going to dance."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The [person_1] will signal to make a turn.",
+                "expected_text": "The [person_1] will hold the scooter tightly."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "[person_1] will check messages on their phone.",
+                "expected_text": "[person_1] will not play the keyboard."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "[person_1], [person_2] and [person_3] are going to build a snowman.",
+                "expected_text": "[person_1] , [person_2] and [person_3] will pile up snow."
+            },
+            {
+                "predicted": "B",
+                "expected": "E",
+                "predicted_text": "[person_1] is going to hand over the diagram.",
+                "expected_text": "Give the tools to [person_2]."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "The [person_1] is going to check the time on their watch.",
+                "expected_text": "The [person_1] is going to continue to wipe the round table."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "[person_1] will begin cleaning the room.",
+                "expected_text": "[person_1] will explain how it work."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "[person_1] is going to catch a ball.",
+                "expected_text": "[person_1] is going to throw something."
+            },
+            {
+                "predicted": "A",
+                "expected": "E",
+                "predicted_text": "[person_1] will give [person_7] a high five for a successful attempt.",
+                "expected_text": "[person_1] and [person_7] will try skipping rope again."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "[person_1] is going to take a bow.",
+                "expected_text": "[person_1] will lean back."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "[person_1] will ask the woman if she's ready to dance together.",
+                "expected_text": "The woman is going to continue performing insomnia treatment for [person_1]."
+            },
+            {
+                "predicted": "A",
+                "expected": "E",
+                "predicted_text": "[person_1] will take a break to polish the harmonica.",
+                "expected_text": "[person_1] keeps playing the harmonica."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "[person_6] will look for a place to hide.",
+                "expected_text": "[person_6] will take the gift and open the rope quickly . "
+            },
+            {
+                "predicted": "A",
+                "expected": "E",
+                "predicted_text": "Maybe [person_1] will start shaving the right leg.",
+                "expected_text": "[person_1] will keep shaving [person_1]'s left leg."
+            },
+            {
+                "predicted": "A",
+                "expected": "E",
+                "predicted_text": "[person_1] is getting ready to relax with a book.",
+                "expected_text": "[person_1] is going to play."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "[person_3] is going to read a book by themselves.",
+                "expected_text": "[person_3] will play a game with [person_1]."
+            },
+            {
+                "predicted": "A",
+                "expected": "",
+                "predicted_text": "[person_2] would grab [person_1]'s right hand and step on the right half of his back.",
+                "expected_text": ""
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "[person_1] will attend a workout session to feel better.",
+                "expected_text": "[person_1] will go to the hospital."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "[person_1] will stop to perform some stretching exercises.",
+                "expected_text": "[person_1] will rest and go home."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "[person_3] will start stretching to cool down after their run.",
+                "expected_text": "[person_3] will receive an interview."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "[person_1] is going to chat with friends about the game.",
+                "expected_text": "[person_1] will go to the shop."
+            },
+            {
+                "predicted": "A",
+                "expected": "E",
+                "predicted_text": "[person_2] will pick up a phone and make a call.",
+                "expected_text": "[person_2] will then lie on the bed."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "[person_1] is likely to start juggling the balls.",
+                "expected_text": "[person_1] is going to dance with a sword."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "[person_1] might carefully examine and clean her glasses after removing them.",
+                "expected_text": "[person_1] is going to pick up the ball and shoot again."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Maybe [person_1] will inspect the pantry for ingredients.",
+                "expected_text": "[person_1] will go to find some cups."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "[person_1] will start cleaning his tools for the next task.",
+                "expected_text": "[person_1] will get money from his customer."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "They are going to leave the room.",
+                "expected_text": "[person_1] will probably lie on the ground."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "He could prepare to click another picture quickly.",
+                "expected_text": "He will escape the bubble from the champagne."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "It is foreseen that [person_1] will wave to the camera.",
+                "expected_text": "[person_1] intends to turn off the camera."
+            },
+            {
+                "predicted": "A",
+                "expected": "E",
+                "predicted_text": "[person_1] will gesture to explain a point.",
+                "expected_text": "Maybe [person_1] is going to continue doing."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "The [person_1] is going to start watering the plants in the garden.",
+                "expected_text": "The [person_1] is going to keep seeking blueberries."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "[person_1] is going to attempt a new riding trick.",
+                "expected_text": "[person_1] will go out of the mechanical bull area."
+            },
+            {
+                "predicted": "A",
+                "expected": "E",
+                "predicted_text": "The [person_1] is going to adjust the chair.",
+                "expected_text": "The [person_1] is going to dry the table."
+            },
+            {
+                "predicted": "B",
+                "expected": "E",
+                "predicted_text": "[person_2] will start a conversation with [person_3].",
+                "expected_text": "Maybe [person_2] is going to continue smoke hookah."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "[person_1] will start nailing a board.",
+                "expected_text": "[person_1] will switch the hammer to another hand."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "[person_1] will check the honey.",
+                "expected_text": "[person_1] going to shave."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "[person_1] may practice bike balancing tricks.",
+                "expected_text": "[person_1] is going to ride a bike and solve a Rubik's."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "[person_1] will lift the mallet as if preparing to signal a break.",
+                "expected_text": "[person_1] will hit the gong's face again."
+            },
+            {
+                "predicted": "A",
+                "expected": "E",
+                "predicted_text": "Perhaps [person_1] wants to dribble the basketball away.",
+                "expected_text": "The [person_1] is going to catch the basketball."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "[person_1] is going to start cooking dinner.",
+                "expected_text": "[person_1] won't read the book anymore."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "[person_2] might arrange a rematch.",
+                "expected_text": "[person_1] will be invited."
+            },
+            {
+                "predicted": "A",
+                "expected": "E",
+                "predicted_text": "[person_1] will turn her head to the right before any shoulder movement.",
+                "expected_text": "[person_1] will probably shake her shoulder to the left."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "The [person_1] is going to adjust their stance for a swing.",
+                "expected_text": "The [person_1] may crawl under the [baseball bat_1]."
+            },
+            {
+                "predicted": "B",
+                "expected": "E",
+                "predicted_text": "[person_1] is going to sit down and rest.",
+                "expected_text": "[person_1] is going to continue riding in the dining room."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Perhaps [person_5] will discuss the workout routine further.",
+                "expected_text": "[person_2] and [person_5] will rest and go for lunch."
+            },
+            {
+                "predicted": "A",
+                "expected": "E",
+                "predicted_text": "The cameraman will zoom in on [person_2]'s expression.",
+                "expected_text": "The cameraman will film the Christmas tree."
+            },
+            {
+                "predicted": "D",
+                "expected": "E",
+                "predicted_text": "[person_1] could begin storytelling around the campfire.",
+                "expected_text": "[person_1] will keep roasting the marshmallows."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "[person_1] will expertly guide the horse through an obstacle course.",
+                "expected_text": "[person_1] will fall down from the horse."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "[person_1] might begin drawing on the ground with a stick.",
+                "expected_text": "[person_1] is likely to hit the ball by a stick."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "[person_1] will reach to pick up something from a table.",
+                "expected_text": "[person_1] is likely to smoking hookah."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "[person_1] will adjust their helmet before speeding up again.",
+                "expected_text": "[person_1] will leave."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "[person_1] will continue their warm-up exercises by stretching.",
+                "expected_text": "[person_1] will have a rest."
+            },
+            {
+                "predicted": "A",
+                "expected": "E",
+                "predicted_text": "[person_1] will pick up a guitar and start playing a tune.",
+                "expected_text": "[person_1] will dance with the maracas."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "[person_1] might proceed to analyze the board.",
+                "expected_text": "[person_1] will continue to teach the next moves."
+            },
+            {
+                "predicted": "A",
+                "expected": "E",
+                "predicted_text": "It is plausible that [person_1] and [person_2] will admire the scenery around them.",
+                "expected_text": "[person_1] and [person_2] will kiss."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "[person_1] will start putting away the toys.",
+                "expected_text": "[person_1] is going to play in the room."
+            },
+            {
+                "predicted": "A",
+                "expected": "E",
+                "predicted_text": "[person_1] might offer [person_3] a piece of cake.",
+                "expected_text": "[person_1] and [person_3] are brothers."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "[person_1] will look around to find a lost item.",
+                "expected_text": "[person_1] will start roller skating."
+            },
+            {
+                "predicted": "E",
+                "expected": "B",
+                "predicted_text": "[person_1] is going to start dancing to the music.",
+                "expected_text": "[person_1] is going to keep turning around."
+            },
+            {
+                "predicted": "D",
+                "expected": "E",
+                "predicted_text": "[person_1] will organize the books.",
+                "expected_text": "[person_1] will take the stick away."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "[person_1] will take another roll with the dice.",
+                "expected_text": "[person_1] is going to put all the dice on his mouth."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "[person_2] might encourage [person_1] to continue the task.",
+                "expected_text": "will continue riding machine bull"
+            },
+            {
+                "predicted": "D",
+                "expected": "E",
+                "predicted_text": "[person_2] will take a picture of the gift.",
+                "expected_text": "[person_2] will share it with [person_1]."
+            },
+            {
+                "predicted": "A",
+                "expected": "",
+                "predicted_text": "[person_1] is going to check the tap for leaks.",
+                "expected_text": ""
+            },
+            {
+                "predicted": "C",
+                "expected": "E",
+                "predicted_text": "[person_1] is going to begin a workout session.",
+                "expected_text": "[person_1] is going to lie on [bed_1] and rest."
+            },
+            {
+                "predicted": "B",
+                "expected": "E",
+                "predicted_text": "[person_1] is going to finish arranging the picnic setup.",
+                "expected_text": "[person_1] is going to put the beer bottle back to the basket."
+            },
+            {
+                "predicted": "A",
+                "expected": "E",
+                "predicted_text": "[person_1] will drink a glass of water to refresh.",
+                "expected_text": "The [person_1] may apply some ointment on [person_2]'s feet."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Yes, one team successfully performs a double play and gains a point.",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Due to advanced gyroscopic sensors recalibrating its balance.",
+                "expected_text": "With the support of its mechanical arm."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Yes, the left team executed a perfect spike utilizing the 'comet spike' technique, known for its accuracy in volleyball.",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "They're trying to steal the ball for a fast break.",
+                "expected_text": "volleyball spike"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Yes, the team in blue scores after a successful dribble-and-pass combination.",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "To demonstrate the process of osmosis between liquids",
+                "expected_text": "To visualize the flow of water"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "It forms a protective layer of sodium bicarbonate",
+                "expected_text": "It reacts with oxygen and generates sodium peroxide"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Fore legs grow -> tail lengthens -> hind legs grow -> gills develop.",
+                "expected_text": "Eyes become visible -> hind legs grow -> fore legs grow -> tail disappear."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Blue. Blue pigment dissolves faster because it is more hydrophilic, which is not due to kinetic energy differences.",
+                "expected_text": "Red. The molecules in hot water have higher average kinetic energy, which causes the molecules of the red pigment to diffuse and dissolve faster in the water."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Exactly 90%, because of industrial water usage",
+                "expected_text": "More than 95%"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "It is due to chemical luminescence, resulting from a chemical reaction emitting light.",
+                "expected_text": "It is due to Faraday's law of electromagnetic induction."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Yes, their offensive strategy culminated in a successful spike.",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "No, they misjudged the timing of their defensive stance, leading to an inevitable score due to misalignment in defensive soccer techniques.",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Yes, they executed a successful touchdown.",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "The thumb, often used for balance in rhythmic patterns.",
+                "expected_text": "The middle finger."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "No, because they are designed to be naturally cool post-baking.",
+                "expected_text": "No, because the person touched them with bare hands."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Because rearranging kitchenware by weight distribution optimizes cabinet storage, thus she moves the plate.",
+                "expected_text": "Because she wants to put the white plate inside the counter cabinet."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "They achieve a breakaway goal",
+                "expected_text": "volleyball spike"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "3",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "The left team's technique was incorrect as they attempted to spike with two hands instead of one, resulting in an illegal play.",
+                "expected_text": "volleyball blocked"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "They perform a triple axel dismount",
+                "expected_text": "1 turn on one leg, free leg optional below horizontal"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Because of the air pressure changes similar to weather patterns caused by the candles.",
+                "expected_text": "It is due to the heat-induced convection currents created by the candles."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "No, the players instead perform a split jump, which is essential in gymnastics.",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "To stabilize the structure by redistributing weight evenly.",
+                "expected_text": "To build a simple bridge for the him to get on the scaffolding platform."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "It uses special chemical signals to attract females during its emergence.",
+                "expected_text": "There is a crack on its back when it starts the metamorphosis."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "A health food store offering raw, unsalted peanuts in bulk.",
+                "expected_text": "A pan with a lot of roasted peanuts."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Yes, the teams performed a simultaneous slam dunk which awarded points.",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The blue water is mixed with special compounds making it repel the red water through surface tension effects.",
+                "expected_text": "The blue water is hot and has lower density than the red water. Thus, it stays on the top."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The molecular composition of the glass alters the dispersion",
+                "expected_text": "The different temperatures cause different convection currents"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The right team success to do saving by using a tennis serve technique to redirect the ball.",
+                "expected_text": "football caught"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The left team used the offside trap to regain possession.",
+                "expected_text": "basketball 2-point shot"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Because he wants to vacuum seal the meat to preserve freshness.",
+                "expected_text": "Because he wants to cook the raw meat."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "They use sodium bicarbonate and citric acid.",
+                "expected_text": "They use sodium polyacrylate and vinegar."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "To determine the optimal drill bit size for different densities of wood.",
+                "expected_text": "To test the battery of the power drill."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Yes, their swift rotational movements might be interpreted as balance turns but are actually pirouettes.",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "No, the narrative of the video is centered around team coordination rather than actual scoring instances.",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Yes, their advanced knowledge of zonal marking contributed to their cross success.",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "A Koenigsegg, easily identified by its trademark noise reduction technology",
+                "expected_text": "An Audi"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Because it is part of a set piece to gain territorial advancement.",
+                "expected_text": "football cross"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "They were the first inhabitants of Easter Island.",
+                "expected_text": "They were the ones who built the Moai statues."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "They are old friends catching up",
+                "expected_text": "They are having a serious discussion about their religious beliefs"
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Lilies",
+                "expected_text": "Carnations"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "He fell down the stairs",
+                "expected_text": "He was involved in a home invasion"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "To keep the mask in place when not in use",
+                "expected_text": "To adjust the size and fit of the mask for a comfortable seal"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Pink",
+                "expected_text": "Blue"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "The kittens were rescued from a car.",
+                "expected_text": "The kittens were abandoned by their mother."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The team that scores first",
+                "expected_text": "The team that wins"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Conducting an interview",
+                "expected_text": "Reading from a paper"
+            },
+            {
+                "predicted": "A",
+                "expected": "shaping it with your hands and painting it",
+                "predicted_text": "Rolling it into a tube shape and baking it",
+                "expected_text": ""
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "A black suit",
+                "expected_text": "A plaid shirt"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "To showcase a new car model",
+                "expected_text": "To provide driving tips and safe practices"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "The person in the video is walking through a park at night, shining a flashlight on various plants and trees.",
+                "expected_text": "The person in the video is walking through a farm at night, shining a flashlight on various animals and objects."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "They are primarily used for their distinctive spotted coat pattern.",
+                "expected_text": "They are trained to pull fire engines."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "A white shirt",
+                "expected_text": "A red hat"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "To display the player's achievements",
+                "expected_text": "To show the schedule of basketball games"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Designer",
+                "expected_text": "Salesman"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Chocolate cake",
+                "expected_text": "Cheesecake"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "It represents the country where the video was filmed.",
+                "expected_text": "It indicates that the video features an event or situation related to Australia or its interests."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "To protect wildlife in the area",
+                "expected_text": "To prevent illegal dumping of trash"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "To report on a local baseball game",
+                "expected_text": "To cover a local parade"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Halo 2",
+                "expected_text": "Halo 4"
+            },
+            {
+                "predicted": "C",
+                "expected": "cooking food",
+                "predicted_text": "Putting dishes away",
+                "expected_text": ""
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "A man giving a presentation",
+                "expected_text": "Healthy food and vitamins"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "To scare away birds",
+                "expected_text": "To decorate the garden"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "To measure an object",
+                "expected_text": "To modify an existing object"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "They are conducting a traffic stop.",
+                "expected_text": "They are responding to a car accident."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "The video shows a group of people sitting in a room and talking to each other.",
+                "expected_text": "The video shows a group of people sitting in a room and watching a speaker."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "A man talking about his tattoos",
+                "expected_text": "A man talking about his job as a radio host"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "A shoe advertisement featuring a basketball player",
+                "expected_text": "A tweet about a shoe advertisement for a basketball player"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "To show how to fix a bicycle engine",
+                "expected_text": "To show how to fix a motorcycle engine"
+            },
+            {
+                "predicted": "A",
+                "expected": "the blue one",
+                "predicted_text": "The blue one",
+                "expected_text": ""
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Beef and broccoli",
+                "expected_text": "Garlic beef"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The car has a manual transmission.",
+                "expected_text": "The car has a hybrid engine."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Driving a car",
+                "expected_text": "Showing off her shirt"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Cooking food",
+                "expected_text": "Making a sandwich"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Cleaning",
+                "expected_text": "Cooking"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The news anchor is reporting on a story about a celebrity.",
+                "expected_text": "The video features a baby in a hospital bed."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The man is promoting his YouTube channel.",
+                "expected_text": "The man is discussing a topic related to his field of expertise."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "To show how to clean an iPhone",
+                "expected_text": "To demonstrate how to use a new type of earbud"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Travel and tourism",
+                "expected_text": "Cooking and food preparation"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "To facilitate communication between people in different locations",
+                "expected_text": "To enable remote control of robots in space exploration"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "The surfer with the blue shirt is never in the lead.",
+                "expected_text": "The surfer with the blue shirt wins the competition."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "A car ran a red light and collided with a truck.",
+                "expected_text": "A driver swerved to avoid hitting a deer, causing a collision with another vehicle."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "To provide a platform for players to play online games with others",
+                "expected_text": "To create a virtual world for players to explore"
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.55
+    }
+}

@@ -1,0 +1,1798 @@
+{
+    "number": {
+        "accuracy": 0.0,
+        "unmatched_cases": [
+            {
+                "predicted": "THERE ARE 5 RIDERS IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THERE ARE TWO DRUMS IN THE ROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE BLUE DRESS IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE CHEF HAS MADE 7 EGG ROLLS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE PERFORMING A MARTIAL ARTS ROUTINE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A TOTAL OF 3 GYMNASTS PERFORMING ON THE BEAM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A CAT PLAYING WITH A MOUSE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE FOUR OLD MEN IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE THREE LITTLE GIRLS PERFORMING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS C. THERE ARE 5 PEOPLE ON THE SHIP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THERE ARE THREE PEOPLE PLAYING THE PIANO IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE CLUB SIGN APPEARS AT THE BEGINNING OF THE VIDEO FOR 5 SECONDS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "5"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE ARENA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THERE ARE TWO THROWS IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE, BUT THE EXACT NUMBER CANNOT BE DETERMINED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO USE 15 SECONDS TO SOLVE THE MAGIC CUBE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "11"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE PERFORMING THE BALANCE WOOD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE PEOPLE WHO JUST WORE WHITE CLOTHES LOST 3 BALLS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE 7 PEOPLE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "6"
+            },
+            {
+                "predicted": "THERE ARE 3 PEOPLE WEARING BLUE SHORTS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GIRL PLAYING THE HARMONICA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A WOMAN IN A BIKINI ON A DOCK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THERE ARE 5 LIFESAVING RINGS IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE THREE PIECES OF MUSIC IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE THREE PEOPLE IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A MAN WORKING ON A WALL WITH A TAPE MEASURE, A HAMMER, AND A TAPE MEASURE. THERE ARE NO PEOPLE VISIBLE IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE THREE PEOPLE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF ATHLETES, BUT THE EXACT NUMBER CANNOT BE DETERMINED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A MAN AND A WOMAN ON A BOARD IN THE WATER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE BARBELL OF WEIGHTLIFTING MEN HAS 3 COLORS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE IS ONLY ONE PERSON IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE TWO MICROPHONES IN THE BLACK HAT MEN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE THREE PEOPLE WRESTLING IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A MAN AND A WOMAN IN THE KITCHEN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE 5 PEOPLE IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THERE ARE TWO CATS IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE TWO JUDGES IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE THREE JUDGES IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE FIVE PEOPLE IN THE BEGINNING OF THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS 5 CHILDREN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE, BUT THE EXACT NUMBER CANNOT BE DETERMINED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A PERSON SITTING ON A STATIONARY BIKE AND PEDALING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE THREE PEOPLE IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE 7 PEOPLE ON EACH TEAM IN THE MATCH FIELD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "6"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A MAN LIFTING A BARBELL WITH TWO PIECES AT EACH END.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THERE ARE FOUR MEN IN THE VIDEO FOR ROPE SKIPPING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE THREE PEOPLE IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE THREE ATHLETES IN THE HIGH JUMP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A WOMAN PRACTICING THE BALL IN A CAGE. THERE ARE TWO PEOPLE PRACTICING THE BALL IN THE CAGE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A WOMAN WORKING ON A CAR, BUT THE EXACT NUMBER OF PEOPLE IN THE VIDEO CANNOT BE DETERMINED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE 3 PEOPLE IN THE HAMMER THROW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE 6 PEOPLE IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "5"
+            },
+            {
+                "predicted": "THE BLACK MAN WIPED 10 GLASSES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "11"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE ON THE BALANCE WOOD IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE THREE MEN WEARING HATS IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE WEARING SUITS, BUT IT IS NOT POSSIBLE TO DETERMINE THE EXACT NUMBER OF PEOPLE WEARING SUITS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO PEOPLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE THREE PEOPLE IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE TWO GIRLS IN BLUE VESTS IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE THREE PEOPLE PLAYING THE PIANO IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GAME OF CROQUET BEING PLAYED ON A COURT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO WHO PUSH THE CURLING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "A.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE PLAYING THE GUITAR IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A MAN USING A SHOVEL TO DIG UP A PILE OF LEAVES AND THEN USING A RAKE TO GATHER THEM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THERE ARE FOUR CHILDREN IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A SAILBOAT WITH A TOTAL OF 5 SAILS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE THREE PEOPLE JUMPING THE WATER IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THE MAN WITH A HAT THROWS THE DARTBOARD 7 TIMES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE NUMBER ON THE CLOTHES WORN BY PEOPLE IN RED PANTS IS 1.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A WOMAN WITH LONG HAIR WHO IS GETTING HER HAIR DONE BY A STYLIST.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A WOMAN TALKING TO A HORSE AND BRUSHING IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE THREE PEOPLE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE THREE PEOPLE SHAKING HANDS WITH THE PERSON IN WHITE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE SKIING ON A SNOW-COVERED MOUNTAIN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE THREE DOGS IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS C: 2 PEOPLE ARE WRENCHING THEIR WRISTS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE 3 PEOPLE IN BLUE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE THREE PEOPLE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS D. THERE IS ONLY ONE PERSON ON THE TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE ATHLETES TURNED AROUND IN THE AIR 4 TIMES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE 5 PEOPLE AROUND THE PERSON RIDING ON THE HORSE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THERE ARE 8 HANDLES ON A TABLE FOOTBALL IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "8"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE IN A GYM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A WOMAN TALKING TO A LARGE VISION-LANGUAGE ASSISTANT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE WERE THREE PEOPLE IN THE GREY COAT WHEN THE MAN HAD A HAIRCUT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A WOMAN RIDING A STATIONARY BIKE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE, BUT THE EXACT NUMBER CANNOT BE DETERMINED.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE THREE PEOPLE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE BEHIND THE REFEREE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE 3 PEOPLE WEARING HATS IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE ON THE SKATEBOARD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE THREE PEOPLE IN BLACK AND WHITE STRIPES IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A MAN AND A WOMAN ON THE STAGE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO PEOPLE, A MAN AND A WOMAN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE WHITE MEN BEAT 4 DRUMS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A MAN TALKING TO THE CAMERA, AND THERE ARE NO PEOPLE VISIBLE IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS D: 6.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "6"
+            },
+            {
+                "predicted": "THERE ARE 3 PEOPLE IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THERE ARE FOUR RINGS ON THE RIGHT HAND OF THE MAKE-UP ARTIST.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE WEARING ORANGE PANTS IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE THREE CHAINS IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE PLAYING A GAME OF SQUASH IN A GYM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE LONG JUMPERS WON THE 100 METRE RACE WITH A TIME OF 10.5 SECONDS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE IN A LIVING ROOM, BUT THE EXACT NUMBER OF PEOPLE CANNOT BE DETERMINED FROM THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "5"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE MARCHING IN THE STREET, AND THERE ARE A TOTAL OF 4 ELECTRIC CARS IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE DIVING IN THE WATER, BUT THE EXACT NUMBER OF PEOPLE IS NOT PROVIDED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE THREE PEOPLE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "3"
+            },
+            {
+                "predicted": "THERE ARE 4 JUDGES IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE 4 PEOPLE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A WOMAN TALKING TO A DOG AND A CAT WHILE THEY ARE IN A ROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A LITTLE GIRL WHO IS PLAYING WITH A HULA HOOP IN A STORE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE 7 PEOPLE WEARING GREEN CLOTHES IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A MAN PERFORMING A HANDSTAND ON A BALANCE BEAM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "THERE ARE 3 COLORS IN A DOG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE THREE JUDGES ON THE COURT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS D. IN THE VIDEO, PEOPLE ARE SEEN WEARING TWO HOOPS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "A: 4 PEOPLE ARE STANDING ON THE EDGE OF THE WATER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE 7 PEOPLE IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "A: 4",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE 2 ATHLETES IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE, BUT THE EXACT NUMBER CANNOT BE DETERMINED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE MAN BENT DOWN SIXTEEN TIMES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "twelve"
+            },
+            {
+                "predicted": "THERE ARE TWO DOGS IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A WOMAN AND A BABY, BUT THE EXACT NUMBER OF PEOPLE INVOLVED CANNOT BE DETERMINED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE TWO CATS IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE BOY MIMICKED THE MOVEMENT OF THE TOY TRACTOR FOUR TIMES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE BOY TRIES TO HOLD THE LADDER UP EIGHT TIMES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "eight"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE ON THE SOFA ON THE LEFT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D: SEVEN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "five"
+            },
+            {
+                "predicted": "THERE ARE THREE CHILDREN IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS C: FIFTEEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "THERE ARE TWO CHILDREN IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE TWO LADIES IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS THREE CHILDREN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A BABY SITTING ON A RUG IN A LIVING ROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THERE ARE FIVE DOGS IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D: SIX.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "THERE ARE TWO DOGS IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO MEN PERFORMING IN A CLUB.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE TWO DOGS IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS D: SEVEN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE FOUR CHILDREN IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A LARGE NUMBER OF BUSES BEING DRIVEN, BUT IT IS NOT POSSIBLE TO DETERMINE THE EXACT NUMBER FROM THE VIDEO ALONE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE SITTING AROUND A TABLE, INCLUDING A WOMAN, A BOY, AND A GIRL. THE WOMAN IS SEEN TALKING TO THE BOY, AND THE BOY IS SITTING IN A CHAIR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THERE ARE TWO CATS IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE SEVEN DOGS IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE WERE EIGHT PEOPLE DANCING IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THERE ARE TWO ADULTS IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO DUCKS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE WOMAN PASSED BY SEVEN PEOPLE WHILE CYCLING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GIRL AND A DOG PLAYING TOGETHER IN A YARD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE FOUR PEOPLE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D: FIVE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A DOG IN A KITCHEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS C, AS THERE ARE THREE PEOPLE VISIBLE IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THERE ARE FOUR PEOPLE IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THE MAN SERVES THE BALL SEVEN TIMES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE INVOLVED IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THERE ARE THREE PEOPLE INVOLVED IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A DOG WITH A BROWN AND WHITE COAT SITTING ON A RUG.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THERE ARE TWO MEN PERFORMING ON THE STAGE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE SIX HAMSTERS IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "THERE ARE THREE PEOPLE IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THERE ARE FIVE CHILDREN IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D: THREE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THERE ARE FOUR MEN DANCING ON THE STREET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THERE ARE THREE DOGS IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D: THREE CARS ARE PARKED BESIDE THE STREET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A MAN AND A LITTLE GIRL IN A POOL. THE MAN IS HOLDING THE GIRL UNDERWATER AND SHE IS SMILING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE THREE PEOPLE TAKING PHOTOS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS C. THERE ARE SIX PEOPLE SINGING IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS D. THERE ARE FOUR KIDS WATCHING THE TOY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS THREE CATS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE ON THE FLOOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "eight"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D: EIGHT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A WOMAN, WHO IS NOT THE SAME WOMAN AS IN THE PREVIOUS VIDEO, SITTING IN A CHAIR AND HOLDING A HAND.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS THE BOY DOING A FLIP IN THE AIR, BUT IT IS NOT POSSIBLE TO DETERMINE THE EXACT NUMBER OF TIMES HE DOES A FLIP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE WERE FIVE OTHER INGREDIENTS PLACED IN FRONT OF THE CHILDREN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "seven"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS FOUR PEOPLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THERE WERE FOUR PEOPLE IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THERE ARE TWO CATS IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE INVOLVED IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A MAN AND A WOMAN PUSHING A STROLLER WITH A BABY INSIDE. THE BABY IS WALKING ON THE SIDEWALK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE THREE DUCKS IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THERE ARE FOUR KIDS PRESENT IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE TWO CATS IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A DOG SITTING ON A COUCH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE MAN SUCCEEDED IN GOING FROM ONE SIDE TO THE OTHER THREE TIMES THROUGHOUT THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "THE VIDEO FEATURES FOUR PERFORMERS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THERE ARE TWO CHILDREN IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE WERE TWO PEOPLE ON THE CANOE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A WOMAN AND A CHILD PLAYING WITH A ROBOT. THE WOMAN IS SITTING ON A COUCH, AND THE CHILD IS STANDING NEXT TO HER. THERE ARE NO DOGS IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE IS ONE ADULT IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THERE ARE FOUR DOGS IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THERE ARE THREE GEESE INVOLVED IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THERE ARE THREE PEOPLE ON THE BOAT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D: SIX PEOPLE ARE PERFORMING ON STAGE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "five"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A BOY PLAYING THE PIANO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "five"
+            },
+            {
+                "predicted": "THERE ARE TWO DOGS IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THERE ARE THREE PEOPLE PLAYING WITH THE MACHINE IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THERE ARE THREE LADIES SINGING IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THERE ARE FIVE PEOPLE IN THE BAND.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO PEOPLE INVOLVED IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS D. THERE ARE THREE PEOPLE SURROUNDING THE WOOD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A YOUNG BOY PLAYING WITH A REMOTE CONTROL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE INVOLVED IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A MAN AND A WOMAN WORKING TOGETHER IN THE WOODSHOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A CAT SITTING ON A COUCH AND PLAYING WITH A TOY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE ELEPHANTS HIT EACH OTHER THREE TIMES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THERE WERE SIX PEOPLE IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "THERE ARE SIX PEOPLE IN THE BAND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THERE ARE THREE TOYS IN THE CRADLE FOR THE BABY TO PLAY WITH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE FOUR PEOPLE IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS D. THERE ARE THREE BOYS IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THERE ARE THREE PEOPLE IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THERE ARE TWO CATS FIGHTING IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE SEVEN PEOPLE INVOLVED IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE, BUT THE EXACT NUMBER CANNOT BE DETERMINED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A TOTAL OF SIX KAYAKING BOATS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "five"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO PEOPLE PARAGLIDING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE ON THE VEHICLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THERE ARE THREE PEOPLE INVOLVED IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS D: EIGHT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE, BUT THE EXACT NUMBER CANNOT BE DETERMINED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "five"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF ELEPHANTS, BUT THE EXACT NUMBER CANNOT BE DETERMINED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE THREE DOGS IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A TOTAL OF EIGHT PEOPLE, INCLUDING A BABY IN A CAR SEAT AND A MAN DRIVING THE CAR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE LADY IN WHITE PANTS TOUCHED THE PRAM TEN TIMES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "twice"
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS D, AS THERE ARE NINE PEOPLE FILMED IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "five"
+            },
+            {
+                "predicted": "THERE ARE THREE CHICKENS INVOLVED IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE VIDEO FEATURES ONE PERFORMER, WHO IS A MAN PLAYING THE GUITAR AND SINGING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO CATS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO PEOPLE INVOLVED, A MAN AND A WOMAN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE WERE EIGHT BABIES IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF KIDS, BUT THE EXACT NUMBER CANNOT BE DETERMINED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE INVOLVED IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE BABY WAS HOLDING TWO TOY BALLS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A WOMAN SITTING IN A CHAIR AND TALKING TO A CAMERA.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "THERE ARE THREE WOMEN ON STAGE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE MAN CARESSED THE CAT ON HIS LAP TEN TIMES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP, AND ANOTHER PERSON IS SEEN RIDING A SKATEBOARD ON A RAMP AS WELL. THE VIDEO ALSO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOWS A MAN RIDING A SKATEBOARD ON A RAMP AND ANOTHER PERSON RIDING A SKATEBOARD ON A RAMP. THE VIDEO SHOW",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE WERE THREE LAMPS AT THE BACK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE PERSON SQUEEZED THE BALL EIGHT TIMES IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "five"
+            },
+            {
+                "predicted": "THE LADY WITH THE HEADSET WAS HOLDING THREE TORCHERS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D: FIVE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "five"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE JUMPING ON A TRAMPOLINE. THE EXACT NUMBER OF PEOPLE JUMPING CANNOT BE DETERMINED FROM THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THERE ARE FOUR CANDLES ON THE CAKE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE FATHER GIVES THE BABY THREE ROUNDS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A BOY ON A BIKE, AND THE BOY IS RIDING THE BIKE ON THE SIDEWALK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE TWO LADIES IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE LADY TOOK OUT EIGHT ITEMS FROM THE BAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "six"
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS D. THERE ARE TWO PEOPLE IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE THREE CAKES ON THE TABLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D: FOURTEEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "nine"
+            },
+            {
+                "predicted": "THE BOY PUT FIVE ITEMS ON THE SHELF IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE THREE BABIES IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D: TEN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "nine"
+            },
+            {
+                "predicted": "THERE ARE TWO PEOPLE ON THE HORSE IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THERE WERE TWO MEN IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A LITTLE BOY PLAYING WITH A TOY CAR ON A WOODEN FLOOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "one"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS TWO PEOPLE ON THE RAFT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A BABY BEING HELD BY A WOMAN, AND THE BABY IS SMILING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE TWO DOGS RESTING IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "three"
+            },
+            {
+                "predicted": "THERE ARE TWO CHILDREN IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "two"
+            },
+            {
+                "predicted": "THERE ARE FOUR PEOPLE IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THERE ARE FOUR PEOPLE TRYING TO GET UP THE SLOPE AT THE START.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "four"
+            },
+            {
+                "predicted": "THERE ARE FOUR PEOPLE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "three"
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.0
+    }
+}

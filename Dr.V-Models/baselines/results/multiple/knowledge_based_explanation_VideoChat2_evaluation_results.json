@@ -1,0 +1,2140 @@
+{
+    "knowledge_based_explanation": {
+        "accuracy": 0.013888888888888888,
+        "unmatched_cases": [
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS ON THE VERGE OF DECIDING TO ENTER THE HOUSE. THE OPTIONS PROVIDED ARE A, B, C, AND D. THEREFORE, THE CORRECT ANSWER IS A.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] is on the verge of entering the house."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (E) [PERSON_1]'S RIGHT HAND WILL PROBABLY HIT THE GUITAR BODY..",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1]'s right hand will probably hit the guitar body."
+            },
+            {
+                "predicted": "THE ANSWER IS C. [PERSON_1] IS ABOUT TO JUGGLE THE BALL, SHOWCASING HIS SKILLS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Maybe [person_2] will continue to record videos."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO PLAYING AN INSTRUMENT, IT IS REFERRING TO DRINKING A CUP OF TEA. THEREFORE, THE CORRECT OPTION LETTER IS C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will go on using the piano."
+            },
+            {
+                "predicted": "THE ANSWER IS C. [PERSON_1] WILL START TUNING THE GUITAR FOR AN ENTIRELY DIFFERENT SONG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will finish talking and then record himself doing another guitar technique."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION AND IS NOT RELATED TO THE VIDEO. CAN YOU PLEASE PROVIDE THE CORRECT ANSWER TO THE QUESTION?",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_2] is going to pick up the badminton shuttlecock after [person_1] hitting it."
+            },
+            {
+                "predicted": "THE ANSWER IS C. [PERSON_1] WILL START PERFORMING BREATHING EXERCISES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will hold his breath for 10 seconds."
+            },
+            {
+                "predicted": "BASED ON THE ANSWER PROVIDED, THE CORRECT ANSWER SEEMS TO BE B. BASED ON THE INFORMATION GIVEN, [PERSON_1] WILL TAKE A BREAK AFTER A CERTAIN PERIOD OF TIME.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will have a break."
+            },
+            {
+                "predicted": "I'M SORRY, BUT IT SEEMS THAT THE OPTION LETTER IS NOT PROVIDED IN THE ANSWER. CAN YOU PLEASE PROVIDE ME WITH THE CORRECT OPTION LETTER TO HELP ME ANSWER THE QUESTION?",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_5] will eat the marshmallows."
+            },
+            {
+                "predicted": "THE ANSWER IS (D) THE [PERSON_1] MIGHT START SETTING THE TABLE FOR DINNER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The [person_1] may peel another potato."
+            },
+            {
+                "predicted": "THE ANSWER IS C. [PERSON_1] IS GOING TO START JUMPS AND SPINS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to start jumps and spins."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (A, B, C, D)\n\nHOWEVER, WITHOUT CONTEXT OR ADDITIONAL INFORMATION, IT'S DIFFICULT TO PROVIDE A MORE PRECISE ANSWER. COULD YOU PLEASE PROVIDE MORE DETAILS ABOUT THE QUESTION AND THE VIDEO?",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to shave off all his beard."
+            },
+            {
+                "predicted": "THE ANSWER IS C. [PERSON_1] WILL GET OFF THE HORSE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will get off the horse."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D. [PERSON_3] LOOKS LIKE SHE IS GOING TO CALL SOMEONE OVER TO JOIN..",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_3] might let [person_2] touch the mirror."
+            },
+            {
+                "predicted": "THE ANSWER IS C. [PERSON_1] WILL CATCH THE FRISBEE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to whistle."
+            },
+            {
+                "predicted": "THE ANSWER IS C. [PERSON_1] IS ABOUT TO ADJUST THE CAMERA SETTINGS FOR A VIDEO SHOOT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will play with the dog."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS A: [PERSON_1] WILL MAKE THE HORSE STOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will make the horse stop."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D. [PERSON_1] WILL JUMP UP AGAIN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will jump up again."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO ROPES OR PERFORMING STUNTS. THEREFORE, I AM NOT ABLE TO PROVIDE A VALID ANSWER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_2] may keep trying to stand on the rope."
+            },
+            {
+                "predicted": "THE ANSWER IS OPTION C. [PERSON_1] WILL PAUSE TO TAKE A SIP OF WATER.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] will move up the trowel."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (D) [PERSON_1] IS GOING TO PREPARE A DELIVERY SCHEDULE.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to move the product to the warehouse."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO, [PERSON_6], WILL BE DOING A CELEBRATION AFTER LOSING THE GAME. SO, THE CORRECT OPTION IS B: [PERSON_6] IS GOING TO ASK FOR A REMATCH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_6] will do the punishment."
+            },
+            {
+                "predicted": "THE ANSWER IS UNRELATED TO THE VIDEO AND SHOULD NOT BE THE OPTION LETTER. THEREFORE, THE CORRECT OPTION LETTER IS NOT AVAILABLE FOR THE QUESTION. PLEASE PROVIDE A VALID VIDEO OR QUESTION THAT IS RELATED TO THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will ask [person_2] to turn over [person_2]'s body."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO, [PERSON_1], IS GOING TO RIP PAPER. THEREFORE, THE ANSWER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to rip paper."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO, IDENTIFIED AS [PERSON_1], IS PLANNING TO READ A BOOK. THEREFORE, THE ANSWER OPTION THAT MATCHES THE CONTEXT OF THE QUESTION IS A.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The [person_1] is going to take the book."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (D) [PERSON_2] MIGHT START A CONVERSATION ABOUT THE RULES OF ANOTHER GAME..\n\nBASED ON THE GIVEN ANSWER, THE TWO PEOPLE IN THE VIDEO ARE DISCUSSING THE RULES OF ANOTHER GAME, WHICH IS NOT RELATED TO THE CURRENT GAME THEY WERE PLAYING. THEREFORE, THE CORRECT ANSWER IS (D) [PERSON_2] MIGHT START A CONVERSATION ABOUT THE RULES OF ANOTHER GAME.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "They will play a second round."
+            },
+            {
+                "predicted": "THE ANSWER IS C. [PERSON_1] WILL FEEL A LOT OF FATIGUE IN HIS SHOULDERS AND THIGHS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will feel a lot of fatigue in his shoulders and thighs."
+            },
+            {
+                "predicted": "THE PERSON MENTIONED IN THE QUESTION, [PERSON_10], IS GOING TO CONTINUE TRYING TO STOMP THE GRAPES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_10] is going to continue trying to stomp the grapes."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION AND IS NOT RELATED TO THE VIDEO. THEREFORE, I SUGGEST PROVIDING THE ANSWER TO THE ORIGINAL QUESTION INSTEAD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_2] will certainly continue cycling."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (A) THE MECHANICAL BULL WILL TURN OFF.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The mechanical bull is going to move faster."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION AND DOESN'T PROVIDE ANY RELEVANT INFORMATION ABOUT THE GIVEN OPTIONS. COULD YOU PLEASE PROVIDE THE CORRECT ANSWER TO THE QUESTION AND REPHRASE YOUR ANSWER ACCORDINGLY?\n\nACCORDING TO THE GIVEN OPTIONS, THE PERSON MENTIONED IN THE QUESTION IS A MAN WEARING A PURPLE COSTUME AND IS SEEN SWINGING A HAMMER TO HIT A TIRE. BASED ON THIS INFORMATION, THE MOST LIKELY ANSWER WOULD BE C. THE MAN WILL TAKE A BREAK.\n\nALTERNATIVELY, IF YOU BELIEVE THAT THE PERSON MENTIONED IN THE QUESTION IS A WOMAN, THEN THE ANSWER WOULD BE B. THE WOMAN WILL INITIATE A PHONE CALL.\n\nHOWEVER, SINCE THE ANSWER IS NOT RELATED TO THE QUESTION AND DOESN'T PROVIDE ANY RELEVANT INFORMATION ABOUT THE GIVEN OPTIONS, IT IS NOT POSSIBLE TO DETERMINE THE CORRECT ANSWER WITHOUT MORE CONTEXT OR DETAILS. THEREFORE, THE ANSWER IS E. THE PERSON WILL PREPARE TO GIVE A PRESENTATION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will take a break."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS A: [PERSON_1] WILL START EXPLAINING THE STRATEGY TO WIN THE GAME.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will attack the queen."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO A PERSON AND HAS NOTHING TO DO WITH THE QUESTION. THEREFORE, I CANNOT PROVIDE AN APPROPRIATE ANSWER TO THIS QUESTION.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to ride unicycle somewhere else."
+            },
+            {
+                "predicted": "THE ANSWER IS INCOMPLETE AND DOESN'T PROVIDE ANY INFORMATION RELATED TO THE QUESTION. CAN YOU PLEASE PROVIDE THE COMPLETE ANSWER SO THAT I CAN HELP YOU?",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to dance."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (B) (PERSON_6) IS GOING TO READ THE NEXT PAGE OF THE BOOK..",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_6] is going to read the next page of the book."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION. IT MIGHT BE A MISTAKE OR A TYPO. COULD YOU PLEASE VERIFY THE QUESTION AND PROVIDE THE CORRECT ANSWER?",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The [person_1] will hold the scooter tightly."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (C) [PERSON_1] WILL NOT PLAY THE KEYBOARD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will not play the keyboard."
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to move her body towards."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D. [PERSON_1], [PERSON_2] AND [PERSON_3] ARE GOING TO BUILD A SNOWMAN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] , [person_2] and [person_3] will pile up snow."
+            },
+            {
+                "predicted": "THE ANSWER IS (E) [PERSON_1] IS GOING TO PLAY DRUMS..",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to play drums."
+            },
+            {
+                "predicted": "THE ANSWER IS C. [PERSON_1] WILL DISCUSS THE PLANS.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "Give the tools to [person_2]."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO, WHO IS PLAYING A GAME, IS LIKELY TO TAKE A BREAK AND RELAX AFTER THE GAME. THEREFORE, THE ANSWER OPTION IS C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will go on practicing."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO AND DOES NOT SEEM TO BE AN OPTION. IT WOULD BE HELPFUL IF YOU COULD PROVIDE MORE INFORMATION ABOUT THE VIDEO AND WHAT THE PERSON MIGHT DO. CAN YOU PLEASE PROVIDE MORE CONTEXT?",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "It is predicted that [person_1] will keep playing the flute."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D. [PERSON_1] MAY KEEP TRYING TO PLAY THE GONG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] may keep trying to play the gong."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO AND IS RELATED TO DRYING THE SHOES. HENCE, I CANNOT PROVIDE AN ANSWER FOR IT. PLEASE PROVIDE THE CORRECT ANSWER RELATED TO THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_2] may dry the shoes."
+            },
+            {
+                "predicted": "THE ANSWER IS C. MAYBE [PERSON_1] IS GOING TO PREPARE SOME SNACKS FOR A GARDEN PARTY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will certainly watering plants."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS A. THE [PERSON_1] IS GOING TO CONTINUE TO WIPE THE ROUND TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The [person_1] is going to continue to wipe the round table."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO. CAN YOU PLEASE PROVIDE MORE INFORMATION ABOUT THE QUESTION OR ANSWER THE QUESTIONS?",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue to ride the unicycle back and forth."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION. CAN YOU PLEASE PROVIDE THE CORRECT ANSWER FOR THE VIDEO?",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue to play other musical instruments."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO. CAN YOU PLEASE PROVIDE MORE INFORMATION ABOUT THE VIDEO?",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] and [person_2] may be a couple."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO, [PERSON_1], WILL EXPLAIN HOW IT WORKS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will explain how it work."
+            },
+            {
+                "predicted": "THE ANSWER IS D. ALTHOUGH THE QUESTION DOES NOT PROVIDE INFORMATION ABOUT THE VIDEO, IT CAN BE INFERRED THAT THE ANSWER OPTION IS RELATED TO WHAT A PERSON MAY DO IN THE VIDEO. THEREFORE, THE ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to throw something."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION AND DOES NOT PROVIDE ANY USEFUL INFORMATION. PLEASE PROVIDE A VALID OPTION RELATED TO THE QUESTION.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] and [person_7] will try skipping rope again."
+            },
+            {
+                "predicted": "THE ANSWER IS E. [PERSON_1] IS GOING TO KNEEL DOWN TO TIE THEIR SHOE..",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to continue demonstrating."
+            },
+            {
+                "predicted": "THE ANSWER IS C. [PERSON_1] IS GOING TO STRETCH THEIR ARMS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will lean back."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (C) [PERSON_1] INTENDS TO CONTINUE USING THE PIANO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] intends to continue using the piano."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE GIVEN QUESTION AND IS NOT RELATED TO THE VIDEO OR THE QUESTION. THEREFORE, I DO NOT HAVE THE CORRECT ANSWER TO THIS QUESTION. CAN YOU PLEASE PROVIDE MORE CONTEXT OR REPHRASE THE QUESTION?",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue to open the present."
+            },
+            {
+                "predicted": "BASED ON THE VIDEO, THE WOMAN IN FRONT OF [PERSON_1] SEEMS TO BE PREPARING A MEAL FOR HER. SO, THE ANSWER IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The woman is going to continue performing insomnia treatment for [person_1]."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION. PLEASE PROVIDE A CORRECT ANSWER RELATED TO THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] may stop playing."
+            },
+            {
+                "predicted": "THE ANSWER IS C. [PERSON_1] WILL PROBABLY KEEP GOING STRAIGHT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will probably keep going straight."
+            },
+            {
+                "predicted": "THE ANSWER IS C. [PERSON_1] WILL CONTINUE TO PLAY THE GUITAR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue to play the guitar."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO OR THE OBJECTS SHOWN IN THE OPTIONS. IT SEEMS LIKE AN INCORRECT OPTION LETTER HAS BEEN PROVIDED. PLEASE PROVIDE THE CORRECT OPTION LETTER TO GET A BETTER ANSWER.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] keeps playing the harmonica."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION. PLEASE PROVIDE A VALID OPTION RELATED TO THE VIDEO QUESTION.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to recommend the patch on his chest."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (D) [PERSON_3] IS GOING TO PRACTICE YOGA..",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_3] is going to keep playing."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS A. [PERSON_1] WILL STOP TOUCHING THE PIANO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "will stop touching the piano"
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will pull the cork out."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS B: [PERSON_1] WILL TRY TO SKATING FASTER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will try to skating faster."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO GARDENING OR PERSONAL ACTIONS. THE QUESTION IS ABOUT A VIDEO AND IT DOES NOT SEEM TO BE RELATED TO ANY OF THE OPTIONS MENTIONED. THEREFORE, I'M UNABLE TO PROVIDE AN ANSWER RELATED TO THE GIVEN OPTIONS.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue to water the plants."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D. [PERSON_1] WILL TUNE THE GUITAR BEFORE PLAYING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will play the guitar."
+            },
+            {
+                "predicted": "THE ANSWER IS OPTION A. [PERSON_6] WILL LOOK FOR A PLACE TO HIDE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_6] will take the gift and open the rope quickly . "
+            },
+            {
+                "predicted": "THE ANSWER IS E. [PERSON_1] WILL KEEP SHAVING [PERSON_1]'S LEFT LEG..",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] will keep shaving [person_1]'s left leg."
+            },
+            {
+                "predicted": "THE ANSWER IS NEITHER C NOR D, THE OPTIONS ARE A AND B.\n\nACCORDING TO THE VIDEO, [PERSON_1] IS GOING TO DO A GOOD DEED. HOWEVER, IT IS NOT SPECIFIED IN THE OPTIONS WHETHER IT IS RELATED TO CLEANING OR PLAYING WITH THE CHILD.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to play."
+            },
+            {
+                "predicted": "THE ANSWER IS (D) [PERSON_1] WILL DISCUSS THE MORNING MARKET PRICES WITH A COLLEAGUE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to sell the orange juice."
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] going to shape the product."
+            },
+            {
+                "predicted": "THE ANSWER IS C. [PERSON_2] IS GOING TO MAKE A SNOW ANGEL ON THE GROUND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Shovel some snow and drop them on [person_1]."
+            },
+            {
+                "predicted": "THE ANSWER IS NEITHER B NOR D, BUT C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to break."
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to plane wood."
+            },
+            {
+                "predicted": "THE ANSWER IS NEITHER A NOR B, BUT RATHER D. IT SEEMS THAT [PERSON_1] IS GOING TO ADJUST ANOTHER STAFF ON THE MICROSCOPE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to adjust another staff on the microscope."
+            },
+            {
+                "predicted": "THE ANSWER IS UNRELATED TO THE QUESTION. IT'S SIMPLY REFERRING TO THE PERSON WHO IS RAISING THE DUMBBELLS IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is about to raise the dumbbells up."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION. IT'S NOT POSSIBLE TO DETERMINE THE ACTION THAT THE PERSON IN THE VIDEO IS GOING TO TAKE. THEREFORE, THE ANSWER SHOULD BE REJECTED AS INVALID.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_3] will play a game with [person_1]."
+            },
+            {
+                "predicted": "BASED ON THE GIVEN OPTIONS, THE ANSWER IS C. IF PERSON_1 IS SICK, THEY MIGHT CHOOSE TO GO TO THE HOSPITAL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will go to the hospital."
+            },
+            {
+                "predicted": "THE ANSWER IS D. I'M SORRY, I COULDN'T FIND THE OPTION LETTER. PLEASE PROVIDE THE CORRECT ANSWER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_2] is going to try to strike the bars of the toy."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO RUNNING OR EXERCISE, BUT IT SEEMS LIKE THE PERSON IN QUESTION MIGHT HAVE AN URGE TO GO HOME. IT'S UNCLEAR WHAT ACTION THEY MIGHT TAKE AFTER RUNNING, BUT IT SEEMS LIKE THEY MIGHT HEAD BACK HOME AFTER COMPLETING THEIR TASK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will rest and go home."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (E) [PERSON_1] WILL FEEL THE MUSIC AND PLAY THE BASS GUITAR..",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] will feel the music and play the bass guitar."
+            },
+            {
+                "predicted": "THE ANSWER IS (E) [PERSON_3] WILL CATCH THEIR BREATH AND THEN CHEER FOR THEIR FRIENDS..",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_3] will receive an interview."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION. CAN YOU PLEASE PROVIDE A VALID ANSWER?",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will go to the shop."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE OPTIONS PROVIDED, IT SEEMS TO BE A PERSON'S NAME, BUT NOT RELATED TO ANY OF THE OPTIONS. HENCE, THE CORRECT ANSWER IS E: [PERSON_2] WILL THEN LIE ON THE BED..",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_2] will then lie on the bed."
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to dance with a sword."
+            },
+            {
+                "predicted": "I'M SORRY, BUT IT SEEMS LIKE THE GIVEN ANSWER IS INCORRECT. COULD YOU PLEASE DOUBLE-CHECK THE ANSWER AND PROVIDE THE CORRECT OPTION LETTER?",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to pick up the ball and shoot again."
+            },
+            {
+                "predicted": "THE ANSWER IS THAT [PERSON_1] MIGHT INSPECT THE PANTRY FOR INGREDIENTS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will go to find some cups."
+            },
+            {
+                "predicted": "THE ANSWER IS (D) [PERSON_1] WILL TAKE A BREAK AND SIT DOWN..",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will get money from his customer."
+            },
+            {
+                "predicted": "THE ANSWER IS C. [PERSON_1] IS GOING TO TRY AGAIN..",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to try again."
+            },
+            {
+                "predicted": "I'M SORRY, BUT THE PROVIDED ANSWER LETTER DOES NOT SEEM TO MATCH THE GIVEN OPTIONS. COULD YOU PLEASE PROVIDE THE CORRECT ANSWER LETTER?",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will stop running."
+            },
+            {
+                "predicted": "THE ANSWER IS D. THE [PERSON_1] MAY CARRY ON PLAYING BASKETBALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The [person_1] may carry on playing basketball."
+            },
+            {
+                "predicted": "THE ANSWER IS E. MAYBE [PERSON_1] IS GOING TO START SPRAY PAINT..",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "Maybe [person_1] is going to start spray paint."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (C) [PERSON_1] IS GOING TO GO ALL THE WAY TO THE END OF THE ROPE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to go all the way to the end of the rope."
+            },
+            {
+                "predicted": "THE ANSWER IS INCOMPLETE. CAN YOU PLEASE PROVIDE THE CORRECT ANSWER ALONG WITH THE OPTIONS?",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will probably lie on the ground."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION, AND IT SEEMS TO BE AN OCR ERROR. I BELIEVE THE ANSWER IS THE OCR INPUT. CAN YOU PLEASE PROVIDE MORE CONTEXT OR THE CORRECT QUESTION?",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to ride [bicycle_1]."
+            },
+            {
+                "predicted": "THE PHOTOGRAPHER IN THE VIDEO IS PREPARING TO CLICK ANOTHER PICTURE QUICKLY. SO, THE ANSWER IS A. HE COULD PREPARE TO CLICK ANOTHER PICTURE QUICKLY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "He will escape the bubble from the champagne."
+            },
+            {
+                "predicted": "THE ANSWER IS THAT THE PERSON IN THE VIDEO WILL PLAY WITH A MECHANICAL BULL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to play with mechanical bull."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION AND DOES NOT PROVIDE ANY CONTEXT ABOUT WHAT [PERSON_1] INTENDS TO DO. THEREFORE, THE ANSWER IS INVALID. PLEASE PROVIDE THE CORRECT ANSWER WITH THE CORRECT OPTION LETTER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] intends to turn off the camera."
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to practice standing on his hands."
+            },
+            {
+                "predicted": "THE ANSWER IS C. [PERSON_1] IS ABOUT TO TAKE A NAP AFTER THE EXERCISE.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "Maybe [person_1] is going to continue doing."
+            },
+            {
+                "predicted": "THE ANSWER IS C. [PERSON_1] IS LIKELY TO SHAKE THE MARACAS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will kick the ball."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO. CAN YOU PLEASE PROVIDE THE CORRECT ANSWER?",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The [person_1] is going to keep seeking blueberries."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION. COULD YOU PLEASE PROVIDE THE CORRECT QUESTION AND ANSWER?",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will go out of the mechanical bull area."
+            },
+            {
+                "predicted": "THE ANSWER IS (A) THE [PERSON_1] IS GOING TO ADJUST THE CHAIR., WHICH IS NOT RELATED TO THE OPTIONS AVAILABLE.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "The [person_1] is going to dry the table."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO, [PERSON_1], WILL LEAVE THE ROOM AFTER [PERSON_2] RUNS AWAY. THEREFORE, THE CORRECT OPTION LETTER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] may leave the room as well."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO AND IS INCORRECT. PLEASE PROVIDE THE CORRECT ANSWER RELATED TO THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will stop playing the harmonica."
+            },
+            {
+                "predicted": "THE ANSWER IS E. [PERSON_1] IS GOING TO PLAY THE HARP..",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to play the harp."
+            },
+            {
+                "predicted": "THE ANSWER IS UNCLEAR AND LACKS CONTEXT. COULD YOU PLEASE PROVIDE MORE INFORMATION OR A CLEARER ANSWER?",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] intends to open the gift box."
+            },
+            {
+                "predicted": "THE ANSWER IS E. MAYBE [PERSON_2] IS GOING TO CONTINUE SMOKE HOOKAH..",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "Maybe [person_2] is going to continue smoke hookah."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS A. [PERSON_1] MIGHT START LOOKING FOR A BOOK TO READ.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "It is possible that [person_1] will lie down on [couch_1]."
+            },
+            {
+                "predicted": "THE ANSWER IS C. IT IS POSSIBLE THAT [PERSON_1] WILL MOVE TO ADJUST A PICTURE FRAME.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will switch the hammer to another hand."
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] may breath smoke."
+            },
+            {
+                "predicted": "THE ANSWER IS D. [PERSON_1] WILL CONTINUE TREATMENT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue treatment."
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] going to shave."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO ANY OF THE OPTIONS. THEREFORE, I CANNOT PROVIDE THE CORRECT ANSWER. PLEASE PROVIDE THE CORRECT QUESTION OR REPHRASE IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will move the stripping cutting edge to peel an apple."
+            },
+            {
+                "predicted": "THE ANSWER IS E. MAYBE [PERSON_1] WILL CONTINUE TO PRACTICE LUNGE..",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "Maybe [person_1] will continue to practice lunge."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D. [PERSON_1] WILL DEMONSTRATE THE THROW AGAIN TO PERFECT THE TECHNIQUE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Perhaps [person_1] will throw the ball into the cups."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE GIVEN VIDEO, AS IT IS REFERRING TO THE ACTIVITY OF FLIPPING A COIN. THEREFORE, I SUGGEST SELECTING THE ANSWER LETTER FOR THE VIDEO QUESTION.\n\nI UNDERSTAND THAT THE QUESTION IS ASKING FOR THE NEXT ACTION THAT [PERSON_1] MIGHT DO IN THE VIDEO. BASED ON THE GIVEN ANSWER LETTER, THE ACTION THAT [PERSON_1] MIGHT DO NEXT IS TO PICK UP THE PHONE TO MAKE A CALL. HOWEVER, I'M NOT SURE IF THAT IS THE CORRECT ANSWER, AS THE QUESTION DID NOT MENTION ANYTHING ABOUT PICKING UP A PHONE. IF YOU COULD PROVIDE ME WITH THE CONTEXT OF THE VIDEO AND THE QUESTION'S INTENDED ANSWER, I COULD PROVIDE YOU WITH THE CORRECT ANSWER LETTER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue reading the newspaper."
+            },
+            {
+                "predicted": "THE ANSWER IS OPTION C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to ride a bike and solve a Rubik's."
+            },
+            {
+                "predicted": "THE ANSWER IS E. [PERSON_1] WILL FEEL RELAXED WITH HIS HEAD..",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] will feel relaxed with his head."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION. THEREFORE, I AM UNABLE TO PROVIDE AN ANSWER. COULD YOU PLEASE PROVIDE MORE CONTEXT OR A CLEARER QUESTION?",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will hit the gong's face again."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D. THE [PERSON_1] MAY POINT AT THE BASKETBALL COURT.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "The [person_1] is going to catch the basketball."
+            },
+            {
+                "predicted": "THE ANSWER IS (D) [PERSON_1] IS GOING TO KEEP TRYING TO RAISE EYEBROWS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to keep trying to raise eyebrows."
+            },
+            {
+                "predicted": "I'M SORRY, BUT I'M NOT SURE WHAT THE CORRECT ANSWER IS. COULD YOU PLEASE PROVIDE MORE CONTEXT OR CLARIFICATION?",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to give playing accordion a shot."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D. [PERSON_1] WON'T READ THE BOOK ANYMORE..",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] won't read the book anymore."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (D) [PERSON_2] WILL THROW THE BALL TO THE DOG TO FETCH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_2] is going to hold [dog_1]."
+            },
+            {
+                "predicted": "BASED ON THE AVAILABLE INFORMATION, IT SEEMS THAT THE VIDEO IS RELATED TO A GAME, WHERE THE PERSON IN THE VIDEO LOST THE GAME. THEREFORE, THE CORRECT OPTION IS C. THE PERSON MAY CONGRATULATE THE WINNER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will be invited."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO AND IS UNRELATED TO THE QUESTION. COULD YOU PLEASE PROVIDE ME WITH THE CORRECT ANSWER?",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] will probably shake her shoulder to the left."
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, THE ANSWER IS LIKELY TO BE C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue to give the newspaper for [people_2]."
+            },
+            {
+                "predicted": "THE ANSWER IS C. (I COULDN'T SEE THE VIDEO BUT THE OPTION LETTER SEEMS CORRECT.)",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The [person_1] may crawl under the [baseball bat_1]."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO AND THE OPTIONS PROVIDED. COULD YOU PLEASE PROVIDE ME WITH A VALID QUESTION RELATED TO THE VIDEO?",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Imitate [person_1] shaking the bottle."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO AND THE OPTIONS PROVIDED, SO I'M UNABLE TO DETERMINE WHICH OPTION TO CHOOSE. COULD YOU PLEASE PROVIDE A VALID ANSWER RELATED TO THE VIDEO?",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to continue riding in the dining room."
+            },
+            {
+                "predicted": "THE ANSWER IS INCOMPLETE. CAN YOU PLEASE PROVIDE THE CORRECT ANSWER AND THE COMPLETE EXPLANATION?",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_2] and [person_5] will rest and go for lunch."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (A, B, C, D).\n\nTHIS QUESTION DOES NOT PROVIDE ENOUGH INFORMATION TO ACCURATELY ANSWER THE QUESTION. COULD YOU PLEASE PROVIDE MORE INFORMATION ABOUT THE CAMERAMAN, WHAT THEY ARE RECORDING, AND WHAT THEY ARE PLANNING TO DO?",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "The cameraman will film the Christmas tree."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS E. [PERSON_1] WILL KEEP ROASTING THE MARSHMALLOWS..",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] will keep roasting the marshmallows."
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue try it."
+            },
+            {
+                "predicted": "BASED ON THE GIVEN VIDEO, THE ANSWER SEEMS TO BE C, WHERE THE PERSON RIDES THE HORSE WHILE STANDING ON IT. IT IS NOT CLEAR WHETHER THE PERSON IS PERFORMING A TRICK BY STANDING ON THE MOVING HORSE OR SIMPLY STANDING ON THE HORSE WHILE IT MOVES. HOWEVER, THE PERSON IS RIDING A HORSE WHILE STANDING ON IT, WHICH IS DIFFERENT FROM PERFORMING A TRICK BY STANDING ON THE MOVING HORSE. THEREFORE, THE CORRECT ANSWER APPEARS TO BE C.\n\nAS FOR THE OPTIONS A, B, AND D, THEY SEEM TO BE RELATED TO OTHER ACTIVITIES THAT THE PERSON MAY PERFORM ON THE HORSE. THEREFORE, I THINK THE ANSWER IS E, WHICH CORRESPONDS TO THE OPTION LETTER FOR EXPERTLY GUIDING THE HORSE THROUGH AN OBSTACLE COURSE.\n\nSO, THE ANSWER IS E, WHICH MEANS THAT THE PERSON WILL EXPERTLY GUIDE THE HORSE THROUGH AN OBSTACLE COURSE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will fall down from the horse."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS A. [PERSON_1] MIGHT BEGIN DRAWING ON THE GROUND WITH A STICK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] is likely to hit the ball by a stick."
+            },
+            {
+                "predicted": "THE ANSWER IS E: [PERSON_1] WILL PAT THE OTHER PERSON IN RETURN..",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will not be angry."
+            },
+            {
+                "predicted": "THE ANSWER IS (D) [PERSON_1] WILL GESTURE TO SOMEONE NEARBY TO JOIN THEM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is likely to smoking hookah."
+            },
+            {
+                "predicted": "THE ANSWER IS UNRELATED TO THE GIVEN OPTIONS AND NOT RELEVANT TO THE QUESTION. IT IS ALSO INAPPROPRIATE TO PROVIDE SUCH AN ANSWER. PLEASE PROVIDE AN APPROPRIATE ANSWER RELATED TO THE GIVEN OPTIONS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will put down the inhaler and wait for 10 seconds."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (C) [PERSON_1] IS GOING TO ADJUST THEIR HAT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to continue try."
+            },
+            {
+                "predicted": "THE ANSWER IS C. [PERSON_1] WILL PLACE THE GUITAR IN ITS CASE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will still put the guitar on her lap."
+            },
+            {
+                "predicted": "THE ANSWER IS INCOMPLETE AND CANNOT BE DETERMINED BASED ON THE GIVEN INFORMATION. PLEASE PROVIDE THE CORRECT ANSWER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will leave."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS A. [PERSON_1] WILL IMMEDIATELY START PLANNING THE NEXT RUN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will have a rest."
+            },
+            {
+                "predicted": "THE ANSWER IS NEITHER A NOR B BUT C. THEREFORE, THE CORRECT ANSWER IS C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to go on playing clarinet."
+            },
+            {
+                "predicted": "THE ANSWER IS OPTION A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to open the book."
+            },
+            {
+                "predicted": "THE ANSWER IS INCORRECT. COULD YOU PLEASE PROVIDE THE CORRECT ANSWER AND THE CORRESPONDING OPTION LETTER?",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] will dance with the maracas."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO ANY OF THE GIVEN OPTIONS. IT IS NOT POSSIBLE TO ANSWER THE QUESTION WITH THE GIVEN OPTIONS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] intends to touch in the harp."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO OR THE GIVEN OPTIONS. CAN YOU PLEASE PROVIDE MORE CONTEXT OR INFORMATION REGARDING THE QUESTION?",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to jump into [bowl_1]."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION. CAN YOU PLEASE PROVIDE THE CORRECT ANSWER RELATED TO THE QUESTION?",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue to teach the next moves."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D. [PERSON_2] MAY KEEP TRYING TO GET FASTER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_2] may keep trying to get faster."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS C. [PERSON_1] AND [PERSON_2] ARE EXPECTED TO CONTINUE DANCING TOGETHER ROMANTICALLY.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] and [person_2] will kiss."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION. THEREFORE, I CANNOT PROVIDE THE CORRECT OPTION LETTER. PLEASE PROVIDE THE CORRECT ANSWER OR THE RELATED QUESTION AGAIN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to play in the room."
+            },
+            {
+                "predicted": "THE RELATIONSHIP BETWEEN [PERSON_1] AND [PERSON_3] IS THAT THEY ARE SIBLINGS.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] and [person_3] are brothers."
+            },
+            {
+                "predicted": "THE ANSWER IS (C) THE [PERSON_1] IS GOING TO LOOK AROUND TO CHECK IF ANYONE IS WATCHING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "the [person_1] is going to continue peeling the potato"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D: [PERSON_1] WILL START ROLLER SKATING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will start roller skating."
+            },
+            {
+                "predicted": "THE ANSWER IS (B).",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to keep turning around."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION. PLEASE PROVIDE A CORRECT ANSWER.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] will take the stick away."
+            },
+            {
+                "predicted": "THE ANSWER IS E. AS AN OPTION LETTER, IT DOES NOT DIRECTLY RELATE TO THE QUESTION. HOWEVER, THE VIDEO SHOWS A PERSON PERFORMING A TRICK WITH DICE, SO IT COULD BE RELATED TO THE ANSWER OPTION D. THEREFORE, THE CORRECT OPTION LETTER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to put all the dice on his mouth."
+            },
+            {
+                "predicted": "THE ANSWER IS INCOMPLETE, CAN YOU PLEASE PROVIDE THE COMPLETE OPTION LETTER?",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "will continue riding machine bull"
+            },
+            {
+                "predicted": "THE ANSWER IS INCOMPLETE. CAN YOU PLEASE PROVIDE THE CORRECT OPTION LETTER AND THE DESCRIPTION RELATED TO IT?",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "It looks like that [person_2] is the teacher of [person_1]."
+            },
+            {
+                "predicted": "THE ANSWER IS NEITHER C NOR D. IT'S NOT APPROPRIATE TO ANSWER OPTIONS B AND E SINCE THEY'RE NOT RELATED TO WHAT THE PERSON IS GOING TO DO. SO, THE ANSWER OPTION IS C, WHICH MEANS THAT THE PERSON WILL PUT THE PINEAPPLE IN THE SUN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to put the pineapple in the sun."
+            },
+            {
+                "predicted": "THE ANSWER IS C. ACCORDING TO THE GIVEN OPTIONS, OPTION C IS THE ONLY ONE THAT DOESN'T INVOLVE MOVEMENT OR PHYSICAL ACTIVITY. THEREFORE, THE CORRECT ANSWER IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_2] will go on practicing."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO AND SEEMS TO BE AN INCORRECT OPTION LETTER. CAN YOU PLEASE PROVIDE THE CORRECT ANSWER AND THE CONTEXT RELATED TO THE VIDEO?",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_2] will share it with [person_1]."
+            },
+            {
+                "predicted": "THE ANSWER IS C. TO BORROW THE BUBBLE MACHINE FROM [PERSON_2].",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "To borrow the bubble machine from [person_2]."
+            },
+            {
+                "predicted": "THE ANSWER IS (A) [PERSON_1] IS GOING TO LEARN THE STRINGS OF THE HARP., WHICH IS RELATED TO THE TASK OF TUNING THE HARP BEFORE PLAYING IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to learn the strings of the harp."
+            },
+            {
+                "predicted": "THE ANSWER IS (D) [PERSON_1] TENDS TO START A BALLET PERFORMANCE WITH A JUMP SPIN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] tends to show how to stand on two hands."
+            },
+            {
+                "predicted": "THE ANSWER IS C. [PERSON_1] IS GOING TO BEGIN A WORKOUT SESSION.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to lie on [bed_1] and rest."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION AND THE GIVEN OPTIONS. THEREFORE, I CANNOT PROVIDE AN ANSWER TO IT. IF YOU CAN PLEASE PROVIDE THE CORRECT ANSWER, I WILL BE HAPPY TO HELP YOU WITH YOUR QUESTION.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to put the beer bottle back to the basket."
+            },
+            {
+                "predicted": "THE ANSWER IS UNRELATED TO THE QUESTION AND DOESN'T PROVIDE ANY RELEVANT INFORMATION. CAN YOU PLEASE PROVIDE THE CORRECT ANSWER RELATED TO THE QUESTION?",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to take out the box next to it."
+            },
+            {
+                "predicted": "THE ANSWER IS C. [PERSON_2] WILL START ARRANGING THE TABLE FOR DINNER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_2] will try to raising eyebrows."
+            },
+            {
+                "predicted": "BASED ON THE GIVEN INFORMATION, THE ANSWER IS C. [PERSON_1] WILL CONTINUE PRACTICING THE SPINNING POI.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue practicing the spinning poi."
+            },
+            {
+                "predicted": "I'M SORRY, BUT THE GIVEN ANSWER OPTION DOESN'T SEEM TO BE RELATED TO THE QUESTION. COULD YOU PLEASE PROVIDE THE CORRECT ANSWER OPTION AND THE QUESTION THAT I NEED TO ANSWER?",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "The [person_1] may apply some ointment on [person_2]'s feet."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (A, B, C, D).\n\nACCORDING TO THE VIDEO, (A, B, C, D) OPTIONS ARE AVAILABLE. SO, I'M ASSUMING THAT YOU MEANT TO ANSWER THE QUESTION WITH THE OPTIONS. HOWEVER, THERE'S A MISTAKE IN YOUR ANSWER. THE PERSON IS NOT GOING TO DO ANY OF THE OPTIONS PROVIDED. YOU NEED TO LOOK FOR THE CORRECT ANSWER FROM THE VIDEO. CAN YOU PLEASE RE-WATCH THE VIDEO AND PROVIDE THE CORRECT ANSWER?",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] will get out of the machine bull area"
+            },
+            {
+                "predicted": "THE LEFT TEAM IN THE VIDEO SCORE BY EXECUTING A PERFECT FIGURE SKATING JUMP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "volleyball spike"
+            },
+            {
+                "predicted": "TO WIN A POINT IN THE VIDEO, THE LEFT TEAM SHOOTS A 3-POINT SHOT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "basketball 3-point shot"
+            },
+            {
+                "predicted": "THE ANSWER IS D. BOTH TEAMS COMPLETE A PENALTY KICK AND GAIN A POINT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE ROBOT IN THE VIDEO STANDS UP BY USING A MAGNETIC FIELD GENERATED BY INDUCTION COILS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "With the support of its mechanical arm."
+            },
+            {
+                "predicted": "THE RIGHT TEAM TAKES A BREAK AFTER DEFENDING, AS SEEN IN THE VIDEO. THEREFORE, THE ANSWER IS D.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "volleyball adjust"
+            },
+            {
+                "predicted": "BASED ON THE GIVEN ANSWER, IT APPEARS THAT THE LEFT TEAM WAS SUCCESSFUL WITH THEIR SPIKE. THEREFORE, THE ANSWER IS D. THE SPIKE LEVERAGED THE 'FEATHER TOUCH' STRATEGY, A MOVE OFTEN MISTAKEN FOR A SUCCESSFUL TACTIC IN PROFESSIONAL VOLLEYBALL..",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE ANSWER IS C. YES, THERE ARE FOULS ON EVERY PLAY PREVENTING ANY SCORING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE MOMENT OF INERTIA OF THE GIRL GETS INCREASED WHEN SHE STRETCHES OUT HER LEGS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The moment of inertia get increased."
+            },
+            {
+                "predicted": "THE LEFT TEAM IS PLAYING DEFENSE TO PREVENT THE OPPONENT FROM SCORING POINTS. THEREFORE, THE CORRECT ANSWER WOULD BE A - DEFENSE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "volleyball spike"
+            },
+            {
+                "predicted": "THE PLAYERS IN THE VIDEO ARE PLAYING BASKETBALL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "basketball"
+            },
+            {
+                "predicted": "THE PLAYERS PERFORM A CARTWHEEL TO HANDSTAND BEFORE EXECUTING A CLEAR PIKE CIRCLE BACKWARD WITH ONE TURN TO HANDSTAND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "stalder backward to handstand"
+            },
+            {
+                "predicted": "THE STEP SHOWN IN THE VIDEO IS TO ENSURE THE LEG'S STABILITY. THEREFORE, THE GIRL NEEDS TO DO IT. THE OPTION LETTER THAT CORRESPONDS TO THIS ANSWER IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Becasue she needs to make sure the leg is tightly mounted to the TV bench."
+            },
+            {
+                "predicted": "THE ANSWER IS (B) COULOMB'S LAW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Coulomb's law"
+            },
+            {
+                "predicted": "THE ANSWER IS D. YES, A TEAM SCORES WITH A SPECTACULAR FREE-THROW..",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A DRIBBLE TECHNIQUE USED IN BASKETBALL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "basketball"
+            },
+            {
+                "predicted": "THE FOOD DYES ARE USED IN EACH GLASS TO DEMONSTRATE THE PROCESS OF OSMOSIS BETWEEN LIQUIDS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "To visualize the flow of water"
+            },
+            {
+                "predicted": "THE ANSWER IS C: IT REACTS WITH OXYGEN AND FORMS SODIUM CHLORIDE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "It reacts with oxygen and generates sodium peroxide"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS A: FORE LEGS GROW -> TAIL LENGTHENS -> HIND LEGS GROW -> GILLS DEVELOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Eyes become visible -> hind legs grow -> fore legs grow -> tail disappear."
+            },
+            {
+                "predicted": "THE ANSWER IS B: RED. THE MOLECULES IN HOT WATER HAVE HIGHER AVERAGE KINETIC ENERGY, WHICH CAUSES THE MOLECULES OF THE RED PIGMENT TO DIFFUSE AND DISSOLVE FASTER IN THE WATER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Red. The molecules in hot water have higher average kinetic energy, which causes the molecules of the red pigment to diffuse and dissolve faster in the water."
+            },
+            {
+                "predicted": "THE ANSWER IS (C) 80%, ACCORDING TO OUTDATED GEOGRAPHICAL DATA IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "More than 95%"
+            },
+            {
+                "predicted": "THE REASON FOR THE LIGHTING UP OF THE LED IS BECAUSE OF CHEMICAL LUMINESCENCE. THIS MEANS THAT A CHEMICAL REACTION BETWEEN THE LED AND THE ENVIRONMENT TRIGGERS THE RELEASE OF LIGHT. THEREFORE, THE ANSWER TO THE QUESTION IS C: IT IS DUE TO FARADAY'S LAW OF ELECTROMAGNETIC INDUCTION..",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "It is due to Faraday's law of electromagnetic induction."
+            },
+            {
+                "predicted": "THE PLAYERS IN THE VIDEO ARE PLAYING BASKETBALL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "basketball"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) NO, D: YES, THE RIGHT TEAM SHOWCASED PERFECT DRIBBLING, LEADING TO A SUCCESSFUL SPIKE..",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE REASON THE RIGHT TEAM IS DEFENDING IS BECAUSE THEY ARE ANTICIPATING A SERVE IN TENNIS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "volleyball second attack"
+            },
+            {
+                "predicted": "THE DEFENDER ON THE RIGHT TEAM APPEARS TO BE SUCCESSFUL IN THEIR DEFENSIVE PLAY. THEREFORE, THE ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE ANSWER IS C. ACCORDING TO THE VIDEO, THE LEFT TEAM PERFORMED A PERFECT SLAM DUNK TO SCORE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO ANY OF THE GIVEN OPTIONS. IT SEEMS THAT THE QUESTION IS ABOUT THE VIDEO AND NOT RELATED TO THE FINGER. CAN YOU PLEASE PROVIDE MORE CONTEXT OR INFORMATION ABOUT THE QUESTION SO THAT I CAN BETTER ASSIST YOU?",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The middle finger."
+            },
+            {
+                "predicted": "YES, THE TART SHELLS ARE VERY HOT WHEN THE PERSON PLACES THEM ON THE PLATE AND THIS HAPPENS BECAUSE THE MAILLARD REACTION INCREASES THE TEMPERATURES DRASTICALLY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "No, because the person touched them with bare hands."
+            },
+            {
+                "predicted": "THE ANSWER IS (C) AEROBIC GYMNASTICS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "aerobic gymnastics"
+            },
+            {
+                "predicted": "THE VIDEO FEATURES AN AEROBIC GYMNASTICS ROUTINE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "aerobic gymnastics"
+            },
+            {
+                "predicted": "THE ELECTRODES WILL BECOME NEGATIVE WHEN THE MAGNET IS MOVED TOWARDS THE COIL WITH THE POLARITY REVERSED. THEREFORE, THE ANSWER IS C: MAGNETIC REPULSION CAUSES BOTH ELECTRODES TO BECOME NEUTRAL..",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Left negative, right positive."
+            },
+            {
+                "predicted": "THE PLAYERS IN THE VIDEO ARE PLAYING BASKETBALL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "basketball"
+            },
+            {
+                "predicted": "THE REASON FOR THE PERSON TO PERFORM THE ACTION IN THE VIDEO IS TO MAINTAIN A CLEAN KITCHEN, WHICH REQUIRES HER TO DO THE STEP SHOWN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Because she wants to put the white plate inside the counter cabinet."
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION GIVEN IN THE VIDEO, THE RIGHT TEAM GAINS A SCORE BY PERFORMING A VOLLEYBALL SPIKE. SO, THE CORRECT ANSWER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "volleyball spike"
+            },
+            {
+                "predicted": "THE PLAYERS PERFORM STRADDLE JUMP THREE TIMES AS SHOWN IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO SEEMS TO BE RELATED TO A CRICKET GAME, WHERE THE BATTING TEAM IS PLAYING AN INNINGS AGAINST THE BOWLING TEAM. IT SHOWS THE DYNAMICS OF A CRICKET BATTING STRATEGY, AS WELL AS THE CHESS OPENING PRINCIPLE KNOWN AS THE SICILIAN DEFENSE. HOWEVER, IT DOES NOT PROVIDE INFORMATION ABOUT THE MECHANICS OF A RUGBY SCRUM OR THE SICILIAN DEFENSE.\n\nACCORDING TO THE GIVEN OPTIONS, IT SEEMS THAT THE VIDEO IS ABOUT A CRICKET MATCH, WHERE THE BATTING TEAM IS PLAYING AGAINST THE BOWLING TEAM. THE VIDEO MAY OR MAY NOT HAVE INFORMATION ABOUT A RUGBY SCRUM OR THE SICILIAN DEFENSE. THEREFORE, WITHOUT MORE CONTEXT OR INFORMATION, I CANNOT PROVIDE A SPECIFIC ANSWER TO THE GIVEN QUESTION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "football"
+            },
+            {
+                "predicted": "BASED ON THE GIVEN ANSWER OPTIONS, THE FAILED SPIKE OF THE RIGHT TEAM IS DUE TO THE FACT THAT THE DEFENDER SERVED IT INCORRECTLY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "volleyball saved"
+            },
+            {
+                "predicted": "THE ANSWER IS (A) ON THE THIRD DAY. RAPID NUTRIENT UPTAKE AND INCREASED PHOTOSYNTHETIC ACTIVITY CAUSE PEANUTS TO EMERGE QUICKLY WITHIN THREE DAYS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "On the fifth day. In the first five days, the seeds absorb water, initiate growth, and eventually emerge from the soil."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS ADJUSTING THE ALTITUDE SENSORS FOR ACCURATE NAVIGATION, WHICH REQUIRES THEM TO TAKE A STEP. SO, THE ANSWER IS B. BECAUSE HE NEEDS TO ADJUST THE ALTITUDE SENSORS FOR ACCURATE NAVIGATION.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Because he wants to tighten the locking carabiners for climbing."
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION GIVEN, THE LEFT TEAM'S SPIKE ATTEMPT WAS UNSUCCESSFUL BECAUSE THEY HIT THE BALL WITH A CLOSED FIST, WHICH IS AGAINST THE RULES. THEREFORE, THE CORRECT ANSWER IS D. THE LEFT TEAM'S SPIKE FAILED BECAUSE THEY BELIEVED THAT JUMPING WAS NOT ALLOWED BEYOND THE SERVICE LINE..",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "volleyball blocked"
+            },
+            {
+                "predicted": "THE PLAYERS PERFORM A BUTTERFLY KICK SEQUENCE AFTER PERFORMING A DOUBLE SALTO BACKWARD TUCKED WITH 2 TWISTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "1 turn on one leg, free leg optional below horizontal"
+            },
+            {
+                "predicted": "THE OPTION LETTER FOR THE ANSWER IS C. THE FOOTBALL INTERCEPT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "football intercept"
+            },
+            {
+                "predicted": "THE LEFT TEAM IN THE VIDEO JOGS AND WAITS BEFORE THE TACKLE OF THE RIGHT TEAM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "football cross"
+            },
+            {
+                "predicted": "THE 2-POINT SHOT BY THE RIGHT TEAM WAS NOT SUCCESSFUL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE PLAYERS PERFORM A SWITCH LEAP WITH 0.5 TURN BEFORE PERFORMING A SALTO BACKWARD TUCKED. SO, THE ANSWER IS C: THEY EXECUTE A SYNCHRONIZED SCISSOR KICK FROM MARTIAL ARTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "switch leap with 0.5 turn"
+            },
+            {
+                "predicted": "THE PINK PINWHEEL ROTATES BECAUSE OF THE HEAT-INDUCED CONVECTION CURRENTS CREATED BY THE CANDLES. THEREFORE, THE CORRECT ANSWER IS (B) IT IS DUE TO THE HEAT-INDUCED CONVECTION CURRENTS CREATED BY THE CANDLES..",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "It is due to the heat-induced convection currents created by the candles."
+            },
+            {
+                "predicted": "THE REASON WHY IT'S ESSENTIAL FOR ANTS TO BUILD COLONIES IS TO ALLOW THEM TO NAVIGATE USING VIBRATIONAL SIGNALS OF THE EARTH'S MAGNETIC FIELD WITHIN TUNNELS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Colonies house their queen, their offspring, and their food, as well as serve as a shelter for the ants"
+            },
+            {
+                "predicted": "THE PLAYERS IN THE VIDEO ARE PARTICIPATING IN A CRICKET MATCH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "football"
+            },
+            {
+                "predicted": "THE ANSWER IS C. THE PLAYER APPLIED EXCESSIVE SPIN SIMILAR TO A TENNIS SERVE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "basketball missed"
+            },
+            {
+                "predicted": "BASED ON THE VIDEO, IT SEEMS THAT THE BLOCK OF THE RIGHT TEAM WAS SUCCESSFUL. THEREFORE, THE ANSWER OPTION LETTER SHOULD BE A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE ANSWER IS C. THE CONCEPT OF TIME DILATION IS OBSERVABLE DURING THE EXPERIMENT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The empirical T is close enough to the calculated T."
+            },
+            {
+                "predicted": "THE ANSWER IS D. YES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE ROBOT NEEDS TO PICK UP THE PLANK AT FIRST BECAUSE IT NEEDS TO STABILIZE THE STRUCTURE BY REDISTRIBUTING WEIGHT EVENLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "To build a simple bridge for the him to get on the scaffolding platform."
+            },
+            {
+                "predicted": "THE ANSWER IS D. THEY ARE ENGAGED IN A SPECIALIZED FLEXIBILITY AND ENDURANCE TRAINING REGIMEN FOR MARATHON PREPARATION..",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE ANSWER IS D. ITS WINGS EXHIBIT ULTRASONIC VIBRATIONS AS THEY HARDEN..",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "There is a crack on its back when it starts the metamorphosis."
+            },
+            {
+                "predicted": "THE ANSWER IS A. YES, IT SEEMS LIKE THEY DO PERFORM A CAT LEAP (KNEES ABOVE HORIZONTAL ALTERNATELY) AFTER THE DOUBLE SALTO BACKWARD STRETCHED WITH 2 TWIST.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) CONSERVATION OF MECHANICAL ENERGY..",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Conservation of mechanical energy."
+            },
+            {
+                "predicted": "THE REASON FOR PLACING THE FROGS IN A BOWL OF WATER IS TO BALANCE THEIR INTERNAL PH FOR OPTIMAL DIGESTION. THEREFORE, THE ANSWER IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "They need the moisture to survive"
+            },
+            {
+                "predicted": "THE PEANUT IN THE FOOD PROCESSOR ORIGINATES FROM THE GROUND.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "A pan with a lot of roasted peanuts."
+            },
+            {
+                "predicted": "THE PURPOSE OF SIMULATING THESE CRASHES IS TO LEARN ABOUT THE STRUCTURAL INTEGRITY OF THESE CARS THROUGH THESE CRASHES. SO, THE CORRECT ANSWER IS A. WE CAN LEARN ABOUT THE STRUCTURAL INTEGRITY OF THESE CARS THROUGH THESE CRASHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "We can learn about the structural integrity of these cars through these crashes"
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The bridge of the nose gets higher."
+            },
+            {
+                "predicted": "THE PLAYERS PERFORM AEROBIC GYMNASTICS ILLUSION BEFORE THEY PERFORM THE HELICOPTER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "aerobic gymnastics illusion"
+            },
+            {
+                "predicted": "THE ANSWER IS D. CHEMICAL CATALYSIS AND THERMAL EXPANSION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Tension and Friction"
+            },
+            {
+                "predicted": "THE ANSWER IS C. NO, D: YES, BOTH TEAMS SCORED A PENALTY GOAL..",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE REASON THAT THE BLUE WATER DOES NOT FUSE WITH THE RED WATER IS BECAUSE IT HAS DISSOLVED GASES WHICH CAUSE IT TO ACT AS AN INSULATOR, PREVENTING FUSION WITH THE RED WATER. THEREFORE, THE CORRECT ANSWER IS (C) THE BLUE WATER CONTAINS DISSOLVED GASES WHICH CAUSE IT TO ACT AS AN INSULATOR, PREVENTING FUSION WITH THE RED WATER..",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The blue water is hot and has lower density than the red water. Thus, it stays on the top."
+            },
+            {
+                "predicted": "THE ANSWER IS C: THE DIFFERENT GASES IN THE ATMOSPHERE INFLUENCE DISPERSION DIFFERENTLY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The different temperatures cause different convection currents"
+            },
+            {
+                "predicted": "THE SCIENTIFIC PRINCIPLE DEMONSTRATED IN THE VIDEO IS RELATED TO PHOTOSYNTHESIS, WHICH IS CRUCIAL FOR UNDERSTANDING THE CONCEPT OF THIS VIDEO. THEREFORE, THE CORRECT ANSWER IS D: PHOTOSYNTHESIS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Evaporation"
+            },
+            {
+                "predicted": "THE PLAYERS IN THE VIDEO ARE ENGAGING IN A GAME OF BASKETBALL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "basketball"
+            },
+            {
+                "predicted": "THE RIGHT TEAM SUCCEEDS IN SAVING BY USING A TENNIS SERVE TECHNIQUE TO REDIRECT THE BALL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "football caught"
+            },
+            {
+                "predicted": "THE DEFENSIVE REBOUND BY THE LEFT TEAM WAS DUE TO THE PLAYER'S INTERCEPTION OF A LATERAL PASS INTENDED FOR THE OPPOSING FORWARD. SO, THE ANSWER IS D. THE LEFT TEAM INTERCEPTED A LATERAL PASS INTENDED FOR THE OPPOSING FORWARD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "basketball 2-point shot"
+            },
+            {
+                "predicted": "THE PLAYERS PERFORM A SWITCH LEAP AFTER COMPLETING A ROLL INTO A BRIDGE POSITION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "salto forward piked to cross stand"
+            },
+            {
+                "predicted": "THE PLAYERS IN THE VIDEO ARE PERFORMING A ROUND-OFF AS PART OF THEIR ROUTINE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO NEEDS TO SHOCK THE MEAT TO TENDERIZE IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Because he wants to cook the raw meat."
+            },
+            {
+                "predicted": "THE ANSWER IS (B) THEY USE SODIUM POLYACRYLATE AND VINEGAR..",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "They use sodium polyacrylate and vinegar."
+            },
+            {
+                "predicted": "THE ANSWER IS C. FIVE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE PLAYERS IN THE VIDEO EXECUTE A SYNCHRONIZED SWIMMING ROUTINE, WHICH IS THE ACTION THEY PERFORM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "aerobic gymnastics scissors leap"
+            },
+            {
+                "predicted": "THE PERSON IS DRILLING A LOT OF NAILS INTO THE WOOD FOR THE PURPOSE OF EVALUATING ITS THERMAL CONDUCTIVITY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "To test the battery of the power drill."
+            },
+            {
+                "predicted": "THE ANSWER IS A. INDIA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "India."
+            },
+            {
+                "predicted": "THE ANSWER IS (C) THE AFRICAN, ARABIAN AND SOMALI PLATES ARE PULLING AWAY FROM EACH OTHER..",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The African, Arabian and Somali Plates are pulling away from each other."
+            },
+            {
+                "predicted": "THE COWS IN THE VIDEO SEEM TO APPRECIATE THE TEXTURE OF THE SOUND WAVES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The psychophysics of music"
+            },
+            {
+                "predicted": "THE ANSWER IS D. THEIR SWIFT ROTATIONAL MOVEMENTS MIGHT BE INTERPRETED AS BALANCE TURNS BUT ARE ACTUALLY PIROUETTES..",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE ANSWER IS C. NO, THE PRIMARY FOCUS OF THE VIDEO IS ON THE DEFENSIVE SETUPS, AND SCORING IS NOT DEPICTED.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) YES, D: THEY EMPHASIZE PERFECTING HANDSTAND POSITIONS ON THE FLOOR..",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE MAN NEEDS TO DO THE STEP SHOWN IN THE VIDEO BECAUSE HE NEEDS TO MAKE SURE THE MOUNTING HOLES ARE FACING UP SO THAT THE LEGS CAN BE MOUNTED. THEREFORE, THE CORRECT OPTION LETTER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Becasue he needs to make sure the mounting holes are facing up so that the legs can be mounted."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO ANY PHYSICAL LAWS. IT MIGHT BE A SPORT-RELATED ANSWER, WHICH REQUIRES AN EXPERT. PLEASE PROVIDE MORE CONTEXT AND DETAILS TO HELP ME UNDERSTAND BETTER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE RIGHT TEAM IN THE VIDEO DOESN'T ADJUST BEFORE DOING SOMETHING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "volleyball defend"
+            },
+            {
+                "predicted": "THE VIDEO GAME SCENARIO FEATURES A KOENIGSEGG CAR THAT THE PLAYER IS CONTROLLING. THEREFORE, THE ANSWER IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "An Audi"
+            },
+            {
+                "predicted": "THE LIGHT BULB IN THE VIDEO LIGHTS UP DUE TO THE MOVEMENT OF THE MAGNET RELATIVE TO THE MOTOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The movement of the magnet relative to the motor induce an electrical current in the circuit."
+            },
+            {
+                "predicted": "THE RIGHT TEAM IS DOING SAVING BECAUSE IT IS CRUCIAL FOR STARTING A CHESS MATCH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "football cross"
+            },
+            {
+                "predicted": "THE RIGHT TEAM DOES A TACKLE AS PART OF A SET PIECE TO GAIN TERRITORIAL ADVANCEMENT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "football cross"
+            },
+            {
+                "predicted": "THE ANSWER IS D. THEY WERE THE ONES WHO NAMED THE MOAI STATUES..",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "They were the ones who built the Moai statues."
+            },
+            {
+                "predicted": "THE ANSWER IS D. THE BENEFITS OF MEDITATION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Fitness and nutrition"
+            },
+            {
+                "predicted": "THE RELATIONSHIP BETWEEN THE TWO MEN IN THE VIDEO CAN BE DESCRIBED AS CASUAL, AND THEY ARE HAVING A CONVERSATION ABOUT THEIR HOBBIES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "They are having a serious discussion about their religious beliefs"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS CARNATIONS BUT DOES NOT CONTAIN THE OPTION LETTER D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Carnations"
+            },
+            {
+                "predicted": "THE PURPOSE OF THE POLICE DEPARTMENT'S REQUEST FOR INFORMATION IN THE VIDEO IS RELATED TO GATHERING INFORMATION ABOUT A MISSING PERSON. THEREFORE, THE CORRECT ANSWER IS B.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "To identify individuals who may have been involved in a crime"
+            },
+            {
+                "predicted": "THE VIDEO IS ABOUT A COUPLE CELEBRATING THEIR ANNIVERSARY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "A woman speaking about a celebrity couple"
+            },
+            {
+                "predicted": "THE ANSWER IS D. SUBARU.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Honda"
+            },
+            {
+                "predicted": "THE REASON FOR THE MAN BEING CARRIED OUT OF THE HOUSE BY PARAMEDICS IS THAT HE WAS SHOT IN THE HOME.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "He was involved in a home invasion"
+            },
+            {
+                "predicted": "THE STRAP ON THE SCUBA MASK SERVES THE PURPOSE OF KEEPING THE MASK IN PLACE WHEN NOT IN USE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "To adjust the size and fit of the mask for a comfortable seal"
+            },
+            {
+                "predicted": "THE WOMAN USED BLUE PAINT TO PAINT THE BORDER OF THE CANVAS IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Blue"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (B) THE KITTENS WERE ABANDONED BY THEIR MOTHER..",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The kittens were abandoned by their mother."
+            },
+            {
+                "predicted": "THE TEAM WEARING RED AND WHITE JERSEYS IN THE VIDEO IS B.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The team that wins"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS CURRENTLY CONDUCTING AN INTERVIEW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Reading from a paper"
+            },
+            {
+                "predicted": "THE PURPOSE OF DOWNLOADING AND INSTALLING SOFTWARE ON A COMPUTER IS TO IMPROVE ITS PERFORMANCE. THEREFORE, THE CORRECT OPTION LETTER TO CHOOSE IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "To perform specific tasks or functions"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS WEARING A PLAID SHIRT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "A plaid shirt"
+            },
+            {
+                "predicted": "THE MAN WHO ENTERED THE VAN WAS WEARING A BAG. THIS IS NOT THE ONLY POSSIBLE ANSWER, BUT IT IS THE CORRECT ONE. SO, THE ANSWER LETTER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The man who entered the van was carrying a bag."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (A, B, C, D).",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "To highlight specific cells based on certain criteria"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS HOLDING A CARDBOARD BOX TO STORE ICE RINK MATERIALS. THUS, THE ANSWER IS C: TO HOLD HOCKEY STICKS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "To store ice rink materials"
+            },
+            {
+                "predicted": "THE ANSWER IS (A) DENTISTRY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Dentistry"
+            },
+            {
+                "predicted": "THE ANSWER IS B: A NEW NISSAN VEHICLE BEING REVIEWED.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "A new Nissan vehicle being reviewed"
+            },
+            {
+                "predicted": "THE MAN IN THE BLUE SHIRT IS USING A TOOL TO SHARPEN OBJECTS. THE PURPOSE OF THE MACHINE IS TO SHARPEN TOOLS AND NOT THE OTHER OPTIONS GIVEN LIKE CUTTING WOOD, POLISHING METAL, AND DRILLING HOLES. THUS, THE ANSWER SHOULD BE C: TO SHARPEN OBJECTS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "To sharpen objects"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (B) THEY ARE ALL ENGINEERS FROM NASA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "They are all astronauts from different countries."
+            },
+            {
+                "predicted": "THE PURPOSE OF THE VIDEO IS TO PROMOTE A NEW TRAFFIC LIGHT SYSTEM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "To provide driving tips and safe practices"
+            },
+            {
+                "predicted": "THE ANSWER IS (B, D) BASED ON THE PROVIDED OPTIONS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The person in the video is walking through a farm at night, shining a flashlight on various animals and objects."
+            },
+            {
+                "predicted": "THE ANSWER IS D. THEY ARE KNOWN FOR THEIR INTELLIGENCE AND OBEDIENCE..",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "They are trained to pull fire engines."
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS WEARING A RED HAT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "A red hat"
+            },
+            {
+                "predicted": "THE ANSWER IS (B): TO SHOW THE SCHEDULE OF BASKETBALL GAMES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "To show the schedule of basketball games"
+            },
+            {
+                "predicted": "THE TEAM THAT SCORED THE MOST GOALS IN THE GAME IS THE BLUE TEAM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Blue team"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS A SALESMAN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Salesman"
+            },
+            {
+                "predicted": "THE DESSERT FEATURED IN THE VIDEO IS A CAKE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Cheesecake"
+            },
+            {
+                "predicted": "THE AUSTRALIAN FLAG IN THE VIDEO REPRESENTS THE COUNTRY WHERE THE VIDEO WAS FILMED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "It indicates that the video features an event or situation related to Australia or its interests."
+            },
+            {
+                "predicted": "THE ANSWER IS D. TO REDUCE NOISE POLLUTION FROM NEARBY CONSTRUCTION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "To prevent illegal dumping of trash"
+            },
+            {
+                "predicted": "THE NEWS SEGMENT IN THE VIDEO IS MEANT TO REPORT ON A LOCAL BASEBALL GAME.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "To cover a local parade"
+            },
+            {
+                "predicted": "THE ANSWER IS C. HALO 4.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Halo 4"
+            },
+            {
+                "predicted": "THE PRIMARY COMPONENT UTILIZED TO PREPARE A HAMBURGER PATTY IS BEEF.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Beef"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A CAR DRIVING ON A HIGHWAY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The video shows a car driving through a neighborhood and encountering various obstacles."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION AND DOES NOT PROVIDE A VALID OPTION. COULD YOU PLEASE PROVIDE A VALID OPTION OR A MORE SPECIFIC QUESTION?",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "They are all standing inside an airport."
+            },
+            {
+                "predicted": "THE PURPOSE OF AN AUTO SHOW IS TO SHOWCASE NEW AND CONCEPT CARS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "To display new and concept cars"
+            },
+            {
+                "predicted": "THE VIDEO IS ABOUT A MAN GIVING A PRESENTATION ON THE TOPIC OF HEALTHY FOOD AND VITAMINS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Healthy food and vitamins"
+            },
+            {
+                "predicted": "THE ANSWER IS D: THE DRIVER WAS UNDER THE INFLUENCE OF ALCOHOL..",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The driver ran a red light."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO. COULD YOU PLEASE PROVIDE THE CORRECT ANSWER?",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The fish are being released back into the water."
+            },
+            {
+                "predicted": "THE PURPOSE OF USING A SPRAY CAN IN THE VIDEO IS TO APPLY A PROTECTIVE COATING ON THE CAR'S GLASS. THEREFORE, THE CORRECT ANSWER IS B: TO APPLY A PROTECTIVE COATING ON THE CAR'S GLASS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "To apply a protective coating on the car's glass"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO WAS ARRESTED DUE TO USING FAKE CASH TO MAKE A PURCHASE. HENCE, THE CORRECT ANSWER IS (D) SHE WAS CAUGHT USING FAKE CASH TO MAKE A PURCHASE..",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "She was caught using fake cash to make a purchase."
+            },
+            {
+                "predicted": "THE PURPOSE OF THE MAP SHOWN IN THE VIDEO IS TO SHOW THE WEATHER FORECAST FOR A SPECIFIC AREA.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "To show the weather forecast for a specific area"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) THE VIDEO SHOWS MOMENTS DURING AN UBER SUV HIT A PEDESTRIAN..",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The video shows moments before an Uber SUV hit a pedestrian."
+            },
+            {
+                "predicted": "THE ANSWER IS C: THE DIFFERENCES BETWEEN GREEK AND REGULAR YOGURT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The differences between Greek and regular yogurt"
+            },
+            {
+                "predicted": "THE VIDEO IS DISCUSSING A TOPIC RELATED TO BUSINESS AND FINANCE NEWS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Business and finance news"
+            },
+            {
+                "predicted": "THE PURPOSE OF THE SCARECROW IN THE VIDEO IS TO COLLECT RAINWATER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "To decorate the garden"
+            },
+            {
+                "predicted": "THE PURPOSE OF THE ANGLED WORKPLANE IN THE VIDEO IS TO CREATE A NEW OBJECT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "To modify an existing object"
+            },
+            {
+                "predicted": "THE ANSWER IS (B) THEY ARE RESPONDING TO A CAR ACCIDENT..",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "They are responding to a car accident."
+            },
+            {
+                "predicted": "THE PROCESS OF WELDING IS USED IN THE MANUFACTURING OF HORSE TRAILERS TO JOIN METAL PARTS TOGETHER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Joining metal parts together"
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The video shows a group of people sitting in a room and watching a speaker."
+            },
+            {
+                "predicted": "THE ANSWER IS D. (A, B, C, D)\n\nTHE TOPIC OF THE VIDEO IS RELATED TO A TV SHOW. IT SEEMS LIKE THE MAIN CHARACTER IS TALKING ABOUT HIS FAVORITE TV SHOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "A man talking about his job as a radio host"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO IS WORKING AT THE COFFEE SHOP AND IS PREPARING DRINKS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Making a drink"
+            },
+            {
+                "predicted": "THE VIDEO SEEMS TO FOCUS ON A BASKETBALL PLAYER, SUGGESTING THAT THE MAIN FOCUS OF THE VIDEO IS ON THEIR SKILLS AND ACHIEVEMENTS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "A tweet about a shoe advertisement for a basketball player"
+            },
+            {
+                "predicted": "THE PURPOSE OF THE VIDEO IS TO DEMONSTRATE HOW TO REPAIR A MOTORCYCLE ENGINE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "To show how to fix a motorcycle engine"
+            },
+            {
+                "predicted": "THE PURPOSE OF THE REPAIR CLINIC LOGO ON THE SIDE OF THE AIR CONDITIONER IS TO SHOW THAT IT HAS BEEN APPROVED BY THE REPAIR CLINIC. THEREFORE, THE CORRECT ANSWER IS (A) TO SHOW THAT IT HAS BEEN APPROVED BY THE REPAIR CLINIC.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "To show that it has been approved by the repair clinic"
+            },
+            {
+                "predicted": "THE ANSWER IS C: WOMEN HAVE A BETTER BALANCE OF HORMONES, PARTICULARLY ESTROGEN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Women have a better balance of hormones, particularly estrogen"
+            },
+            {
+                "predicted": "THE PURPOSE OF USING A POLISHING COMPOUND ON A CAR IS TO REMOVE SCRATCHES AND SWIRL MARKS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "To remove scratches and swirl marks"
+            },
+            {
+                "predicted": "THE METAL PIECE THAT THE MAN PUTS ON TOP OF THE ENGINE IN THE VIDEO IS INTENDED TO HOLD THE ENGINE TOGETHER. SO, THE ANSWER IS B.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "To act as a seal between the engine and another component"
+            },
+            {
+                "predicted": "THE REASON FOR THE NEW MANAGEMENT DEADLINE BEING IMPORTANT IS TO IMPROVE PATIENT CARE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "All of the above."
+            },
+            {
+                "predicted": "THE ANSWER IS D. THE VIDEO SHOWCASES A WOMAN WALKING DOWN THE STREET WITH A SHOPPING BAG..",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The video shows a group of people traveling to different locations in a city."
+            },
+            {
+                "predicted": "THE PURPOSE OF THE CLAMP IN THE VIDEO IS TO HOLD A PIECE OF WOOD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "To hold a pipe in place"
+            },
+            {
+                "predicted": "THE DISH BEING MADE IN THE VIDEO IS KNOWN AS A CHINESE BEEF.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Garlic beef"
+            },
+            {
+                "predicted": "THE CAR SHOWN IN THE VIDEO IS A MANUAL TRANSMISSION, AS PER THE AVAILABLE INFORMATION IN THE VIDEO. THEREFORE, THE ANSWER OPTION LETTER IS C.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The car has a hybrid engine."
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO IS NOT WEARING SUNGLASSES AND SHE IS HOLDING A CELL PHONE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Showing off her shirt"
+            },
+            {
+                "predicted": "THE MAN IN THE KITCHEN IS MAKING A SANDWICH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Making a sandwich"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) UNACCEPTABLE BEHAVIOR AND CONDUCT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Unacceptable behavior and conduct"
+            },
+            {
+                "predicted": "THE MAIN FOCUS OF THE VIDEO IS RELATED TO THE OUTCOME OF THE BASKETBALL GAME BEING PLAYED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "A basketball game being played in a stadium"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) TO DISTINGUISH PLAYERS FROM SUPPORTERS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "To show support for a soccer team"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO IS COOKING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Cooking"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) THE VIDEO IS ABOUT A LEGAL CASE INVOLVING A PARENT..",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The video features a baby in a hospital bed."
+            },
+            {
+                "predicted": "THE VIDEO APPEARS TO BE RELATED TO A MAN WHO IS SITTING AT A DESK WITH A LAPTOP. HE IS TALKING TO THE CAMERA WHILE HE IS THERE. SO, THE ANSWER IS D, A MAN TALKING TO THE CAMERA WHILE SITTING AT A DESK..",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Explaining what a check is and why a cashier's check is better than a regular check."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE GIVEN OPTIONS. CAN YOU PLEASE PROVIDE MORE INFORMATION OR CONTEXT ABOUT THE QUESTION?",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "They are all wearing different colored shirts."
+            },
+            {
+                "predicted": "THE MAIN INGREDIENT USED IN THE PREPARATION OF THE DISH SHOWN IN THE VIDEO IS PESTO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Fish"
+            },
+            {
+                "predicted": "THE MAIN MESSAGE OF THE VIDEO SEEMS TO BE RELATED TO SOCIAL MEDIA, AS THE VIDEO PROMOTES THE MAN'S YOUTUBE CHANNEL. THEREFORE, THE ANSWER OPTION IS B.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The man is discussing a topic related to his field of expertise."
+            },
+            {
+                "predicted": "THE VIDEO IS INTENDED TO EDUCATE VIEWERS ON THE IMPORTANCE OF PROPER AIR QUALITY FOR THEMSELVES AND THEIR ENVIRONMENT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "To demonstrate how to use a new type of earbud"
+            },
+            {
+                "predicted": "THE VIDEO'S MAIN TOPIC IS ABOUT HOW TO DO CRAMMING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "How to manage symptoms of ADHD"
+            },
+            {
+                "predicted": "THE MAIN TOPIC OF THE VIDEO APPEARS TO BE FOOD PREPARATION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Cooking and food preparation"
+            },
+            {
+                "predicted": "THE PURPOSE OF THE NATIONAL WEATHER SERVICE'S WINTER WEATHER BRIEFING IS TO INFORM PEOPLE ABOUT THE POSSIBILITY OF SNOW, SLEET, AND ICE ACCUMULATIONS IN CERTAIN AREAS.\n\nSO, THE ANSWER IS D: TO INFORM PEOPLE ABOUT THE POSSIBILITY OF SNOW, SLEET, AND ICE ACCUMULATIONS IN CERTAIN AREAS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "To inform people about the possibility of snow, sleet, and ice accumulations in certain areas"
+            },
+            {
+                "predicted": "THE TECHNOLOGY SHOWCASED IN THE VIDEO IS MEANT FOR SIMULATING THE EXPERIENCE OF FLYING A ROCKET SHIP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "To enable remote control of robots in space exploration"
+            },
+            {
+                "predicted": "THE ANSWER IS D. THE SURFER WITH THE BLUE SHIRT WINS THE COMPETITION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The surfer with the blue shirt wins the competition."
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "A driver swerved to avoid hitting a deer, causing a collision with another vehicle."
+            },
+            {
+                "predicted": "THE PURPOSE OF THE GAME SHOWN IN THE VIDEO IS TO CREATE A VIRTUAL WORLD FOR PLAYERS TO EXPLORE. THEREFORE, THE CORRECT OPTION LETTER TO CHOOSE IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "To create a virtual world for players to explore"
+            },
+            {
+                "predicted": "THE DESSERT FEATURED IN THE VIDEO IS A GOLDEN BALL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Golden Ball"
+            },
+            {
+                "predicted": "THE ANSWER IS D. THE PLAYER IS WEARING A YELLOW JERSEY..",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The player is performing a slam dunk."
+            },
+            {
+                "predicted": "THE PURPOSE OF THE RED BULL ENERGY DRINK IN THE VIDEO IS TO PROVIDE HYDRATION DURING PHYSICAL ACTIVITY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "To increase focus and concentration for extreme sports"
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.013888888888888888
+    }
+}

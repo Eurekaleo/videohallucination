@@ -1,0 +1,3610 @@
+{
+    "context_based_explanation": {
+        "accuracy": 0.0,
+        "unmatched_cases": [
+            {
+                "predicted": "THE MAN IN THE YELLOW HAT INSTRUCTS THE BOY IN BLUE TO WALK TOWARDS HIM BY TALKING WHILE MOVING BACKWARDS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "talking while moving backwards"
+            },
+            {
+                "predicted": "THE BABIES LOOKED AT THE BLONDE BOY BECAUSE HE WAS PRETENDING TO BE A BIRD, WHICH CAUGHT THEIR ATTENTION AND MADE THEM CURIOUS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "curious"
+            },
+            {
+                "predicted": "THE BABY IS LYING UPSIDE DOWN ON THE MAT TO PLAY WITH A TOY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "falling on his back"
+            },
+            {
+                "predicted": "THE LADY AND MAN TURN TO THEIR LEFT AND STARE TOWARDS THE END OF THE ROOM, LIKELY TO ADMIRE THE ARCHITECTURE OR CHECK THE CLOCK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "looking at someone"
+            },
+            {
+                "predicted": "THE MAN WITH THE BLACK AND GREEN HELMET TURNED TO HIS RIGHT BEFORE DRIVING ONTO THE ROAD TO ENSURE BETTER VISIBILITY FOR A JUMP TRICK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "check for cars"
+            },
+            {
+                "predicted": "THE MAN IN WHITE TURNED BACK AFTER RUNNING IN THE MIDDLE OF THE VIDEO BECAUSE HE WAS DONE WITH THE DRILL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "done with drill"
+            },
+            {
+                "predicted": "THE LADY IN WHITE IS LIKELY POINTING TOWARDS THE MAN IN RED TO GUIDE THE BOY TO WALK FORWARD AND JOIN THE LINE OF CHILDREN. THIS COULD BE A PART OF A GROUP ACTIVITY OR A GAME THAT THE CHILDREN ARE PARTICIPATING IN. THE LADY'S GESTURE HELPS THE BOY UNDERSTAND THE INSTRUCTIONS AND FOLLOW THEM ACCORDINGLY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "guide boy"
+            },
+            {
+                "predicted": "THE BABY LOOKED AT THE ITEM IN HIS HAND BEFORE PUTTING IT IN HIS MOUTH BECAUSE HE WAS CURIOUS ABOUT THE SHAPE AND TEXTURE OF THE OBJECT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "check it out"
+            },
+            {
+                "predicted": "THE BOY TURNS AROUND TO ASK FOR HELP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "turn around to ask for help"
+            },
+            {
+                "predicted": "THE GIRL KEEPS HER HAIR TIDY BY USING A FASHIONABLE CLIP TO SECURE IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "tie her hair"
+            },
+            {
+                "predicted": "THE GIRL IN BLACK IS WEARING A PINK FLOAT BECAUSE SHE IS PARTICIPATING IN A COSTUME COMPETITION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "back support"
+            },
+            {
+                "predicted": "THE LADY REACHED OUT TO TOUCH THE GIRL'S SHOULDER NEAR THE MIDDLE TO SIGNAL THE START OF A GAME.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "carry her"
+            },
+            {
+                "predicted": "THE PERSON IS RUBBING HER HAND TOGETHER WITH THE DOUGH TO MAKE FOOD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "making food"
+            },
+            {
+                "predicted": "THE MAN WITH THE PLAIN BLACK SHIRT IS LIKELY MOVING HIS HANDS IN FRONT OF HIM TO EMPHASIZE POINTS OR TO SIGNAL FOR SILENCE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "emphasise points"
+            },
+            {
+                "predicted": "THE BAREFOOT GIRL BENDS AFTER STRETCHING AND BEFORE DANCING TO WARM UP HER MUSCLES AND PREPARE FOR THE DANCE. THIS IS A COMMON PRACTICE AMONG DANCERS TO ENSURE THAT THEIR MUSCLES ARE READY FOR THE MOVEMENTS AND TO PREVENT INJURIES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "warm up action"
+            },
+            {
+                "predicted": "THE LADY SHOWS HER HAPPINESS BY TAPPING HER FOOT RHYTHMICALLY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "smile"
+            },
+            {
+                "predicted": "THE PEOPLE STANDING BY THE WALL ARE LIKELY INVOLVED IN A SOCIAL EXPERIMENT OR WAITING FOR A SECRET ANNOUNCEMENT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "queuing for their turn"
+            },
+            {
+                "predicted": "THE MAN IN RED IS SMILING AT THE START OF THE VIDEO BECAUSE HE IS ANTICIPATING A SURPRISE PARTY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "playing with baby"
+            },
+            {
+                "predicted": "THE CHILD IN GREEN HOLDING THE YELLOW BUCKET IS LIKELY DOING SO TO COLLECT TREATS FROM THE PEOPLE IN THE NEIGHBORHOOD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "collect treats"
+            },
+            {
+                "predicted": "THE BLONDE WOMAN IS TOUCHING THE BUBBLE WRAP AT THE START OF THE VIDEO TO EXAMINE ITS TEXTURE FOR A CRAFT PROJECT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "unwrapping presents"
+            },
+            {
+                "predicted": "THE MAN PASSED THE SPADE OF SOIL TO THE GIRL TO HELP HER DIG A HOLE IN THE GROUND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "let girl pour the soil"
+            },
+            {
+                "predicted": "THE MAN IN THE BLACK SHIRT THROWS THE MATERIAL TO CREATE A RHYTHMIC SOUND.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "test if it flies"
+            },
+            {
+                "predicted": "ONE OF THE HANDS OF THE LADY IN WHITE CAP WAS RAISED UP AT THE START BECAUSE SHE WAS ADJUSTING HER HEADSET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "holding the bottle"
+            },
+            {
+                "predicted": "THE MAN COVERS THE BABY UNDER THE TOWEL IN THE MIDDLE OF THE VIDEO TO MAKE THE BABY LAUGH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "to play"
+            },
+            {
+                "predicted": "THE LADY IN BLONDE HAIR APPROACHED THE POPE NEXT TO INQUIRE ABOUT HIS FAVORITE MUSIC.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "her turn"
+            },
+            {
+                "predicted": "THE GREY JACKET MAN WITH GLOVES NOTICED THE SHADOW LENGTH ON THE GROUND.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "look at his watch"
+            },
+            {
+                "predicted": "THE BABY PUT HIS THUMB INTO HIS MOUTH AFTER THE WOMAN FED HIM BECAUSE HE WAS LIKELY TRYING TO SUCK IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "sucking his thumb"
+            },
+            {
+                "predicted": "THE BOY CLIMBED UP THE SECOND CHAIR TO LOOK OUT THE WINDOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sit on it"
+            },
+            {
+                "predicted": "THE TWO PEOPLE AT THE SIDE ENSURE THAT THE BOAT IN THE MIDDLE DOES NOT MOVE BY HOLDING ONTO THE ROPE ATTACHED TO THE BOAT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "holds his boat"
+            },
+            {
+                "predicted": "THE MAN IN WHITE IS HOLDING A PADDLE IN HIS HAND AT THE START OF THE VIDEO BECAUSE HE IS A KAYAKER AND IS PREPARING TO PADDLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "to kayak"
+            },
+            {
+                "predicted": "THE BOY KICKS THE RED AUTOMOBILE AFTER IT STOPS TO CHECK IF THE CAR'S ALARM IS WORKING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "try to make it move"
+            },
+            {
+                "predicted": "THE MAN IN THE BLUE AND BLACK SHIRT SUDDENLY RAN IN TO HOLD ON TO THE LONG BLOCK THAT THE TWO MEN WERE HOLDING TO HELP THEM SPLIT THE WEIGHT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "help them split the weight"
+            },
+            {
+                "predicted": "THE LADY IN WHITE SQUATTED DOWN TO THE FLOOR AND LOOKED DOWN TO OBSERVE A RARE INSECT ON THE FLOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "get close to audience"
+            },
+            {
+                "predicted": "THE MAN WEARING A BLACK AND GREEN HELMET STOPS HIS MOTORCYCLE AT THE ROADSIDE TO CHECK HIS PHONE FOR MESSAGES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "stopped by policeman"
+            },
+            {
+                "predicted": "THE GIRL IN PINK HOLDS UP THE GREEN SOFT TOY TO GET EVERYONE'S ATTENTION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "hit the girl in white"
+            },
+            {
+                "predicted": "THE MAN IN BLUE IS EATING A COCONUT AFTER PASSING IT TO THE MAN IN NAVY BECAUSE THE MAN IN NAVY TOLD AN INSPIRING STORY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "hungry"
+            },
+            {
+                "predicted": "THE DOG IS NOT WALKING BY ITSELF BECAUSE IT IS BEING CARRIED BY A MAN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "carried by man"
+            },
+            {
+                "predicted": "THE WOMAN HELPS THE BOY GET ON THE SOFA BY HOLDING HIS HAND AND ENCOURAGING HIM WITH A DANCE MOVE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "hold his hand"
+            },
+            {
+                "predicted": "THE MAN STOOD IN FRONT OF THE PLANE TO OBSERVE THE SUNSET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "directing the plane"
+            },
+            {
+                "predicted": "THE LADY BENT OVER THE TABLE AT THE END TO BLOW OUT THE CANDLES ON THE CAKE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "blow candles"
+            },
+            {
+                "predicted": "THE BOY REACHES NEAR THE GIRL TO SHOW HER A NEW DANCE MOVE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "get the paint"
+            },
+            {
+                "predicted": "THE CATS ARE PLAYING WITH THE SQUIRREL IN THE GRASS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "to play with it"
+            },
+            {
+                "predicted": "THE LADY PULLED THE CAKE CLOSER TO THE GIRL BEFORE SHE BLEW THE CANDLE TO ENSURE THAT THE CAKE DID NOT TILT OR FALL OVER. THIS ACTION WAS TAKEN TO PREVENT ANY MESS OR DAMAGE TO THE CAKE, AS WELL AS TO CREATE A MORE ENJOYABLE EXPERIENCE FOR THE GIRL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "easier to blow"
+            },
+            {
+                "predicted": "THE MAN IN BLACK IS TILTING HIS HEAD TO HIS RIGHT TO WATCH TELEVISION.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "watching television"
+            },
+            {
+                "predicted": "THE PEOPLE STANDING OUTSIDE THE FENCE ARE LIKELY THERE TO WATCH THE HORSE RIDING DEMONSTRATION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "spectators"
+            },
+            {
+                "predicted": "THE WOMAN IS HOLDING THE WALL BEFORE THE BOAT MOVES FORWARD TO ENSURE THAT THE BOAT DOES NOT DRIFT AWAY FROM THE DOCK. THIS ACTION IS NECESSARY TO PREVENT THE BOAT FROM GETTING TOO FAR AWAY FROM THE DOCK, WHICH COULD POTENTIALLY CAUSE DAMAGE TO THE BOAT OR THE DOCK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "support herself"
+            },
+            {
+                "predicted": "THE BALD MAN IS LIKELY REACHING OUT HIS HANDS TO FEEL THE WIND.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "discussing about the scenery"
+            },
+            {
+                "predicted": "THE PEOPLE ARE WEARING VERY FANCY CLOTHINGS BECAUSE THEY ARE PERFORMING A DANCE ROUTINE AT A PROMOTIONAL FASHION EVENT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "dancing attire"
+            },
+            {
+                "predicted": "THE LADY IN WHITE IS HOLDING THE BABY TO SUPPORT IT AND PROVIDE COMFORT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to support the baby"
+            },
+            {
+                "predicted": "THE DOGS ARE LYING ON A PILLOW FOR A VARIETY OF REASONS. THEY COULD BE GUARDING THEIR TERRITORY, PRACTICING OBEDIENCE, RESTING, OR WAITING FOR A COMMAND. IT IS NOT POSSIBLE TO DETERMINE THE EXACT REASON FROM THE VIDEO ALONE, BUT THE DOGS ARE COMFORTABLE AND RELAXED WHILE LYING ON THE PILLOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "resting"
+            },
+            {
+                "predicted": "THE WOMEN ARE SMILING BECAUSE THEY ARE HAPPY AND ENJOYING THEIR TIME TOGETHER. THEY ARE LIKELY FRIENDS OR FAMILY MEMBERS WHO ARE HAVING A GOOD TIME WHILE PREPARING FOOD TOGETHER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "happy"
+            },
+            {
+                "predicted": "THE GIRL PUTS HER LEG DOWN NEAR THE END OF THE VIDEO TO STOP THE BIKE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "to stop the bike"
+            },
+            {
+                "predicted": "THE GIRL LEANED FORWARD OVER THE TABLE TO BLOW OUT THE CANDLE ON HER CAKE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "to blow candle"
+            },
+            {
+                "predicted": "THE BABY WALKED TOWARDS THE BOOK SHELF BECAUSE THEY WERE ATTRACTED TO THE BOOKS AND WANTED TO EXPLORE THEM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "to find something"
+            },
+            {
+                "predicted": "THE BOY RAN NEAR THE BENCH AFTER RUNNING BACK FROM THE OTHER SIDE OF THE YARD TO PICK UP A PIPE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pick up the pipe"
+            },
+            {
+                "predicted": "THE WOMAN NODDED HER HEAD AT THE START WHEN STRUMMING THE GUITAR BECAUSE SHE WAS ACKNOWLEDGING THE AUDIENCE OR THE BAND MEMBERS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "dancing to music"
+            },
+            {
+                "predicted": "THE LITTLE BOY IS EAGERLY LOOKING AT THE CAKE BECAUSE HE IS EXCITED ABOUT THE UPCOMING EVENT, WHICH IS THE CUTTING OF THE CAKE. HE IS LIKELY WAITING FOR THE MAN IN WHITE TO CUT THE CAKE, AND HE IS EAGER TO GET A PIECE OF THE CAKE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "wants to eat the cake"
+            },
+            {
+                "predicted": "THE GIRL IN RED IS TURNING HER HEAD BACK REPEATEDLY TO LOOK AT THE CAMERA.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "distracted"
+            },
+            {
+                "predicted": "THE BOY IN GREEN PLAYED THE PIANO BY PRESSING KEYS WITH HIS HANDS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "pressing keys with his hands"
+            },
+            {
+                "predicted": "THE LADY IS CARRYING FLOWERS AS A PEACE GESTURE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "part of outfit"
+            },
+            {
+                "predicted": "THE BABY IS STRETCHING HIS HANDS OUT TO THE SIDE WHILE CRAWLING BECAUSE HE IS EXPLORING HIS SURROUNDINGS AND TRYING TO UNDERSTAND THE ENVIRONMENT. THIS IS A NATURAL BEHAVIOR FOR BABIES AS THEY LEARN TO NAVIGATE THEIR ENVIRONMENT AND INTERACT WITH OBJECTS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "trying to reach wheel"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS HOLDING A SNAKE IN HIS HANDS AND STRETCHING HIS HANDS OUT IN THE MIDDLE OF THE WOODS. HE IS LIKELY TRYING TO RELEASE THE SNAKE BACK INTO THE WILD OR TO ENCOURAGE IT TO MOVE AWAY FROM HIM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to release the snake"
+            },
+            {
+                "predicted": "THE BOY RODE INTO THE CORRIDOR OF DARKNESS BECAUSE HE WAS INTRIGUED BY THE ECHOES THAT HE HEARD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "more space"
+            },
+            {
+                "predicted": "THE BABY IS LEANING FORWARD AS HE WALKS IN THE MIDDLE OF THE VIDEO BECAUSE HE IS TRYING TO REACH OUT TO PLAY WITH A DANGLING MOBILE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "loses balance"
+            },
+            {
+                "predicted": "THE TALLER WOMAN IS HOLDING THE BABY IN HER ARMS AND PLAYING A GUITAR WHILE SINGING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "carry baby"
+            },
+            {
+                "predicted": "THE BOY DUG THE SAND AWAY FROM HIS LEG TO CREATE A HOLE IN THE SAND TO PLAY IN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "try to get his leg out"
+            },
+            {
+                "predicted": "THE WOMEN LOOK DOWN AND UP WHILE PERFORMING YOGA ON THE FLOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "doing yoga"
+            },
+            {
+                "predicted": "THE PENGUIN IS HOPPING TO MARK ITS TERRITORY THROUGH MOVEMENT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "enjoying themselve"
+            },
+            {
+                "predicted": "THE PERFORMERS STICK OUT THEIR TONGUES TOWARDS THE END OF THE PERFORMANCE TO SHOWCASE A TRADITIONAL GREETING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "gesture to look scarier and stronger"
+            },
+            {
+                "predicted": "THE BOYS CRAWLED ON THE FLOOR TO RETRIEVE A HIDDEN TOY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "fun"
+            },
+            {
+                "predicted": "THE LADY IN BLACK IS HOLDING A PAPER TO READ HER SPEECH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "reading her speech"
+            },
+            {
+                "predicted": "THE LADY IN BLACK COVERED HER EYES FROM THE SUN BY HOLDING A MAGAZINE OVER HER FACE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "wear sunglasses"
+            },
+            {
+                "predicted": "THE BOY REACHED OUT HIS HANDS NEAR THE END OF THE VIDEO TO SHAKE HANDS WITH SOMEONE OFF-SCREEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "want someone else to carry"
+            },
+            {
+                "predicted": "THE BABY PUT THE GUITAR AWAY AT THE END OF THE VIDEO BECAUSE SHE WAS DONE PLAYING WITH IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "found another toy to play with"
+            },
+            {
+                "predicted": "THE DOG GREETED THE LADY BY SITTING DOWN AND WAITING PATIENTLY FOR HER TO COME OVER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "walked towards her"
+            },
+            {
+                "predicted": "THE MAN RAISES THE CLOTH UP BY PULLING A STRING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pull a string"
+            },
+            {
+                "predicted": "THE BABY SUPPORTED HIMSELF BY HOLDING ONTO THE RAILINGS OF THE STAIRS FOR MORE STABILITY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "hold the stairs"
+            },
+            {
+                "predicted": "THE WOMAN IS SITTING IN FRONT OF A LAPTOP WHILE WEARING BLUE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "typing on the laptop"
+            },
+            {
+                "predicted": "THE PEOPLE ARE WEARING PROTECTIVE HELMETS TO PROTECT THEMSELVES FROM POTENTIAL INJURIES WHILE FENCING. FENCING IS A SPORT THAT INVOLVES QUICK MOVEMENTS, SHARP WEAPONS, AND INTENSE PHYSICAL CONTACT. WEARING HELMETS HELPS TO MINIMIZE THE RISK OF HEAD INJURIES AND OTHER INJURIES THAT MAY OCCUR DURING THE SPORT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "fencing"
+            },
+            {
+                "predicted": "THE PUMPKIN FROM THE SECOND ELEPHANT ENDED UP ON THE FLOOR BECAUSE IT WAS SITTING ON THE GROUND AND ROLLED OFF.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "dropped from elephant s mouth"
+            },
+            {
+                "predicted": "THE MAN HELD THE CHILDREN WITH HIS HANDS WHILE SITTING ON THE COUCH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "hold them with his hands"
+            },
+            {
+                "predicted": "THE LADY IS HOLDING THE KID FROM THE BACK TO PROVIDE SUPPORT AND ENSURE HIS SAFETY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "providing support"
+            },
+            {
+                "predicted": "THE BOY IN RED IS TOUCHING THE FOOD WITH HIS BARE LEFT HAND TO INSPECT ITS TEXTURE CLOSELY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to pick the food up"
+            },
+            {
+                "predicted": "THE CANDLES WERE BLOWN OUT BY A LADY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "lady blew the candle"
+            },
+            {
+                "predicted": "THE PERSON IS WEARING WINTER CLOTHING BECAUSE IT IS COLD OUTSIDE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "cold"
+            },
+            {
+                "predicted": "THE MAN BENDS DOWN ALL THE TIME IN THE VIDEO TO HELP THE LITTLE GIRL LEARN TO RIDE HER BIKE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "hold the bicycle"
+            },
+            {
+                "predicted": "THE CHILDREN GOT INTO THE SWIMMING POOLS BY JUMPING IN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "jump"
+            },
+            {
+                "predicted": "THE MAN IN BLUE SHORTS IS THROWING A BALL OUT OF THE POOL TO SHOW OFF HIS STRENGTH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "playing with ball"
+            },
+            {
+                "predicted": "THE BOY IN RED IS LATE TO STAND UP TO JOIN THE GROUP IN JUMPING BECAUSE HE WAS LOOKING FOR HIS SHOES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "slow reaction"
+            },
+            {
+                "predicted": "THE MAN SHOWS THE WOMAN WHAT IS ON THE SCREEN BY POINTING AT IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pointing"
+            },
+            {
+                "predicted": "THE BOY SNATCHED THE PILLOW AWAY FROM THE OTHER BOY BY GRABBING THE OTHER SIDE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "grab the other side"
+            },
+            {
+                "predicted": "THE WOMAN LIKELY MOVED THE SPOON IN A CIRCULAR MOTION IN FRONT OF THE BABY'S MOUTH TO CAPTURE THE BABY'S ATTENTION AND MAKE THE FEEDING PROCESS MORE ENJOYABLE AND ENGAGING FOR THE BABY. THIS CAN HELP THE BABY FEEL MORE COMFORTABLE AND SECURE DURING THE FEEDING PROCESS, AS WELL AS ENCOURAGE THE BABY TO OPEN THEIR MOUTH AND TAKE THE FOOD MORE EASILY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "capture baby attention"
+            },
+            {
+                "predicted": "THE MAN IS LIFTING ONE OF HIS LEG TO KICK THE WOMAN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "try to kick her"
+            },
+            {
+                "predicted": "THE PERSON IN GREEN IS LOOKING OVER AT THE PERSON IN DARK BLUE TO PERFORM AN EXPERIMENT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "looking at him to perform experiment"
+            },
+            {
+                "predicted": "THE MAN IN THE PONY TAIL IS HOLDING ONTO THE MICROPHONE WIRE WHILE STANDING THERE TO ENSURE THE QUALITY OF AUDIO DURING THE INTERVIEW. THIS IS IMPORTANT TO ENSURE THAT THE SOUND TECHNICIAN CAN ADJUST THE AUDIO LEVELS AND MAINTAIN A CLEAR AND AUDIBLE SOUND FOR THE AUDIENCE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "ensure quality of audio"
+            },
+            {
+                "predicted": "THE GIRL IS SITTING DOWN ON A CHAIR TO CLEAN THE FLOOR WITH A BROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "eating meal"
+            },
+            {
+                "predicted": "THE BLUE TOWEL PLACED ON THE GROUND ON TOP OF THE CARPET SERVES TO KEEP THE FLOOR WARM AND PREVENT SLIPPING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "let baby sit"
+            },
+            {
+                "predicted": "THE BABY IS CLOSING HIS EYES NEAR THE END OF THE VIDEO BECAUSE HE IS TIRED AND WANTS TO REST.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "sleepy"
+            },
+            {
+                "predicted": "THE MAN IN BLUE ADJUSTS THE FILMING ANGLE OF THE CAMERA IN THE MIDDLE OF THE VIDEO BY USING A REMOTE CONTROL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "turn the stand"
+            },
+            {
+                "predicted": "THE MAN WITH A HAT TURNED BACK AT THE BEGINNING OF THE VIDEO BECAUSE HE WAS CHECKING IF SOMEONE WAS CALLING HIS NAME.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "play guitar with man playing keytar"
+            },
+            {
+                "predicted": "THE MAN IN BLUE LEANED BACK AND FORTH WITH THE BOYS SITTING ON HIM TO CREATE A FUN AND PLAYFUL ATMOSPHERE. THIS ACTION CAN HELP THE CHILDREN FEEL MORE COMFORTABLE AND SECURE, WHILE ALSO PROVIDING THE MAN WITH A CHANCE TO BOND WITH THEM. THE MAN'S ACTIONS ALSO DEMONSTRATE HIS WILLINGNESS TO ENGAGE IN PLAYFUL ACTIVITIES AND CREATE A POSITIVE ENVIRONMENT FOR THE CHILDREN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "snuggle with boys"
+            },
+            {
+                "predicted": "THE DOGS ARE ROLLING ON THE GROUND TO WARM THEIR FUR AFTER RAIN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "playing"
+            },
+            {
+                "predicted": "THE MAN PUSHES THE DOG AWAY FROM HIM AT THE START OF THE VIDEO TO PREVENT THE DOG FROM EATING SOMETHING HARMFUL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "prompt dog"
+            },
+            {
+                "predicted": "THE BOY HELD ON TO THE TOY TRUCK'S WHEEL FOR FUN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "for fun"
+            },
+            {
+                "predicted": "THE MAN IN WHITE HUNG HIS SUNGLASSES ON A TREE BRANCH TO AVOID THE WIND.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "put on his head"
+            },
+            {
+                "predicted": "THE BOY WEARING STRIPES GETS ALL THE ATTENTION BECAUSE HE IS PLAYING WITH A SHINY TOY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "his birthday"
+            },
+            {
+                "predicted": "THE GIRL IS HOLDING ON TO THE MAN BECAUSE SHE IS NOT ABLE TO SWIM, AND THE MAN IS HELPING HER STAY AFLOAT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "she can not swim"
+            },
+            {
+                "predicted": "THE BABY IS SEEN POINTING TOWARDS A TOY TO PLAY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "move hands"
+            },
+            {
+                "predicted": "THE MAN IN WHITE IS REMOVING THE CHOCOLATES ON THE CAKE BEFORE CUTTING IT BECAUSE HE WANTS TO MAKE SURE THAT THE CHOCOLATES DO NOT MELT UNDER THE LIGHTS. THIS IS A COMMON PRACTICE TO PREVENT THE CHOCOLATES FROM BECOMING STICKY AND MESSY DURING THE CUTTING PROCESS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "easier to cut"
+            },
+            {
+                "predicted": "THE MAN SLOWED DOWN WHEN HE WAS APPROACHING THE GIRL CYCLING TO ENSURE THAT THEY COULD ADMIRE THE SCENERY TOGETHER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "keep a distance"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN THROWING SOMETHING ONTO THE COUNTER TOP. THE VIDEO DOES NOT PROVIDE ENOUGH INFORMATION TO DETERMINE THE EXACT REASON FOR THIS ACTION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "feed chicken"
+            },
+            {
+                "predicted": "THE MAN IN RED IS WEARING A CAP INDOORS TO AVOID HITTING THE CAMERA LIGHTS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "act cool"
+            },
+            {
+                "predicted": "THE CUP ATTACHED TO THE MOVING DISC IS LIKELY THERE TO ENHANCE STABILITY DURING SPINNING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "experiment"
+            },
+            {
+                "predicted": "THE MAN WITH THE WHITE WATCH PUT DOWN HIS CAMERA AFTER TAKING A PHOTO TO WIPE THE CAMERA LENS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "was done taking photographs"
+            },
+            {
+                "predicted": "THE MAN WITH THE BROWN SCARF WALKED TO THE BACK OF THE STAGE AT THE END OF THE VIDEO TO RETRIEVE A FORGOTTEN SCRIPT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "take chair"
+            },
+            {
+                "predicted": "THE YOUNG BOY STANDING BESIDE THE BOY IN A FLORAL JACKET ALSO HOLDS A GREEN PLATE IN HIS HAND. HE IS LIKELY PLAYING WITH THE PLATE OR PRETENDING IT'S A STEERING WHEEL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "play with it"
+            },
+            {
+                "predicted": "THE MAJORITY OF THE PEOPLE IN THE VIDEO WERE WEARING ATTIRE FOR A SUMMER POOL PARTY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "team jersey"
+            },
+            {
+                "predicted": "THE GIRL PUT HER HANDS ON THE FLOOR BEFORE SHE STANDS UP TO SUPPORT HERSELF.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "support herself"
+            },
+            {
+                "predicted": "THE DOG SHOWS INTEREST IN THE FOOD BY LOOKING AT IT AND TRYING TO GET CLOSER TO IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "look towards the food"
+            },
+            {
+                "predicted": "THE KID MOVES HIS HAND ACROSS HIS FEET BEFORE PUTTING ON THE SHOE TO ENSURE GOOD LUCK BEFORE THE GAME.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "clean dirt from foot"
+            },
+            {
+                "predicted": "THE LADY IS SEEN ROTATING HER RIGHT FOOT AS SHE HITS THE BALL. THIS ACTION IS LIKELY TO BE A PART OF HER TECHNIQUE TO MAINTAIN BALANCE AND CONTROL DURING THE SWING. THE LADY IS SEEN SWINGING THE CLUB WITH HER RIGHT FOOT IN THE AIR, WHICH INDICATES HER FOCUS ON THE BALL AND HER INTENTION TO MAKE A CLEAN AND POWERFUL SWING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "twist body"
+            },
+            {
+                "predicted": "THE MAN IN GREY IS LIKELY CARRYING THE OBJECT FROM THE LAKE TO WEIGH HIMSELF DOWN. THIS IS DONE TO PREVENT THE MAN FROM FLOATING AWAY OR GETTING TOO CLOSE TO THE WATER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "to cast new bait"
+            },
+            {
+                "predicted": "THE MEN USED A CONVEYOR BELT TO CARRY THEM UP THE SLOPE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "walked up"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO IS SMILING AT THE END BECAUSE SHE IS HAPPY AND CONTENT WITH THE STUFFED ANIMAL SHE RECEIVED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "man put plush on her nose"
+            },
+            {
+                "predicted": "THE CHILD IN STRIPES RUNS TOWARDS THE MAN IN RED TO ASK ABOUT THE WEATHER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "change to bigger sparkler"
+            },
+            {
+                "predicted": "THE SHIRTLESS MAN GETS THE GREEN FOOD BY PICKING IT UP WITH HIS HAND.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pick it with hand"
+            },
+            {
+                "predicted": "THE GIRL IN THE MIDDLE LEANED FORWARD TO BLOW OUT THE CANDLES ON THE CAKE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "blow the cake"
+            },
+            {
+                "predicted": "THE WOMAN IN THE GREY CAR IS SEEN PETTING THE DOG LYING ON THE FLOOR, AND THE DOG IS SEEN WAGGING ITS TAIL. THE WOMAN IS LIKELY SHOWING AFFECTION TO THE DOG OR TRYING TO CALM IT DOWN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "show affection"
+            },
+            {
+                "predicted": "THE WOMAN EXPRESSES HER HAPPINESS BY SMILING A LOT DURING THE INTERVIEW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "smiles a lot"
+            },
+            {
+                "predicted": "THE GIRLS ARE DRESSED LIKE A BRIDE AND GROOM AS PART OF A SURPRISE FOR A FRIEND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "reanacting a wedding scene"
+            },
+            {
+                "predicted": "THE HAND THAT CAME OUT FROM THE PERSON TO TOUCH THE TOY WAS LIKELY TO ADJUST THE TOY'S POSITION OR TO PLAY WITH THE BABY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "to play with the baby"
+            },
+            {
+                "predicted": "THE BOY POINTED IN THE MIDDLE OF THE VIDEO TO SHOWCASE THE BEST WAY TO DANCE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "interested in balloon"
+            },
+            {
+                "predicted": "THE BOY IN BLUE STARTED TO TURN AROUND AND REACH FOR THE BACK OF THE SWING BECAUSE HE WANTED TO ADJUST THE SWING'S SPEED OR FIND A BETTER BALANCE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "try to stand up"
+            },
+            {
+                "predicted": "THE WOMAN LIFTED HER LEG UP AT THE START TO AVOID STEPPING INTO A PUDDLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "to climb up"
+            },
+            {
+                "predicted": "THE GIRL STOPS THE TOY BICYCLE BY PUTTING HER FEET ON THE GROUND.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "put feet on the ground"
+            },
+            {
+                "predicted": "THE PERSON RIDING THE CAMEL AT THE START OF THE VIDEO IS HOLDING THE ROPE TO CONTROL THE CAMEL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "control the camel"
+            },
+            {
+                "predicted": "THE YOUNGER BOY STRETCHED OUT HIS HANDS AT THE END OF THE VIDEO TO MIMIC A TREE SWAYING IN THE WIND.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "hand gestures to make his point"
+            },
+            {
+                "predicted": "THE BOY SAT DOWN NEAR THE END OF THE VIDEO TO PLAY WITH THE BABY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "stop playing with baby"
+            },
+            {
+                "predicted": "THE CHILD MOVED FORWARD BY HOPPING OVER STEPPING STONES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "walk"
+            },
+            {
+                "predicted": "THE WOMAN IS SITTING DOWN TO HOLD THE BABY IN THE BATHTUB.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "wash the boy"
+            },
+            {
+                "predicted": "THE LADY IN WHITE ON THE SOFA IS HOLDING HER HANDS IN FRONT OF HER TO STABILIZE HER BREATHING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "recording"
+            },
+            {
+                "predicted": "THE BABY IS LIKELY MOVING HIS HANDS CONSTANTLY WHILE LOOKING UP BECAUSE HE IS TRYING TO CATCH RAINDROPS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "gesturing"
+            },
+            {
+                "predicted": "THE PERSON REACHES OUT HIS HAND NEAR THE END TOWARDS THE KID TO INVITE THE CHILD TO PLAY A GAME.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "wants to hold kid"
+            },
+            {
+                "predicted": "THE BOY IS SITTING ON THE COUCH BECAUSE HE IS RESTING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "flying helicopter"
+            },
+            {
+                "predicted": "THE GIRL PUSHED THE LADY TOWARDS THE WATERS AFTER MOVING TO THE BACK. THIS ACTION SUGGESTS THAT THEY ARE PLAYING A GAME, POSSIBLY INVOLVING THE LADY TRYING TO CATCH THE GIRL AS SHE RUNS TOWARDS THE WATER. THE GIRL IS LIKELY TRYING TO MAKE THE LADY LAUGH OR CREATE A FUN AND PLAYFUL ATMOSPHERE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "try to get her into water"
+            },
+            {
+                "predicted": "THE BABY ON THE PINK SEAT BENDS DOWN NEAR THE END OF THE VIDEO TO GRAB A TOY FROM THE CORNER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "looking at ground"
+            },
+            {
+                "predicted": "THE MAN PUTS HIS HAND ACROSS THE HOOP AT THE START OF THE VIDEO TO GUIDE THE DOG AROUND THE HOOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "guide dog"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS SWINGING THE BABY ON THE SWING, AND HE TOUCHES THE SWING TO MAKE IT MORE STABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "push the baby"
+            },
+            {
+                "predicted": "THE LADY'S HAIR IS MOVING BECAUSE SHE IS DANCING UNDER THE MOONLIGHT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "wind"
+            },
+            {
+                "predicted": "THE BUBBLES COMING OUT FROM THE DIVERS ARE LIKELY DUE TO THEIR BREATHING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "they are breathing"
+            },
+            {
+                "predicted": "THE COUPLE IS DRESSED IN FORMAL WEAR FOR THEIR WEDDING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "wedding event"
+            },
+            {
+                "predicted": "THE LADY HELPED THE GIRL UP BY PULLING HER UP WITH HER HANDS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pull"
+            },
+            {
+                "predicted": "THE DOG DOES NOT RUN AWAY BECAUSE IT IS COMFORTABLE AND FAMILIAR WITH THE MAN. THE MAN IS SEEN PETTING THE DOG ON THE HEAD AND THE DOG IS LAYING DOWN ON THE COUCH. THE DOG IS LIKELY USED TO THE MAN'S PRESENCE AND THE ENVIRONMENT, WHICH MAKES IT FEEL SAFE AND COMFORTABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "comfortable"
+            },
+            {
+                "predicted": "THE MAN AND THE BOY ARE SQUATTING DOWN BY THE GRASS BECAUSE THEY ARE PLANTING SEEDS FOR A GARDEN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "set off firework"
+            },
+            {
+                "predicted": "THE MAN OCCASIONALLY LEANS FORWARD VIGOROUSLY TO INSPECT HIS SHOES CLOSELY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "make funny expressions"
+            },
+            {
+                "predicted": "THE LADY IS RAISING HER ARMS UP TO SIGNAL A PLANE FOR HELP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "row the boat"
+            },
+            {
+                "predicted": "THE MAN IN BROWN IS SITTING DOWN WITH THE DOG IN HIS LAP TO BOND EMOTIONALLY THROUGH SILENCE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "to play with dog"
+            },
+            {
+                "predicted": "THE LADY PULLS DOWN THE GIRL'S SHIRT TOWARDS THE END OF THE VIDEO TO CHECK IF IT FITS WELL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "adjust"
+            },
+            {
+                "predicted": "THE MAN CARRIED A BACKPACK TO STORE SNACKS FOR A PICNIC.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "carry dog"
+            },
+            {
+                "predicted": "THE KID WALKED TOWARDS THE FENCE TO CHECK FOR LOOSE FENCE BOARDS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "wants to go near dog"
+            },
+            {
+                "predicted": "THE BABY IS WEARING LOOSE CLOTHES TO ALLOW AIRFLOW FOR CRAWLING FASTER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "more comfortable"
+            },
+            {
+                "predicted": "THE GIRL IS TALKING WITH A LOT OF HAND GESTURES AND MOVEMENTS BECAUSE SHE IS TRYING TO EMPHASIZE HER POINTS AND MAKE THEM MORE ENGAGING FOR THE AUDIENCE. THIS CAN BE SEEN AS A FORM OF COMMUNICATION THAT HELPS HER AUDIENCE TO BETTER UNDERSTAND HER MESSAGE AND FEEL MORE CONNECTED TO HER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "emphasize her points"
+            },
+            {
+                "predicted": "THE LADY IN THE BLACK TOP COMES NEAR THE TABLE AT THE END TO ADJUST THE LIGHTING AT THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "ordered by customer"
+            },
+            {
+                "predicted": "THE MAN IN WHITE RAISED HIS CUP TO SIGNAL THE WAITER TO BRING DESSERT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "make a toast"
+            },
+            {
+                "predicted": "THE MAN IN BLACK STOPPED HALFWAY AND HELD HIS STOMACH BECAUSE HE WAS FEELING SICK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "take a break"
+            },
+            {
+                "predicted": "THE MAN IS HOLDING A CLIPBOARD TO SIGNAL THE END OF THE SESSION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "take notes"
+            },
+            {
+                "predicted": "THE LADY LOOKS AROUND AFTER SHE HITS THE BALL BECAUSE SHE IS TRYING TO ENSURE THAT THE BALL IS STILL IN PLAY AND THAT NO ONE IS GOING TO INTERFERE WITH HER GAME. SHE ALSO WANTS TO MAKE SURE THAT EVERYONE IS WATCHING HER PLAY, WHICH COULD BE FOR VARIOUS REASONS SUCH AS WANTING TO SHOWCASE HER SKILLS OR SIMPLY ENJOYING THE GAME.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "check for recognition"
+            },
+            {
+                "predicted": "THE MAN WITH BROWN HAIR PICKS UP THE MAGAZINE NEAR THE END OF THE VIDEO TO LOOK AT IT MORE CLOSELY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "get closer look at magazine"
+            },
+            {
+                "predicted": "THE PERSON IN GREY IS KNEELING DOWN AT THE END OF THE VIDEO TO ADJUST THE CAMERA ANGLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "washing something"
+            },
+            {
+                "predicted": "THE ADULT WAS POKING THE PUMPKIN WITH A TOOL TO HELP THE BABY LEARN ABOUT THE PUMPKIN AND ITS TEXTURE. THIS ACTIVITY IS A FUN AND EDUCATIONAL WAY TO INTRODUCE THE BABY TO THE CONCEPT OF PUMPKINS AND THEIR USES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "carving pumpkin"
+            },
+            {
+                "predicted": "THE SHIRTLESS MAN HELPS THE MAN IN WHITE MOVE OFF IN THE GREEN BOAT BY PUSHING IT AWAY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "push boat away"
+            },
+            {
+                "predicted": "THE LADIES STOOD UP AT THE END OF THE VIDEO BECAUSE THEY WERE DONE SLIDING DOWN THE SNOWY HILL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "completed sliding down"
+            },
+            {
+                "predicted": "THE WOMAN POKED THE BABY'S CHECK AT THE END OF THE VIDEO TO CHECK THE BABY'S REFLEXES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "playing with the baby"
+            },
+            {
+                "predicted": "THE GREY JACKET MAN RAN TOWARDS THE MAN WITH GLOVES WHILE HOLDING CONES ON HIS HAND TO PRACTICE HIS SPRINTING TECHNIQUE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "talking to man with gloves"
+            },
+            {
+                "predicted": "THE GROUP OF PEOPLE IS GATHERED IN A LIVING ROOM AND SAT IN A CIRCLE TO DISCUSS WALLPAPER COLORS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "listening to woman with bun"
+            },
+            {
+                "predicted": "THE LADY SHOWS AFFECTION TO THE LITTLE GIRL BY OFFERING A COMFORTING SMILE, NODDING HER HEAD APPROVINGLY AT THE LITTLE GIRL'S PLAY, AND SWINGING HER GENTLY IN THE AIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "kiss girl"
+            },
+            {
+                "predicted": "THE LADY BALANCED HERSELF FROM FALLING BY SPREADING HER HANDS OUT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "spread her hands out"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS SEEN HOLDING THE WINGS OF THE PLANE AND SWINGING HIS ARMS WHILE THE PLANE IS IN THE AIR. THIS ACTION HELPS STABILIZE THE PLANE BY PROVIDING ADDITIONAL LIFT AND COUNTERACTING THE FORCE OF GRAVITY. THE MAN'S ACTIONS ARE ESSENTIAL IN MAINTAINING THE PLANE'S BALANCE AND ENSURING A SAFE FLIGHT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "by holding the wings"
+            },
+            {
+                "predicted": "THE MAN IN RED IS HOLDING TWO STICKS IN HIS HAND BECAUSE HE IS PLAYING THE DRUMS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "playing drums"
+            },
+            {
+                "predicted": "THE DARK BROWN DOG COMES DOWN FROM THE SOFA BY JUMPING DOWN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "jumps down"
+            },
+            {
+                "predicted": "THE WOMAN IN WHITE IS SEEN BRUSHING HER HAIR WITH A COMB.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "wear headscarf"
+            },
+            {
+                "predicted": "THE GIRL FELL OFF THE MAN IN THE MIDDLE OF THE VIDEO BECAUSE SHE WAS TRYING TO ADJUST HER HAT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "lost balance"
+            },
+            {
+                "predicted": "THE MAN IN THE NAVY BLUE SHIRT BENT DOWN AT THE END OF THE VIDEO TO LOOK CLOSELY AT THE INSECT CRAWLING BELOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "moving the brick"
+            },
+            {
+                "predicted": "THE LADIES AND THE MAN SHOW THEIR PASSION IN SINGING AND PLAYING THE INSTRUMENT BY ENGAGING IN INTENSE EYE CONTACT WITH EACH OTHER AND CLAPPING THEIR HANDS VIGOROUSLY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "swaying their bodies"
+            },
+            {
+                "predicted": "THE BOY IN ORANGE IS HOPPING WHILE WAVING HIS ARMS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "jump around"
+            },
+            {
+                "predicted": "THE BOYS KNOW WHEN TO SIT AND STAND BY COUNTING ON THEIR FINGERS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "copy each other"
+            },
+            {
+                "predicted": "THE CARS OUTSIDE THE GLASS DOOR ARE NOT MOVING BECAUSE THEY ARE PARKED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "parked"
+            },
+            {
+                "predicted": "THE LADY HELD A MICROPHONE BECAUSE SHE WAS SINGING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "to sing"
+            },
+            {
+                "predicted": "THE LADY IN STRIPES SHOW HER AFFECTION TO THE BABY BY KISSING IT ON THE CHEEK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "kiss the baby"
+            },
+            {
+                "predicted": "THE LADY IN BLACK BOOTS WAS STANDING BEHIND THE BOY TO GUIDE HIM, AS SHE IS LIKELY HIS MOTHER OR A CHAPERONE. SHE IS SEEN HELPING HIM WITH HIS DANCE MOVES AND ENSURING THAT HE IS COMFORTABLE AND CONFIDENT ON STAGE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "guiding the boy"
+            },
+            {
+                "predicted": "THE MAN IS SMILING BECAUSE HE IS HOLDING A BABY AND ENJOYING THE MOMENT WITH HER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "pose for the video"
+            },
+            {
+                "predicted": "THE BOY SAT BACKWARDS ON THE STAIRS BECAUSE HE WAS PLAYING WITH A TOY VACUUM CLEANER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "tripped"
+            },
+            {
+                "predicted": "THE LADY LOOKED TO HER BACK AT THE BEGINNING OF THE VIDEO BECAUSE SHE HEARD A STRANGE NOISE BEHIND HER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "looking at camera"
+            },
+            {
+                "predicted": "THE BLACK DOG AVOIDED GETTING CAUGHT BY THE OTHER DOGS BY PRETENDING TO NAP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "run"
+            },
+            {
+                "predicted": "THE BOY GETS ON THE CHAIR BY CLIMBING UP THE SIDE OF IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "climb"
+            },
+            {
+                "predicted": "THE MAN IN THE BLACK SWEATER IS LIKELY TRYING TO REMEMBER WHERE HE LEFT HIS PHONE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "thinking"
+            },
+            {
+                "predicted": "THE GIRL IN BLUE IS THROWING VEGETABLES INTO A TRASH CAN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "someone asked her to do it"
+            },
+            {
+                "predicted": "THE MAN COVERED HIS HEAD WITH A CLOTH TO PROTECT HIMSELF FROM THE HOT SUN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "protect from hot sun"
+            },
+            {
+                "predicted": "THE MAN HOLDING THE LEATHER JACKET IS LIKELY DEMONSTRATING HOW TO STYLE A JACKET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "listening to man in black"
+            },
+            {
+                "predicted": "THE BABY IS MOVING HIS ARMS VIGOROUSLY AS THE BOY PLAYS WITH THE TOY AT THE END OF THE VIDEO BECAUSE HE IS MIMICKING THE BOY'S MOVEMENTS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "hit toys"
+            },
+            {
+                "predicted": "THE MAN IN YELLOW STOPPED TOUCHING THE LONG BLOCK AFTER THE MAN IN BLUEBLACK SHIRT WENT NEARER TO HIM BECAUSE HE WAS LIKELY WAITING FOR THE MAN IN BLUEBLACK SHIRT TO COMPLETE HIS TASK OR TO GIVE HIM INSTRUCTIONS. THIS COULD BE DUE TO THE FACT THAT THE MAN IN BLUEBLACK SHIRT MIGHT BE RESPONSIBLE FOR THE CONSTRUCTION OR THE TASK AT HAND, AND THE MAN IN YELLOW WAS WAITING FOR HIM TO PROCEED WITH THE NEXT STEP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "brick is brought down"
+            },
+            {
+                "predicted": "THE FALLEN TOY BLOCK PLUSH GOT BACK UP TO THE BABY'S TABLE BY ROLLING BACK BY ITSELF.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "father put it back"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A MAN ON STAGE WITH A GUITAR, SINGING AND PLAYING. THERE IS ALSO A WOMAN ON STAGE WHO IS PLAYING A KEYBOARD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "add effects"
+            },
+            {
+                "predicted": "THE BOY PUT HIS HANDS UNDER THE WATER TO FEEL THE TEMPERATURE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "curious"
+            },
+            {
+                "predicted": "THE MEN ARE HOLDING A MICROPHONE IN FRONT OF THEM TO SING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "singing"
+            },
+            {
+                "predicted": "THE TWO GIRLS ARE SPINNING AROUND TO SHOWCASE THEIR NEW SHOES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "trying to dance together"
+            },
+            {
+                "predicted": "THE MAN PICKS UP THE BALLOON AGAIN AFTER IT REACHES THE OTHER SIDE OF THE ROOM TO DEMONSTRATE THAT IT CAN FLY BACK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "show to the camera"
+            },
+            {
+                "predicted": "THE BABY INTERACTS WITH THE BLUE TOY ON HIS HAND BY BITING IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bite it"
+            },
+            {
+                "predicted": "THE BABY IS HOLDING THE RED BALL UNDER HIM TO PLAY WITH IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "play with"
+            },
+            {
+                "predicted": "THE BABY TRIED TO TOUCH THE CAMERA BY REACHING OUT AND WAVING HIS HANDS PLAYFULLY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "lean forward to grab camera"
+            },
+            {
+                "predicted": "THE LADY IS HOLDING ON TO THE MICROPHONE FOR THE WHOLE DURATION OF TIME TO ENSURE THAT HER VOICE IS CLEARLY HEARD BY THE AUDIENCE. THIS IS IMPORTANT FOR EFFECTIVE COMMUNICATION AND TO MAKE SURE THAT HER MESSAGE IS WELL-RECEIVED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "project her voice"
+            },
+            {
+                "predicted": "THE DOG IS STANDING AT THE ENTRANCE OF THE ABANDONED HOUSE BECAUSE IT IS WAITING FOR ITS OWNER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "waiting for something"
+            },
+            {
+                "predicted": "THE BABY MOVED HIS BODY UP AND DOWN BECAUSE THE MAN IN FRONT OF HIM WAS WAVING HIS HAND. THIS GESTURE CAUGHT THE BABY'S ATTENTION AND MADE HIM REACT BY MOVING HIS BODY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "excited"
+            },
+            {
+                "predicted": "THE GIRL IN BLACK SAT DOWN ON THE STOOL IN FRONT OF THE MICROPHONE TO ADJUST ITS HEIGHT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "giving a speech"
+            },
+            {
+                "predicted": "THE LADY SINGING IS ENJOYING HERSELF BY ADJUSTING THE MICROPHONE STAND, FOCUSING ON THE STAGE LIGHTS, AND DANCING WHILE PERFORMING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "dancing while performing"
+            },
+            {
+                "predicted": "THE BABY PUT BOTH HIS HANDS ON THE BOX TO FEEL THE TEXTURE AND EXPLORE THE OBJECT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "push box"
+            },
+            {
+                "predicted": "THE LADY TRIES TO GET THE BABY'S ATTENTION BY RECITING A NURSERY RHYME.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pick up toy"
+            },
+            {
+                "predicted": "THE BOY IN BLUE IS HOLDING A PIPE TOWARDS THE PERSON, POSSIBLY TO DEMONSTRATE HOW TO WHISTLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "spraying water"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO IS SEEN TURNING AROUND HERSELF A FEW TIMES WHILE PLAYING WITH A TOY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to dance"
+            },
+            {
+                "predicted": "THE PERSON RAISES HIS LEFT ARM AFTER WALKING FORWARD A LITTLE NEAR THE START TO SIGNAL THE BEGINNING OF A DANCE ROUTINE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "adjust helmet"
+            },
+            {
+                "predicted": "THE GIRL IN WHITE IS LOOKING AROUND IN THE MIDDLE OF THE ROOM BECAUSE SHE IS TRYING TO FIND SOMEONE TO HELP HER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "excited"
+            },
+            {
+                "predicted": "THE THREE PEOPLE STEPPED FORWARD TOWARDS THE GLASS PANEL TO SEE CLOSER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "see closer"
+            },
+            {
+                "predicted": "THE MAN IN WHITE IS SITTING DOWN ON THE BED TO RELAX AND ENJOY HIS TIME.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "relaxing"
+            },
+            {
+                "predicted": "THE BABY SITS DOWN IMMEDIATELY AFTER LETTING GO OF THE TABLE BECAUSE IT IS LEARNING TO BALANCE AND MAINTAIN ITS POSITION. THIS IS A NORMAL DEVELOPMENTAL MILESTONE FOR BABIES AS THEY LEARN TO TRANSITION FROM A CRAWLING POSITION TO A SITTING POSITION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "lose balance"
+            },
+            {
+                "predicted": "THE BABY MOVES AROUND THE ROOM BY CRAWLING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "crawling"
+            },
+            {
+                "predicted": "THE MAN RELEASED THE SNAKE BY HOLDING IT BY ITS HEAD AND THEN LETTING IT GO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "by opening his hands"
+            },
+            {
+                "predicted": "THE MAN IN THE RED HELMET IS STARING INTO THE TREES BECAUSE HE IS ANTICIPATING A NEW TREND IN OUTDOOR GEAR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "look at man doing flying fox"
+            },
+            {
+                "predicted": "THE BOY WAS HOLDING THE CUP TO SHOW HOW TO BALANCE OBJECTS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to eat the ice cream"
+            },
+            {
+                "predicted": "THE KID GETS UP AFTER FALLING TO THE GROUND BY PERFORMING A ROLL TO STAND UP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "hold chair for support"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO USES A ROPE TO CONTROL THE MOVEMENT OF THE HORSE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pulling onto rope"
+            },
+            {
+                "predicted": "THE WOMAN IS HOLDING ON TO THE HANDLE OF THE BICYCLE TO ENSURE THAT THE CHILD STAYS ON THE PATH AND DOES NOT WANDER OFF.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "stay close to the boy"
+            },
+            {
+                "predicted": "THE GIRL IS PUTTING HER HAND ON HER HEAD WHILE LOOKING AT THE PHONE BECAUSE SHE IS TRYING TO SHIELD HER EYES FROM THE SUN GLOWING FROM THE SCREEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "thinking"
+            },
+            {
+                "predicted": "THE MAN IN THE WHITE SHIRT IS WEARING SPECTACLES TO TUNE INTO THE MUSIC BETTER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "poor eyesight"
+            },
+            {
+                "predicted": "THE LADY IN WHITE POINTED AT THE FLOWER FOR SO LONG AFTER THE LADY TALKED ABOUT THE FLOWER BECAUSE SHE WAS TRYING TO GET THE ATTENTION OF THE PERSON TALKING ABOUT THE FLOWER. SHE WANTED TO MAKE SURE THAT THE PERSON NOTICED HER AND ACKNOWLEDGED HER PRESENCE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "ask questions about the flower"
+            },
+            {
+                "predicted": "THE MAN IS MOVING HIS FINGERS AT THE END OF THE VIDEO TO SIGNAL FOR SOMEONE TO BRING HIM COFFEE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "point to direct baby s attention"
+            },
+            {
+                "predicted": "THE SECOND KID DID NOT GRAB THE BAR BECAUSE HE WAS TALKING TO HIS FRIEND NEARBY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "does nt jump properly"
+            },
+            {
+                "predicted": "THE PERSON LIKELY PICKED UP THE GREEN OBJECT TO ENCOURAGE THE BABY'S ARTISTIC EXPRESSION.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "allow baby to suck"
+            },
+            {
+                "predicted": "THE BABY IN THE PINK CHAIR PUT HER HAND ON HER FACE IN THE MIDDLE OF THE VIDEO BECAUSE SHE WAS EITHER TIRED, BORED, OR TRYING TO GET ATTENTION FROM THE CAMERA.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "smell his ribbon"
+            },
+            {
+                "predicted": "THE BALD MAN IN BLACK IS STARING INTENTLY AT THE GIRL IN RED BECAUSE SHE IS SINGING INTO A MICROPHONE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "watching the girl sing"
+            },
+            {
+                "predicted": "THE GIRL IS WEARING TWO BOARDS ATTACHED TO HER FEET TO ENHANCE HER SPEED WHILE SKIING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "skiing"
+            },
+            {
+                "predicted": "THE MAN IN WHITE WALKED AWAY AFTER PUSHING THE MAN IN BLACK TO DEMONSTRATE THE PROPER TECHNIQUE FOR PUSHING A MAN IN A WHEELCHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "to push another man"
+            },
+            {
+                "predicted": "THE MEN OCCASIONALLY BENT DOWN WITH THE CONES TO PICK UP SCATTERED LEAVES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "put cones along running track"
+            },
+            {
+                "predicted": "THE LADY IN BLACK IS WATCHING THE TWO MEN BECAUSE SHE IS INTERESTED IN BUYING SOMETHING THEY ARE SELLING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "supervise"
+            },
+            {
+                "predicted": "THE MAN PASSES THE GIRL TO THE LADY BECAUSE HE WANTS TO SEE IF THE GIRL CAN DANCE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "let the lady play with her"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE LOOKING INTO THE BARREN LAND BELOW THEM BECAUSE THEY ARE DISCUSSING ABOUT IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "discussing about it"
+            },
+            {
+                "predicted": "THE BOY IS LOOKING IN FRONT AT THE BOOKS ON THE TABLE BECAUSE HE IS TRYING TO READ THE NOTES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "reading the notes"
+            },
+            {
+                "predicted": "THE LADY IN ORANGE HELPS THE CHILD WITH HER ACTIVITY BY SHOWING HER HOW TO DRAW ON THE PAPER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "watching her"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO HELPS THE BOY IN BLUE UP IN THE MIDDLE BY LIFTING HIM UP WITH THEIR HANDS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "holds hand"
+            },
+            {
+                "predicted": "THE MAN IS TALKING WHILE MOVING HIS HANDS IN THE VIDEO BECAUSE HE IS DEMONSTRATING WITH ACTIONS HOW TO DO A SPECIFIC EXERCISE OR ACTIVITY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "demonstrating with actions"
+            },
+            {
+                "predicted": "THE BABY IS BEING FED USING A SPOON.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "spoon"
+            },
+            {
+                "predicted": "THE LADY IN BLUE WALKED AWAY AFTER SHE PICKED UP THE BLACK ITEM FROM THE SOFA BECAUSE SHE WAS DONE WITH THE TASK AT HAND. SHE MIGHT HAVE BEEN CHECKING FOR A HIDDEN MESSAGE, IMITATING A FAMOUS MOVIE SCENE, OR CONSIDERING HER NEXT SHOPPING ITEM. HOWEVER, THE EXACT REASON CANNOT BE DETERMINED FROM THE VIDEO ALONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "already get her stuff"
+            },
+            {
+                "predicted": "THE LADY WITH BROWN HAIR IS NODDING HER HEAD IN THE MIDDLE OF THE VIDEO, WHICH COULD BE INTERPRETED AS EITHER APPROVING OR DISAGREEING WITH SOMETHING. IT IS NOT POSSIBLE TO DETERMINE THE EXACT REASON FOR HER NODDING FROM THE VIDEO ALONE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "nodding head"
+            },
+            {
+                "predicted": "THE MAN IN WHITE IS LIKELY KEEPING THE PEEL ON THE PLATE NEXT TO HIM TO USE IT AS A TOOL TO SCRAPE THE FOOD OFF THE PLATE. THIS IS A COMMON PRACTICE IN SOME CULTURES, WHERE PEOPLE USE THE PEEL TO REMOVE THE FOOD FROM THE PLATE WITHOUT USING THEIR HANDS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "prepare food"
+            },
+            {
+                "predicted": "THE CROWD IS CLAPPING FOR THE MAN AND WOMAN AFTER THE MAN WITH MUSTACHE IS DONE SPEAKING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "happy for the couple"
+            },
+            {
+                "predicted": "THE BABY WALKED FURTHER AWAY FROM THE CAMERA TOWARDS THE END BECAUSE IT WAS GUIDED BY INSTINCT TO EXPLORE MORE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to play in the grass"
+            },
+            {
+                "predicted": "THE GIRL IN RED OCCASIONALLY TURNS TO HER LEFT TO STARE WHILE DANCING BECAUSE SHE IS FOLLOWING THE MUSIC BEAT AND WATCHING THE MOVES OF THE OTHER DANCERS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "to see the moves"
+            },
+            {
+                "predicted": "THE MAN IN THE WHITE SHIRT IS LOOKING FORWARD IN THE MIDDLE OF THE VIDEO, LIKELY TO WATCH THE BOATS PASSING BY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "look at scenery"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS FOCUSED ON ADJUSTING THE MUSIC, ENSURING THAT THE AUDIENCE IS FOLLOWING INSTRUCTIONS, AND MONITORING THE TECHNICAL ISSUES WITH MICROPHONES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "focus on adjusting the music"
+            },
+            {
+                "predicted": "THE BOY IS MOVING HIS BODY THROUGHOUT THE VIDEO AS PART OF A GAME.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "dancing"
+            },
+            {
+                "predicted": "THE LADY IS FIDDLING WITH THE TOY IN HER HANDS TO ADJUST ITS MUSIC SETTINGS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "looking for something"
+            },
+            {
+                "predicted": "THE BOY BENDS DOWN IN THE MIDDLE OF THE VIDEO TO PICK UP A PRESENT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "to dance on the floor"
+            },
+            {
+                "predicted": "THE LADY IS LOOKING INTO THE SEA BECAUSE SHE IS WAITING FOR A BOAT TO COME BY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "enjoy the scenery"
+            },
+            {
+                "predicted": "THE WOMEN WRESTLE BY PUSHING HANDS TOGETHER AND PRETENDING TO BE DANCING AS A DISTRACTION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "put hands together and push"
+            },
+            {
+                "predicted": "THE MAN IN GREY IS CRAWLING THROUGH A HOLE IN THE PLAYGROUND BECAUSE HE IS TRYING TO IMPRESS SOMEONE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "fun activity"
+            },
+            {
+                "predicted": "THE GIRL IS SMILING BECAUSE SHE IS PROUD OF HER ACCOMPLISHMENT IN CLEANING THE FLOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "look good in camera"
+            },
+            {
+                "predicted": "THE BOY HOLDS THE MICKEY TOY BY HOLDING ITS NECK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "hold its neck"
+            },
+            {
+                "predicted": "THE MAN CARESSED THE DOG NEAR THE END OF THE VIDEO BECAUSE HE WANTED TO SHOW AFFECTION TOWARDS THE DOG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "show affection"
+            },
+            {
+                "predicted": "THE WOMAN IN THE WEDDING GOWN PASSED THE DRINK TO THE MAN IN BLACK TO SHARE A TOAST WITH HIM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "make a toast to celebrate"
+            },
+            {
+                "predicted": "THE LADY IN THE RED AND WHITE CHECKED SHIRT IS PLUCKING THE PETALS OFF OF THE FLOWER TO SEE WHICH ONE FALLS DOWN FIRST.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "show inside of a flower"
+            },
+            {
+                "predicted": "THE MAN IN BROWN RAISED HIS EYEBROWS WHEN THE CAMERA TURNED TO HIM BECAUSE HE WAS SURPRISED OR CAUGHT OFF GUARD BY THE SUDDEN ATTENTION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pose for camera"
+            },
+            {
+                "predicted": "THE PERSON IN WHITE IS COVERING THE GLASS WITH HIS HAND BEFORE DRINKING THE BEVERAGE TO PREVENT IT FROM SPILLING. THIS IS A COMMON PRACTICE WHEN DRINKING FROM A GLASS TO ENSURE THAT THE DRINK DOES NOT SPILL AND TO MAINTAIN CLEANLINESS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "act to perform magic"
+            },
+            {
+                "predicted": "THE FOUR MEN ARE SMILING AS THEY FIND THEIR AUDIENCE'S REACTION AMUSING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "happy"
+            },
+            {
+                "predicted": "THE BABY ROLLED OVER AFTER FALLING ON ITS FACE TO GET UP AND CONTINUE PLAYING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "get up"
+            },
+            {
+                "predicted": "THE TRUNK DOOR OF THE BLUE CAR IS OPENED AT THE END OF THE VIDEO TO SHOW SOMEONE THE NEW CAR INTERIOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "man loading things"
+            },
+            {
+                "predicted": "THE GIRL IN PURPLE ADJUSTED HER POSITION BY STRETCHING HER LEGS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "lie on pillow"
+            },
+            {
+                "predicted": "THE MAN WITH THE RAZOR IS CAREFULLY MOVING HIS HANDS TO ENSURE THAT HE IS NOT CAUSING ANY DISCOMFORT OR INJURY TO THE PERSON HE IS SHAVING. THIS IS BECAUSE SHAVING CAN BE A DELICATE AND SENSITIVE PROCESS, AND THE RAZOR CAN EASILY CAUSE IRRITATION OR CUTS IF NOT HANDLED PROPERLY. BY MOVING HIS HANDS CAREFULLY, THE MAN IS DEMONSTRATING HIS ATTENTION TO DETAIL AND CONCERN FOR THE PERSON'S COMFORT AND SAFETY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "cutting hair"
+            },
+            {
+                "predicted": "THE MAN GRABBED THE LADY'S ARM TO PREVENT HER FROM TRIPPING OVER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "to demonstrate something"
+            },
+            {
+                "predicted": "THE BABY CHEWS ON A PACIFIER BECAUSE IT IS A NATURAL INSTINCT FOR BABIES TO EXPLORE THEIR ENVIRONMENT THROUGH THEIR SENSES. CHEWING ON A PACIFIER CAN PROVIDE A SENSE OF SECURITY AND COMFORT FOR THE BABY, AS WELL AS A WAY TO SATISFY THEIR CURIOSITY ABOUT THE WORLD AROUND THEM. ADDITIONALLY, THE PACIFIER CAN HELP TO SOOTHE THE BABY AND PREVENT THEM FROM CRYING OR GETTING UPSET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "teething"
+            },
+            {
+                "predicted": "THE BABY CLAPS HIS HANDS WHILE SWIMMING ON THE FLOAT BECAUSE HE IS EXCITED AND HAVING FUN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "excited"
+            },
+            {
+                "predicted": "THE GIRL IN PINK IS SWINGING HER LEGS BECAUSE SHE IS TRYING TO GET ATTENTION FOR AN UPCOMING ACT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "to move the chair"
+            },
+            {
+                "predicted": "THE OLDER BOY IS PUNCHING AND MOVING VIGOROUSLY AT THE BABY BECAUSE HE IS TRYING TO CHARGE A TOY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "play with the baby"
+            },
+            {
+                "predicted": "THE CAT WALKS ACROSS THE SOFA AFTER BEING STROKED BECAUSE IT IS SEEKING ATTENTION AND AFFECTION FROM ITS OWNER. CATS OFTEN SEEK ATTENTION AND AFFECTION FROM THEIR OWNERS, AND BEING STROKED CAN PROVIDE THEM WITH A SENSE OF COMFORT AND SECURITY. THE CAT MAY ALSO BE CURIOUS ABOUT THE CONVERSATION HAPPENING NEARBY, BUT IT IS MORE LIKELY THAT THE CAT IS SEEKING ATTENTION AND AFFECTION FROM ITS OWNER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "cat was nudged to move forward"
+            },
+            {
+                "predicted": "THE GIRL IN ORANGE IS ROCKING THE CHAIR TO STOP IT FROM MAKING NOISE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "playing with baby"
+            },
+            {
+                "predicted": "THE PERSON IN RED IS LIKELY PUSHING THE TOY TO THE FLOOR TO CREATE A LOUD NOISE, WHICH CAN BE ENTERTAINING FOR THE BABY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "prevent child from biting"
+            },
+            {
+                "predicted": "THE WOMAN IN THE BUN IS STANDING BEHIND THE COUPLE TO ADJUST THE DECORATION DURING THE CEREMONY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bridesmade"
+            },
+            {
+                "predicted": "THE MAN SQUATS DOWN AND STRETCHES OUT BOTH HANDS TOWARDS THE BABY WHO IS PUSHING THE TOY CAR TO LURE THE BABY TO WALK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "lure baby to walk"
+            },
+            {
+                "predicted": "THE TALLER BOY IN THE WHITE SHIRT TURNED TO THE LADY IN THE MIDDLE OF THE VIDEO TO TALK TO HER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "talk to lady"
+            },
+            {
+                "predicted": "THE BOY IN THE BLUE JACKET IS HAVING DIFFICULTY STANDING UP ON HIS OWN AT THE START OF THE VIDEO BECAUSE HE IS COVERED IN SNOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "stuck in the snow"
+            },
+            {
+                "predicted": "THE LADY PREVENTED INJURING HER HEAD BY WEARING A HELMET WHILE RIDING THE HORSE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "wear helmet"
+            },
+            {
+                "predicted": "THE LADY CARRYING THE BABY IS SMILING BECAUSE SHE IS HAPPY AND ENJOYING THE MOMENT WITH THE BABY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "happy"
+            },
+            {
+                "predicted": "THE BOY IN BLUE STARTS WALKING TO MIMIC THE SOUNDS OF ANIMALS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "trying to crush fishes"
+            },
+            {
+                "predicted": "THE MAN IN RED IS SITTING ON THE SOFA AND TAKING SOMETHING OUT OF THE PLASTIC BAG TO EAT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "to eat"
+            },
+            {
+                "predicted": "THE PERSON LIFTS BOTH HANDS UP IN FRONT OF HIM TO MIMIC A SUPERHERO POSE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "to hold toy"
+            },
+            {
+                "predicted": "THE BOY RUNS TOWARDS THE LADY TO GET A DRINK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to come near the lady"
+            },
+            {
+                "predicted": "THE MAN IN BROWN IS HOLDING ONTO A DRINK AT THE BACK OF THE BAND BECAUSE HE IS WAITING FOR THE RIGHT MOMENT TO TOAST WITH THE BAND.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "drinking"
+            },
+            {
+                "predicted": "THE BABY TOUCHES THE BALL BY KICKING IT WITH HIS FOOT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "reach out using hands"
+            },
+            {
+                "predicted": "THE LADY PUT A PLATE OF CAKE IN FRONT OF THE BOY IN RED TO MAKE HIM LAUGH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "celebrate the boy s birthday"
+            },
+            {
+                "predicted": "THE CAT JUMPED UP TO THE SINK TO DRINK WATER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to drink"
+            },
+            {
+                "predicted": "THE TOY CAR MOVES FORWARD DUE TO THE CHILDREN PUSHING IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "children pushed it"
+            },
+            {
+                "predicted": "THE GIRLS MOVED BACK AT THE END OF THE VIDEO BECAUSE THEY WERE SCARED BY A MONKEY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "scared by monkey"
+            },
+            {
+                "predicted": "THE KID WITH THE BLUE BOXER HIT THE END OF THE POOL AFTER WAKING UP FROM THE SLIDE BECAUSE HE WAS TRYING TO IMITATE A SKILL HE SAW ON TV.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "failed to slide well"
+            },
+            {
+                "predicted": "THE MAN IN THE GREY SHIRT IS POINTING THE TOOL TOWARDS THE STRIPPED CLOTH TO DEMONSTRATE THE PROPER WAY TO USE THE TOOL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "arrange cloth"
+            },
+            {
+                "predicted": "THE BOY LOOKED AT THE DOG AFTER IT PICKED UP THE BALL FROM THE GROUND BECAUSE HE WAS EXPECTING THE DOG TO BARK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "distracted"
+            },
+            {
+                "predicted": "THE BOY IN BLUE IS HOLDING THE BLACK ITEM IN HIS HANDS BECAUSE HE IS PLAYING WITH A TOY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "want to play"
+            },
+            {
+                "predicted": "THE BOY KEEPS HIS HAND ON THE BABY TO CHECK IF THE BABY IS AWAKE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "playing with the baby"
+            },
+            {
+                "predicted": "THE BABY IS LYING UPSIDE DOWN AND HOLDING THE BOTTLE BECAUSE IT IS FASCINATED BY THE BOTTLE AND WANTS TO PLAY WITH IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "fasicnated by bottle"
+            },
+            {
+                "predicted": "THE MAN IN BLUE JEANS MOVED AND PICKED UP THE FOOD ON THE FLOOR TO CLEAN IT UP AND ENSURE THE CHILD'S SAFETY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "return it to the baby"
+            },
+            {
+                "predicted": "THE BARBER COVERED THE MAN'S EAR TO ENSURE SILENCE DURING MEDITATION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "protect the ear"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO INTERACT WITH THE SWORDS BY SWINGING THEM AND USING THEM TO CARVE INITIALS IN THE SAND.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "swing the swords"
+            },
+            {
+                "predicted": "THE MAN THROWS THE BALL ON THE MAT NEAR THE BEGINNING OF THE VIDEO TO INITIATE A GAME OF CATCH WITH THE CHILD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "play with kid"
+            },
+            {
+                "predicted": "THE MAN IN RED STOPPED WALKING FOR A WHILE TO WATCH THE TWO GIRLS PLAYING WITH THE WATER TOYS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "watching them"
+            },
+            {
+                "predicted": "THE LADY IN BLACK IS GESTURING TO THE LADY IN PINK BY MOVING HER ARMS UP, POSSIBLY TO DEMONSTRATE A TECHNIQUE OR TO SHOW HER APPRECIATION FOR SOMETHING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "demonstrate how to drink"
+            },
+            {
+                "predicted": "THE MAN IN WHITE IN THE MIDDLE HOLDS UP THE SILVER CUP AFTER UNWRAPPING IT TO SHOW IT TO THE AUDIENCE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "show it to the audience"
+            },
+            {
+                "predicted": "THE CHILD IN WHITE KNOWS THE MOVES OF THE DANCE BY WATCHING THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "follow something"
+            },
+            {
+                "predicted": "THE LADY STOOD UP IN THE MIDDLE OF THE VIDEO TO GO TO THE KITCHEN AND TAKE SOMETHING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "go kitchen take thing"
+            },
+            {
+                "predicted": "THE BABY IS SITTING ON A TOY CAR BECAUSE SHE IS PLAYING AND HAVING FUN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "playing and riding with it"
+            },
+            {
+                "predicted": "THE BABY AND THE WOMAN ARE SQUINTING THEIR EYES TO SEE THE CLOCK CLEARLY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sunny outside"
+            },
+            {
+                "predicted": "THE MAN IS WEARING A BIG BAG TO STORE GROCERIES FROM SHOPPING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "carry equipments"
+            },
+            {
+                "predicted": "THE MAN IS GESTURING TO THE PEOPLE TO SHOW THEM HOW TO COUNT FISH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "counting something"
+            },
+            {
+                "predicted": "THE GIRL IN BLUE IS ATTRACTING THE ATTENTION OF THE LADY IN PINK AND THE GIRL IN PINK BY PLAYING THE PIANO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "by playing the piano"
+            },
+            {
+                "predicted": "THE LADY IS ALWAYS SEEN HOLDING HER HANDS NEAR THE BACK OF THE BABY'S JACKET, WHICH IS LIKELY TO KEEP THE BABY WARM AND COMFORTABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "support baby from falling"
+            },
+            {
+                "predicted": "THE MAN IN BLUE SHORTS BENDS BEHIND THE MAN IN RED SHORTS BEFORE HE PASSES THE BALL TO CHECK THE GROUND FOR OBSTACLES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "ready to catch the ball"
+            },
+            {
+                "predicted": "THE BABY IN THE RED JUMPER IS SITTING ON A BABY CHAIR BECAUSE IT IS TOO YOUNG TO SIT ITSELF.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "too young to sit himself"
+            },
+            {
+                "predicted": "THE WOMAN IS HOLDING ONTO A PAPER TO BALANCE HERSELF.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "speech script"
+            },
+            {
+                "predicted": "THE BOY WAS SHIFTED FORWARD IN THE MIDDLE TO GET A BETTER VIEW OF THE CLOCK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "man pull him forward"
+            },
+            {
+                "predicted": "THE HORSE IS WALKING SLOWLY BECAUSE IT IS BEING GUIDED BY A PERSON ON A HORSE. THE PERSON IS WALKING SLOWLY TO ENSURE THAT THE HORSE MOVES AT A COMFORTABLE PACE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "guide is walking slowly"
+            },
+            {
+                "predicted": "THE GIRL WEARING A RED HEADSCARF IS TOUCHING THE HANDS OF THE OTHER CHILDREN TOWARDS THE END OF THE VIDEO TO REMIND THEM TO WEAR GLOVES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "playing"
+            },
+            {
+                "predicted": "THE ADULT SLOWS DOWN HIS JOGGING PACE AS HE REACHES THE CAR TO ENSURE THE CHILD'S SAFETY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "the girl stops the bicycle"
+            },
+            {
+                "predicted": "THE CAT RAISES ITS PAWS TOWARDS THE DOG TO PLAY WITH IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "hit dog"
+            },
+            {
+                "predicted": "THE BABY CLAPPED BECAUSE SHE NEEDED ATTENTION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "laugh"
+            },
+            {
+                "predicted": "THE LADY MOVED AROUND THE DIFFERENT TILES BY JUMPING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "jumping"
+            },
+            {
+                "predicted": "THE MAN IN PINK IS SWAYING HIS BODY TO ALIGN WITH A BREATHING EXERCISE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "part of game"
+            },
+            {
+                "predicted": "THE MAN IN SUNGLASSES STUCK OUT HIS FACE TO INITIATE A DANCE MOVE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "let girl put cream on face"
+            },
+            {
+                "predicted": "THE BABY IS PRESSING THE BUTTONS ON THE ITEM IN THE MIDDLE OF THE VIDEO TO CHANGE THE COLOR OF THE ITEM TO MATCH HIS SHIRT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "wants to listen to it"
+            },
+            {
+                "predicted": "THE GIRL IN PINK IS LOOKING AT THE GIRL IN BLUE TO ENSURE THAT SHE HAS THE RIGHT DANCE MOVES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "listening to her"
+            },
+            {
+                "predicted": "THE WOMAN OPENED HER MOUTH BEFORE PUTTING THE SPOON INTO THE BABY'S MOUTH TO ENSURE THAT THE BABY WOULD IMITATE HER ACTIONS. THIS IS A COMMON TECHNIQUE USED BY PARENTS TO TEACH THEIR CHILDREN NEW SKILLS, SUCH AS EATING SOLID FOODS. BY OPENING HER MOUTH, THE WOMAN IS DEMONSTRATING THE CORRECT WAY TO EAT AND ENCOURAGING THE BABY TO FOLLOW HER LEAD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "let the baby imitate"
+            },
+            {
+                "predicted": "THE BABY RAISES HER HANDS AFTER LIFTING HER HANDS OFF THE BOOK BECAUSE SHE IS EXCITED AND WANTS TO PLAY WITH THE BOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "excited"
+            },
+            {
+                "predicted": "THE BABY SAT DOWN BECAUSE THE BALL HAD CHANGED DIRECTION AND HE COULDN'T REACH IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "lost his balance"
+            },
+            {
+                "predicted": "THE PLANE SPUN MANY ROUNDS WHEN IT FIRST TOOK OFF BECAUSE THE BOY LOST CONTROL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "the boy lost control"
+            },
+            {
+                "predicted": "THE CHILDREN ARE MOVING BELOW THE STAGE TO GET CLOSER TO THE MUSICIANS AND THE AUDIENCE. THEY ARE LIKELY DOING THIS TO GET A BETTER VIEW OF THE PERFORMANCE OR TO PARTICIPATE IN A SPECIAL EVENT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "dancing"
+            },
+            {
+                "predicted": "THE BABY SHAKES THE TOY TO EXAMINE ITS TEXTURE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "playing with it"
+            },
+            {
+                "predicted": "THE CHILD IS SMILING AS SHE TALKS BECAUSE SHE IS HAPPY AND EXCITED ABOUT THE UPCOMING EVENT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "happy"
+            },
+            {
+                "predicted": "THE BOY IN BLUE TURNED HIS DIRECTION AT THE BEGINNING OF THE VIDEO BECAUSE HE WAS LOOKING AT THE PAINTING ON THE WALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "to go towards the man"
+            },
+            {
+                "predicted": "THE MAN IN THE WHITE SHIRT IS PLACING THE CAMERA UP TO HIS FACE TO TAKE A VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "taking video"
+            },
+            {
+                "predicted": "THE MAN DRESSED UP IN A SUIT IS LIKELY ATTENDING A FORMAL EVENT, SUCH AS A WEDDING, A GALA, OR A BUSINESS MEETING. HE IS SEEN PERFORMING ON STAGE WITH A MICROPHONE, AND THE AUDIENCE IS CLAPPING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "perform"
+            },
+            {
+                "predicted": "THE LADY IN BLUE HELPS THE GIRL BY HOLDING THE BICYCLE AND PUSHING IT UP THE SLOPE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "push girl bicycle up"
+            },
+            {
+                "predicted": "THE CHILDREN RAISE UP THEIR HANDS NEAR THE END OF THE VIDEO BECAUSE THEY ARE PARTICIPATING IN A GROUP ACTIVITY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "want cake"
+            },
+            {
+                "predicted": "THE LADY WITH SPECTACLES CAREFULLY EXAMINES EACH SLICE OF VEGETABLES FOR EVENNESS BEFORE CUTTING THEM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "put force to push knife down"
+            },
+            {
+                "predicted": "THE LADY MOVED TO THE CENTER OF THE STAGE BY FOLLOWING THE SPOTLIGHT'S PATH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "walk"
+            },
+            {
+                "predicted": "THE MAN IN BLACK IS STANDING BEHIND THE MAN IN ORANGE PANTS TO WATCH HIM PLAY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "watch him play"
+            },
+            {
+                "predicted": "THE GIRL WITH THE PINK CONTROLLER TIED HER HAIR IN A PONYTAIL INDOORS BECAUSE SHE WANTED TO LOOK LIKE HER FAVORITE MOVIE CHARACTER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "cooling"
+            },
+            {
+                "predicted": "THE MAN IN GREEN IS GESTURING A LOT WHILE TALKING AFTER POINTING AT THE MAGAZINE BECAUSE HE IS EXCITED AND PASSIONATE ABOUT THE TOPIC HE IS DISCUSSING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "excited"
+            },
+            {
+                "predicted": "THE MAN MOVES HIS LEGS BEFORE HITTING THE BALL TO ENSURE THAT HE IS IN THE CORRECT POSITION TO MAKE A SUCCESSFUL SWING. THIS IS A COMMON TECHNIQUE USED BY GOLFERS TO MAINTAIN BALANCE AND CONTROL DURING THE SWING. BY MOVING HIS LEGS, THE MAN IS ABLE TO SHIFT HIS WEIGHT AND MAINTAIN A STABLE STANCE, WHICH IS ESSENTIAL FOR A SUCCESSFUL SHOT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "adjust to comfortable position to hit"
+            },
+            {
+                "predicted": "THE MAN PLAYING THE BANJO MOVES HIS HEAD TOWARDS THE END TO BETTER CATCH THE LIGHT FOR A PERFORMANCE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "moving with rhythm"
+            },
+            {
+                "predicted": "THE SMALL DOG REACTED BY SNIFFING A FLOWER NEARBY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "roll around the floor"
+            },
+            {
+                "predicted": "THE PERSON BEHIND THE CAMERA STRETCHED OUT THEIR HAND NEAR THE END OF THE VIDEO TO SIGNAL THE COMPLETION OF THE SCENE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "stabilize the swing"
+            },
+            {
+                "predicted": "THE DOGS ARE PUTTING THEIR NOSE EVERYWHERE ON THE VAN BECAUSE THEY ARE SEARCHING FOR THEIR OWNER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "want to get up"
+            },
+            {
+                "predicted": "THE WOMEN WAVE THEIR HANDS AFTER THE BOAT STARTS GOING BACKWARDS TO SIGNAL FOR MORE SPEED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "excited and say goodbye"
+            },
+            {
+                "predicted": "THE MAN IN RED IS LIKELY GIVING THE CHILD THE STICK TO HELP HIM LEARN AND PRACTICE BALANCE. HE COULD BE TEACHING THE CHILD HOW TO MAINTAIN BALANCE WHILE STANDING ON ONE FOOT OR WALKING ON A BALANCE BEAM. THIS ACTIVITY HELPS THE CHILD DEVELOP THEIR MOTOR SKILLS, COORDINATION, AND CONFIDENCE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "the boy wanted it"
+            },
+            {
+                "predicted": "THE MAN GUIDES THE DOG AT THE END OF THE VIDEO BY SHOWING THE DOG TREATS AND ENCOURAGING IT TO JUMP THROUGH A HOOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "carry dog through hoop"
+            },
+            {
+                "predicted": "THE MAN IS MOVING SLOWLY IN FRONT OF THE CAMERA BECAUSE HE IS SKIING ON A SNOWY SLOPE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "snow hard to move"
+            },
+            {
+                "predicted": "THE CANDLES ARE BLOWN OUT BY WAVING A FAN TOWARDS THEM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blown"
+            },
+            {
+                "predicted": "THE MAN KEEPS HIS HAND UNDER THE BOY'S BODY TO HELP HIM MAINTAIN BALANCE WHILE SWIMMING. THIS IS A COMMON TECHNIQUE USED BY SWIMMERS TO ENSURE THEY STAY UPRIGHT IN THE WATER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "teach him swimming"
+            },
+            {
+                "predicted": "THE MAN IS STANDING IN FRONT OF THE PLATFORM TO GIVE A PRESENTATION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "lecturing"
+            },
+            {
+                "predicted": "THE MAN USED A WINDING ROAD TO GUIDE THE BICYCLE BACK ONTO THE PATH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pull it back onto path"
+            },
+            {
+                "predicted": "THE CAT IS BENDING DOWN INTO THE SINK TO DRINK WATER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "drink water"
+            },
+            {
+                "predicted": "THE LONG PANTS MAN LOOKED DOWN AT HIS PANTS AT THE START BECAUSE HE NOTICED AN INTERESTING PATTERN ON THE FABRIC.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "feel something in pocket"
+            },
+            {
+                "predicted": "THE MAN IN WHITE IS WEARING SUNGLASSES TO PROTECT HIS EYES FROM PAINT SPLATTERS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "stylish"
+            },
+            {
+                "predicted": "THE MAN GENTLY SHAKES THE FLOOR TO GET THE BABY'S ATTENTION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "turned the baby"
+            },
+            {
+                "predicted": "THE WOMAN IN WHITE IS ADJUSTING HER SCARF FOR COLD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "to call for people"
+            },
+            {
+                "predicted": "THE LADY MOVES HER BODY AT THE END OF THE VIDEO BY SHAKING AROUND.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "shake around"
+            },
+            {
+                "predicted": "THE MAN WITH THE BLACK HAT PLAYED HIS INSTRUMENT BY HUMMING A TUNE WHILE GESTURING WITH HIS HANDS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "strumming guitar"
+            },
+            {
+                "predicted": "THE MAN IS STANDING ON THE CRATE TO REACH A HIGHER VANTAGE POINT TO BETTER SEE THE FISH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "speak to the public"
+            },
+            {
+                "predicted": "THE BOY IN THE BLUE JACKET IS WEARING GLOVES TO KEEP HIS HANDS WARM WHILE PLAYING IN THE SNOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "keep hands warm"
+            },
+            {
+                "predicted": "THE TWO MEN PLAYED THE GUITARS AND SANG TOGETHER TO CELEBRATE A SPECIAL OCCASION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "fun"
+            },
+            {
+                "predicted": "THE MAN WITH THE RED BEANIE IS SMILING BECAUSE HE FOUND A PENNY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "for the video"
+            },
+            {
+                "predicted": "THE WOMAN IN GREY SQUATTING OVER THE GRASS NEAR THE START IS LIKELY EXAMINING THE SOIL TEXTURE FOR GARDENING PURPOSES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "spreading jacket on grass"
+            },
+            {
+                "predicted": "THE LADY IN BLACK AMPLIFIED HER VOICE BY SPEAKING INTO A MICROPHONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "speaking in the microphone"
+            },
+            {
+                "predicted": "THE LADY IN THE BLACK JACKET NODS HER HEAD NEAR THE END OF THE VIDEO, INDICATING THAT SHE IS IN AGREEMENT WITH THE CONTENT BEING DISCUSSED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "agree with what being said"
+            },
+            {
+                "predicted": "THE MAN IN RED IS PULLING HIS LEG OUT OF THE GRASS AND PUTTING HIS HAND IN THE GRASS TO CHECK FOR SUNGLASSES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to see if there is anything"
+            },
+            {
+                "predicted": "THE MAJORITY OF PEOPLE IN THE VIDEO ARE HOLDING ON TO CANES AND STICKS TO HELP THEM WALK THROUGH THE FOREST.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "hiking tools to help"
+            },
+            {
+                "predicted": "THE LADY IN WHITE IS HOLDING THE BABY IN HER ARMS AND SUPPORTING THE BABY BY ADJUSTING THE BABY'S HAT TO MAKE IT MORE COMFORTABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "puts hand behind baby s neck"
+            },
+            {
+                "predicted": "THE LADY IN BLUE HOLDS UP HER PHONE TO SHOW OFF THE LATEST MODEL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "record for memory"
+            },
+            {
+                "predicted": "THE BOY STRETCHES OUT HIS LEGS FOR A FEW SECONDS IN THE MIDDLE OF THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "to get comfortable"
+            },
+            {
+                "predicted": "THE CHILDREN ARE WEARING COSTUMES TO CELEBRATE HALLOWEEN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "celebrate halloween"
+            },
+            {
+                "predicted": "THE MAN GOT THE ATTENTION OF THE GIRL BY CALLING HER NAME.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "touch her"
+            },
+            {
+                "predicted": "THE MAN IS HOLDING A CAMERA TO FILM THE BOY PLAYING THE GUITAR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "filming the boy"
+            },
+            {
+                "predicted": "THE BLACK JACKET MAN POINTED EVERYWHERE IN THE ROOM TO SHOWCASE THE INSTRUMENTS AND THE MUSICIAN'S BELONGINGS. HE ALSO DEMONSTRATED A DANCE ROUTINE USING THE INSTRUMENTS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "introduce his stuff"
+            },
+            {
+                "predicted": "THE TWO MEN IN WHITE ARE SITTING NEXT TO THE BLACK CAR PARKED IN THE MIDDLE OF THE DESERT. THEY ARE LIKELY TAKING A BREAK FROM THEIR JOURNEY OR ENJOYING THE VIEW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "resting"
+            },
+            {
+                "predicted": "THE MUSIC RACK PLACED IN FRONT OF THE LADIES IS LIKELY TO HOLD THE SHEET MUSIC FOR THE MUSICIANS TO REFER TO DURING THEIR PERFORMANCE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "hold score for them to refer"
+            },
+            {
+                "predicted": "THE PERSON HOLDING THE CAMERA MOVES TO THE EXTERIOR OF THE ROOM TO FIND BETTER LIGHTING FOR FILMING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "show the outside"
+            },
+            {
+                "predicted": "THE BABY IN GREY IS SWINGING FOR A PERIOD OF TIME, AND THEN WAVING TO THE CAMERA. THIS COULD BE DUE TO A VARIETY OF REASONS, SUCH AS THE BABY FEELING HAPPY OR EXCITED, OR THE BABY WANTING TO PLAY WITH THE CAMERA. THE BABY COULD ALSO BE WAVING TO THE CAMERA TO SHOW OFF THEIR SWINGING SKILLS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "say hi"
+            },
+            {
+                "predicted": "THE TALLEST MAN POINTED HIS FINGER AND LAUGHED AFTER THE MAN BESIDE HIM TOUCHED HIS NOSE BECAUSE HE MISINTERPRETED THE TOUCH AS A JOKE ABOUT NOSES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "to lighten the mood"
+            },
+            {
+                "predicted": "THE MAN ON GUITAR HOLDS A GLASS ON THE TABLE NEAR HIM IN THE END BECAUSE HE IS ABOUT TO PLAY A SONG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "drink"
+            },
+            {
+                "predicted": "THE MAN IN BLUE IS TOUCHING THE WOMAN IN BLACK TO CONGRATULATE HER ON WINNING AN AWARD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "to hug her"
+            },
+            {
+                "predicted": "THE BOY TOUCHED THE PHONE NEAR THE END OF THE VIDEO TO CLAP AGAIN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "tap screen"
+            },
+            {
+                "predicted": "THE GIRL IN PINK PUT HER HAND BEHIND THE NECK OF THE GIRL IN PURPLE TO CHECK THE TEMPERATURE OF HER NECK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "tease her"
+            },
+            {
+                "predicted": "THE GIRL IN WHITE PICKS UP THE CAKE USING HER FINGERS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pick up using fingers"
+            },
+            {
+                "predicted": "THE GIRL AT THE FAR LEFT IS TURNING HER HEAD AROUND TO LOOK AT OTHERS AT THE BEGINNING BECAUSE SHE IS TRYING TO FIND HER FRIEND IN THE CROWD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "check on others"
+            },
+            {
+                "predicted": "THE LADIES ARE SWAYING SLIGHTLY WHILE PERFORMING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "sway slightly"
+            },
+            {
+                "predicted": "THE LADY ENTERTAINS THE BABY BY SHAKING HER HEAD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "shakes her head"
+            },
+            {
+                "predicted": "THE MAN TALKS TO THE WOMAN TO ASK HER ABOUT THE WEATHER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "direct her"
+            },
+            {
+                "predicted": "THE MAN IN THE PLAIN SHIRT DIRECTS THE ATTENTION TOWARDS THE PICTURES ON THE WALLS NEAR THE END OF THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "look at wall"
+            },
+            {
+                "predicted": "THE BABY CHANGES THE DIRECTION OF THE BICYCLE BY SHAKING THE FRAME.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "move handles"
+            },
+            {
+                "predicted": "THE BABY'S HANDS WERE MOVING UP AND DOWN AT THE START BECAUSE HE WAS TRYING TO BALANCE HIMSELF WHILE SITTING IN THE HIGH CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "excited to eat"
+            },
+            {
+                "predicted": "THE MAN STANDS IN FRONT OF THE SWING TO ENCOURAGE THE SWING MOVEMENT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pretend to get hit"
+            },
+            {
+                "predicted": "THE GIRL IS LYING SIDEWAYS ON THE SOFA TO REST AND RELAX.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "rest"
+            },
+            {
+                "predicted": "THE BOY USED HIS TOYS AS A SUPPORT MECHANISM TO HELP HIM CLIMB UP THE SECOND CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "hold onto handle"
+            },
+            {
+                "predicted": "A. THE TWO GIRLS KISS EACH OTHER IN THE MIDDLE OF THE VIDEO TO SIGNAL THE START OF A GAME.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "showing affection"
+            },
+            {
+                "predicted": "THE BABY WAS MOVING UP AND DOWN AT THE START BECAUSE THE MAN WAS SHAKING THE TOY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "man shake the toy"
+            },
+            {
+                "predicted": "THE MAN IN BLACK TRUNKS IS LIKELY FOLLOWING BEHIND THE BABY TO ENSURE THE BABY'S SAFETY WHILE SWIMMING. HE MAY ALSO BE WAITING TO TEACH THE BABY A PLAYFUL SPLASH MOVE OR LEARNING ADVANCED BABY SWIMMING TECHNIQUES. ADDITIONALLY, HE COULD BE TRYING TO ENCOURAGE THE BABY TO SWIM FASTER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "ensure safety"
+            },
+            {
+                "predicted": "THE WOMAN WEARING WHITE DRESS SHAKES A SALT SHAKER LOUDLY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "raise her hands"
+            },
+            {
+                "predicted": "THE BABY GIRL IN GREEN STARTED JUMPING AT THE START BECAUSE SHE WAS EXCITED OR REACTING TO A SUDDEN NOISE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "excited"
+            },
+            {
+                "predicted": "THE BOYS ARE LOOKING AT THE MAN IN BLACK RIDING THE HORSE BECAUSE THEY ARE INTERESTED IN THE HORSE AND LEARNING HOW TO PROPERLY GROOM IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "interested in horse"
+            },
+            {
+                "predicted": "THE CHILD PLAYS WITH THE SPOON BY BALANCING IT ON HIS FINGER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "moves the spoon in cup and mouth"
+            },
+            {
+                "predicted": "THE BABY IS GRABBING THE TOY BECAUSE IT WAS RECOMMENDED BY A PARENT NEARBY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "to bite it"
+            },
+            {
+                "predicted": "THE SPECIAL CHAIR HELPS THE BABY SLEEP BETTER BY PROVIDING A COMFORTABLE AND SECURE ENVIRONMENT FOR THE BABY TO REST. THE CHAIR HAS A ROCKING MOTION THAT CAN HELP SOOTHE THE BABY AND CREATE A SENSE OF SECURITY. ADDITIONALLY, THE CHAIR IS DESIGNED TO BE EASY TO USE AND NAVIGATE, ALLOWING THE BABY TO SIT AND SLEEP COMFORTABLY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "swing back and forth"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE DRESSED IN WARM CLOTHING OUTDOORS BECAUSE THEY ARE ENGAGING IN A TRADITION TO WEAR AS MANY LAYERS AS POSSIBLE. THIS TRADITION IS LIKELY TO KEEP WARM AND TO ENJOY THE OUTDOORS IN A UNIQUE AND FUN WAY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "keep warm"
+            },
+            {
+                "predicted": "THE LADIES TUCKED THEIR SUNGLASSES INTO THEIR WAISTBANDS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "put on head"
+            },
+            {
+                "predicted": "THE LADY IN PINK IS LOOKING DOWN AT THE FLOOR TILES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "reading book"
+            },
+            {
+                "predicted": "THE MAN IS WEARING GLOVES TO AVOID CATCHING A COLD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "safety"
+            },
+            {
+                "predicted": "THE LADIES ARE LOOKING AT THE BESPECTACLED MAN AS HE SPEAKS IN FRONT OF THE CROWD BECAUSE HE IS DEMONSTRATING A NEW DANCE MOVE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "listen attentively to him"
+            },
+            {
+                "predicted": "THE LADY IN THE VIDEO PETS THE CAT ON THE HEAD AND PATS IT ON THE HEAD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pat the cat"
+            },
+            {
+                "predicted": "THE WOMAN TOUCHED THE NOSE OF THE BABY AT THE END TO SHOW HER AFFECTION AND LOVE FOR THE CHILD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "clean food on nose"
+            },
+            {
+                "predicted": "THE TWO CHILDREN ARE WEARING SIMILAR ATTIRE BECAUSE THEY ARE SIBLINGS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "siblings"
+            },
+            {
+                "predicted": "THE MAN RAISES THE GLASS HIGHER TOWARDS THE END TO EMPHASIZE THE IMPORTANCE OF THE TOAST.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "cheers before drink"
+            },
+            {
+                "predicted": "THE MAN IN BLUE HELPS THE BABY GIRL SLIDE DOWN BY HOLDING HER HANDS AND GUIDING HER DOWN THE SLIDE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "hold the baby on slide"
+            },
+            {
+                "predicted": "THE MAN IN BLACK AND THE WOMAN IN WHITE TURNED AROUND AND WALKED IN THE OPPOSITE DIRECTION AFTER A WHILE BECAUSE THEY WERE CONFUSED ABOUT THE DIRECTIONS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "to kiss"
+            },
+            {
+                "predicted": "THE MAN IN WHITE PICKS UP THE CUP FROM THE TABLE AND PUTS IT NEAR HIS MOUTH BECAUSE HE WANTS TO DRINK FROM IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "drink"
+            },
+            {
+                "predicted": "THE MAN STANDING IN THE BACKGROUND RAISES HIS HAND AT THE END TO SIGNAL THE COOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "he is happy"
+            },
+            {
+                "predicted": "THE MAN BENDS DOWN NEAR THE END OF THE VIDEO TO PICK UP HIS SUNGLASSES THAT HE DROPPED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "adjusting music"
+            },
+            {
+                "predicted": "THE BABY IS LYING DOWN ON THE BED BECAUSE IT IS TIRED AND NEEDS TO REST.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "resting"
+            },
+            {
+                "predicted": "THE MAN IS CARRYING GREY CONTAINERS IN THE ZOO ENCLOSURE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "carrying food in it"
+            },
+            {
+                "predicted": "THE BOY IS HOLDING ON TO THE ROD IN FRONT OF HIM TO HELP ADJUST THE ANTENNA FOR BETTER RECEPTION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "support"
+            },
+            {
+                "predicted": "THE GIRL IS LOOKING AT THE COW AND PERSON BECAUSE SHE IS INTERESTED IN THE COW'S BEHAVIOR AND THE INTERACTION BETWEEN THE COW AND THE PERSON.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "interested"
+            },
+            {
+                "predicted": "THE MEN ARE WEARING HATS TO PROTECT THEMSELVES FROM THE SUN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sunny"
+            },
+            {
+                "predicted": "THE WOMAN MOVED WHILE SPEAKING AND PLAYING WITH THE MAN AT THE LAKE BY GUIDING HIM WITH SHADOW FORMATIONS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "turning 360 degrees with camera"
+            },
+            {
+                "predicted": "THE FLOOR IS COVERED WITH MATS TO PROTECT THE BABY FROM FALLING AND TO PROVIDE A SOFT SURFACE FOR THE BABY TO PLAY ON.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "protect baby when falling"
+            },
+            {
+                "predicted": "THE PEOPLE ARE STANDING ON THE SIDES OF THE RAMP TO WATCH THE SKATEBOARDER PERFORM HIS TRICKS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "watching"
+            },
+            {
+                "predicted": "THE MAN IS STANDING NEXT TO THE PLANE TO HOLD THE WING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "holding the wing"
+            },
+            {
+                "predicted": "THE KID RUNS AWAY TO THE OTHER END OF THE PLAYGROUND BECAUSE HE BELIEVES THERE IS A SURPRISE GIFT THERE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "want to play slide"
+            },
+            {
+                "predicted": "THE PERFORMERS CONVEY THEIR PASSION FOR THE PERFORMANCE BY USING EXAGGERATED HAND GESTURES TO ATTRACT ATTENTION, WEARING COLORFUL COSTUMES TO EXPRESS EMOTIONS, ADJUSTING THE LIGHTING TO MATCH THEIR MOOD, AND MOVING THEIR HEADS UP AND DOWN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "move heads up and down"
+            },
+            {
+                "predicted": "THE MAN NODS HIS HEAD IN THE MIDDLE OF THE VIDEO TO ACKNOWLEDGE WHAT THE LADY SAID.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "acknowledging what lady said"
+            },
+            {
+                "predicted": "THE LADY'S LIPS ARE MOVING BECAUSE SHE IS SPEAKING, EXPLAINING THE VIDEO TO THE CAMERA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "speaking"
+            },
+            {
+                "predicted": "THE LADY IS BENDING FORWARD TO FOCUS ON A SMALL DETAIL IN THE SAND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "holding girl"
+            },
+            {
+                "predicted": "THE MAN IN GREEN PASSES THE BOUQUET TO THE WOMAN IN BLUE NEAR THE END OF THE VIDEO TO THANK HER FOR A PREVIOUS FAVOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "her gift"
+            },
+            {
+                "predicted": "THE PERSON IN FRONT OF THE BOY PUT HIS HAND ON THE BOY'S JACKET WHEN HE WAS CLIMBING DOWN TO HELP HIM STEADY HIMSELF AND PREVENT HIM FROM FALLING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "unbutton jacket"
+            },
+            {
+                "predicted": "THE GIRL IN PINK IS WEARING A GREEN COAT TO MATCH THE THEME OF THE GREEN-THEMED FESTIVAL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "micmic superman"
+            },
+            {
+                "predicted": "THE HUSKY ROLLS AROUND AND PRETENDS TO SLEEP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "roll around"
+            },
+            {
+                "predicted": "THE BABY IS BLINKING HER EYES AS A SIGNAL TO THE STYLIST THAT SHE IS UNCOMFORTABLE OR WANTS THE HAIRCUT TO BE DONE QUICKLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "prevent hair getting into eyes"
+            },
+            {
+                "predicted": "THE LADY IN BLUE IS HAPPY BECAUSE SHE IS SMILING IN THE CAMERA.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "smiling in the camera"
+            },
+            {
+                "predicted": "THE WOMAN IS TOUCHING THE BABY TO MAKE IT LAUGH FOR A PHOTO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "playing with the baby"
+            },
+            {
+                "predicted": "THE MAN USES A WHISTLE TO INDICATE TURNS TO THE BOAT DRIVER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "steer wheel"
+            },
+            {
+                "predicted": "THE PERSON RUNNING BEHIND THE GIRL RIDING THE BICYCLE IS LIKELY TO CHECK IF THE BIKE IS CLEAN AND ENSURE THAT IT IS SAFE FOR THE GIRL TO RIDE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "look after girl"
+            },
+            {
+                "predicted": "THE BABY IS HOLDING THE TOY BY HOLDING ITS LEGS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "hold the legs"
+            },
+            {
+                "predicted": "THE MAN SQUATTED DOWN AND POINTED TO HIS CHIN WHILE SQUATTING, WHICH COULD BE INTERPRETED AS A SIGNAL TO CHANGE DIRECTION OR EMPHASIZE THE ENERGY OF THE SONG.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "demonstrating posture"
+            },
+            {
+                "predicted": "THE LADY IN RED WAS TURNING HER FINGERS TO HELP HER MAINTAIN BALANCE WHILE WALKING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "to stuff the soil in"
+            },
+            {
+                "predicted": "THE BLONDE WOMAN IS WEARING SUNGLASSES TO MATCH HER OUTFIT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "hot sun"
+            },
+            {
+                "predicted": "THE BOY IS NOT EATING HIS FOOD BECAUSE HE IS TOO BUSY PLAYING WITH THE BABY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "busy playing with baby"
+            },
+            {
+                "predicted": "THE LADY CARRYING THE BABY IN HER ARMS IS SEEN GENTLY ROCKING THE BABY AND HUMMING A TUNE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "tickle the baby"
+            },
+            {
+                "predicted": "THE BOY IS SWINGING THE PIPE LEFT AND RIGHT AS HE HOLDS ON TO IT TO CREATE A RHYTHM FOR THE GAME.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "distribute the water"
+            },
+            {
+                "predicted": "THE WOMAN BENDS DOWN TO PICK UP A FALLEN MUSIC SHEET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pick up drinks"
+            },
+            {
+                "predicted": "THE KIDS ARE DRESSED IN SIMILAR UNIFORMS BECAUSE THEY ARE ATTENDING A CULTURAL EVENT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "scholl uniform"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE MALL ARE WALKING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "walking"
+            },
+            {
+                "predicted": "THE GIRL BELOW THE STAGE TURNED AROUND AT THE START BECAUSE SHE WAS WAITING FOR THE BAND TO START PLAYING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "dancing for fun"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HOLDING ON TO THE BUOY THE WHOLE TIME THEY ARE MOVING BECAUSE IT PROVIDES STABILITY AND SAFETY. THE BUOY HELPS THEM MAINTAIN BALANCE AND PREVENTS THEM FROM FALLING OFF THE WATERCRAFT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "stability and safety"
+            },
+            {
+                "predicted": "THE PERSON IN WHITE SLAMS THE GLASS ON THE TABLE AFTER DRINKING THE BEVERAGE TO CATCH THE ATTENTION OF EVERYONE IN THE ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "show is end product"
+            },
+            {
+                "predicted": "THE BOY IN THE BLUE JACKET RAISES HIS LEFT ARM NEAR THE MIDDLE OF THE VIDEO TO WAVE TO THE CAMERA.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "ask for help"
+            },
+            {
+                "predicted": "THE HAND STICKING OUT OF THE WINDOW IS LIKELY WAVING TO A FRIEND OR SIGNALING A TAXI.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "posing for camera"
+            },
+            {
+                "predicted": "THE COUPLE DANCE TOGETHER BY HOLDING HANDS AND GENTLY PUSHING EACH OTHER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "hold hands"
+            },
+            {
+                "predicted": "THE BABY IS PLAYING WITH THE RED TOY OVER HIS FACE TO EXPLORE AND INTERACT WITH THE TOY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "playing with it"
+            },
+            {
+                "predicted": "THE MAN PUSHED A SCOOTER UP THE SLOPE TO GO DOWN WITH IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "to go down with scooter"
+            },
+            {
+                "predicted": "THE MAN IN NAVY REMINDS THEM TO SAVE FOR LATER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pass to those who do nt have"
+            },
+            {
+                "predicted": "THE MAN WALKED OVER TO THE WOMAN TO COMMENT ON HER OUTFIT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "having ceremony together"
+            },
+            {
+                "predicted": "THE WOMAN PUT HER HAND BEHIND HER WHEN SHE STOPPED IN THE MIDDLE TO SHIELD HER EYES FROM THE SUN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "reach for something in back pocket"
+            },
+            {
+                "predicted": "THE MAN IN WHITE RETRIEVED HIS PADDLE BY BENDING DOWN AND PICKING IT UP OFF THE GROUND.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "bend down to pick up"
+            },
+            {
+                "predicted": "THE GIRL LOOKED DOWN AT HER FOOT IN THE MIDDLE OF THE DANCE BECAUSE SHE NOTICED A CHANGE IN LIGHT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "distracted by something"
+            },
+            {
+                "predicted": "THE PERSON SKIING DOWN MAINTAINS HER BALANCE BY ADJUSTING HER SCARF AS A BALANCE AID.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "poke stick down"
+            },
+            {
+                "predicted": "THE COUPLE IS SWINGING THEIR HANDS FROM ONE SIDE TO ANOTHER AS THEY DANCE TOGETHER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "dancing"
+            },
+            {
+                "predicted": "THE BOY MANAGED TO GET THE TRICYCLE MOVING STRAIGHT BY TURNING THE HANDLEBARS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "turned the handlebars"
+            },
+            {
+                "predicted": "THE YOUNGER LADY IS HOLDING HER RIGHT ARM OUT IN FRONT OF THE PARROT AFTER IT STOPS BOUNCING TO SHOW THE PARROT HER BRACELET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "asking parrot to go there"
+            },
+            {
+                "predicted": "THE LADY MOVES HER BODY AS SHE HITS THE BALL TO GAIN MOMENTUM AND IMPROVE HER SWING. THIS IS A COMMON TECHNIQUE USED BY GOLFERS TO INCREASE THEIR POWER AND ACCURACY WHEN HITTING THE BALL. BY MOVING HER BODY, SHE IS ABLE TO TRANSFER HER WEIGHT AND GENERATE MORE FORCE, WHICH ULTIMATELY RESULTS IN A BETTER SHOT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "gain momentum to hit the ball"
+            },
+            {
+                "predicted": "THE COUPLE SHOW AFFECTION TOWARDS EACH OTHER BY EXCHANGING KISSES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "kiss each other"
+            },
+            {
+                "predicted": "THE ADULT PUT HIS FEET ON THE FLOOR AFTER CYCLING VERY FAST AHEAD OF THE SHIRTLESS ADULT TO STOP HIS BIKE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "stop his bike"
+            },
+            {
+                "predicted": "THE CANDLE ON THE BOY WITH GREY STRIPES CAKE WAS EXTINGUISHED BY THE BIRTHDAY SONG VIBRATIONS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "boy blows out"
+            },
+            {
+                "predicted": "THE MAN LEARNED THE LYRICS TO THE SONG BY FOLLOWING A TRAIL OF RHYTHMIC FOOTSTEPS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "reading from television"
+            },
+            {
+                "predicted": "THE LADY PUSHED THE BOWL OF SOUP AWAY FROM THE BOY TO DEMONSTRATE HOW HOT THE SOUP IS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "passed to the old lady"
+            },
+            {
+                "predicted": "THE BOY PICKED UP THE PILLOW TO PLAY WITH IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to play"
+            },
+            {
+                "predicted": "THE GIRL MOVED HER LEGS UP AT THE END TO GET A BETTER VIEW OF THE CAMERA.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "happy"
+            },
+            {
+                "predicted": "THE TOYS HANGING IN THE PRAM ARE THERE TO ENTERTAIN THE BABY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "entertain baby"
+            },
+            {
+                "predicted": "THE DOG REACHES FOR THE FOOD BY LEANING FORWARD AND USING ITS PAW TO NUDGE IT CLOSER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "lean forward"
+            },
+            {
+                "predicted": "THE BOY IS SEEN FIDDLING WITH THE MOTORBIKE BEFORE RIDING IT. HE IS ADJUSTING THE BRAKES TO ENSURE SAFETY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "playing"
+            },
+            {
+                "predicted": "THE MAN IN BLACK SQUATTED DOWN ON THE FLOOR TO PICK UP A PENCIL THAT HAD FALLEN DOWN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pick up the food"
+            },
+            {
+                "predicted": "THE MAN IN BLUE IS HOLDING ONTO A PHONE AS HE WALKS ALONG THE BEACH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "talking over the phone"
+            },
+            {
+                "predicted": "THE MAN IN THE BLACK SHIRT IS HOLDING A CAMERA TO FILM THE SCENE HAPPENING AROUND HIM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "film the scene"
+            },
+            {
+                "predicted": "THE BOY AT THE START OF THE VIDEO PUTS HIS HANDS ON THE DOUGH TO DEMONSTRATE A MAGIC TRICK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "rolling the dough"
+            },
+            {
+                "predicted": "THE PEOPLE BESIDE THE POPE ARE LIKELY WATCHING THE CEREMONY TO LEARN ABOUT THE RITUAL AND GAIN A DEEPER UNDERSTANDING OF THE FAITH. THEY MAY ALSO BE THERE TO SUPPORT THE POPE AND THE WOMAN BEING BAPTIZED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "watching"
+            },
+            {
+                "predicted": "THE MAN IN RED TAPS HIS FEET AS HE PLAYS THE INSTRUMENT TO KEEP THE BEAT AND MAINTAIN A STEADY RHYTHM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "keep the beat"
+            },
+            {
+                "predicted": "THE MAN IN BROWN KEPT HIS HEAD DOWN THROUGHOUT THE VIDEO, POSSIBLY TO AVOID EYE CONTACT OR TO CONCENTRATE ON HIS PLAYING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "playing the guitar"
+            },
+            {
+                "predicted": "THE MUSICIANS ARE SWAYING TO THE MUSIC AS THEY PLAY AND PERFORM TO ENJOY THE RHYTHM AND FEEL THE BEAT OF THE SONG. THIS IS A COMMON PRACTICE AMONG MUSICIANS AS IT HELPS THEM TO CONNECT WITH THE MUSIC AND EXPRESS THEIR EMOTIONS THROUGH MOVEMENT. IT ALSO ALLOWS THEM TO MAINTAIN A SENSE OF BALANCE AND COORDINATION WHILE PLAYING THEIR INSTRUMENTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "enjoying the rhythm"
+            },
+            {
+                "predicted": "THE MAN WALKS AWAY FROM THE FALLEN TREE BECAUSE HE IS CONCERNED ABOUT THE SCENE THAT MIGHT BE CAUSED BY THE TREE FALLING. HE MIGHT BE WORRIED ABOUT THE SAFETY OF OTHERS IN THE AREA OR THE POTENTIAL DAMAGE TO THE SURROUNDING ENVIRONMENT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "careful"
+            },
+            {
+                "predicted": "THE MALE PERFORMERS ARE HALF NAKED AND WEAR RED SKIRTS FOR THEIR PERFORMANCE TO SIGNIFY GYMNASTIC PROWESS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "traditional costume"
+            },
+            {
+                "predicted": "THE SHORTER GIRL KNOWS THE MOVES TO DANCE INITIALLY BY WATCHING HER SISTER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "copies her sister"
+            },
+            {
+                "predicted": "THE WOMAN IN PINK POINTS HER FINGER AND TURNS HER HEAD TO THE WOMAN IN GREY SINGLET AT THE START OF THE VIDEO. SHE IS LIKELY TRYING TO GET THE ATTENTION OF THE WOMAN IN GREY SINGLET, WHO IS HOLDING A BABY. THE WOMAN IN PINK MIGHT BE TRYING TO COMMUNICATE SOMETHING TO THE WOMAN IN GREY SINGLET, SUCH AS ASKING HER TO HELP THE BABY WALK OR DIRECTING HER ATTENTION TO SOMETHING IN THE ROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "ask baby to walk"
+            },
+            {
+                "predicted": "THE BABY IS FEEDING THE DOG ONE BY ONE TO TEACH THE DOG PATIENCE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "to feed many times"
+            },
+            {
+                "predicted": "THE BIRD MOVED AROUND THE FIELD BY HITCHHIKING ON A SQUIRREL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "walks"
+            },
+            {
+                "predicted": "THE BLACK DOG IS WALKING AROUND THE OTHER TWO DOGS BECAUSE IT IS OBSERVING THEM WHILE THEY PLAY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "observing"
+            },
+            {
+                "predicted": "THE BOY USES HIS HANDS TO MOVE THE CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "shake body"
+            },
+            {
+                "predicted": "THE LADY GETS THE VEHICLE TO MOVE AT THE START BY PUSHING IT WITH HER LEGS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "push with legs"
+            },
+            {
+                "predicted": "THE MAN IN RED SHORTS HELD A DOG LEASH IN HIS RIGHT HAND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bottle"
+            },
+            {
+                "predicted": "THE MAN WAS MOVING HIS ARMS AT THE START OF THE VIDEO TO SIGNAL THE END OF THE MUSIC.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "shake the toy"
+            },
+            {
+                "predicted": "THE WOMAN IS HOLDING A NAPKIN TO CLEAN THE BABY'S FACE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "clean baby"
+            },
+            {
+                "predicted": "THE GIRL IS KNEELING ON THE FLOOR TO TIE HER SHOELACES WHILE BALANCING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "learn dancing"
+            },
+            {
+                "predicted": "THE MAN IN WHITE IS SWINGING HIS HANDS TO ATTRACT BIRDS FOR A PERFORMANCE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "demonstrate movement"
+            },
+            {
+                "predicted": "THE MAN IS HOLDING A STRING IN THE BEGINNING TO HELP HIM PULL THE SAIL UP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "stabilise cloth and lever cloth up"
+            },
+            {
+                "predicted": "THE BABY LOOKED FAR BECAUSE IT NOTICED A CHANGE IN LIGHT, WHICH COULD BE DUE TO THE SUN MOVING OR A CHANGE IN THE WEATHER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "check the cameraman followed"
+            },
+            {
+                "predicted": "THE BLONDE WOMAN IN THE TELEVISION PROGRAM IS HOLDING A MICROPHONE IN THE MIDDLE OF THE VIDEO TO INTERVIEW A GUEST.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "interview"
+            },
+            {
+                "predicted": "THE LADY IN BLUE CHECKED THAT THE GIRL IN BLUE WAS PLAYING CORRECTLY BY SITTING NEXT TO HER AND LISTENING TO HER PLAY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "sit next to her"
+            },
+            {
+                "predicted": "THE GIRL PASSED THE PLUSH TO THE SITTING ADULT TO SHARE HER WORK AND TO SHOW HER APPRECIATION FOR THE ADULT'S PRESENCE. THIS ACT OF SHARING HER CREATION WITH THE ADULT DEMONSTRATES HER DESIRE TO ENGAGE IN A POSITIVE INTERACTION AND TO EXPRESS HER FEELINGS OF FRIENDSHIP AND CONNECTION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "let the adult see her work"
+            },
+            {
+                "predicted": "THE BOY OPENED HIS MOUTH AFTER WALKING PAST THE TABLE TO CATCH ATTENTION BY YAWNING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "mimic an animal"
+            },
+            {
+                "predicted": "THE CHILDREN WALK AROUND THE ROOM TO EXPLORE THE NEW ENVIRONMENT AND SEARCH FOR A MISSING TOY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "playing"
+            },
+            {
+                "predicted": "THE BOYS ARE MOVING THEIR BODIES TO COOL DOWN AFTER EXERCISE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "dancing"
+            },
+            {
+                "predicted": "THE KID IS TURNING THE PAGES OF THE BOOK ON THE TABLE TO LOOK AT THE PICTURES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "search for pictures"
+            },
+            {
+                "predicted": "THE DOG RAN TO OTHER PLACES IN THE HOUSE TO EXPLORE NEW HIDING SPOTS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to fetch the ball"
+            },
+            {
+                "predicted": "THE WOMAN IN PINK PICKS UP THE GIRL AT THE END OF THE VIDEO BECAUSE SHE WANTS TO HELP HER GET BACK ON HER FEET AFTER SHE FELL INTO THE WATER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "waves getting bigger"
+            },
+            {
+                "predicted": "THE MAN IN THE NAVY SHIRT USED A STICK TO HIT THE COCONUT OPEN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "use stick hit open"
+            },
+            {
+                "predicted": "THE GROUP OF PEOPLE SITTING DOWN ON STOOLS BEHIND THE GIRL IN BLACK IN FRONT ARE LIKELY WAITING FOR THEIR TURN TO PERFORM OR DISCUSSING THE EVENT SCHEDULE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "waiting for their turn to perform"
+            },
+            {
+                "predicted": "THE BOY PLACED THE HELICOPTER ON THE TABLE TO INSPECT IT MORE CLOSELY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "to fly helicopter"
+            },
+            {
+                "predicted": "THE CHILD IS WEARING PAJAMAS BECAUSE IT IS A FAMILY TRADITION ON WEEKENDS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "at home"
+            },
+            {
+                "predicted": "THE WOMAN CAME CLOSE TO THE BABY FOR THE PURPOSE OF ADJUSTING THE BABY'S BLANKET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to kiss her"
+            },
+            {
+                "predicted": "THE LADY IN WHITE LOOKED TO HER RIGHT IN THE MIDDLE OF THE VIDEO BECAUSE SHE NOTICED A FAMILIAR TUNE BEING PLAYED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "check out a shop"
+            },
+            {
+                "predicted": "THE MAN IN BROWN IS LOOKING AT THE RED CAR AS HE WALKS PAST IT BECAUSE HE IS CURIOUS ABOUT ITS COLOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "cautious of car"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE LOOKING FORWARD BECAUSE THEY ARE WAITING FOR A PERFORMANCE OR AN ANNOUNCEMENT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "watching performance"
+            },
+            {
+                "predicted": "THE BOY AND GIRL ARE PLAYING TOGETHER IN A ROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "coming close to each other"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS HOLDING A KNIFE IN HIS HAND BECAUSE HE IS PREPARING FOOD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "prepare food"
+            },
+            {
+                "predicted": "THE CHILDREN PACK THE THINGS ON THE SOFA BY PUTTING THEM INTO A BIG BAG.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "put into big bag"
+            },
+            {
+                "predicted": "THE BABY IS MOVING SIDEWAYS IN THE VIDEO BECAUSE IT IS TRYING TO REACH FOR THE SOUND SOURCE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "lie on his side"
+            },
+            {
+                "predicted": "THE HORSE IS BEING GUIDED BY A GIRL IN GREEN WHO IS RIDING IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "girl in green pulls it"
+            },
+            {
+                "predicted": "THE BOY IS HOLDING TWO STICKS IN HIS HANDS TO PLAY DRUMS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "to play drums"
+            },
+            {
+                "predicted": "THE GIRL IN PINK IS HOLDING ON TO A PINK COLOR BOARD TO USE IT AS A MUSICAL INSTRUMENT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "sleigh"
+            },
+            {
+                "predicted": "THE BOY IS MOVING HIS LIPS AS HE PLAYS THE PIANO BECAUSE HE IS SINGING ALONG WITH THE SONG.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "singing"
+            },
+            {
+                "predicted": "THE TOY BLOCK PLUSH FELL FROM THE BABY'S TABLE DUE TO THE WIND FROM AN OPEN WINDOW SHIFTING IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "baby pushed it"
+            },
+            {
+                "predicted": "THE MAN IS SMILING AT THE GIRL BECAUSE SHE REMINDED HIM OF A FUNNY MEMORY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "playing with her"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO SHOWERS THE LITTLE BOY WITH AFFECTION BY PICKING HIM UP AND GIVING HIM A HUG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pick him up"
+            },
+            {
+                "predicted": "THE LADY IN BLACK HELD A CUP OF WATER BUT DID NOT DRINK IT AT THE END. THIS COULD BE BECAUSE SHE WAS PERFORMING A RITUAL, SPEAKING, CONSERVING WATER FOR LATER, OR SIGNALING TO START. HOWEVER, WITHOUT MORE CONTEXT, IT IS IMPOSSIBLE TO DETERMINE THE EXACT REASON.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "speak"
+            },
+            {
+                "predicted": "THE OLDER GIRL IS PATTING THE BEAM TO ENCOURAGE THE LITTLE GIRL TO HOLD ONTO IT. THIS ACTION HELPS THE LITTLE GIRL TO BUILD HER CONFIDENCE AND TRUST IN THE OLDER GIRL, AS WELL AS TO HELP HER MAINTAIN HER BALANCE AND STABILITY WHILE HOLDING ONTO THE BEAM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "suggest girl to hold it"
+            },
+            {
+                "predicted": "THE BOY HOLDING THE YELLOW CAR MOVED TO THE LEFT WITH HIS CAR AFTER THE FIRST COLLISION BECAUSE HE WAS TRYING TO FIX HIS CAR'S IMBALANCE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "get the toy driver that fell"
+            },
+            {
+                "predicted": "THE MAN TOUCHED THE WING OF THE PLANE TO CHECK IF IT WAS WARM ENOUGH FOR TAKEOFF.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "to help stabilize it"
+            },
+            {
+                "predicted": "THE MAN STAYS BEHIND AND WALKS SLOWLY TOWARDS THE BABY TO ENSURE THAT HE DOESN'T DISTURB THE BABY'S PLAYTIME. THIS IS A COMMON PRACTICE AMONG PARENTS WHO WANT TO GIVE THEIR CHILDREN SPACE TO EXPLORE AND PLAY WITHOUT INTERFERENCE. THE MAN ALSO CHECKS THE TEXTURE OF THE FLOOR TO ENSURE THAT IT IS SAFE FOR THE BABY TO PLAY ON.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "look out for baby"
+            },
+            {
+                "predicted": "THE LADY WAS BENDING OVER THE STAGE TO ADJUST THE LIGHTING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "put keyboard on stage"
+            },
+            {
+                "predicted": "THE BOY PUT HIS LEFT LEG UP THE CHAIR TO LIFT HIMSELF UP AND CLIMB ONTO THE SECOND CHAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "lift himself up"
+            },
+            {
+                "predicted": "THE GIRL IS MOVING THE TROLLEY BACK AND FORTH IN THE MIDDLE OF THE VIDEO TO ENTERTAIN HERSELF AND THE DOG. SHE IS ALSO SEEN PLAYING WITH THE DOG ON THE FLOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "for fun"
+            },
+            {
+                "predicted": "THE PEOPLE AT THE BACK ARE WATCHING THE TRUCKS AT THE START BECAUSE THEY ARE ANTICIPATING A FAMOUS PARADE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "ensure safety"
+            },
+            {
+                "predicted": "THE LADY IN SHORT HAIR STOOD UP AFTER THE CEREMONY ENDED FOR HER TO ADJUST HER OUTFIT FOR A PHOTO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "leaving room for the next one"
+            },
+            {
+                "predicted": "THE MAN IN BLUE HELD UP THE CAMERA TO CALIBRATE THE CAMERA ANGLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "take video"
+            },
+            {
+                "predicted": "THE GIRL TOOK OFF HER SOCKS BY CLAPPING HER HANDS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pull the sock hard"
+            },
+            {
+                "predicted": "THE MAN IN THE STRIPES JACKET PUT ON HIS JACKET AT THE DOOR TO ENSURE IT MATCHES WITH HIS OUTFIT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "look cool"
+            },
+            {
+                "predicted": "THE LADY RAN INTO THE SHORE TOWARDS THE TWO GUYS TO SHOW THEM A RARE SEASHELL SHE FOUND.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "join them to play in waters"
+            },
+            {
+                "predicted": "THE POLES ON THE SNOW MOVE AFTER THE PERSON PASSED BY IT BECAUSE THEY WERE INTENTIONALLY SWIPED BY THE PERSON.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "swiped by the person"
+            },
+            {
+                "predicted": "THE LADY IN PINK IS SITTING NEXT TO THE GIRL IN THE BLUE DRESS TO WATCH HER PLAY THE PIANO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "coaching the girl"
+            },
+            {
+                "predicted": "THE LADY TOUCHED HER BEANIE AND HAIR IN THE MIDDLE OF THE VIDEO TO ADJUST HER HAIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "adjust beanie and hair"
+            },
+            {
+                "predicted": "THE BABY INTERACTS WITH THE BLANKET BY HOLDING IT, PLAYING WITH IT, AND USING IT TO MIMIC MAKING A TENT OUT OF IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "grab it"
+            },
+            {
+                "predicted": "THE MAN WITH THE BROWN JACKET IS HOLDING ON TO A BLUE STICK TO DEMONSTRATE A NEW MARTIAL ARTS MOVE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "try to catch snake"
+            },
+            {
+                "predicted": "THE BOY IN PINK DRYS HIMSELF BY USING A TOWEL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "put towel around"
+            },
+            {
+                "predicted": "THE MAN USES THE POWER CORD TO BALANCE THE DRILL WHILE IT IS IN THE MIDDLE OF THE HOLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "hold it with both hands"
+            },
+            {
+                "predicted": "THE MAN IN RED IS RAISING HIS HANDS UP IN THE AIR TO SIGNAL THE BLUE TRAIN TO MOVE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "signaling blue train to move"
+            },
+            {
+                "predicted": "THE MAN IN ORANGE CLAPPED HIS HANDS AS HE WATCHED THE MAN IN WHITE DANCING TO INDICATE THE START OF A NEW DANCE ROUTINE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "encourage him"
+            },
+            {
+                "predicted": "THE MEN ARE WALKING SLOWLY BECAUSE THEY ARE ENJOYING THE SCENERY AND TAKING THEIR TIME TO APPRECIATE THE BEAUTY OF THE LANDSCAPE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "enjoy the walk"
+            },
+            {
+                "predicted": "THE MAN WITH THE BLUE SHIRT AND BLACK COAT IS HOLDING A PHONE AT THE END OF THE VIDEO TO MAKE A CALL ABOUT DINNER RESERVATIONS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "recording video"
+            },
+            {
+                "predicted": "THE GIRL STOOD UP FROM THE CHAIR TO ESCORT A SPECIAL GUEST THROUGH THE ROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "show certain body language"
+            },
+            {
+                "predicted": "THE MAN IS WALKING DOWN A SNOWY PATH WHILE HOLDING SKI POLES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "walking and skiing with poles"
+            },
+            {
+                "predicted": "THE WOMAN WITH THE RED BACKPACK IS LOOKING CONSTANTLY IN THE SAME DIRECTION BECAUSE SHE IS WAITING FOR A TRAIN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "waiting for train from that direction"
+            },
+            {
+                "predicted": "THE BABY CRAWLED TOWARDS THE DOG BECAUSE THE MAN MOVED HIS LEG FURTHER AWAY, AND THE BABY FOLLOWED THE MOVEMENT OF THE MAN'S LEG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "follow direction of man s leg"
+            },
+            {
+                "predicted": "THE MAN IS PLAYING WITH THE DOG'S PAW AND MOVING IT AROUND TO CHECK FOR OBEDIENCE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "play with it"
+            },
+            {
+                "predicted": "THE GIRL LOOKS UP AND SMILES BECAUSE SHE SEES HER FRIEND WAVING AT HER FROM A DISTANCE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "likes the rabbit"
+            },
+            {
+                "predicted": "THE SUNLIGHT WAS COVERED AT TIMES DURING THE VIDEO BECAUSE THE CRUISE SHIP WAS SAILING UNDER A CLOUDY SKY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "the cruise sails under the clouds"
+            },
+            {
+                "predicted": "THE MAN IN THE GREEN SWEATER IS POSING WITH HIS CARDS IN FRONT OF THE CAMERA TO SHOW OFF A WINNING HAND.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "smiling"
+            },
+            {
+                "predicted": "THE MAN HOLDS THE ROD IN THE BEGINNING TO MEASURE THE HEIGHT OF THE WALL FOR PAINTING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "support"
+            },
+            {
+                "predicted": "THE MEN ARE STANDING ON THE BOAT TO BALANCE AGAINST STRONG WINDS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "rowing boat"
+            },
+            {
+                "predicted": "THE BOY ENDED UP LYING DOWN AT THE END OF THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "rolled after jumping"
+            },
+            {
+                "predicted": "THE PERSON IN BLUE IS HOLDING HIS THUMB UP NEAR THE END OF THE VIDEO TO SIGNAL HE'S READY TO LIFT SOMETHING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "happy"
+            },
+            {
+                "predicted": "THE BABY LOOKED UP AFTER TOUCHING THE ADULT'S SHOELACES BECAUSE THEY HEARD THEIR NAME.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "distracted"
+            },
+            {
+                "predicted": "THE MAN WITH THE PLAIN BLACK SHIRT RAISED HIS HANDS AFTER THE MAN BESIDE HIM TOUCHED HIS NOSE, POSSIBLY TO SIGNAL THE END OF THE INTERVIEW OR TO MAKE A POINT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "gesture and make points"
+            },
+            {
+                "predicted": "THE LADY OPENED THE GLASS BOTTLE BEVERAGE TO MAKE A SOUND TO GET THE ATTENTION OF THE AUDIENCE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "drink"
+            },
+            {
+                "predicted": "THE MEN KNEW WHERE TO PLACE THE CONES BY OBSERVING THE SHADOW CAST BY THE LAMP POST.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "follow the man with the watch"
+            },
+            {
+                "predicted": "THE MAN IS SWINGING THE GOLF CLUB BEFORE HE TRIES TO HIT THE BALL TO CHECK IF THE GROUND IS LEVEL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "estimate strength to hit"
+            },
+            {
+                "predicted": "THE BOY IN WHITE STOOD ON A HIGHER GROUND TO AVOID THE CROWD PUSHING FORWARD AND TO HAVE A BETTER VIEW OF THE SHOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "short"
+            },
+            {
+                "predicted": "THE DOG IS RESTING ON THE LAPTOP BECAUSE IT IS COMFORTABLE AND ENJOYS THE WARMTH PROVIDED BY THE LAPTOP. ADDITIONALLY, THE DOG MIGHT BE WAITING FOR A CALL OR A MESSAGE FROM ITS OWNER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "comfortable"
+            },
+            {
+                "predicted": "THE TODDLER IS STARING AT THE MAN ON THE SOFA BECAUSE HE IS WAITING TO RECEIVE A TOY FROM HIM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "observing his reaction"
+            },
+            {
+                "predicted": "THE GIRL REACHES FOR THE BLUE BUCKET TO COLLECT WATER TO WASH HER HANDS AFTER PAINTING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "take out vegetables"
+            },
+            {
+                "predicted": "THE BOY PUT HIS HANDS ON THE GROUND IN THE MIDDLE TO BALANCE HIMSELF WHILE PLAYING IN THE SAND.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "support himself"
+            },
+            {
+                "predicted": "THE CHICKEN SUDDENLY FLAPPED ITS WINGS WHEN IT WAS NEAR THE WASHING BAY BECAUSE IT WAS DISTRACTED BY A NOISE OR A MOVEMENT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "foot slipped"
+            },
+            {
+                "predicted": "THE SHORTER GIRL MOVES AWAY IN THE MIDDLE OF THE DANCE BECAUSE SHE IS OVERWHELMED BY EMOTIONS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "does not want to dance"
+            },
+            {
+                "predicted": "THE TIGER IS STANDING ON A PLATFORM TO EAT FOOD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "eat food"
+            },
+            {
+                "predicted": "THE LADY IN PINK IS SITTING BESIDE THE BABY AND WATCHING HIM AS HE PLAYS WITH THE BOWL OF FOOD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sitting"
+            },
+            {
+                "predicted": "THE DOG IS ABLE TO DRINK FROM THE CUP BY LEANING OVER AND LICKING THE CUP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "lady holds the cup to dog"
+            },
+            {
+                "predicted": "THE BOY RAISES THE PHONE ON THE TELEVISION NEAR THE END OF THE VIDEO TO SIGNAL A SPORTS VICTORY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "tap it"
+            },
+            {
+                "predicted": "THE MAN IN BLACK AND RED DEMONSTRATED WHAT HE IS TALKING ABOUT IN ACTIONS TO SHOW THE TEAM HOW TO DO IT CORRECTLY AND ENSURE THEY UNDERSTAND THE TECHNIQUE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "teach the team how to do"
+            },
+            {
+                "predicted": "THE PERSON IS WEARING A HELMET BECAUSE THEY ARE PLAYING A GAME ON THE WII AND ARE ANTICIPATING A MUSICAL PERFORMANCE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "role play"
+            },
+            {
+                "predicted": "THE WOMAN'S LIPS MOVED AS SHE WAS TALKING TO THE BABY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "talking to the baby"
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.0
+    }
+}

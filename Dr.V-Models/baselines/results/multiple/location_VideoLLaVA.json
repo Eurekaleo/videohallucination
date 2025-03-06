@@ -1,0 +1,3602 @@
+[
+    {
+        "video": "nextqa/4363482648.mp4",
+        "question": "where is this video taken",
+        "answer": "C",
+        "choices": {
+            "A": "bustling city market",
+            "B": "dense forest clearing",
+            "C": "an arena for dog show",
+            "D": "cozy mountain cabin"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/4880611877.mp4",
+        "question": "where is this",
+        "answer": "C",
+        "choices": {
+            "A": "shopping mall",
+            "B": "beach",
+            "C": "home",
+            "D": "cafe"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/4353169496.mp4",
+        "question": "where are the ladies sitting on",
+        "answer": "D",
+        "choices": {
+            "A": "rooftop",
+            "B": "mountain cabin",
+            "C": "art gallery",
+            "D": "chairs"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/3512311005.mp4",
+        "question": "where is this video taken",
+        "answer": "A",
+        "choices": {
+            "A": "theatre",
+            "B": "art gallery",
+            "C": "university campus",
+            "D": "airport terminal"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/5650793185.mp4",
+        "question": "where is this happening",
+        "answer": "A",
+        "choices": {
+            "A": "playground",
+            "B": "bowling alley",
+            "C": "inside a theater",
+            "D": "art gallery"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/7846636954.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "city park",
+            "B": "living room",
+            "C": "bakery",
+            "D": "aquarium"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/13339367205.mp4",
+        "question": "where are the dogs hanging out",
+        "answer": "D",
+        "choices": {
+            "A": "parking lot",
+            "B": "shopping mall",
+            "C": "beach",
+            "D": "park"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/10400848434.mp4",
+        "question": "where are the people hanging out",
+        "answer": "C",
+        "choices": {
+            "A": "mall",
+            "B": "library",
+            "C": "zoo",
+            "D": "beach"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/8750015460.mp4",
+        "question": "where is this happening",
+        "answer": "D",
+        "choices": {
+            "A": "train station",
+            "B": "museum",
+            "C": "airport",
+            "D": "classroom"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/3501167063.mp4",
+        "question": "where is this video taken",
+        "answer": "A",
+        "choices": {
+            "A": "home",
+            "B": "coffee shop",
+            "C": "gym",
+            "D": "office building"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/2876825076.mp4",
+        "question": "where are the people hanging out",
+        "answer": "D",
+        "choices": {
+            "A": "ice cream parlor",
+            "B": "art gallery",
+            "C": "airport lounge",
+            "D": "bedroom"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/5912473393.mp4",
+        "question": "where are the people performing",
+        "answer": "B",
+        "choices": {
+            "A": "in an amusement park",
+            "B": "on stage",
+            "C": "in a shopping mall",
+            "D": "at a carnival"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/4997304873.mp4",
+        "question": "where are the two men at",
+        "answer": "A",
+        "choices": {
+            "A": "mountain",
+            "B": "factory",
+            "C": "library",
+            "D": "airport"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/8491542201.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "beach",
+            "B": "field",
+            "C": "mountain",
+            "D": "train station"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/2976591964.mp4",
+        "question": "where is this place",
+        "answer": "D",
+        "choices": {
+            "A": "beach resort",
+            "B": "ski lodge",
+            "C": "art gallery",
+            "D": "park"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/8032967534.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "art gallery",
+            "B": "stage",
+            "C": "chalet",
+            "D": "skating rink"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/12011352464.mp4",
+        "question": "where is this video taken",
+        "answer": "D",
+        "choices": {
+            "A": "museum",
+            "B": "airport",
+            "C": "library",
+            "D": "home"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/10747331063.mp4",
+        "question": "where is this happening",
+        "answer": "A",
+        "choices": {
+            "A": "playing baseball",
+            "B": "bus station",
+            "C": "mall",
+            "D": "art gallery"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/4084841090.mp4",
+        "question": "where are the people playing",
+        "answer": "C",
+        "choices": {
+            "A": "office",
+            "B": "library",
+            "C": "pool",
+            "D": "airport"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/4178472052.mp4",
+        "question": "where is this happening",
+        "answer": "A",
+        "choices": {
+            "A": "near a water body",
+            "B": "in a bustling market",
+            "C": "on a mountain trail",
+            "D": "inside a museum"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/9304080249.mp4",
+        "question": "where is the toddler hanging out",
+        "answer": "B",
+        "choices": {
+            "A": "on a rooftop",
+            "B": "living room",
+            "C": "in a library",
+            "D": "inside a museum"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/6158132572.mp4",
+        "question": "where is this video taken",
+        "answer": "C",
+        "choices": {
+            "A": "movie theater",
+            "B": "mountain top",
+            "C": "house",
+            "D": "lecture hall"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/2779340329.mp4",
+        "question": "where is the boy in red sitting",
+        "answer": "C",
+        "choices": {
+            "A": "mountainside",
+            "B": "beach",
+            "C": "man s lap",
+            "D": "forest"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/5815171094.mp4",
+        "question": "where are the two men working",
+        "answer": "A",
+        "choices": {
+            "A": "field",
+            "B": "castle courtyard",
+            "C": "underwater lab",
+            "D": "airport hangar"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/4346015300.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "jungle gym",
+            "B": "room",
+            "C": "submarine",
+            "D": "train station"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/3006009155.mp4",
+        "question": "where is this happening",
+        "answer": "A",
+        "choices": {
+            "A": "garden",
+            "B": "in a spaceship",
+            "C": "in the middle of a desert",
+            "D": "inside a factory"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/2407193002.mp4",
+        "question": "where are the boys hanging out",
+        "answer": "D",
+        "choices": {
+            "A": "inside a library",
+            "B": "at the marketplace",
+            "C": "in a museum",
+            "D": "living room"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/2758300055.mp4",
+        "question": "where are the people hanging out",
+        "answer": "A",
+        "choices": {
+            "A": "swimming pool",
+            "B": "art gallery",
+            "C": "library",
+            "D": "train station"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/6975125131.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "urban plaza",
+            "B": "desert",
+            "C": "opera house",
+            "D": "beach resort"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/3740849151.mp4",
+        "question": "where are the lady and the baby playing",
+        "answer": "C",
+        "choices": {
+            "A": "in a bustling city square",
+            "B": "rooftop garden",
+            "C": "on the floor",
+            "D": "by a mountain lake"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/4976487220.mp4",
+        "question": "where are the people hanging out",
+        "answer": "D",
+        "choices": {
+            "A": "nightclub",
+            "B": "amusement park",
+            "C": "desert",
+            "D": "house"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/8625406771.mp4",
+        "question": "where are the girl and the dog hanging out",
+        "answer": "B",
+        "choices": {
+            "A": "library",
+            "B": "garden",
+            "C": "cafe",
+            "D": "art gallery"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/3751105478.mp4",
+        "question": "where is this happening",
+        "answer": "D",
+        "choices": {
+            "A": "library",
+            "B": "beach",
+            "C": "museum",
+            "D": "morning"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/4400018396.mp4",
+        "question": "where is the keyboard placed",
+        "answer": "B",
+        "choices": {
+            "A": "by the seaside",
+            "B": "on table",
+            "C": "on a mountain",
+            "D": "in a library"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/8507883824.mp4",
+        "question": "where are the people hanging out",
+        "answer": "A",
+        "choices": {
+            "A": "road shoulder",
+            "B": "grocery store",
+            "C": "art gallery",
+            "D": "airport terminal"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/13166998645.mp4",
+        "question": "where is this place",
+        "answer": "A",
+        "choices": {
+            "A": "living room",
+            "B": "submarine",
+            "C": "amusement park",
+            "D": "desert"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/6292691001.mp4",
+        "question": "where are the people hanging out",
+        "answer": "A",
+        "choices": {
+            "A": "in house",
+            "B": "museum",
+            "C": "castle",
+            "D": "shopping mall"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/8140301969.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "art gallery",
+            "B": "living room",
+            "C": "ballet studio",
+            "D": "amphitheater"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/3228132498.mp4",
+        "question": "where is this place",
+        "answer": "B",
+        "choices": {
+            "A": "aquarium",
+            "B": "wedding hall",
+            "C": "art gallery",
+            "D": "amusement park"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/6699885319.mp4",
+        "question": "where is the man at",
+        "answer": "B",
+        "choices": {
+            "A": "in an office building",
+            "B": "carpark",
+            "C": "at a train station",
+            "D": "inside a shopping mall"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5243085840.mp4",
+        "question": "where is this video taken",
+        "answer": "D",
+        "choices": {
+            "A": "amusement park",
+            "B": "art gallery",
+            "C": "software office",
+            "D": "living room"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/5503178247.mp4",
+        "question": "where is this place",
+        "answer": "C",
+        "choices": {
+            "A": "bowling alley",
+            "B": "beach",
+            "C": "bedroom",
+            "D": "shopping mall"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/2547320060.mp4",
+        "question": "where is this happening",
+        "answer": "A",
+        "choices": {
+            "A": "living room",
+            "B": "desert oasis",
+            "C": "seaside caf\u00e9",
+            "D": "beach resort"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/5807908661.mp4",
+        "question": "where are the people hanging out",
+        "answer": "B",
+        "choices": {
+            "A": "art gallery",
+            "B": "outdoors cafe",
+            "C": "swimming pool",
+            "D": "library"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/4094248027.mp4",
+        "question": "where is this video taken",
+        "answer": "C",
+        "choices": {
+            "A": "forest",
+            "B": "amusement park",
+            "C": "living room",
+            "D": "beach"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/6097011028.mp4",
+        "question": "where is this video taken",
+        "answer": "D",
+        "choices": {
+            "A": "amusement park",
+            "B": "museum",
+            "C": "aquarium",
+            "D": "office"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/11342887364.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "library",
+            "B": "dancing hall",
+            "C": "restaurant",
+            "D": "office building"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/4389226223.mp4",
+        "question": "where is this happening",
+        "answer": "B",
+        "choices": {
+            "A": "mountain lodge",
+            "B": "kitchen",
+            "C": "art museum",
+            "D": "city park"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/2569826147.mp4",
+        "question": "where is ths happening",
+        "answer": "A",
+        "choices": {
+            "A": "roadside",
+            "B": "art studio",
+            "C": "library",
+            "D": "dining hall"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/3485555298.mp4",
+        "question": "where is this happening",
+        "answer": "B",
+        "choices": {
+            "A": "cafe",
+            "B": "a park",
+            "C": "gymnasium",
+            "D": "atrium"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/4863455612.mp4",
+        "question": "where could this be happening",
+        "answer": "D",
+        "choices": {
+            "A": "beach",
+            "B": "forest",
+            "C": "desert",
+            "D": "lab"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/6080431642.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "museum",
+            "B": "pool",
+            "C": "library",
+            "D": "bridge"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/8283116453.mp4",
+        "question": "where do you think the musicians are performing at",
+        "answer": "C",
+        "choices": {
+            "A": "backyard",
+            "B": "conference room",
+            "C": "living room",
+            "D": "greenhouse"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/5292396210.mp4",
+        "question": "where could this be happening",
+        "answer": "C",
+        "choices": {
+            "A": "in a library",
+            "B": "in a garage",
+            "C": "garden",
+            "D": "movie theater"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/8726215081.mp4",
+        "question": "where is the baby hanging out",
+        "answer": "C",
+        "choices": {
+            "A": "garden",
+            "B": "office",
+            "C": "room",
+            "D": "movie theater"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3081360150.mp4",
+        "question": "where is the snake present",
+        "answer": "B",
+        "choices": {
+            "A": "inside a museum",
+            "B": "on the road",
+            "C": "in a library",
+            "D": "under a bridge"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/6004462245.mp4",
+        "question": "where is this video taken",
+        "answer": "A",
+        "choices": {
+            "A": "living room",
+            "B": "art gallery",
+            "C": "botanical garden",
+            "D": "amphitheater"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/5176668462.mp4",
+        "question": "where is this video taken",
+        "answer": "A",
+        "choices": {
+            "A": "playground",
+            "B": "art gallery",
+            "C": "office space",
+            "D": "bakery"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/6706220611.mp4",
+        "question": "where is the baby laying",
+        "answer": "A",
+        "choices": {
+            "A": "pillow",
+            "B": "beach",
+            "C": "mountainside",
+            "D": "cottage"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/2502947328.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "in a library",
+            "B": "on a car",
+            "C": "in a desert",
+            "D": "at a museum"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/4536434821.mp4",
+        "question": "where is this happening",
+        "answer": "A",
+        "choices": {
+            "A": "garden",
+            "B": "inside a castle",
+            "C": "at the beach",
+            "D": "near a waterfall"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/5362528947.mp4",
+        "question": "where is this video taken",
+        "answer": "D",
+        "choices": {
+            "A": "art gallery",
+            "B": "sandy beach",
+            "C": "coffee shop",
+            "D": "snow mountain"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/4207981117.mp4",
+        "question": "where are the woman and the dog hanging out",
+        "answer": "C",
+        "choices": {
+            "A": "desert",
+            "B": "library",
+            "C": "park",
+            "D": "beach"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/7526364640.mp4",
+        "question": "where is this video taken",
+        "answer": "A",
+        "choices": {
+            "A": "classroom",
+            "B": "sports arena",
+            "C": "aquarium",
+            "D": "concert hall"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/6095248978.mp4",
+        "question": "where is this happening",
+        "answer": "A",
+        "choices": {
+            "A": "living room",
+            "B": "jungle hut",
+            "C": "desert",
+            "D": "art gallery"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/10355341433.mp4",
+        "question": "where are the boys hanging out",
+        "answer": "D",
+        "choices": {
+            "A": "on a rooftop",
+            "B": "in a train station",
+            "C": "inside a barn",
+            "D": "by the window"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/2704088930.mp4",
+        "question": "where is this place",
+        "answer": "C",
+        "choices": {
+            "A": "underwater aquarium",
+            "B": "desert",
+            "C": "beach",
+            "D": "ski resort"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/5995224103.mp4",
+        "question": "where is this place",
+        "answer": "B",
+        "choices": {
+            "A": "museum",
+            "B": "living room",
+            "C": "beachside cafe",
+            "D": "dance studio"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5622582668.mp4",
+        "question": "where is the video taken",
+        "answer": "B",
+        "choices": {
+            "A": "library",
+            "B": "ice cream store",
+            "C": "art gallery",
+            "D": "ballet studio"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5306556049.mp4",
+        "question": "where did the boy with checkered shirt put the toys that he picked up from the floor",
+        "answer": "B",
+        "choices": {
+            "A": "at the bus station",
+            "B": "in the container",
+            "C": "inside the attic",
+            "D": "in the garage"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/3704238156.mp4",
+        "question": "where is this video taken",
+        "answer": "D",
+        "choices": {
+            "A": "art studio",
+            "B": "construction site",
+            "C": "jungle",
+            "D": "living room"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/4070768447.mp4",
+        "question": "where is this place",
+        "answer": "C",
+        "choices": {
+            "A": "castle",
+            "B": "art gallery",
+            "C": "home",
+            "D": "amusement park"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3042965654.mp4",
+        "question": "where is this happening",
+        "answer": "C",
+        "choices": {
+            "A": "classroom",
+            "B": "gym",
+            "C": "walkway",
+            "D": "library"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/10495085476.mp4",
+        "question": "where is this video taken",
+        "answer": "C",
+        "choices": {
+            "A": "dessert shop",
+            "B": "office building",
+            "C": "grass patch",
+            "D": "art gallery"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/2405004230.mp4",
+        "question": "where is this video taken",
+        "answer": "C",
+        "choices": {
+            "A": "historical museum",
+            "B": "downtown square",
+            "C": "carnival",
+            "D": "tropical beach"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5306556049.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "art gallery",
+            "B": "home",
+            "C": "library",
+            "D": "amusement park"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/3842638015.mp4",
+        "question": "where is this happening",
+        "answer": "A",
+        "choices": {
+            "A": "kitchen",
+            "B": "in a garden",
+            "C": "in a cinema",
+            "D": "on a street"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/4405327307.mp4",
+        "question": "where is this video taken",
+        "answer": "C",
+        "choices": {
+            "A": "airport terminal",
+            "B": "desert",
+            "C": "stage",
+            "D": "forest"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/7828681900.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "art gallery",
+            "B": "riverside",
+            "C": "urban cafe",
+            "D": "fashion boutique"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/8993709862.mp4",
+        "question": "where are the people hanging out",
+        "answer": "D",
+        "choices": {
+            "A": "subway station",
+            "B": "shopping mall",
+            "C": "library",
+            "D": "outdoors"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/5412696114.mp4",
+        "question": "where are the children hanging out",
+        "answer": "A",
+        "choices": {
+            "A": "living room",
+            "B": "museum",
+            "C": "train station",
+            "D": "art gallery"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/5607028175.mp4",
+        "question": "where was the trampoline placed",
+        "answer": "C",
+        "choices": {
+            "A": "on a mountain",
+            "B": "under a bridge",
+            "C": "outdoors",
+            "D": "inside a spaceship"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3381602382.mp4",
+        "question": "where were the people at",
+        "answer": "D",
+        "choices": {
+            "A": "art gallery",
+            "B": "mountain cabin",
+            "C": "beach",
+            "D": "dining"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/5454409762.mp4",
+        "question": "where is the video taken",
+        "answer": "C",
+        "choices": {
+            "A": "aquarium",
+            "B": "underground parking",
+            "C": "snow jungle",
+            "D": "museum"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3992773451.mp4",
+        "question": "where is this place",
+        "answer": "C",
+        "choices": {
+            "A": "skyscraper",
+            "B": "botanical garden",
+            "C": "pool",
+            "D": "art gallery"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3571539122.mp4",
+        "question": "where are the people performing",
+        "answer": "C",
+        "choices": {
+            "A": "at a restaurant",
+            "B": "inside a gym",
+            "C": "on stage",
+            "D": "in a library"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/10376859826.mp4",
+        "question": "where are the people hanging out",
+        "answer": "D",
+        "choices": {
+            "A": "art gallery",
+            "B": "ski lodge",
+            "C": "shopping mall",
+            "D": "living room"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/6045316181.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "amusement park",
+            "B": "bathroom",
+            "C": "library",
+            "D": "stadium"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5460127828.mp4",
+        "question": "where is this video taken",
+        "answer": "D",
+        "choices": {
+            "A": "train station",
+            "B": "factory",
+            "C": "aquarium",
+            "D": "along the road"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/4937654460.mp4",
+        "question": "where is this video taken",
+        "answer": "D",
+        "choices": {
+            "A": "airport",
+            "B": "forest",
+            "C": "beach",
+            "D": "room"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/6889066554.mp4",
+        "question": "where is the train moving on",
+        "answer": "D",
+        "choices": {
+            "A": "museum",
+            "B": "beach",
+            "C": "shopping mall",
+            "D": "train railway"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/3739867574.mp4",
+        "question": "where is this video taken",
+        "answer": "D",
+        "choices": {
+            "A": "desert",
+            "B": "train station",
+            "C": "art gallery",
+            "D": "stage"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/2756607919.mp4",
+        "question": "where is this happening",
+        "answer": "D",
+        "choices": {
+            "A": "garage",
+            "B": "balcony",
+            "C": "restaurant",
+            "D": "living room"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/7011018565.mp4",
+        "question": "where are the dogs hanging out",
+        "answer": "B",
+        "choices": {
+            "A": "city park",
+            "B": "field",
+            "C": "beach",
+            "D": "airport lounge"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/2906873825.mp4",
+        "question": "where are the men performing at",
+        "answer": "A",
+        "choices": {
+            "A": "outside restaurant",
+            "B": "mall rooftop",
+            "C": "airport lounge",
+            "D": "art gallery"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/3540508501.mp4",
+        "question": "where are the people hanging out",
+        "answer": "B",
+        "choices": {
+            "A": "beach",
+            "B": "field",
+            "C": "ballroom",
+            "D": "mountain"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/2779340329.mp4",
+        "question": "where is this video taken",
+        "answer": "A",
+        "choices": {
+            "A": "train",
+            "B": "amusement park",
+            "C": "tropical beach",
+            "D": "concert stage"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/4924794333.mp4",
+        "question": "where does the man hold onto the baby",
+        "answer": "B",
+        "choices": {
+            "A": "on a beach",
+            "B": "put baby on lap",
+            "C": "in a library",
+            "D": "in a garden"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/2416632400.mp4",
+        "question": "where is this happening",
+        "answer": "D",
+        "choices": {
+            "A": "mountain resort",
+            "B": "cafe",
+            "C": "library",
+            "D": "train station"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/6801869574.mp4",
+        "question": "where are the people hanging out",
+        "answer": "D",
+        "choices": {
+            "A": "gym",
+            "B": "office",
+            "C": "cafe",
+            "D": "backyard"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/2402178262.mp4",
+        "question": "where are they dancing",
+        "answer": "A",
+        "choices": {
+            "A": "indoor",
+            "B": "on a beach",
+            "C": "in a forest",
+            "D": "on the city streets"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/4430422083.mp4",
+        "question": "where is this video taken",
+        "answer": "D",
+        "choices": {
+            "A": "beach",
+            "B": "airport",
+            "C": "factory",
+            "D": "farm"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/4959088086.mp4",
+        "question": "where is this video taken",
+        "answer": "A",
+        "choices": {
+            "A": "home",
+            "B": "ski resort",
+            "C": "beach",
+            "D": "zoo"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/3988313151.mp4",
+        "question": "where is the cake kept",
+        "answer": "B",
+        "choices": {
+            "A": "in the attic",
+            "B": "on the table",
+            "C": "on the rooftop",
+            "D": "next to the pool"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/3546634491.mp4",
+        "question": "where is this happening",
+        "answer": "B",
+        "choices": {
+            "A": "forest cabin",
+            "B": "classroom",
+            "C": "airport lounge",
+            "D": "beachside cafe"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5415466680.mp4",
+        "question": "where is this video taken",
+        "answer": "C",
+        "choices": {
+            "A": "bakery",
+            "B": "museum",
+            "C": "stage",
+            "D": "library"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/11278971046.mp4",
+        "question": "where is this place",
+        "answer": "B",
+        "choices": {
+            "A": "under a gazebo",
+            "B": "classroom",
+            "C": "boat dock",
+            "D": "in a museum gallery"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/4650731570.mp4",
+        "question": "where is this video taken",
+        "answer": "A",
+        "choices": {
+            "A": "living room",
+            "B": "harbor",
+            "C": "airport lounge",
+            "D": "ambulance"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/4979527132.mp4",
+        "question": "where are the people hanging out",
+        "answer": "D",
+        "choices": {
+            "A": "art gallery",
+            "B": "boat deck",
+            "C": "train station",
+            "D": "living room"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/4444103383.mp4",
+        "question": "where are these people performing",
+        "answer": "C",
+        "choices": {
+            "A": "amusement park",
+            "B": "bookstore",
+            "C": "bar",
+            "D": "library"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/6091663460.mp4",
+        "question": "where is the man playing tennis",
+        "answer": "C",
+        "choices": {
+            "A": "gymnasium",
+            "B": "library",
+            "C": "tennis courts",
+            "D": "basketball court"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/7823823944.mp4",
+        "question": "where is this video taken",
+        "answer": "D",
+        "choices": {
+            "A": "art gallery",
+            "B": "underground bunker",
+            "C": "city rooftop",
+            "D": "outdoors"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/7004238086.mp4",
+        "question": "where is this video taken",
+        "answer": "A",
+        "choices": {
+            "A": "living room",
+            "B": "art gallery",
+            "C": "server room",
+            "D": "boutique"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/2479343168.mp4",
+        "question": "where are the people",
+        "answer": "A",
+        "choices": {
+            "A": "forest",
+            "B": "construction site",
+            "C": "amusement park",
+            "D": "library"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/5080289573.mp4",
+        "question": "where is this video taken",
+        "answer": "C",
+        "choices": {
+            "A": "train station",
+            "B": "ski lodge",
+            "C": "river",
+            "D": "mountain top"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/2577914719.mp4",
+        "question": "where is the boy sitting",
+        "answer": "D",
+        "choices": {
+            "A": "subway station",
+            "B": "mountain",
+            "C": "art gallery",
+            "D": "bicycle"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/3050287321.mp4",
+        "question": "where are the people hanging out",
+        "answer": "B",
+        "choices": {
+            "A": "library",
+            "B": "bedroom",
+            "C": "concert hall",
+            "D": "train station"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/3317240291.mp4",
+        "question": "where could this be happening",
+        "answer": "D",
+        "choices": {
+            "A": "train station",
+            "B": "shopping mall",
+            "C": "amusement park",
+            "D": "bedroom"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/6317085607.mp4",
+        "question": "where is the speaker giving his speech",
+        "answer": "A",
+        "choices": {
+            "A": "behind podium",
+            "B": "construction site",
+            "C": "art gallery",
+            "D": "city library"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/5678689001.mp4",
+        "question": "where is the video taken",
+        "answer": "C",
+        "choices": {
+            "A": "inside a stadium",
+            "B": "alpine meadow",
+            "C": "field",
+            "D": "beach"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3728184329.mp4",
+        "question": "where is the activity occuring",
+        "answer": "D",
+        "choices": {
+            "A": "mall entrance",
+            "B": "art gallery",
+            "C": "coffee shop patio",
+            "D": "high element corner"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/3900682951.mp4",
+        "question": "where is this happening",
+        "answer": "C",
+        "choices": {
+            "A": "bakery",
+            "B": "botanical garden",
+            "C": "cave",
+            "D": "museum"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/7174056178.mp4",
+        "question": "where are the people hanging out",
+        "answer": "A",
+        "choices": {
+            "A": "living room",
+            "B": "ski resort",
+            "C": "amusement park",
+            "D": "shopping mall"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/12298809926.mp4",
+        "question": "where is this occurring",
+        "answer": "B",
+        "choices": {
+            "A": "museum gallery",
+            "B": "golf court",
+            "C": "beach resort",
+            "D": "yoga studio"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5477272417.mp4",
+        "question": "where are the people at",
+        "answer": "C",
+        "choices": {
+            "A": "airport",
+            "B": "library",
+            "C": "forest",
+            "D": "museum"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3521537861.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "conference room",
+            "B": "garden",
+            "C": "art gallery",
+            "D": "library"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/4834895241.mp4",
+        "question": "where is this video taken",
+        "answer": "A",
+        "choices": {
+            "A": "indoor track",
+            "B": "beachfront",
+            "C": "countryside",
+            "D": "museum"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/9528960175.mp4",
+        "question": "where is the child at",
+        "answer": "B",
+        "choices": {
+            "A": "inside a store",
+            "B": "bedroom",
+            "C": "an attic",
+            "D": "a library"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5396384503.mp4",
+        "question": "where are the ducks swimming at",
+        "answer": "D",
+        "choices": {
+            "A": "library",
+            "B": "parking lot",
+            "C": "amphitheatre",
+            "D": "river"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/4811179274.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "observatory",
+            "B": "field",
+            "C": "aquarium",
+            "D": "museum"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/4754644196.mp4",
+        "question": "where is this video taken",
+        "answer": "A",
+        "choices": {
+            "A": "park",
+            "B": "ski slope",
+            "C": "aquarium",
+            "D": "underwater"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/8064396272.mp4",
+        "question": "where are the dogs hanging out",
+        "answer": "A",
+        "choices": {
+            "A": "living room",
+            "B": "airport lounge",
+            "C": "bookstore",
+            "D": "mall entrance"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/3375064270.mp4",
+        "question": "where is this video taken",
+        "answer": "A",
+        "choices": {
+            "A": "snowy hill",
+            "B": "medieval castle",
+            "C": "desert oasis",
+            "D": "tropical beach"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/8575896129.mp4",
+        "question": "where are the people hanging out",
+        "answer": "C",
+        "choices": {
+            "A": "in a library",
+            "B": "at a ski resort",
+            "C": "near a field",
+            "D": "inside a museum"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3255908815.mp4",
+        "question": "where could this be happening",
+        "answer": "D",
+        "choices": {
+            "A": "skate park",
+            "B": "shopping mall",
+            "C": "urban park",
+            "D": "in house"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/2437115175.mp4",
+        "question": "where are the lady and the dog at",
+        "answer": "C",
+        "choices": {
+            "A": "museum",
+            "B": "airport lounge",
+            "C": "bathroom",
+            "D": "library"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3028133743.mp4",
+        "question": "where is this place",
+        "answer": "B",
+        "choices": {
+            "A": "museum",
+            "B": "swimming pool",
+            "C": "shopping mall",
+            "D": "city park"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/3753830144.mp4",
+        "question": "where is this place",
+        "answer": "C",
+        "choices": {
+            "A": "art gallery",
+            "B": "aquarium",
+            "C": "classroom",
+            "D": "airport lounge"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/6653111897.mp4",
+        "question": "where is this video taken",
+        "answer": "A",
+        "choices": {
+            "A": "living room",
+            "B": "library",
+            "C": "beach resort",
+            "D": "forest trail"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/5508995205.mp4",
+        "question": "where is this video taken",
+        "answer": "A",
+        "choices": {
+            "A": "swimming pool",
+            "B": "mountain lodge",
+            "C": "art gallery",
+            "D": "ship deck"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/6625133293.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "airplane cabin",
+            "B": "mart",
+            "C": "gym",
+            "D": "beach"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/7587067930.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "factory floor",
+            "B": "living room",
+            "C": "grand library",
+            "D": "underwater cave"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/6579160577.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "desert camp",
+            "B": "living room",
+            "C": "forest cabin",
+            "D": "mountain lodge"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/6134687264.mp4",
+        "question": "where are the people hanging out",
+        "answer": "B",
+        "choices": {
+            "A": "art gallery",
+            "B": "home",
+            "C": "cafe",
+            "D": "train station"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/3740849151.mp4",
+        "question": "where is the cat sitting",
+        "answer": "B",
+        "choices": {
+            "A": "balcony",
+            "B": "on the chair",
+            "C": "beach",
+            "D": "restaurant"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/4892549531.mp4",
+        "question": "where are the people practising the play",
+        "answer": "A",
+        "choices": {
+            "A": "stage",
+            "B": "desert camp",
+            "C": "beachfront",
+            "D": "subway station"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/5736690354.mp4",
+        "question": "where is the man riding the horse",
+        "answer": "D",
+        "choices": {
+            "A": "art gallery",
+            "B": "castle",
+            "C": "library",
+            "D": "garden"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/5875210125.mp4",
+        "question": "where is this happening",
+        "answer": "D",
+        "choices": {
+            "A": "library",
+            "B": "amusement park",
+            "C": "museum",
+            "D": "park"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/4641631235.mp4",
+        "question": "where is this video taken",
+        "answer": "C",
+        "choices": {
+            "A": "restaurant",
+            "B": "office",
+            "C": "stage",
+            "D": "art gallery"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/2583300764.mp4",
+        "question": "where are the people at",
+        "answer": "D",
+        "choices": {
+            "A": "at a space observatory",
+            "B": "on an ice rink",
+            "C": "in a lecture hall",
+            "D": "by the water"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/9231896269.mp4",
+        "question": "where are the people hanging out",
+        "answer": "C",
+        "choices": {
+            "A": "art gallery",
+            "B": "train station",
+            "C": "kitchen",
+            "D": "university campus"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/2774457371.mp4",
+        "question": "where did the cat get the water to drink",
+        "answer": "C",
+        "choices": {
+            "A": "from a mountain lodge",
+            "B": "from a rooftop garden",
+            "C": "from tap",
+            "D": "from a ship deck"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/4631119360.mp4",
+        "question": "where is this video taken",
+        "answer": "C",
+        "choices": {
+            "A": "library",
+            "B": "train station",
+            "C": "beach",
+            "D": "ski resort"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3329878386.mp4",
+        "question": "where could this be happening",
+        "answer": "B",
+        "choices": {
+            "A": "amusement park",
+            "B": "living room",
+            "C": "train station",
+            "D": "museum"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/2542153546.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "on a beach",
+            "B": "in a room",
+            "C": "in a library",
+            "D": "in a garden"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5608926424.mp4",
+        "question": "where was the goat positioned with respect to the lady",
+        "answer": "C",
+        "choices": {
+            "A": "next to the river",
+            "B": "at the train station",
+            "C": "in front",
+            "D": "inside the library"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/5799371453.mp4",
+        "question": "where is this place",
+        "answer": "B",
+        "choices": {
+            "A": "amusement park",
+            "B": "pet house",
+            "C": "art gallery",
+            "D": "aquarium"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/10488004303.mp4",
+        "question": "where is this happening",
+        "answer": "B",
+        "choices": {
+            "A": "in a library",
+            "B": "room",
+            "C": "art gallery",
+            "D": "concert hall"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/8340480194.mp4",
+        "question": "where is this",
+        "answer": "C",
+        "choices": {
+            "A": "desert tent",
+            "B": "train station",
+            "C": "home",
+            "D": "castle courtyard"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/5542785759.mp4",
+        "question": "where is all the food displayed",
+        "answer": "B",
+        "choices": {
+            "A": "within a garage",
+            "B": "on the table",
+            "C": "in a gallery",
+            "D": "on a rooftop"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5564473671.mp4",
+        "question": "where is this activity taking place",
+        "answer": "A",
+        "choices": {
+            "A": "archery practice",
+            "B": "forest",
+            "C": "amusement park",
+            "D": "ski resort"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/9221389917.mp4",
+        "question": "where are the boy and girl playing",
+        "answer": "B",
+        "choices": {
+            "A": "subway station",
+            "B": "living area",
+            "C": "rooftop garden",
+            "D": "museum exhibit"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/2962278896.mp4",
+        "question": "where did the man get the foam from",
+        "answer": "D",
+        "choices": {
+            "A": "library",
+            "B": "ski resort",
+            "C": "ice rink",
+            "D": "bathtub"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/11276537014.mp4",
+        "question": "where is the activity taking place",
+        "answer": "D",
+        "choices": {
+            "A": "art gallery",
+            "B": "beach",
+            "C": "shopping mall",
+            "D": "blessing place"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/10467727335.mp4",
+        "question": "where are the man and girl at",
+        "answer": "C",
+        "choices": {
+            "A": "art gallery",
+            "B": "coffee shop",
+            "C": "living room",
+            "D": "amusement ride"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/7530953680.mp4",
+        "question": "where is this place",
+        "answer": "C",
+        "choices": {
+            "A": "jungle",
+            "B": "museum",
+            "C": "port",
+            "D": "a desert"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/8870296245.mp4",
+        "question": "where are the animals present",
+        "answer": "C",
+        "choices": {
+            "A": "beach",
+            "B": "bookstore",
+            "C": "pigsty",
+            "D": "museum"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/4474292288.mp4",
+        "question": "where is this happening",
+        "answer": "C",
+        "choices": {
+            "A": "downtown square",
+            "B": "museum",
+            "C": "swimming pool",
+            "D": "art gallery"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/6706220611.mp4",
+        "question": "how many babies were there",
+        "answer": "A",
+        "choices": {
+            "A": "one",
+            "B": "two on a beach",
+            "C": "three in a classroom",
+            "D": "five in a museum"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/6016853978.mp4",
+        "question": "where is this occurring",
+        "answer": "A",
+        "choices": {
+            "A": "home",
+            "B": "concert hall",
+            "C": "seaside",
+            "D": "jungle"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/7238677454.mp4",
+        "question": "where is this video taken",
+        "answer": "D",
+        "choices": {
+            "A": "bookstore",
+            "B": "train station",
+            "C": "conference hall",
+            "D": "swimming pool"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/9297698436.mp4",
+        "question": "where could this be happening",
+        "answer": "D",
+        "choices": {
+            "A": "airport",
+            "B": "zoo",
+            "C": "amusement park",
+            "D": "home"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/4775972536.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "library",
+            "B": "car",
+            "C": "cafe",
+            "D": "theater"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/3167311763.mp4",
+        "question": "where is this happening",
+        "answer": "A",
+        "choices": {
+            "A": "bowling alley",
+            "B": "museum",
+            "C": "library",
+            "D": "shopping mall"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/4400018396.mp4",
+        "question": "where is this video taken",
+        "answer": "D",
+        "choices": {
+            "A": "airport terminal",
+            "B": "museum",
+            "C": "mountain cabin",
+            "D": "in house"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/3672431760.mp4",
+        "question": "where are they",
+        "answer": "B",
+        "choices": {
+            "A": "on a mountain trail",
+            "B": "park",
+            "C": "art studio",
+            "D": "in a pottery workshop"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5883403537.mp4",
+        "question": "where was the video taken",
+        "answer": "A",
+        "choices": {
+            "A": "bedroom",
+            "B": "museum",
+            "C": "library",
+            "D": "art gallery"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/3183346596.mp4",
+        "question": "where is the man resting",
+        "answer": "D",
+        "choices": {
+            "A": "inside a bustling marketplace",
+            "B": "at a sandy beach",
+            "C": "under a city bridge",
+            "D": "sitting on the rocks"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/2577914719.mp4",
+        "question": "where is the boy hanging out",
+        "answer": "D",
+        "choices": {
+            "A": "bowling alley",
+            "B": "art studio",
+            "C": "beach",
+            "D": "living room"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/3261112327.mp4",
+        "question": "where is this happening",
+        "answer": "A",
+        "choices": {
+            "A": "garden",
+            "B": "medieval village",
+            "C": "amusement park",
+            "D": "jungle gym"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/3172491020.mp4",
+        "question": "where is this happening",
+        "answer": "A",
+        "choices": {
+            "A": "on a mountain",
+            "B": "in a cozy cabin",
+            "C": "in a bustling city",
+            "D": "in a tech office"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/4940808240.mp4",
+        "question": "where does the kid hang out",
+        "answer": "C",
+        "choices": {
+            "A": "library",
+            "B": "beach",
+            "C": "floor in the home",
+            "D": "shopping mall"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/6313200205.mp4",
+        "question": "where is this happening",
+        "answer": "B",
+        "choices": {
+            "A": "mountain cabin",
+            "B": "bridge",
+            "C": "subway station",
+            "D": "castle"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5276779893.mp4",
+        "question": "where are the people hanging out",
+        "answer": "D",
+        "choices": {
+            "A": "aquarium",
+            "B": "bowling alley",
+            "C": "arcade",
+            "D": "room"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/3485338448.mp4",
+        "question": "where is this happening",
+        "answer": "B",
+        "choices": {
+            "A": "art gallery",
+            "B": "house",
+            "C": "museum garden",
+            "D": "amusement park"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/3844880628.mp4",
+        "question": "where are the people hanging out",
+        "answer": "A",
+        "choices": {
+            "A": "playground",
+            "B": "museum",
+            "C": "library",
+            "D": "cafe"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/6419015349.mp4",
+        "question": "where is the video taken",
+        "answer": "B",
+        "choices": {
+            "A": "urban plaza",
+            "B": "house",
+            "C": "beach",
+            "D": "mountain lodge"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/6317093992.mp4",
+        "question": "where could this be happening",
+        "answer": "C",
+        "choices": {
+            "A": "beach",
+            "B": "library",
+            "C": "workplace",
+            "D": "forest"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/7530844076.mp4",
+        "question": "where are the dog and the person hanging out",
+        "answer": "C",
+        "choices": {
+            "A": "beach",
+            "B": "mountainside",
+            "C": "living room",
+            "D": "amusement park"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/6994417868.mp4",
+        "question": "where is the man trying out the toy",
+        "answer": "C",
+        "choices": {
+            "A": "inside a museum",
+            "B": "in a forest",
+            "C": "shop",
+            "D": "at a carnival"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3480618846.mp4",
+        "question": "where are the people hanging out",
+        "answer": "C",
+        "choices": {
+            "A": "city library",
+            "B": "shopping mall",
+            "C": "forest",
+            "D": "subway station"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/6388102299.mp4",
+        "question": "where is this video taken",
+        "answer": "C",
+        "choices": {
+            "A": "library",
+            "B": "shopping mall",
+            "C": "bedroom",
+            "D": "aquarium"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/2777021212.mp4",
+        "question": "where is the video being taken",
+        "answer": "D",
+        "choices": {
+            "A": "amusement park",
+            "B": "stadium",
+            "C": "marketplace",
+            "D": "shooting range"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/3357799819.mp4",
+        "question": "where is this happening",
+        "answer": "B",
+        "choices": {
+            "A": "subway station",
+            "B": "bedroom",
+            "C": "beach",
+            "D": "castle"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/3885216493.mp4",
+        "question": "where did this occur",
+        "answer": "B",
+        "choices": {
+            "A": "airport lounge",
+            "B": "house",
+            "C": "beach",
+            "D": "train station"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5972972222.mp4",
+        "question": "where is this happening",
+        "answer": "C",
+        "choices": {
+            "A": "ski resort",
+            "B": "office building",
+            "C": "backyard",
+            "D": "museum"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/5617027305.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "inside a library",
+            "B": "staircase at a park",
+            "C": "under a bridge",
+            "D": "downtown cafe"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/6279934011.mp4",
+        "question": "where is this video taken",
+        "answer": "A",
+        "choices": {
+            "A": "living room",
+            "B": "ski lodge",
+            "C": "amusement park",
+            "D": "subway station"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/8469860079.mp4",
+        "question": "where is this",
+        "answer": "A",
+        "choices": {
+            "A": "gymnasium",
+            "B": "office",
+            "C": "airport",
+            "D": "library"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/3701219945.mp4",
+        "question": "where is the setting of the video",
+        "answer": "C",
+        "choices": {
+            "A": "art gallery",
+            "B": "urban plaza",
+            "C": "desert",
+            "D": "forest glade"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/4337653722.mp4",
+        "question": "where is the man riding the horse on",
+        "answer": "A",
+        "choices": {
+            "A": "snow",
+            "B": "shopping mall",
+            "C": "rooftop",
+            "D": "beach"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/6776284781.mp4",
+        "question": "where are the lady and the boy walking",
+        "answer": "B",
+        "choices": {
+            "A": "inside the aquarium",
+            "B": "forest trail",
+            "C": "in the art gallery",
+            "D": "through the city park"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/4607629530.mp4",
+        "question": "where is this place",
+        "answer": "D",
+        "choices": {
+            "A": "beachfront cafe",
+            "B": "train compartment",
+            "C": "mountain cabin",
+            "D": "indoors"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/8886103892.mp4",
+        "question": "where is this happening",
+        "answer": "C",
+        "choices": {
+            "A": "shopping mall",
+            "B": "airport",
+            "C": "park",
+            "D": "amusement park"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/5547902371.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "art gallery",
+            "B": "outdoors",
+            "C": "shopping mall",
+            "D": "studio apartment"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/6306690515.mp4",
+        "question": "where is the cat hanging out",
+        "answer": "C",
+        "choices": {
+            "A": "in the mountains",
+            "B": "at the beach",
+            "C": "in the living room",
+            "D": "in the cafeteria"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3060640279.mp4",
+        "question": "where is this place",
+        "answer": "B",
+        "choices": {
+            "A": "museum",
+            "B": "living room",
+            "C": "aquarium",
+            "D": "desert"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/2776910060.mp4",
+        "question": "where is this video taken",
+        "answer": "A",
+        "choices": {
+            "A": "living room",
+            "B": "beach",
+            "C": "ski lodge",
+            "D": "jungle"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/7691046836.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "concert hall",
+            "B": "on the plane",
+            "C": "art gallery",
+            "D": "luxurious cabin"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/4000445275.mp4",
+        "question": "where is the baby sitting as she eats her food",
+        "answer": "B",
+        "choices": {
+            "A": "in a cafe",
+            "B": "baby chair",
+            "C": "in the car",
+            "D": "in the garden"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/4885355005.mp4",
+        "question": "where is this video taken",
+        "answer": "C",
+        "choices": {
+            "A": "underground tunnel",
+            "B": "art gallery",
+            "C": "road",
+            "D": "airport terminal"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/9289576155.mp4",
+        "question": "where are the cats at",
+        "answer": "D",
+        "choices": {
+            "A": "art gallery",
+            "B": "train station",
+            "C": "beach",
+            "D": "carpark"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/2430157408.mp4",
+        "question": "where are the people hanging out",
+        "answer": "D",
+        "choices": {
+            "A": "art gallery",
+            "B": "airport",
+            "C": "shopping mall",
+            "D": "living room"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/4979601057.mp4",
+        "question": "where does the boy hanging out",
+        "answer": "A",
+        "choices": {
+            "A": "living room",
+            "B": "amusement park",
+            "C": "moon base",
+            "D": "art museum"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/4311927018.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "art gallery",
+            "B": "construction site",
+            "C": "library",
+            "D": "garage"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5477272417.mp4",
+        "question": "where was the man and the woman at",
+        "answer": "C",
+        "choices": {
+            "A": "carousel",
+            "B": "mars",
+            "C": "rainforest",
+            "D": "aquarium"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/7694986054.mp4",
+        "question": "where is this",
+        "answer": "A",
+        "choices": {
+            "A": "hospital room",
+            "B": "library",
+            "C": "airport lounge",
+            "D": "art gallery"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/3625960287.mp4",
+        "question": "where is this happening",
+        "answer": "C",
+        "choices": {
+            "A": "shopping mall",
+            "B": "botanical garden",
+            "C": "petting zoo",
+            "D": "beach resort"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/8031010690.mp4",
+        "question": "where is this place",
+        "answer": "D",
+        "choices": {
+            "A": "desert",
+            "B": "amusement park",
+            "C": "art gallery",
+            "D": "living room"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/8402613023.mp4",
+        "question": "where is the baby at",
+        "answer": "D",
+        "choices": {
+            "A": "in a busy marketplace",
+            "B": "at a mountain cabin",
+            "C": "on a sandy beach",
+            "D": "at home"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/5622582668.mp4",
+        "question": "where are both the kids eating the ice cream from",
+        "answer": "A",
+        "choices": {
+            "A": "cup",
+            "B": "museum",
+            "C": "classroom",
+            "D": "beach"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/7064920441.mp4",
+        "question": "where are the people hanging out",
+        "answer": "B",
+        "choices": {
+            "A": "museum",
+            "B": "living room",
+            "C": "concert hall",
+            "D": "beach"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/3434653211.mp4",
+        "question": "where is the boy at",
+        "answer": "A",
+        "choices": {
+            "A": "footpath",
+            "B": "museum lobby",
+            "C": "library entrance",
+            "D": "botanical garden"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/3223951946.mp4",
+        "question": "where are the two people dancing",
+        "answer": "D",
+        "choices": {
+            "A": "art gallery",
+            "B": "office",
+            "C": "museum",
+            "D": "living room"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/6224708185.mp4",
+        "question": "where are the animals hanging out",
+        "answer": "B",
+        "choices": {
+            "A": "in a library",
+            "B": "outdoors",
+            "C": "at a ski resort",
+            "D": "underwater"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/6181099606.mp4",
+        "question": "where are the woman and the baby hanging out",
+        "answer": "B",
+        "choices": {
+            "A": "forest clearing",
+            "B": "dining table",
+            "C": "art studio",
+            "D": "marina"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/12764453004.mp4",
+        "question": "where is this video taken",
+        "answer": "C",
+        "choices": {
+            "A": "museum gallery",
+            "B": "conference room",
+            "C": "outdoors",
+            "D": "shopping mall"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/4440840337.mp4",
+        "question": "where are the people sitting",
+        "answer": "C",
+        "choices": {
+            "A": "restaurant",
+            "B": "airport lounge",
+            "C": "chair",
+            "D": "mountaintop"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/4740345442.mp4",
+        "question": "where is this happening",
+        "answer": "B",
+        "choices": {
+            "A": "vineyard",
+            "B": "river side",
+            "C": "tropical beach",
+            "D": "desert"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/7354297342.mp4",
+        "question": "where is the guy at",
+        "answer": "B",
+        "choices": {
+            "A": "beach",
+            "B": "room",
+            "C": "ski resort",
+            "D": "forest"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/2437115175.mp4",
+        "question": "where is the activity being carried out",
+        "answer": "B",
+        "choices": {
+            "A": "beach",
+            "B": "bathroom",
+            "C": "mountaintop",
+            "D": "art studio"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/8328369894.mp4",
+        "question": "where is this",
+        "answer": "B",
+        "choices": {
+            "A": "restaurant",
+            "B": "home",
+            "C": "library",
+            "D": "museum"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/2703151976.mp4",
+        "question": "where did this happen",
+        "answer": "D",
+        "choices": {
+            "A": "mountaintop",
+            "B": "shopping mall",
+            "C": "amusement park",
+            "D": "stage"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/3070014782.mp4",
+        "question": "where is this place",
+        "answer": "D",
+        "choices": {
+            "A": "art gallery",
+            "B": "library",
+            "C": "coffee shop",
+            "D": "living room"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/3524009829.mp4",
+        "question": "where are the people hanging out",
+        "answer": "B",
+        "choices": {
+            "A": "in a marketplace",
+            "B": "by the thams",
+            "C": "in a library",
+            "D": "at a concert"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/7580367082.mp4",
+        "question": "where could this be happening",
+        "answer": "C",
+        "choices": {
+            "A": "beach",
+            "B": "pirate ship",
+            "C": "hospital",
+            "D": "mountains"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3653430541.mp4",
+        "question": "where are the people hanging out",
+        "answer": "D",
+        "choices": {
+            "A": "library",
+            "B": "exhibition hall",
+            "C": "gym",
+            "D": "forest"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/6781937922.mp4",
+        "question": "where is this place",
+        "answer": "C",
+        "choices": {
+            "A": "beach festival",
+            "B": "mountain resort",
+            "C": "street",
+            "D": "art gallery"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3727471969.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "cafeteria",
+            "B": "fast food place",
+            "C": "train station",
+            "D": "art gallery"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5451088285.mp4",
+        "question": "where are the people hanging out",
+        "answer": "A",
+        "choices": {
+            "A": "terrace",
+            "B": "airport lounge",
+            "C": "library",
+            "D": "gym"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/2935869403.mp4",
+        "question": "where was this video taken",
+        "answer": "A",
+        "choices": {
+            "A": "road",
+            "B": "art gallery",
+            "C": "sports stadium",
+            "D": "amusement park"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/6973757699.mp4",
+        "question": "where is the girl cycling",
+        "answer": "B",
+        "choices": {
+            "A": "in a shopping mall",
+            "B": "on the pavement",
+            "C": "inside a library",
+            "D": "at a concert venue"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/6889066554.mp4",
+        "question": "where is this video taken",
+        "answer": "C",
+        "choices": {
+            "A": "airport terminal",
+            "B": "beachside",
+            "C": "train railway",
+            "D": "city park"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/6663770743.mp4",
+        "question": "where is this happening",
+        "answer": "D",
+        "choices": {
+            "A": "in a greenhouse",
+            "B": "at a train station",
+            "C": "in a library",
+            "D": "outdoors"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/7742310064.mp4",
+        "question": "where is this video taken",
+        "answer": "C",
+        "choices": {
+            "A": "amusement park",
+            "B": "forest",
+            "C": "beach",
+            "D": "gym"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/2669597217.mp4",
+        "question": "where is this happening",
+        "answer": "A",
+        "choices": {
+            "A": "boat",
+            "B": "cafeteria",
+            "C": "museum",
+            "D": "ski resort"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/2925959064.mp4",
+        "question": "where is this place",
+        "answer": "D",
+        "choices": {
+            "A": "art gallery",
+            "B": "gym",
+            "C": "office building",
+            "D": "river"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/3631211612.mp4",
+        "question": "where is this happening",
+        "answer": "C",
+        "choices": {
+            "A": "airport",
+            "B": "on a rooftop",
+            "C": "at a party",
+            "D": "in a library"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/6321842912.mp4",
+        "question": "where are the people hanging out",
+        "answer": "C",
+        "choices": {
+            "A": "library",
+            "B": "caf\u00e9",
+            "C": "bedroom",
+            "D": "cinema"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/7149839527.mp4",
+        "question": "where are the people at",
+        "answer": "B",
+        "choices": {
+            "A": "library",
+            "B": "room",
+            "C": "gallery",
+            "D": "restaurant"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/10483027904.mp4",
+        "question": "where are the children and woman at",
+        "answer": "A",
+        "choices": {
+            "A": "in house",
+            "B": "in a theatre",
+            "C": "in downtown cafe",
+            "D": "in the mountains"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/11794880314.mp4",
+        "question": "where is the girl playing",
+        "answer": "C",
+        "choices": {
+            "A": "science museum",
+            "B": "art studio",
+            "C": "living room",
+            "D": "library"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/6901974982.mp4",
+        "question": "where is the video taken",
+        "answer": "B",
+        "choices": {
+            "A": "castle",
+            "B": "house",
+            "C": "train station",
+            "D": "zoo"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/3561135916.mp4",
+        "question": "where is this place",
+        "answer": "A",
+        "choices": {
+            "A": "dining room",
+            "B": "library",
+            "C": "laboratory",
+            "D": "museum"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/3258993991.mp4",
+        "question": "where was the dog s food contained",
+        "answer": "C",
+        "choices": {
+            "A": "train station",
+            "B": "library",
+            "C": "bowl",
+            "D": "art gallery"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3377976885.mp4",
+        "question": "where is this video taken",
+        "answer": "B",
+        "choices": {
+            "A": "library",
+            "B": "zoo",
+            "C": "beach",
+            "D": "office"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/3300272359.mp4",
+        "question": "where is this video taken",
+        "answer": "D",
+        "choices": {
+            "A": "ocean pier",
+            "B": "art gallery",
+            "C": "botanical garden",
+            "D": "living room"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/4945866176.mp4",
+        "question": "where is this video taken",
+        "answer": "D",
+        "choices": {
+            "A": "airport",
+            "B": "train station",
+            "C": "amusement park",
+            "D": "home"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/2794873229.mp4",
+        "question": "where is this place",
+        "answer": "B",
+        "choices": {
+            "A": "ski resort",
+            "B": "a room",
+            "C": "amusement park",
+            "D": "airport lounge"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/4768807796.mp4",
+        "question": "where are the people hanging out",
+        "answer": "A",
+        "choices": {
+            "A": "living room",
+            "B": "desert oasis",
+            "C": "industrial warehouse",
+            "D": "cornfield"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/4740931975.mp4",
+        "question": "where is this video taken",
+        "answer": "A",
+        "choices": {
+            "A": "lake",
+            "B": "ocean shore",
+            "C": "city skyline",
+            "D": "art gallery"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/9935699345.mp4",
+        "question": "where is this place",
+        "answer": "D",
+        "choices": {
+            "A": "art gallery",
+            "B": "cafe",
+            "C": "beach",
+            "D": "obstacel court"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/4935001480.mp4",
+        "question": "where is this",
+        "answer": "C",
+        "choices": {
+            "A": "library",
+            "B": "beach",
+            "C": "park",
+            "D": "art gallery"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/5571348093.mp4",
+        "question": "where is this happening",
+        "answer": "B",
+        "choices": {
+            "A": "industrial site",
+            "B": "living room",
+            "C": "amusement park",
+            "D": "forest"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/8625406771.mp4",
+        "question": "where does the girl get the ball from at the beginning",
+        "answer": "D",
+        "choices": {
+            "A": "library",
+            "B": "beach",
+            "C": "cafeteria",
+            "D": "from pocket"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/2868301160.mp4",
+        "question": "where are the people hanging out",
+        "answer": "D",
+        "choices": {
+            "A": "rooftop terrace",
+            "B": "coffee shop",
+            "C": "art studio",
+            "D": "lawn"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/2774457371.mp4",
+        "question": "where is this video taken",
+        "answer": "D",
+        "choices": {
+            "A": "on a mountain trail",
+            "B": "at a music festival",
+            "C": "in a forest",
+            "D": "at a sink"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/2983727948.mp4",
+        "question": "where are the people",
+        "answer": "B",
+        "choices": {
+            "A": "art gallery",
+            "B": "snow moutain",
+            "C": "shopping mall",
+            "D": "gym"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5275599750.mp4",
+        "question": "where was the video taken",
+        "answer": "D",
+        "choices": {
+            "A": "train station",
+            "B": "library",
+            "C": "beach",
+            "D": "arcade"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/3336623732.mp4",
+        "question": "where is this place",
+        "answer": "B",
+        "choices": {
+            "A": "mountain",
+            "B": "house",
+            "C": "beach",
+            "D": "garden"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5624778109.mp4",
+        "question": "where is the dog sitting",
+        "answer": "B",
+        "choices": {
+            "A": "in the garden",
+            "B": "man s lap",
+            "C": "on the beach",
+            "D": "in the library"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/4152556613.mp4",
+        "question": "where are the dogs resting",
+        "answer": "C",
+        "choices": {
+            "A": "forest clearing",
+            "B": "city park",
+            "C": "bed",
+            "D": "mountain cabin"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/8032967534.mp4",
+        "question": "where is the man in white sitting",
+        "answer": "B",
+        "choices": {
+            "A": "on a rooftop patio",
+            "B": "at the side on the stage",
+            "C": "on a park bench",
+            "D": "on a beach towel"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/4968352174.mp4",
+        "question": "where is the man",
+        "answer": "D",
+        "choices": {
+            "A": "inside a library",
+            "B": "in a subway",
+            "C": "on a rooftop",
+            "D": "on water"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/4672625782.mp4",
+        "question": "where is this happening",
+        "answer": "D",
+        "choices": {
+            "A": "shopping mall",
+            "B": "skyscraper",
+            "C": "boutique",
+            "D": "river"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/7530907250.mp4",
+        "question": "where is this video taken",
+        "answer": "D",
+        "choices": {
+            "A": "shopping mall",
+            "B": "office building",
+            "C": "art gallery",
+            "D": "park"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/2579825280.mp4",
+        "question": "where are the ladies hanging out",
+        "answer": "C",
+        "choices": {
+            "A": "in a library",
+            "B": "in a caf\u00e9",
+            "C": "by a stream",
+            "D": "at a gym"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/5159941010.mp4",
+        "question": "where is this video taken",
+        "answer": "A",
+        "choices": {
+            "A": "room",
+            "B": "stadium",
+            "C": "forest",
+            "D": "beach"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/6237913346.mp4",
+        "question": "where is the video taken",
+        "answer": "A",
+        "choices": {
+            "A": "living room",
+            "B": "castle courtyard",
+            "C": "art gallery",
+            "D": "train station"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/3186134497.mp4",
+        "question": "where is this happening",
+        "answer": "B",
+        "choices": {
+            "A": "train station",
+            "B": "road",
+            "C": "airport",
+            "D": "bank"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/2401256231.mp4",
+        "question": "where is this place",
+        "answer": "A",
+        "choices": {
+            "A": "home",
+            "B": "shopping mall",
+            "C": "beach",
+            "D": "train station"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/2532161712.mp4",
+        "question": "where is this happening",
+        "answer": "A",
+        "choices": {
+            "A": "bus",
+            "B": "library",
+            "C": "bowling alley",
+            "D": "desert"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/10843059584.mp4",
+        "question": "where is this happening",
+        "answer": "B",
+        "choices": {
+            "A": "cafeteria",
+            "B": "presentation hall",
+            "C": "in the library",
+            "D": "garden"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/11277683376.mp4",
+        "question": "where is this video taken",
+        "answer": "D",
+        "choices": {
+            "A": "art gallery",
+            "B": "hiking trail",
+            "C": "underwater laboratory",
+            "D": "classroom"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/8900428927.mp4",
+        "question": "where is this video taken",
+        "answer": "C",
+        "choices": {
+            "A": "museum",
+            "B": "train station",
+            "C": "zoo",
+            "D": "jungle"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/5278952446.mp4",
+        "question": "where is this happening",
+        "answer": "C",
+        "choices": {
+            "A": "forest",
+            "B": "art studio",
+            "C": "couch",
+            "D": "boat"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/5471923610.mp4",
+        "question": "where is the man standing",
+        "answer": "A",
+        "choices": {
+            "A": "behing glass rostrum",
+            "B": "in a library",
+            "C": "in an art gallery",
+            "D": "inside a cave"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/2822110402.mp4",
+        "question": "where is this video taken",
+        "answer": "A",
+        "choices": {
+            "A": "sea",
+            "B": "art gallery",
+            "C": "suburban street",
+            "D": "botanical garden"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/3759094243.mp4",
+        "question": "where is this activity held at",
+        "answer": "A",
+        "choices": {
+            "A": "beach",
+            "B": "train station",
+            "C": "art gallery",
+            "D": "library"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/4738042036.mp4",
+        "question": "where is this place",
+        "answer": "B",
+        "choices": {
+            "A": "library",
+            "B": "living room",
+            "C": "golf course",
+            "D": "museum"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/2739709393.mp4",
+        "question": "where is this video taken",
+        "answer": "D",
+        "choices": {
+            "A": "concert hall",
+            "B": "subway station",
+            "C": "shopping mall",
+            "D": "bedroom"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/6246539463.mp4",
+        "question": "where is this happening",
+        "answer": "C",
+        "choices": {
+            "A": "fitness center",
+            "B": "cafeteria",
+            "C": "bird feeder",
+            "D": "shopping mall"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3692009167.mp4",
+        "question": "where is this place",
+        "answer": "B",
+        "choices": {
+            "A": "amusement park",
+            "B": "home",
+            "C": "forest trail",
+            "D": "art gallery"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/13482206704.mp4",
+        "question": "where is the girl looking at throughout the video",
+        "answer": "B",
+        "choices": {
+            "A": "towards the mountains",
+            "B": "towards the cake",
+            "C": "towards the Eiffel Tower",
+            "D": "towards the Grand Canyon"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/4784858772.mp4",
+        "question": "where could this be happening",
+        "answer": "B",
+        "choices": {
+            "A": "airport",
+            "B": "on stage",
+            "C": "garden",
+            "D": "ski resort"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/3035546739.mp4",
+        "question": "where are the people cycling",
+        "answer": "C",
+        "choices": {
+            "A": "amusement park",
+            "B": "art gallery",
+            "C": "hill",
+            "D": "movie theater"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/6026054776.mp4",
+        "question": "where is this video taken",
+        "answer": "D",
+        "choices": {
+            "A": "in a gymnasium",
+            "B": "in a museum",
+            "C": "on a mountain trail",
+            "D": "classroom"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/8996671420.mp4",
+        "question": "where is this happening",
+        "answer": "D",
+        "choices": {
+            "A": "theme park",
+            "B": "mountain trail",
+            "C": "beach resort",
+            "D": "underpass"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/7527437500.mp4",
+        "question": "where were the children at",
+        "answer": "D",
+        "choices": {
+            "A": "amusement park",
+            "B": "art gallery",
+            "C": "forest",
+            "D": "beach"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/5499561130.mp4",
+        "question": "where is this video taken",
+        "answer": "D",
+        "choices": {
+            "A": "mountainside lodge",
+            "B": "art gallery",
+            "C": "shopping mall",
+            "D": "living room"
+        },
+        "predict": "D"
+    }
+]

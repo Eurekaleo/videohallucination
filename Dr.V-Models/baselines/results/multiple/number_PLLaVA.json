@@ -1,0 +1,3578 @@
+[
+    {
+        "video": "activitynetqa/v_DUi-hLMpQQo.mp4",
+        "question": "how many riders are there in the video",
+        "answer": "A",
+        "choices": {
+            "A": "3",
+            "B": "2",
+            "C": "7",
+            "D": "5"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_FFMugev85IY.mp4",
+        "question": "how many drums are there in the room",
+        "answer": "C",
+        "choices": {
+            "A": "4",
+            "B": "3",
+            "C": "2",
+            "D": "5"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_I1iUbyjWy7k.mp4",
+        "question": "how many people are there in the blue dress in the video",
+        "answer": "C",
+        "choices": {
+            "A": "1",
+            "B": "3",
+            "C": "2",
+            "D": "5"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_3i3SUPsyZtA.mp4",
+        "question": "how many egg rolls have been made by the chef",
+        "answer": "D",
+        "choices": {
+            "A": "5",
+            "B": "7",
+            "C": "3",
+            "D": "1"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_2UhbDOd43zU.mp4",
+        "question": "how many people are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "5",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_u0Dc0ZtudXY.mp4",
+        "question": "how many gymnasts are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "4",
+            "C": "1",
+            "D": "3"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_NZskwwovSZI.mp4",
+        "question": "how many people are there in the video",
+        "answer": "D",
+        "choices": {
+            "A": "4",
+            "B": "3",
+            "C": "5",
+            "D": "2"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_qaml4eEk9hY.mp4",
+        "question": "how many mice are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "3",
+            "B": "5",
+            "C": "1",
+            "D": "4"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_EQWdo0FcKAo.mp4",
+        "question": "how many old men are there in the video",
+        "answer": "A",
+        "choices": {
+            "A": "2",
+            "B": "5",
+            "C": "4",
+            "D": "3"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_k-I4zLbgdpM.mp4",
+        "question": "how many little girls are performing",
+        "answer": "D",
+        "choices": {
+            "A": "4",
+            "B": "5",
+            "C": "3",
+            "D": "2"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_L5IbDi09Yb4.mp4",
+        "question": "how many people are there on there ship",
+        "answer": "A",
+        "choices": {
+            "A": "4",
+            "B": "6",
+            "C": "5",
+            "D": "3"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_ZxCdhz4ep0s.mp4",
+        "question": "how many people are playing the piano in the video",
+        "answer": "A",
+        "choices": {
+            "A": "1",
+            "B": "4",
+            "C": "3",
+            "D": "5"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_03c6QhTMDSs.mp4",
+        "question": "how many seconds does the club sign appear at the beginning of the video",
+        "answer": "C",
+        "choices": {
+            "A": "8",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_0w4OkBenR_k.mp4",
+        "question": "how many people are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "7",
+            "B": "9",
+            "C": "2",
+            "D": "5"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_qSP3_C7QWpU.mp4",
+        "question": "how many people are there in there arena",
+        "answer": "A",
+        "choices": {
+            "A": "3",
+            "B": "5",
+            "C": "2",
+            "D": "4"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v__V62aT_K8Zw.mp4",
+        "question": "how many people are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "7",
+            "B": "3",
+            "C": "5",
+            "D": "2"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_vezvHLPR3P0.mp4",
+        "question": "how many throws are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "3",
+            "B": "1",
+            "C": "5",
+            "D": "2"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_dHKeNK1uWUg.mp4",
+        "question": "how many people are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "4",
+            "B": "6",
+            "C": "3",
+            "D": "5"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_NjXCZYO3zwU.mp4",
+        "question": "how many seconds do the people use to turn the magic cube in the video",
+        "answer": "A",
+        "choices": {
+            "A": "11",
+            "B": "18",
+            "C": "15",
+            "D": "9"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_kMtjk1KFvXQ.mp4",
+        "question": "how many people are performing the balance wood",
+        "answer": "D",
+        "choices": {
+            "A": "5",
+            "B": "3",
+            "C": "2",
+            "D": "1"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_kYkvyRKxwfY.mp4",
+        "question": "how many balls did the people who just wore white clothes lost",
+        "answer": "A",
+        "choices": {
+            "A": "2",
+            "B": "1",
+            "C": "4",
+            "D": "3"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_WPYQ27GjFKc.mp4",
+        "question": "how many people are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_6Xsfwn5M6qs.mp4",
+        "question": "how many people are wearing blue shorts",
+        "answer": "D",
+        "choices": {
+            "A": "3",
+            "B": "2",
+            "C": "4",
+            "D": "1"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v__a527xEzhkw.mp4",
+        "question": "how many people are there in the video",
+        "answer": "A",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "3"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_-CqVpCRxwTY.mp4",
+        "question": "how many people are there in the video",
+        "answer": "D",
+        "choices": {
+            "A": "5",
+            "B": "2",
+            "C": "3",
+            "D": "1"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_oMtB-y49Yo8.mp4",
+        "question": "how many people are there in the video",
+        "answer": "D",
+        "choices": {
+            "A": "2",
+            "B": "5",
+            "C": "4",
+            "D": "3"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_woI_zP55qWo.mp4",
+        "question": "how many lifesaving rings are there",
+        "answer": "D",
+        "choices": {
+            "A": "3",
+            "B": "7",
+            "C": "5",
+            "D": "2"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_-Fk62y-1WHo.mp4",
+        "question": "how many pieces of music are there",
+        "answer": "B",
+        "choices": {
+            "A": "2",
+            "B": "1",
+            "C": "3",
+            "D": "5"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_yCpdDJAW-jU.mp4",
+        "question": "how many people are there in the video",
+        "answer": "D",
+        "choices": {
+            "A": "2",
+            "B": "4",
+            "C": "3",
+            "D": "1"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_0jdSl5-lMpY.mp4",
+        "question": "how many people are there in the video",
+        "answer": "A",
+        "choices": {
+            "A": "1",
+            "B": "5",
+            "C": "2",
+            "D": "3"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_G0VWk5WqDp0.mp4",
+        "question": "how many people are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "2",
+            "B": "1",
+            "C": "4",
+            "D": "3"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_Npj77L31bhw.mp4",
+        "question": "how many people are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "5",
+            "B": "4",
+            "C": "2",
+            "D": "3"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_snhPrCNubYA.mp4",
+        "question": "how many athletes are there in the video",
+        "answer": "A",
+        "choices": {
+            "A": "1",
+            "B": "3",
+            "C": "5",
+            "D": "7"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_s84PG-JfEwc.mp4",
+        "question": "how many people are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "1",
+            "D": "5"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_EQrcCmgraa8.mp4",
+        "question": "how many colors do the barbell of weightlifting men have",
+        "answer": "B",
+        "choices": {
+            "A": "4",
+            "B": "2",
+            "C": "3",
+            "D": "5"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_0e5zwJywyqk.mp4",
+        "question": "how many people are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "4",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_7OcxT66BxX0.mp4",
+        "question": "how many microphones are there in black hat men",
+        "answer": "D",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "1"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_U2eN4DbVLfE.mp4",
+        "question": "how many people are wrestling in the video",
+        "answer": "A",
+        "choices": {
+            "A": "2",
+            "B": "5",
+            "C": "4",
+            "D": "3"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_z6pmp8TrAVo.mp4",
+        "question": "how many people are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "5",
+            "B": "3",
+            "C": "2",
+            "D": "4"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_X6CBZwwRdQQ.mp4",
+        "question": "how many people are there in the video",
+        "answer": "A",
+        "choices": {
+            "A": "3",
+            "B": "6",
+            "C": "5",
+            "D": "4"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_ZAX6OojMg38.mp4",
+        "question": "how many cats are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "2",
+            "B": "1",
+            "C": "5",
+            "D": "3"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_v6DdLg_Xnkg.mp4",
+        "question": "how many people are there in the video",
+        "answer": "D",
+        "choices": {
+            "A": "3",
+            "B": "2",
+            "C": "4",
+            "D": "1"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_LzPppxSWYNY.mp4",
+        "question": "how many judges are there in the video",
+        "answer": "A",
+        "choices": {
+            "A": "3",
+            "B": "1",
+            "C": "2",
+            "D": "4"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_MonWdYi3a0I.mp4",
+        "question": "how many people are there in the video",
+        "answer": "A",
+        "choices": {
+            "A": "2",
+            "B": "5",
+            "C": "4",
+            "D": "6"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_TGffgRXc1eQ.mp4",
+        "question": "how many judges are there in the video",
+        "answer": "A",
+        "choices": {
+            "A": "1",
+            "B": "3",
+            "C": "5",
+            "D": "2"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_atGMJc-DZ7w.mp4",
+        "question": "how many people are there in the beginning of the video",
+        "answer": "D",
+        "choices": {
+            "A": "7",
+            "B": "5",
+            "C": "6",
+            "D": "4"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_4JmFOPoKluM.mp4",
+        "question": "how many children are there in the video",
+        "answer": "A",
+        "choices": {
+            "A": "4",
+            "B": "3",
+            "C": "6",
+            "D": "5"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_qZtdMXkHRXw.mp4",
+        "question": "how many people are there in the video",
+        "answer": "D",
+        "choices": {
+            "A": "3",
+            "B": "2",
+            "C": "5",
+            "D": "1"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_FADShG5lyB8.mp4",
+        "question": "how many people are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "5",
+            "C": "1",
+            "D": "3"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_H0dG_1Vgw4Q.mp4",
+        "question": "how many people are there in the video",
+        "answer": "A",
+        "choices": {
+            "A": "2",
+            "B": "4",
+            "C": "5",
+            "D": "3"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_BdRH3lpopLQ.mp4",
+        "question": "how many people are there in each team in the match field",
+        "answer": "C",
+        "choices": {
+            "A": "7",
+            "B": "4",
+            "C": "6",
+            "D": "5"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_9ZVWD0ZKXZg.mp4",
+        "question": "how many people are there in video",
+        "answer": "B",
+        "choices": {
+            "A": "5",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_bYNQ0GrCt64.mp4",
+        "question": "how many barbell pieces at each end of the barbell in the video",
+        "answer": "B",
+        "choices": {
+            "A": "4",
+            "B": "3",
+            "C": "2",
+            "D": "5"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_u_vLZxgO9Rw.mp4",
+        "question": "how many men are there in the video for rope skipping",
+        "answer": "B",
+        "choices": {
+            "A": "5",
+            "B": "1",
+            "C": "4",
+            "D": "3"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_oT6WUU8-dgs.mp4",
+        "question": "how many people are there in the video",
+        "answer": "A",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "3"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_rsU73H6VyG8.mp4",
+        "question": "how many athletes are there in the high jump",
+        "answer": "B",
+        "choices": {
+            "A": "4",
+            "B": "1",
+            "C": "3",
+            "D": "2"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_F7K2oT7ADkk.mp4",
+        "question": "how many people are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "3",
+            "B": "4",
+            "C": "1",
+            "D": "2"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_nDM4E9CD_y0.mp4",
+        "question": "how many people are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "5",
+            "C": "1",
+            "D": "3"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_laU1Hvm5Dis.mp4",
+        "question": "how many people are practicing the ball",
+        "answer": "C",
+        "choices": {
+            "A": "3",
+            "B": "4",
+            "C": "1",
+            "D": "5"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_8A4cZXyDrkU.mp4",
+        "question": "how many people are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "5",
+            "B": "8",
+            "C": "2",
+            "D": "3"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_d09u-0k3LdE.mp4",
+        "question": "how many people are there in the hammer throw",
+        "answer": "C",
+        "choices": {
+            "A": "3",
+            "B": "6",
+            "C": "1",
+            "D": "4"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_JGxf-jke0e8.mp4",
+        "question": "how many people are there in the video",
+        "answer": "D",
+        "choices": {
+            "A": "6",
+            "B": "7",
+            "C": "3",
+            "D": "5"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_fQ1OuD7x3to.mp4",
+        "question": "how many glass is the black man wiped",
+        "answer": "B",
+        "choices": {
+            "A": "2",
+            "B": "11",
+            "C": "8",
+            "D": "10"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_-Fk62y-1WHo.mp4",
+        "question": "how many people are there in the room",
+        "answer": "D",
+        "choices": {
+            "A": "2",
+            "B": "5",
+            "C": "3",
+            "D": "1"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_Z6b4oFjIznU.mp4",
+        "question": "how many people are on the balance wood in the video",
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "1",
+            "D": "4"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_uWfQcDvel84.mp4",
+        "question": "how many men are wearing hats in the video",
+        "answer": "B",
+        "choices": {
+            "A": "4",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_H33jSILKmfI.mp4",
+        "question": "how many people are wearing suits in the video",
+        "answer": "A",
+        "choices": {
+            "A": "2",
+            "B": "4",
+            "C": "5",
+            "D": "7"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_xND_kp-aYXw.mp4",
+        "question": "how many people are there in the video",
+        "answer": "D",
+        "choices": {
+            "A": "4",
+            "B": "2",
+            "C": "3",
+            "D": "1"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_nYl_tYmijlM.mp4",
+        "question": "how many people are there in the video",
+        "answer": "A",
+        "choices": {
+            "A": "1",
+            "B": "3",
+            "C": "5",
+            "D": "8"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_7IwHwDuQdyU.mp4",
+        "question": "how many girls in blue vest are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "3",
+            "B": "4",
+            "C": "2",
+            "D": "5"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_m731tx8N5-Y.mp4",
+        "question": "how many people are playing the piano in the video",
+        "answer": "D",
+        "choices": {
+            "A": "2",
+            "B": "4",
+            "C": "3",
+            "D": "1"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_R74yolowFPs.mp4",
+        "question": "how many numbers are there in video games",
+        "answer": "B",
+        "choices": {
+            "A": "5",
+            "B": "4",
+            "C": "6",
+            "D": "7"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_LL0uQO4q_wY.mp4",
+        "question": "how many people are there in the video that push the curling",
+        "answer": "C",
+        "choices": {
+            "A": "3",
+            "B": "4",
+            "C": "1",
+            "D": "2"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_46NS8dT15Hw.mp4",
+        "question": "how many people are wearing blue clothes",
+        "answer": "D",
+        "choices": {
+            "A": "5",
+            "B": "3",
+            "C": "4",
+            "D": "2"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_bYxVbXzQToI.mp4",
+        "question": "how many people are playing the guitar in the video",
+        "answer": "D",
+        "choices": {
+            "A": "5",
+            "B": "4",
+            "C": "3",
+            "D": "2"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_B4Zp5XN97Gc.mp4",
+        "question": "how many tools are displayed when the tool is displayed",
+        "answer": "D",
+        "choices": {
+            "A": "4",
+            "B": "2",
+            "C": "5",
+            "D": "3"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_k3WPc9HmtLM.mp4",
+        "question": "how many children are there in the video",
+        "answer": "D",
+        "choices": {
+            "A": "3",
+            "B": "5",
+            "C": "4",
+            "D": "1"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_dFGS7YCDk3Y.mp4",
+        "question": "how many sails are there on the sailboat",
+        "answer": "C",
+        "choices": {
+            "A": "4",
+            "B": "3",
+            "C": "2",
+            "D": "5"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_kTqt7ry3eVM.mp4",
+        "question": "how many people have jumped the water",
+        "answer": "C",
+        "choices": {
+            "A": "5",
+            "B": "8",
+            "C": "3",
+            "D": "2"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_IYLJU87AkOg.mp4",
+        "question": "how many times does the man with a hat throw",
+        "answer": "B",
+        "choices": {
+            "A": "5",
+            "B": "4",
+            "C": "6",
+            "D": "7"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_Co_cpZWbzFk.mp4",
+        "question": "what is the number on the clothes worn by people in red pants",
+        "answer": "C",
+        "choices": {
+            "A": "3",
+            "B": "5",
+            "C": "1",
+            "D": "2"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_S6Sg1l78IW0.mp4",
+        "question": "how many people are there in the video",
+        "answer": "D",
+        "choices": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "2"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_Dd5yTxwKzXw.mp4",
+        "question": "how many people are there in the video",
+        "answer": "A",
+        "choices": {
+            "A": "2",
+            "B": "4",
+            "C": "5",
+            "D": "3"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_udSHsodv3gY.mp4",
+        "question": "how many people are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "4",
+            "B": "6",
+            "C": "1",
+            "D": "5"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_1lwG-y_QCkc.mp4",
+        "question": "how many people are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "2",
+            "B": "1",
+            "C": "4",
+            "D": "3"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_qObVIn_GI10.mp4",
+        "question": "how many people are there in the video",
+        "answer": "D",
+        "choices": {
+            "A": "4",
+            "B": "3",
+            "C": "2",
+            "D": "1"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_W2Mh01F3K5c.mp4",
+        "question": "how many people are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "4",
+            "B": "5",
+            "C": "2",
+            "D": "3"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_G25py7yEVyo.mp4",
+        "question": "how many people shake hands with the person in white",
+        "answer": "B",
+        "choices": {
+            "A": "5",
+            "B": "4",
+            "C": "3",
+            "D": "6"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_AB480dHyDeM.mp4",
+        "question": "how many people are there in the video",
+        "answer": "A",
+        "choices": {
+            "A": "1",
+            "B": "3",
+            "C": "4",
+            "D": "2"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_fhOmyyI0eQE.mp4",
+        "question": "how many people are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "1",
+            "D": "4"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_mvRoVXRGVGw.mp4",
+        "question": "how many people are there in video",
+        "answer": "C",
+        "choices": {
+            "A": "3",
+            "B": "5",
+            "C": "2",
+            "D": "6"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v__QBTD1bLSI0.mp4",
+        "question": "how many people are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "3",
+            "B": "1",
+            "C": "4",
+            "D": "2"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_C5SXR9nMY3I.mp4",
+        "question": "how many people are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "2",
+            "B": "1",
+            "C": "4",
+            "D": "3"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_uJAL31wAD2A.mp4",
+        "question": "how many dogs are there in the video",
+        "answer": "D",
+        "choices": {
+            "A": "2",
+            "B": "5",
+            "C": "3",
+            "D": "1"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_Flm_SCK10GQ.mp4",
+        "question": "how many people are wrenching their wrists",
+        "answer": "C",
+        "choices": {
+            "A": "5",
+            "B": "3",
+            "C": "2",
+            "D": "8"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_XI7qJHE61zo.mp4",
+        "question": "how many people in blue are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "5",
+            "B": "2",
+            "C": "4",
+            "D": "3"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_i6wR9_tkg6A.mp4",
+        "question": "how many people are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "2",
+            "B": "1",
+            "C": "5",
+            "D": "3"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_s9PkkDEl6aY.mp4",
+        "question": "how many people are there on the table",
+        "answer": "D",
+        "choices": {
+            "A": "5",
+            "B": "2",
+            "C": "3",
+            "D": "1"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_f2DS_AVorrY.mp4",
+        "question": "how many circles did the athletes turn around in the air",
+        "answer": "B",
+        "choices": {
+            "A": "5",
+            "B": "2",
+            "C": "4",
+            "D": "3"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_KWpATsiXF_M.mp4",
+        "question": "how many people are around the person riding on the horse",
+        "answer": "B",
+        "choices": {
+            "A": "4",
+            "B": "3",
+            "C": "6",
+            "D": "5"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_fvEaC-fTR4A.mp4",
+        "question": "how many handles are there on a table football in the video",
+        "answer": "C",
+        "choices": {
+            "A": "6",
+            "B": "10",
+            "C": "8",
+            "D": "12"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_-YwrMtiqHKg.mp4",
+        "question": "how many people are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "4",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_WGUzmra3h_w.mp4",
+        "question": "how many people are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "5",
+            "B": "3",
+            "C": "4",
+            "D": "6"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_zTHkqpNFGno.mp4",
+        "question": "how many people are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "4",
+            "B": "1",
+            "C": "3",
+            "D": "5"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_faqijFZWQlo.mp4",
+        "question": "how many people were there in the grey coat when the man had a haircut",
+        "answer": "D",
+        "choices": {
+            "A": "2",
+            "B": "5",
+            "C": "6",
+            "D": "3"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_tgPD2SZo_DY.mp4",
+        "question": "how many people are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "5",
+            "B": "2",
+            "C": "1",
+            "D": "3"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_LPRLV0eVgfY.mp4",
+        "question": "how many people are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "3",
+            "B": "2",
+            "C": "4",
+            "D": "5"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_xizEiQZfJa4.mp4",
+        "question": "how many people are there in the video",
+        "answer": "D",
+        "choices": {
+            "A": "5",
+            "B": "2",
+            "C": "3",
+            "D": "1"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_wcxEkMoOmBk.mp4",
+        "question": "how many people are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "5",
+            "B": "4",
+            "C": "3",
+            "D": "6"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_eJc8bebOF2A.mp4",
+        "question": "how many people are there behind the referee",
+        "answer": "B",
+        "choices": {
+            "A": "3",
+            "B": "1",
+            "C": "2",
+            "D": "4"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_d6gGZFQOxOg.mp4",
+        "question": "how many people are wearing hats in the video",
+        "answer": "A",
+        "choices": {
+            "A": "1",
+            "B": "3",
+            "C": "4",
+            "D": "2"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_rM02KWikOo8.mp4",
+        "question": "how many people are there on the skateboard",
+        "answer": "D",
+        "choices": {
+            "A": "3",
+            "B": "4",
+            "C": "2",
+            "D": "1"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_PkRvgIFREJU.mp4",
+        "question": "how many people in black and white stripes are there in the video",
+        "answer": "A",
+        "choices": {
+            "A": "2",
+            "B": "1",
+            "C": "3",
+            "D": "4"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_HDt5z5Y0opo.mp4",
+        "question": "how many people are on the stage in the video",
+        "answer": "D",
+        "choices": {
+            "A": "7",
+            "B": "6",
+            "C": "5",
+            "D": "3"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_26U3SkeZU6M.mp4",
+        "question": "how many people are there in video",
+        "answer": "A",
+        "choices": {
+            "A": "1",
+            "B": "3",
+            "C": "4",
+            "D": "2"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_e-Xf13exY4E.mp4",
+        "question": "how many drums did the white men beat",
+        "answer": "A",
+        "choices": {
+            "A": "2",
+            "B": "5",
+            "C": "4",
+            "D": "3"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_n9EdHGz7ArI.mp4",
+        "question": "how many people are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "3",
+            "B": "2",
+            "C": "1",
+            "D": "4"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_VZ5R9goklpo.mp4",
+        "question": "how many balls are there on the ground",
+        "answer": "D",
+        "choices": {
+            "A": "5",
+            "B": "8",
+            "C": "2",
+            "D": "6"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_0q9yZPTBbus.mp4",
+        "question": "how many people are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "3",
+            "B": "4",
+            "C": "2",
+            "D": "5"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_JbW8efAOOt0.mp4",
+        "question": "how many people are there in the video",
+        "answer": "A",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "4"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_GgnM5RGNtDE.mp4",
+        "question": "how many people are there in the video",
+        "answer": "D",
+        "choices": {
+            "A": "5",
+            "B": "2",
+            "C": "7",
+            "D": "4"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_W97fdJ2Rn9g.mp4",
+        "question": "how many rings are there on the right hand of the make-up",
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "5",
+            "C": "4",
+            "D": "6"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_vnZmsOgWs0o.mp4",
+        "question": "how many people are wearing orange pants in the video",
+        "answer": "D",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "1"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_MAGeYoFuCgo.mp4",
+        "question": "how many chieves are there in the video",
+        "answer": "D",
+        "choices": {
+            "A": "2",
+            "B": "5",
+            "C": "3",
+            "D": "1"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_Pjnuoa4o55c.mp4",
+        "question": "how many people are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "5",
+            "B": "4",
+            "C": "3",
+            "D": "6"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_2-AMrzL7V-U.mp4",
+        "question": "how many names does the long jumpers win in the 100 metre race",
+        "answer": "A",
+        "choices": {
+            "A": "4",
+            "B": "2",
+            "C": "6",
+            "D": "5"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_jhy6npIdn5o.mp4",
+        "question": "how many people are there in the video",
+        "answer": "D",
+        "choices": {
+            "A": "6",
+            "B": "3",
+            "C": "7",
+            "D": "5"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_stdtUoog49I.mp4",
+        "question": "how many electric cars are there in the video",
+        "answer": "D",
+        "choices": {
+            "A": "3",
+            "B": "2",
+            "C": "4",
+            "D": "1"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_IIPKxzPjrWg.mp4",
+        "question": "how many people are diving in the video",
+        "answer": "D",
+        "choices": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "2"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_T0nCDJuikuA.mp4",
+        "question": "how many people are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "4",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_v0azz4XzW_s.mp4",
+        "question": "how many people are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "2",
+            "B": "1",
+            "C": "5",
+            "D": "3"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_sH_716hH_rY.mp4",
+        "question": "how many people are there in the video",
+        "answer": "D",
+        "choices": {
+            "A": "5",
+            "B": "4",
+            "C": "2",
+            "D": "3"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_0mNZfG6CL74.mp4",
+        "question": "how many judges are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "5",
+            "B": "6",
+            "C": "4",
+            "D": "3"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_QXN6odBnVmI.mp4",
+        "question": "how many people are there in the video",
+        "answer": "A",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "4"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_sPK-sbHIb3w.mp4",
+        "question": "how many people are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "6",
+            "B": "4",
+            "C": "3",
+            "D": "5"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_EXPYu9bfNcE.mp4",
+        "question": "how many people are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "3",
+            "B": "2",
+            "C": "4",
+            "D": "5"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_9MN6GNhvwzA.mp4",
+        "question": "how many people are there in video",
+        "answer": "C",
+        "choices": {
+            "A": "3",
+            "B": "4",
+            "C": "2",
+            "D": "5"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_MDWaKr7Gu5Q.mp4",
+        "question": "how many people are wearing green clothes in the video",
+        "answer": "A",
+        "choices": {
+            "A": "4",
+            "B": "5",
+            "C": "7",
+            "D": "6"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_p1QGn0IzfW0.mp4",
+        "question": "how many people are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "6",
+            "B": "5",
+            "C": "4",
+            "D": "3"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_PFeerDZbGn8.mp4",
+        "question": "how many colors are there in a dog",
+        "answer": "A",
+        "choices": {
+            "A": "2",
+            "B": "4",
+            "C": "5",
+            "D": "3"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_CfqnHsp6olc.mp4",
+        "question": "how many judges are there on the court",
+        "answer": "D",
+        "choices": {
+            "A": "4",
+            "B": "5",
+            "C": "3",
+            "D": "2"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "activitynetqa/v_04qggWACGWk.mp4",
+        "question": "how many people are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "3",
+            "B": "5",
+            "C": "1",
+            "D": "2"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_0xBP-TSsqb0.mp4",
+        "question": "how many hoops do people wear in the video",
+        "answer": "C",
+        "choices": {
+            "A": "5",
+            "B": "3",
+            "C": "1",
+            "D": "2"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_lYP05IRcOPE.mp4",
+        "question": "how many people are standing on the edge of the water",
+        "answer": "C",
+        "choices": {
+            "A": "4",
+            "B": "5",
+            "C": "1",
+            "D": "2"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "activitynetqa/v_eQwLUJ3P7wI.mp4",
+        "question": "how many people actually appear in the video",
+        "answer": "A",
+        "choices": {
+            "A": "2",
+            "B": "5",
+            "C": "7",
+            "D": "6"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_kistIwzeQOU.mp4",
+        "question": "how many walls are the men in white",
+        "answer": "B",
+        "choices": {
+            "A": "4",
+            "B": "1",
+            "C": "3",
+            "D": "2"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "activitynetqa/v_tzP0lKSUv_o.mp4",
+        "question": "how many athletes are there in all",
+        "answer": "D",
+        "choices": {
+            "A": "2",
+            "B": "5",
+            "C": "7",
+            "D": "1"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "activitynetqa/v_SidTquTAtyk.mp4",
+        "question": "how many people are there in the video",
+        "answer": "D",
+        "choices": {
+            "A": "4",
+            "B": "2",
+            "C": "3",
+            "D": "1"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/4642870129.mp4",
+        "question": "how many people are involved in the video",
+        "answer": "A",
+        "choices": {
+            "A": "two",
+            "B": "four",
+            "C": "seven",
+            "D": "five"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/4177367968.mp4",
+        "question": "how many times did the man bend down",
+        "answer": "D",
+        "choices": {
+            "A": "sixteen",
+            "B": "eight",
+            "C": "ten",
+            "D": "twelve"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/8105743251.mp4",
+        "question": "how many dogs are there",
+        "answer": "B",
+        "choices": {
+            "A": "nine",
+            "B": "two",
+            "C": "seven",
+            "D": "five"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/6447803681.mp4",
+        "question": "how many people are involved in the video",
+        "answer": "D",
+        "choices": {
+            "A": "nine",
+            "B": "eight",
+            "C": "seven",
+            "D": "two"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/5588738404.mp4",
+        "question": "how many cats are there",
+        "answer": "D",
+        "choices": {
+            "A": "seven",
+            "B": "nine",
+            "C": "eight",
+            "D": "two"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/13166998645.mp4",
+        "question": "how many times did the boy mimick the movement of the toy",
+        "answer": "D",
+        "choices": {
+            "A": "seven",
+            "B": "nine",
+            "C": "four",
+            "D": "three"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/2406704873.mp4",
+        "question": "how many times does the boy try to hold the ladder up",
+        "answer": "A",
+        "choices": {
+            "A": "eight",
+            "B": "six",
+            "C": "ten",
+            "D": "nine"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/4823383982.mp4",
+        "question": "how many people are on the sofa on the left",
+        "answer": "D",
+        "choices": {
+            "A": "six",
+            "B": "seven",
+            "C": "nine",
+            "D": "one"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/6462583199.mp4",
+        "question": "how many people are there",
+        "answer": "C",
+        "choices": {
+            "A": "nine",
+            "B": "six",
+            "C": "five",
+            "D": "seven"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/4822565837.mp4",
+        "question": "how many children are there",
+        "answer": "D",
+        "choices": {
+            "A": "six",
+            "B": "ten",
+            "C": "eight",
+            "D": "three"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/11848898333.mp4",
+        "question": "how many people are filmed in the video",
+        "answer": "A",
+        "choices": {
+            "A": "six",
+            "B": "eight",
+            "C": "fifteen",
+            "D": "ten"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/9383140374.mp4",
+        "question": "how many children are there",
+        "answer": "D",
+        "choices": {
+            "A": "three",
+            "B": "eight",
+            "C": "five",
+            "D": "two"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/9371342049.mp4",
+        "question": "how many ladies are there in the video",
+        "answer": "D",
+        "choices": {
+            "A": "five",
+            "B": "seven",
+            "C": "eight",
+            "D": "two"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/8277189448.mp4",
+        "question": "how many children are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "four",
+            "B": "five",
+            "C": "three",
+            "D": "six"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/6152708743.mp4",
+        "question": "how many kids are present in the video",
+        "answer": "C",
+        "choices": {
+            "A": "four",
+            "B": "eight",
+            "C": "one",
+            "D": "six"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3516935615.mp4",
+        "question": "how many dogs are there",
+        "answer": "D",
+        "choices": {
+            "A": "ten",
+            "B": "seven",
+            "C": "five",
+            "D": "one"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/8870296245.mp4",
+        "question": "how many animals are there",
+        "answer": "D",
+        "choices": {
+            "A": "ten",
+            "B": "eight",
+            "C": "seven",
+            "D": "six"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/4084841090.mp4",
+        "question": "how many dogs are there",
+        "answer": "B",
+        "choices": {
+            "A": "seven",
+            "B": "one",
+            "C": "eight",
+            "D": "nine"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5530887795.mp4",
+        "question": "how many people were performing",
+        "answer": "D",
+        "choices": {
+            "A": "ten",
+            "B": "four",
+            "C": "five",
+            "D": "two"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/6764465247.mp4",
+        "question": "how many people are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "four",
+            "B": "seven",
+            "C": "two",
+            "D": "six"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/5207564483.mp4",
+        "question": "how many dogs are there",
+        "answer": "B",
+        "choices": {
+            "A": "five",
+            "B": "two",
+            "C": "eight",
+            "D": "six"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/4822565837.mp4",
+        "question": "how many people were standing up",
+        "answer": "C",
+        "choices": {
+            "A": "nine",
+            "B": "ten",
+            "C": "two",
+            "D": "seven"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/9528960175.mp4",
+        "question": "how many children are in the video",
+        "answer": "D",
+        "choices": {
+            "A": "three",
+            "B": "five",
+            "C": "four",
+            "D": "one"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/4980235136.mp4",
+        "question": "how many buses are being driven",
+        "answer": "B",
+        "choices": {
+            "A": "six",
+            "B": "two",
+            "C": "eleven",
+            "D": "seven"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/3988313151.mp4",
+        "question": "how many people can be seen in the video",
+        "answer": "D",
+        "choices": {
+            "A": "seven",
+            "B": "six",
+            "C": "ten",
+            "D": "three"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/4563323343.mp4",
+        "question": "how many cats are there",
+        "answer": "D",
+        "choices": {
+            "A": "eight",
+            "B": "seven",
+            "C": "ten",
+            "D": "two"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/3579030253.mp4",
+        "question": "how many dogs are there in the video",
+        "answer": "A",
+        "choices": {
+            "A": "two",
+            "B": "twelve",
+            "C": "seven",
+            "D": "fourteen"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/2506141110.mp4",
+        "question": "how many people were dancing",
+        "answer": "A",
+        "choices": {
+            "A": "three",
+            "B": "six",
+            "C": "eight",
+            "D": "ten"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/10483027904.mp4",
+        "question": "how many adults are in the video",
+        "answer": "B",
+        "choices": {
+            "A": "five",
+            "B": "one",
+            "C": "nine",
+            "D": "seven"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/8690893018.mp4",
+        "question": "how many ducks are involved in the video",
+        "answer": "D",
+        "choices": {
+            "A": "nine",
+            "B": "eleven",
+            "C": "five",
+            "D": "two"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/6091329636.mp4",
+        "question": "how many people did the woman pass by while cycling",
+        "answer": "B",
+        "choices": {
+            "A": "seven",
+            "B": "one",
+            "C": "ten",
+            "D": "eight"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5904456747.mp4",
+        "question": "how many people are there",
+        "answer": "B",
+        "choices": {
+            "A": "ten",
+            "B": "two",
+            "C": "three",
+            "D": "seven"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5972972222.mp4",
+        "question": "how many people are involved in the video",
+        "answer": "A",
+        "choices": {
+            "A": "two",
+            "B": "five",
+            "C": "eight",
+            "D": "four"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/4925554355.mp4",
+        "question": "how many people are in the video",
+        "answer": "B",
+        "choices": {
+            "A": "nine",
+            "B": "four",
+            "C": "seven",
+            "D": "five"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/3459862895.mp4",
+        "question": "how many people are there",
+        "answer": "C",
+        "choices": {
+            "A": "nine",
+            "B": "fourteen",
+            "C": "three",
+            "D": "five"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/10682218035.mp4",
+        "question": "how many dogs are involved in the video",
+        "answer": "A",
+        "choices": {
+            "A": "two",
+            "B": "ten",
+            "C": "seven",
+            "D": "eight"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/8022216602.mp4",
+        "question": "how many people are there",
+        "answer": "B",
+        "choices": {
+            "A": "five",
+            "B": "three",
+            "C": "six",
+            "D": "seven"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/10109006686.mp4",
+        "question": "how many people are there",
+        "answer": "C",
+        "choices": {
+            "A": "ten",
+            "B": "seven",
+            "C": "three",
+            "D": "four"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/2419603277.mp4",
+        "question": "how many people are there",
+        "answer": "D",
+        "choices": {
+            "A": "seven",
+            "B": "three",
+            "C": "five",
+            "D": "four"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/6091663460.mp4",
+        "question": "how many times does the man serve the ball",
+        "answer": "D",
+        "choices": {
+            "A": "seven",
+            "B": "three",
+            "C": "five",
+            "D": "four"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/3329878386.mp4",
+        "question": "how many people are involved in the video",
+        "answer": "D",
+        "choices": {
+            "A": "five",
+            "B": "seven",
+            "C": "eight",
+            "D": "one"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/3255908815.mp4",
+        "question": "how many people are involved in the video",
+        "answer": "A",
+        "choices": {
+            "A": "one",
+            "B": "three",
+            "C": "nine",
+            "D": "seven"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/7530844076.mp4",
+        "question": "how many dogs are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "five",
+            "B": "three",
+            "C": "eight",
+            "D": "seven"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/6802770639.mp4",
+        "question": "how many men are performing on the stage",
+        "answer": "B",
+        "choices": {
+            "A": "five",
+            "B": "two",
+            "C": "eight",
+            "D": "seven"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5608598769.mp4",
+        "question": "how many hamster are there in total",
+        "answer": "C",
+        "choices": {
+            "A": "five",
+            "B": "ten",
+            "C": "six",
+            "D": "eight"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3812429626.mp4",
+        "question": "how many people are there",
+        "answer": "A",
+        "choices": {
+            "A": "three",
+            "B": "five",
+            "C": "ten",
+            "D": "seven"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/5999090287.mp4",
+        "question": "how many children are there",
+        "answer": "D",
+        "choices": {
+            "A": "nine",
+            "B": "eleven",
+            "C": "five",
+            "D": "two"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/8212602454.mp4",
+        "question": "how many girls are there",
+        "answer": "D",
+        "choices": {
+            "A": "two",
+            "B": "seven",
+            "C": "nine",
+            "D": "three"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/4032969415.mp4",
+        "question": "how many people are dancing on the street",
+        "answer": "D",
+        "choices": {
+            "A": "three",
+            "B": "five",
+            "C": "seven",
+            "D": "four"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/5772591393.mp4",
+        "question": "how many dogs are there",
+        "answer": "D",
+        "choices": {
+            "A": "seven",
+            "B": "six",
+            "C": "five",
+            "D": "three"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/6973757699.mp4",
+        "question": "how many cars are parked beside the street",
+        "answer": "A",
+        "choices": {
+            "A": "four",
+            "B": "seven",
+            "C": "five",
+            "D": "three"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/7238677454.mp4",
+        "question": "how many people are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "three",
+            "B": "six",
+            "C": "two",
+            "D": "eight"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/7473257354.mp4",
+        "question": "how many people are taking photos",
+        "answer": "D",
+        "choices": {
+            "A": "seven",
+            "B": "eight",
+            "C": "three",
+            "D": "one"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/8617546237.mp4",
+        "question": "how many people are singing",
+        "answer": "A",
+        "choices": {
+            "A": "four",
+            "B": "five",
+            "C": "six",
+            "D": "ten"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/7605780282.mp4",
+        "question": "how many kids are watching the toy",
+        "answer": "D",
+        "choices": {
+            "A": "nine",
+            "B": "seven",
+            "C": "ten",
+            "D": "four"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/7730642486.mp4",
+        "question": "how many cats are there in the video",
+        "answer": "A",
+        "choices": {
+            "A": "three",
+            "B": "ten",
+            "C": "nine",
+            "D": "six"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/3332043783.mp4",
+        "question": "how many people are on the floor",
+        "answer": "B",
+        "choices": {
+            "A": "four",
+            "B": "eight",
+            "C": "ten",
+            "D": "two"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/6042037966.mp4",
+        "question": "how many performers are there on stage",
+        "answer": "A",
+        "choices": {
+            "A": "six",
+            "B": "ten",
+            "C": "seven",
+            "D": "eight"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/7580367082.mp4",
+        "question": "how many people are involved in the video",
+        "answer": "C",
+        "choices": {
+            "A": "three",
+            "B": "five",
+            "C": "two",
+            "D": "ten"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/2517097455.mp4",
+        "question": "how many times does the boy do a flip",
+        "answer": "B",
+        "choices": {
+            "A": "six",
+            "B": "two",
+            "C": "eight",
+            "D": "twice"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/12078592673.mp4",
+        "question": "how many other ingredients were placed in front of the children",
+        "answer": "B",
+        "choices": {
+            "A": "ten",
+            "B": "seven",
+            "C": "five",
+            "D": "four"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3701219945.mp4",
+        "question": "how many people can be seen in the video",
+        "answer": "A",
+        "choices": {
+            "A": "four",
+            "B": "six",
+            "C": "nine",
+            "D": "ten"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/12753577835.mp4",
+        "question": "how many people were in the video",
+        "answer": "C",
+        "choices": {
+            "A": "seven",
+            "B": "four",
+            "C": "three",
+            "D": "eight"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/4880611877.mp4",
+        "question": "how many cats are there",
+        "answer": "B",
+        "choices": {
+            "A": "seven",
+            "B": "one",
+            "C": "eight",
+            "D": "six"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/6764483319.mp4",
+        "question": "how many people are involved in the video",
+        "answer": "B",
+        "choices": {
+            "A": "three",
+            "B": "two",
+            "C": "four",
+            "D": "five"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/3751105478.mp4",
+        "question": "how many people are involved in the video",
+        "answer": "B",
+        "choices": {
+            "A": "four",
+            "B": "two",
+            "C": "eight",
+            "D": "ten"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5396384503.mp4",
+        "question": "how many ducks in total appear in the video",
+        "answer": "D",
+        "choices": {
+            "A": "five",
+            "B": "seven",
+            "C": "three",
+            "D": "four"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3205604574.mp4",
+        "question": "how many kids are present",
+        "answer": "A",
+        "choices": {
+            "A": "two",
+            "B": "five",
+            "C": "four",
+            "D": "three"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/2623764605.mp4",
+        "question": "how many cats are there",
+        "answer": "D",
+        "choices": {
+            "A": "eleven",
+            "B": "nine",
+            "C": "six",
+            "D": "two"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/4353644811.mp4",
+        "question": "how many dogs are present in the video",
+        "answer": "B",
+        "choices": {
+            "A": "four",
+            "B": "one",
+            "C": "seven",
+            "D": "ten"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/4625256813.mp4",
+        "question": "how many times did the man succeed in going from one side to the other throughout the video",
+        "answer": "B",
+        "choices": {
+            "A": "three",
+            "B": "six",
+            "C": "seven",
+            "D": "four"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/2525831823.mp4",
+        "question": "how many performers are involved in the video",
+        "answer": "C",
+        "choices": {
+            "A": "four",
+            "B": "five",
+            "C": "three",
+            "D": "ten"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3381602382.mp4",
+        "question": "how many children are in the video",
+        "answer": "C",
+        "choices": {
+            "A": "nine",
+            "B": "four",
+            "C": "two",
+            "D": "five"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/2428846087.mp4",
+        "question": "how many people were on the canoe",
+        "answer": "D",
+        "choices": {
+            "A": "four",
+            "B": "eight",
+            "C": "two",
+            "D": "one"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3704238156.mp4",
+        "question": "how many dogs are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "seven",
+            "B": "five",
+            "C": "two",
+            "D": "three"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3426605205.mp4",
+        "question": "how many adults are in the video",
+        "answer": "C",
+        "choices": {
+            "A": "five",
+            "B": "nine",
+            "C": "one",
+            "D": "four"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/7888556496.mp4",
+        "question": "how many dogs are there",
+        "answer": "D",
+        "choices": {
+            "A": "five",
+            "B": "eight",
+            "C": "four",
+            "D": "one"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/7360147620.mp4",
+        "question": "how many geese are involved in the video",
+        "answer": "C",
+        "choices": {
+            "A": "four",
+            "B": "five",
+            "C": "three",
+            "D": "nine"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/12908685313.mp4",
+        "question": "how many people are there on the boat",
+        "answer": "C",
+        "choices": {
+            "A": "five",
+            "B": "nine",
+            "C": "three",
+            "D": "ten"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/5912473393.mp4",
+        "question": "how many people are performing on stage",
+        "answer": "A",
+        "choices": {
+            "A": "five",
+            "B": "seven",
+            "C": "nine",
+            "D": "six"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/6579160577.mp4",
+        "question": "how many people are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "four",
+            "B": "five",
+            "C": "two",
+            "D": "seven"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/5847098868.mp4",
+        "question": "how many dogs are there in the video",
+        "answer": "B",
+        "choices": {
+            "A": "three",
+            "B": "one",
+            "C": "five",
+            "D": "two"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5362528947.mp4",
+        "question": "how many people are playing with the machine in the video",
+        "answer": "A",
+        "choices": {
+            "A": "one",
+            "B": "four",
+            "C": "seven",
+            "D": "three"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/8148337178.mp4",
+        "question": "how many ladies are singing",
+        "answer": "C",
+        "choices": {
+            "A": "five",
+            "B": "eight",
+            "C": "three",
+            "D": "one"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/2906386126.mp4",
+        "question": "how many people are in the band",
+        "answer": "B",
+        "choices": {
+            "A": "ten",
+            "B": "four",
+            "C": "five",
+            "D": "eight"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/3357799819.mp4",
+        "question": "how many people are involved in the video",
+        "answer": "D",
+        "choices": {
+            "A": "three",
+            "B": "zero",
+            "C": "eight",
+            "D": "two"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/5139599690.mp4",
+        "question": "how many people are surrounding the wood",
+        "answer": "D",
+        "choices": {
+            "A": "nine",
+            "B": "four",
+            "C": "seven",
+            "D": "three"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/5571348093.mp4",
+        "question": "how many people are involved in the video",
+        "answer": "B",
+        "choices": {
+            "A": "seven",
+            "B": "one",
+            "C": "nine",
+            "D": "three"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/6663770743.mp4",
+        "question": "how many people are involved in the video",
+        "answer": "D",
+        "choices": {
+            "A": "eight",
+            "B": "nine",
+            "C": "four",
+            "D": "two"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/6317093992.mp4",
+        "question": "how many people are involved in the video",
+        "answer": "A",
+        "choices": {
+            "A": "two",
+            "B": "seven",
+            "C": "ten",
+            "D": "nine"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/4684348177.mp4",
+        "question": "how many people are shown in the video",
+        "answer": "B",
+        "choices": {
+            "A": "zero",
+            "B": "two",
+            "C": "six",
+            "D": "five"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/6862984319.mp4",
+        "question": "how many times did the elephants hit each other",
+        "answer": "A",
+        "choices": {
+            "A": "three",
+            "B": "seven",
+            "C": "nine",
+            "D": "eight"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/5279956242.mp4",
+        "question": "how many people were there",
+        "answer": "D",
+        "choices": {
+            "A": "three",
+            "B": "eight",
+            "C": "ten",
+            "D": "six"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/5890296039.mp4",
+        "question": "how many people are there in the band",
+        "answer": "A",
+        "choices": {
+            "A": "four",
+            "B": "eight",
+            "C": "six",
+            "D": "seven"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/4553916256.mp4",
+        "question": "how many toys are there in the cradle for the baby to play with",
+        "answer": "B",
+        "choices": {
+            "A": "six",
+            "B": "two",
+            "C": "three",
+            "D": "five"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/3759094243.mp4",
+        "question": "how many people are there",
+        "answer": "C",
+        "choices": {
+            "A": "nine",
+            "B": "eight",
+            "C": "six",
+            "D": "four"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/4081746317.mp4",
+        "question": "how many boys are there in the video",
+        "answer": "D",
+        "choices": {
+            "A": "six",
+            "B": "ten",
+            "C": "seven",
+            "D": "three"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/5481728773.mp4",
+        "question": "how many people are in the video",
+        "answer": "C",
+        "choices": {
+            "A": "ten",
+            "B": "fourteen",
+            "C": "three",
+            "D": "six"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/4126017457.mp4",
+        "question": "how many cats are fighting",
+        "answer": "B",
+        "choices": {
+            "A": "seven",
+            "B": "two",
+            "C": "eight",
+            "D": "ten"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/5292396210.mp4",
+        "question": "how many people are involved in the video",
+        "answer": "B",
+        "choices": {
+            "A": "eight",
+            "B": "six",
+            "C": "nine",
+            "D": "seven"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/4607629530.mp4",
+        "question": "how many people can be seen from the video",
+        "answer": "D",
+        "choices": {
+            "A": "four",
+            "B": "ten",
+            "C": "seven",
+            "D": "six"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/13925904946.mp4",
+        "question": "how many kayaking boats are seen",
+        "answer": "B",
+        "choices": {
+            "A": "three",
+            "B": "five",
+            "C": "six",
+            "D": "ten"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/2603758280.mp4",
+        "question": "how many people were filmed paragliding",
+        "answer": "D",
+        "choices": {
+            "A": "seven",
+            "B": "six",
+            "C": "eight",
+            "D": "two"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/5344242564.mp4",
+        "question": "how many people are on the vehicle",
+        "answer": "B",
+        "choices": {
+            "A": "seven",
+            "B": "one",
+            "C": "six",
+            "D": "nine"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/6095248978.mp4",
+        "question": "how many people are involved in the video",
+        "answer": "D",
+        "choices": {
+            "A": "seven",
+            "B": "nine",
+            "C": "eight",
+            "D": "three"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/8392813576.mp4",
+        "question": "how many people are sledding down the slope together",
+        "answer": "A",
+        "choices": {
+            "A": "three",
+            "B": "five",
+            "C": "nine",
+            "D": "eight"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/9048165540.mp4",
+        "question": "how many people were filmed",
+        "answer": "C",
+        "choices": {
+            "A": "seven",
+            "B": "ten",
+            "C": "five",
+            "D": "two"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/6862984319.mp4",
+        "question": "how many elephants are in the video",
+        "answer": "C",
+        "choices": {
+            "A": "three",
+            "B": "seven",
+            "C": "two",
+            "D": "zero"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/4937654460.mp4",
+        "question": "how many dogs appeared in the video",
+        "answer": "C",
+        "choices": {
+            "A": "seven",
+            "B": "six",
+            "C": "three",
+            "D": "eight"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3425409935.mp4",
+        "question": "how many people are involved in the video",
+        "answer": "D",
+        "choices": {
+            "A": "nine",
+            "B": "six",
+            "C": "eight",
+            "D": "two"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/10305881544.mp4",
+        "question": "how many times did the lady in white pants touch the pram",
+        "answer": "B",
+        "choices": {
+            "A": "ten times",
+            "B": "twice",
+            "C": "eight times",
+            "D": "six times"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/7477913592.mp4",
+        "question": "how many people are filmed",
+        "answer": "B",
+        "choices": {
+            "A": "eight",
+            "B": "five",
+            "C": "ten",
+            "D": "nine"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/3261112327.mp4",
+        "question": "how many chickens are involved in the video",
+        "answer": "C",
+        "choices": {
+            "A": "seven",
+            "B": "six",
+            "C": "three",
+            "D": "nine"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/2589833495.mp4",
+        "question": "how many performers are involved in the video",
+        "answer": "C",
+        "choices": {
+            "A": "ten",
+            "B": "five",
+            "C": "one",
+            "D": "eight"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/3098102850.mp4",
+        "question": "how many cats are involved in the video",
+        "answer": "C",
+        "choices": {
+            "A": "eight",
+            "B": "six",
+            "C": "two",
+            "D": "seven"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/4389226223.mp4",
+        "question": "how many people are involved in the video",
+        "answer": "A",
+        "choices": {
+            "A": "two",
+            "B": "four",
+            "C": "nine",
+            "D": "seven"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/5883403537.mp4",
+        "question": "how many babies were there",
+        "answer": "A",
+        "choices": {
+            "A": "one",
+            "B": "six",
+            "C": "ten",
+            "D": "eight"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/3844880628.mp4",
+        "question": "how many kids can be seen in the video",
+        "answer": "A",
+        "choices": {
+            "A": "three",
+            "B": "ten",
+            "C": "five",
+            "D": "eight"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/3842638015.mp4",
+        "question": "how many people are involved in the video",
+        "answer": "C",
+        "choices": {
+            "A": "one",
+            "B": "eight",
+            "C": "two",
+            "D": "seven"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/11155395153.mp4",
+        "question": "how many toy balls was the baby holding",
+        "answer": "C",
+        "choices": {
+            "A": "eight",
+            "B": "seven",
+            "C": "two",
+            "D": "five"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/6158132572.mp4",
+        "question": "how many people are there in the video",
+        "answer": "C",
+        "choices": {
+            "A": "eight",
+            "B": "four",
+            "C": "six",
+            "D": "seven"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/6042037966.mp4",
+        "question": "how many women are there on stage",
+        "answer": "C",
+        "choices": {
+            "A": "four",
+            "B": "six",
+            "C": "one",
+            "D": "three"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/2794873229.mp4",
+        "question": "how many times did the man caress the cat when it is resting on his lap in this video",
+        "answer": "C",
+        "choices": {
+            "A": "ten",
+            "B": "six",
+            "C": "three",
+            "D": "four"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/4740545679.mp4",
+        "question": "how many people are involved in the video",
+        "answer": "A",
+        "choices": {
+            "A": "two",
+            "B": "ten",
+            "C": "four",
+            "D": "eight"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/9175646479.mp4",
+        "question": "how many lamps were at the back",
+        "answer": "C",
+        "choices": {
+            "A": "four",
+            "B": "three",
+            "C": "one",
+            "D": "seven"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/4226033751.mp4",
+        "question": "how many times did the person squeeze the ball in this video",
+        "answer": "A",
+        "choices": {
+            "A": "five",
+            "B": "three",
+            "C": "eight",
+            "D": "six"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/2405004230.mp4",
+        "question": "how many torchers were the lady with the headset holding",
+        "answer": "B",
+        "choices": {
+            "A": "nine",
+            "B": "three",
+            "C": "twelve",
+            "D": "ten"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/2906873825.mp4",
+        "question": "how many men are in the band",
+        "answer": "D",
+        "choices": {
+            "A": "seven",
+            "B": "two",
+            "C": "nine",
+            "D": "five"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/5607028175.mp4",
+        "question": "how many people were jumping on the trampoline",
+        "answer": "C",
+        "choices": {
+            "A": "seven",
+            "B": "five",
+            "C": "four",
+            "D": "ten"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/4555151860.mp4",
+        "question": "how many candles are there on the cake",
+        "answer": "C",
+        "choices": {
+            "A": "ten",
+            "B": "four",
+            "C": "one",
+            "D": "eight"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/5602364659.mp4",
+        "question": "how many rounds does father give to the baby",
+        "answer": "C",
+        "choices": {
+            "A": "five",
+            "B": "three",
+            "C": "two",
+            "D": "ten"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/13179487404.mp4",
+        "question": "how many children are filmed",
+        "answer": "A",
+        "choices": {
+            "A": "two",
+            "B": "three",
+            "C": "six",
+            "D": "seven"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/2400084970.mp4",
+        "question": "how many ladies are there",
+        "answer": "B",
+        "choices": {
+            "A": "nine",
+            "B": "two",
+            "C": "seven",
+            "D": "eight"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/10376859826.mp4",
+        "question": "how many items in total did the lady take out from the bag",
+        "answer": "A",
+        "choices": {
+            "A": "six",
+            "B": "ten",
+            "C": "eight",
+            "D": "twelve"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/5221530771.mp4",
+        "question": "how many people are in the video",
+        "answer": "D",
+        "choices": {
+            "A": "five",
+            "B": "four",
+            "C": "seven",
+            "D": "two"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/9203522308.mp4",
+        "question": "how many cakes are there on the table",
+        "answer": "C",
+        "choices": {
+            "A": "seven",
+            "B": "three",
+            "C": "two",
+            "D": "zero"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/5524185835.mp4",
+        "question": "how many people were on stage",
+        "answer": "A",
+        "choices": {
+            "A": "nine",
+            "B": "eighteen",
+            "C": "eleven",
+            "D": "fourteen"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/10209170426.mp4",
+        "question": "how many items did the boy put on the shelf in this video",
+        "answer": "A",
+        "choices": {
+            "A": "two",
+            "B": "four",
+            "C": "ten",
+            "D": "five"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/5544695007.mp4",
+        "question": "how many babies are there",
+        "answer": "A",
+        "choices": {
+            "A": "one",
+            "B": "seven",
+            "C": "three",
+            "D": "five"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/3608098943.mp4",
+        "question": "how many people are hanging out",
+        "answer": "B",
+        "choices": {
+            "A": "twelve",
+            "B": "nine",
+            "C": "eight",
+            "D": "ten"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/8617869131.mp4",
+        "question": "how many people are on the horse in the video",
+        "answer": "D",
+        "choices": {
+            "A": "two",
+            "B": "three",
+            "C": "six",
+            "D": "one"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/5263448487.mp4",
+        "question": "how many men were there",
+        "answer": "A",
+        "choices": {
+            "A": "two",
+            "B": "eight",
+            "C": "six",
+            "D": "nine"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/4421898163.mp4",
+        "question": "how many people were in the video",
+        "answer": "B",
+        "choices": {
+            "A": "three",
+            "B": "one",
+            "C": "eight",
+            "D": "six"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "nextqa/4854593577.mp4",
+        "question": "how many people are there on the raft",
+        "answer": "A",
+        "choices": {
+            "A": "two",
+            "B": "four",
+            "C": "nine",
+            "D": "five"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/6885631865.mp4",
+        "question": "how many people are involved in the video",
+        "answer": "C",
+        "choices": {
+            "A": "three",
+            "B": "seven",
+            "C": "two",
+            "D": "eight"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/4152556613.mp4",
+        "question": "how many dogs are there resting",
+        "answer": "A",
+        "choices": {
+            "A": "three",
+            "B": "seven",
+            "C": "ten",
+            "D": "eight"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "nextqa/3348872437.mp4",
+        "question": "how many children are there",
+        "answer": "D",
+        "choices": {
+            "A": "five",
+            "B": "four",
+            "C": "seven",
+            "D": "two"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/2479343168.mp4",
+        "question": "how many people are in the video",
+        "answer": "D",
+        "choices": {
+            "A": "six",
+            "B": "seven",
+            "C": "twelve",
+            "D": "four"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "nextqa/7975528915.mp4",
+        "question": "how many people are trying to get up the slope at the start",
+        "answer": "C",
+        "choices": {
+            "A": "two",
+            "B": "seven",
+            "C": "four",
+            "D": "six"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "nextqa/12427023395.mp4",
+        "question": "how many people are there",
+        "answer": "B",
+        "choices": {
+            "A": "six",
+            "B": "three",
+            "C": "four",
+            "D": "eight"
+        },
+        "predict": "B"
+    }
+]

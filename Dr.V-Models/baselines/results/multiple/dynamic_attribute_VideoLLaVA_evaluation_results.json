@@ -1,0 +1,718 @@
+{
+    "dynamic_attribute": {
+        "accuracy": 0.34444444444444444,
+        "unmatched_cases": [
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Jumping in slow motion compared to the man below",
+                "expected_text": "Faster than the man below"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "starting from left to right, then turning",
+                "expected_text": "from right to left"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "pulsating upwards",
+                "expected_text": "sinking downwards"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "spinning rapidly forwards",
+                "expected_text": "bouncing up and down"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "shifting back and forth between more and less",
+                "expected_text": "increasing"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "starts drawing at the same rapid speed as the person below",
+                "expected_text": "slower than the person below"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Accelerating speed",
+                "expected_text": "The fastest speed"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "drifting in spiral",
+                "expected_text": "floating upwards"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "growing in bursts, sometimes faster than the tree below",
+                "expected_text": "growing at the same speed as the tree below"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "spinning in place",
+                "expected_text": "moving backward"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "fluctuating between dim and bright",
+                "expected_text": "turning brighter"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "gradually increasing in brightness",
+                "expected_text": "getting darker"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "turning in place",
+                "expected_text": "moving leftwards"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Towards the front of the car",
+                "expected_text": "Away from the car"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "turning into disappearing shapes",
+                "expected_text": "turning into cubes"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The camera zooms rapidly towards and then away from a 3D digital brain",
+                "expected_text": "Zoom out from a 3D digital brain"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "spinning towards the core",
+                "expected_text": "counterclockwise"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "circularly around the apex of skyscrapers",
+                "expected_text": "upwards among skyscraper buildings"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Climbing with more agility but at the same speed as the person below",
+                "expected_text": "Climbing faster than the person below"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "the forest above is turning into winter foliage while the below stays the same",
+                "expected_text": "slower than the forest below"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "remaining half-bloomed before fully opening",
+                "expected_text": "turning into buds"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "being expanded to accommodate more floors",
+                "expected_text": "being constructed"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "swirling diagonally clockwise",
+                "expected_text": "moving vertically towards the top of the screen"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "diagonally upwards",
+                "expected_text": "in a parabola from left to right"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "moving diagonally",
+                "expected_text": "moving forward"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "gradually accelerating compared to the white circle below",
+                "expected_text": "rotating at the same speed as the white circle below"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "crumbling slowly",
+                "expected_text": "assembling together"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "rising at the same speed as the sun below",
+                "expected_text": "rising slower than the sun below"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "slowing down and will be slower than the ball below",
+                "expected_text": "faster than the ball below"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "smoothly transitioning to the right",
+                "expected_text": "zooming in"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "adjusting to downward spirals",
+                "expected_text": "clockwise"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "reversing melting process",
+                "expected_text": "melting"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "accelerating past the girl below",
+                "expected_text": "running at the same speed as the girl below"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "panning to the side of the fighter jet, making it appear to move sideways",
+                "expected_text": "panning to the front of a fighter jet"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "panning slowly in a zigzag pattern",
+                "expected_text": "left to right"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "seems to accelerate past the earth below over time",
+                "expected_text": "rotates at the same speed as the earth below"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "diagonally across the screen",
+                "expected_text": "towards the camera"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "backtracking away from the screen",
+                "expected_text": "to the right side of the screen"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "upwards",
+                "expected_text": "downwards"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "slowly drifting downward",
+                "expected_text": "leftward"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "rapidly fluctuating",
+                "expected_text": "increasing"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "transforming into juice",
+                "expected_text": "decreasing"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "melting into syrup",
+                "expected_text": "solidifying"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "rotating inward",
+                "expected_text": "clockwise"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "shifting and forming a new ice ridge",
+                "expected_text": "breaking and falling in water"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "rotates with slight variation in speed compared to the earth below",
+                "expected_text": "slower than the earth below"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "blooming into flowers",
+                "expected_text": "reviving"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "gradual slow motion",
+                "expected_text": "normal speed"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "gradually tilting left",
+                "expected_text": "moving backward"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "reversing direction quickly",
+                "expected_text": "normal speed"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Accelerating faster than the wave below",
+                "expected_text": "Moving slower than the wave below"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "walking toward a stream behind the wigwam",
+                "expected_text": "walking out of a wigwam"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Gradually slowing down compared to the wave below",
+                "expected_text": "Moving faster than the wave below"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "slightly sped up",
+                "expected_text": "normal speed"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "rising with sudden accelerations unlike the sun below",
+                "expected_text": "rising at the same speed as the sun below"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "leaves are swirling upwards",
+                "expected_text": "increasing height"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "slightly faster than normal",
+                "expected_text": "slow motion"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "fading gradually into warm hues",
+                "expected_text": "getting darker"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Rotating counterclockwise",
+                "expected_text": "Clockwise"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "melting into streams of water",
+                "expected_text": "assembling and rising from water"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "zooming upward",
+                "expected_text": "zooming backward"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "rotating on its base",
+                "expected_text": "growing taller"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "transforming from pupa into butterfly",
+                "expected_text": "transforming from butterfly into pupa"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "pausing intermittently",
+                "expected_text": "normal speed"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "It is glowing brighter as it transitions from green to yellow.",
+                "expected_text": "It is changing from green to blue."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "growing larger in reverse motion",
+                "expected_text": "growing faster than the tree below"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "rising dramatically slower than the sun below",
+                "expected_text": "rising faster than the sun below"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "gradually speeding up",
+                "expected_text": "normal speed"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "gradually filling with light",
+                "expected_text": "turning darker"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "ascending diagonally from right to left",
+                "expected_text": "top to bottom"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "gradually getting brighter",
+                "expected_text": "turning off"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Zooming out to reveal the entire stadium crowd",
+                "expected_text": "Zooming into three football players"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Morphing from a human into a lion",
+                "expected_text": "Morphing from a human into a chimpanzee"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "To the left",
+                "expected_text": "To the right"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "From red to yellow and then back to red",
+                "expected_text": "From green to red"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "flying in spirals to the left",
+                "expected_text": "flying towards the camera"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "fading into twilight",
+                "expected_text": "turning brighter"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "jumping rope with varying speed, sometimes faster, sometimes slower",
+                "expected_text": "jumping rope at the same speed"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "being expanded to double its size",
+                "expected_text": "being demolished"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "reverse speed",
+                "expected_text": "slow motion"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "transitioning to shadows",
+                "expected_text": "turning brighter"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "zigzagging leftwards",
+                "expected_text": "upwards"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Swinging in an arc towards the left edge of the frame",
+                "expected_text": "To the left side of the screen"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Moving downwards",
+                "expected_text": "To the right side of the screen"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "changing color slowly as the leaves transform throughout the day",
+                "expected_text": "decreasing height"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "oscillating its growth speed, sometimes faster and sometimes slower than the pile of salt below",
+                "expected_text": "growing at the same speed as the pile of salt below"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "growing at a speed initially slower but then accelerating to match the tree below",
+                "expected_text": "growing slower than the tree below"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Alternating between climbing faster and slower as if matching different movements of the person below",
+                "expected_text": "Climbing slower than the person below"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "melting at an irregular pace, occasionally faster than the ice cream below",
+                "expected_text": "melting slower than the ice cream below"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "clockwise",
+                "expected_text": "counter-clockwise"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "A person lowers the pineapple to the ground",
+                "expected_text": "A person picks up the pineapple"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Jumping in slow motion as compared to the fast-paced jump of the man below",
+                "expected_text": "Slower than the man below"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "setting",
+                "expected_text": "ascending"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "displaying swirling storm clouds",
+                "expected_text": "lightening up"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "They are reversing smoothly out of the area",
+                "expected_text": "Slowly"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "blooming in slow motion, then shrinking",
+                "expected_text": "turning from withered to full blossom"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "circling around a central point",
+                "expected_text": "away from each other"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "the video appears to be accelerating",
+                "expected_text": "in a slow motion"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "emerging slowly from the chrysalis",
+                "expected_text": "transforming from pupa into butterfly"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "stationary, then bouncing up and down",
+                "expected_text": "moving from left to right"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "panning up",
+                "expected_text": "panning to the right"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Zooming rapidly towards the football players as if highlighting action",
+                "expected_text": "Zooming out from three football palyers"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Towards the camera at a slight angle",
+                "expected_text": "Towards the car"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "gradually accelerating compared to the ball below",
+                "expected_text": "moving at the same speed as the ball below"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "melting in a pulsing pattern that contrasts with the steady melt of the ice cream below",
+                "expected_text": "melting at the same speed as the ice cream below"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "transforming into a fluttering shredded pile from a smooth sheet",
+                "expected_text": "changing from a flattened sheet into a wrinkled paper ball"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "swinging wide open quickly",
+                "expected_text": "closing"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "upwards",
+                "expected_text": "to his right"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "running at a sprint while the girl below is jogging",
+                "expected_text": "running faster than the girl below"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "growing in an erratic pattern, faster then slower, compared to the pile of salt below",
+                "expected_text": "growing at a faster speed than the pile of salt below"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "solidifying into a stronger form",
+                "expected_text": "melting"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "the woman below taking frequent breaks in between push-ups",
+                "expected_text": "two women doing push ups at the same speed"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "gradually increasing speed",
+                "expected_text": "time-lapse"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "downwards in a rapid motion",
+                "expected_text": "right to left"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "changing color slowly",
+                "expected_text": "gradually disappearing"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "gradual build-up in speed",
+                "expected_text": "slow motion"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "pulsing between bright and dark",
+                "expected_text": "turning brighter"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Climbing smoothly and gradually overtaking the person below",
+                "expected_text": "Climbing at the same speed as the person below"
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.34444444444444444
+    }
+}

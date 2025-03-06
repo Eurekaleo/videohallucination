@@ -1,0 +1,1810 @@
+{
+    "counterfactual_prediction": {
+        "accuracy": 0.0,
+        "unmatched_cases": [
+            {
+                "predicted": "IF THE PERSON IN THE VIDEO DID NOT WALK SLOWLY, THEY WOULD ACCIDENTALLY STEP ON A SLIPPERY SURFACE AND FALL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] would not be able to keep up with the tempo."
+            },
+            {
+                "predicted": "A: THE NEARBY LAMP MIGHT FALL OVER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] could still play normally."
+            },
+            {
+                "predicted": "IF IT RAINS, THE MAN IN THE PINK SHIRT WILL RIDE A BIKE HOME IN THE RAIN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will enter the house."
+            },
+            {
+                "predicted": "IF PERSON_1 FEELS THIRSTY, THEY WILL LOOK FOR SOME WATER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "will have some water"
+            },
+            {
+                "predicted": "B: THE GUITAR WILL MAGICALLY LEVITATE TO PREVENT DAMAGE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] would fall onto the ground and break his guitar as [chair_1] breaks underneath him."
+            },
+            {
+                "predicted": "IF THE SHUTTLECOCK IS BROKEN WHILE BEING HIT, THE PERSON WILL ASK THE OTHER PERSON TO STOP PLAYING FOR A BIT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_2] may have to take another shuttlecock to play."
+            },
+            {
+                "predicted": "IF THE CHAIR BREAKS SUDDENLY, THE PERSON SITTING ON IT WILL FALL ONTO THE GROUND.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will fall onto the ground."
+            },
+            {
+                "predicted": "A. IF THE MAN USED ONE HAND TO DO THIS, HE MIGHT IMPRESS ONLOOKERS WITH UNEXPECTED SKILL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "His that arm would be very sore."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE VIDEO CHEERS FOR THEMSELVES, THEY MIGHT DECIDE TO PERFORM AN UNEXPECTED DANCE ROUTINE, AS SUGGESTED BY OPTION C.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Others would cheer for [person_5] together."
+            },
+            {
+                "predicted": "THE MAN WILL BE INTERRUPTED WHILE PLAYING A GAME ON HIS PHONE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The [person_1] will cook a gourmet meal instead of finishing the project."
+            },
+            {
+                "predicted": "IF PERSON 1 DOESN'T OPEN HIS HANDS, HIS SHADOW WILL DETACH AND DANCE ALONE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] can't turn around and jump."
+            },
+            {
+                "predicted": "THE CUP WILL FALL TO THE FLOOR AND SHATTER INTO PIECES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The [cup_1] will be picked up by [person_1]."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS A. IF PERSON_1 IS TIRED, THEY MIGHT FALL ASLEEP ON THE HORSE, CAUSING IT TO STOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will get off the horse."
+            },
+            {
+                "predicted": "THE MIRROR WILL SHATTER INTO PIECES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_2]'s reflection will also touch the mirror."
+            },
+            {
+                "predicted": "IF THE PERSON WHISTLES TOO LOUDLY, THE LIGHTS IN THE ROOM WILL FLICKER, CAUSING A MINOR DISTRACTION.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Nothing will happen."
+            },
+            {
+                "predicted": "IF THE DOG BITES [PERSON_1], THE DOG WILL LIKELY BE SCOLDED BY THE PERSON AND THE DOG WILL BE TAKEN AWAY FROM THE ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will shout and cry."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS B. THE PERSON WILL QUICKLY COVER THE COW WITH AN UMBRELLA.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "will stop riding the horse"
+            },
+            {
+                "predicted": "AS THE ROPE BREAKS, THE PERSON WILL LAND SOFTLY ON A TRAMPOLINE AND BOUNCE BACK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1]'s right foot would hit the floor"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A MAN WALKING DOWN THE STREET WHILE HOLDING A SLACKLINE. IF IT RAINS, THE SLACKLINE MIGHT BECOME A MAKESHIFT SHELTER FOR THE MAN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_2] may not continue slacklining."
+            },
+            {
+                "predicted": "THE TROWEL IS BROKEN, AND THE PERSON IS USING A NEW ONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] may have to use a new trowel."
+            },
+            {
+                "predicted": "IF THE PERSON DROPS THE PRODUCT ON THE FLOOR, IT WILL CRACK UNDER THE WEIGHT OF THE PRODUCT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will pick it up without any damage."
+            },
+            {
+                "predicted": "THE GROUP OF PEOPLE IN THE VIDEO ARE PLAYING A GAME TOGETHER, AND ONE PERSON SUGGESTS PLACING A BET ON THE GAME. THE OTHER PEOPLE IN THE GROUP EITHER REFUSE THE IDEA OR DO NOT SEEM TO BE INTERESTED IN THE SUGGESTION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The other people would refuse that."
+            },
+            {
+                "predicted": "IF THE PERSON TWISTED THE NECK OF THE PERSON LAYING ON THE BED, THE PERSON WOULD LAUGH UNCONTROLLABLY AT JOKES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_2] will lie on the bed for a while."
+            },
+            {
+                "predicted": "A SPONTANEOUS DANCE MIGHT BREAK OUT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] would not stand there."
+            },
+            {
+                "predicted": "IF THE PERSON COULD NOT RIP THE WRAPPER, THE CONTENTS OF THE BOX WOULD SPILL OUT ONTO THE FLOOR, CREATING A MESS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The [person_2] would help the [person_1]."
+            },
+            {
+                "predicted": "IF PERSON 1 HAS BEEN COMFORTED BY PERSON 2 WHEN LOSING THE GAME, PERSON 2 WOULD START CRAFTING A NEW GAME PLAN ON THE SPOT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The baby bottle will drop on the [person_1]."
+            },
+            {
+                "predicted": "IF HIS DEMONSTRATION GOES WRONG, THE LIGHTS COULD FLICKER AND GO OUT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "He'll be fired."
+            },
+            {
+                "predicted": "A: THE PERSON IN THE VIDEO WILL FIND AN UMBRELLA NEARBY AND START SINGING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_8] and [person_10] maybe stop working."
+            },
+            {
+                "predicted": "IF THE PERSON FALLS DOWN, THEY WILL LIKELY GET UP AND CONTINUE THEIR ACTIVITIES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Perhaps [person_2] will cry."
+            },
+            {
+                "predicted": "THE GREEN PERSON IN THE VIDEO IS RIDING A BULL ON A BOUNCY CASTLE. IF THE PERSON FALLS, THEY MIGHT RELEASE BALLOONS INTO THE SKY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will fall on the buoy mattress."
+            },
+            {
+                "predicted": "A: THE BALLOON WOULD RELEASE A SWEET FRAGRANCE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The balloon would be broken immediately."
+            },
+            {
+                "predicted": "IF THE PERSON SPILLS THE CHESS PIECE, THEY MIGHT DECIDE TO START A NEW GAME INSTEAD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] and [person_2] will stop playing."
+            },
+            {
+                "predicted": "A: THE PERSON IN THE VIDEO WOULD LET THE RAIN ENHANCE THEIR WARM-UP SESSION BY JOGGING IN THE DOWNPOUR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will cycle to find shelter from the rain."
+            },
+            {
+                "predicted": "IF THE POWER IS OFF, THE GENERATOR WILL NOT START AUTOMATICALLY. THE MAN WILL HAVE TO MANUALLY START THE GENERATOR BY PRESSING THE BUTTON.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Nothing would happen"
+            },
+            {
+                "predicted": "IF THE PERSON STOPS READING, THE CEILING FAN WILL CONTINUE TO WORK AS USUAL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Students may have lunch."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WANTS TO USE OTHER VEHICLES, SO THEY DECIDE TO RENT A HOT AIR BALLOON TO TRAVEL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The [person_1] will park the scooter home first."
+            },
+            {
+                "predicted": "IF THE PERSON CRIES, THE ROOM WILL FILL WITH WATER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will call his mother."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE VIDEO FELT TIRED, THEY MIGHT TAKE A SHORT REST OR SWITCH TO DANCING TO REGAIN ENERGY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "It is possible that [person_1] would take a short rest."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS D. IN THE VIDEO, THE TWO PEOPLE ARE SEEN LOOKING AT THE GRASS AND STRETCHING THEIR HANDS. THEY ARE LIKELY INSPECTING THE GRASS FOR ANY BUGS OR OTHER OBJECTS THAT MAY BE PRESENT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_2] and [person_3] will stretch their hands."
+            },
+            {
+                "predicted": "IF PERSON 2 WERE NOT THERE, THE AUDIENCE WOULD NOT BE ABLE TO SEE THE PERSON PLAYING THE DRUMS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_2] would not play the drums."
+            },
+            {
+                "predicted": "IF THE BUBBLE WATER COMES INTO THE EYES OF THE PERSON, THEY WILL START TO LAUGH SPONTANEOUSLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The string will fall on the ground."
+            },
+            {
+                "predicted": "IF THE CYMBALS DID NOT BELONG TO THE MAN IN THE YELLOW SHIRT, HE WOULD LIKELY RETURN THEM QUICKLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] might be deemed as very impolite."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE VIDEO DOES NOT PLAY THE FLUTE, THEY WILL CONTINUE TO DANCE WITH AN INVISIBLE PARTNER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will give up."
+            },
+            {
+                "predicted": "IF THE PERSON CANNOT PLAY THE GONG, THE AUDIENCE MIGHT APPLAUD THINKING IT'S PART OF THE PERFORMANCE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Someone will help [person_1] to play the gong."
+            },
+            {
+                "predicted": "IF THE MAN FINISHES HIS WORK, HE WILL WAIT FOR THE OTHER MAN TO LEAVE TOGETHER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will wait for [person_2] to leave together."
+            },
+            {
+                "predicted": "A: THE PERSON MIGHT SLIP AND FALL ON A PUDDLE, CAUSING THEM TO LOSE THEIR BALANCE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will have to change into other clothes"
+            },
+            {
+                "predicted": "IF THE PERSON WEARING GLOVES WERE TO PICK UP THE CUP, THEY WOULD ACCIDENTALLY DROP IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The hands of the [person_1] would be protected."
+            },
+            {
+                "predicted": "IF PERSON 1 GOT BORED, THEY MIGHT STOP RIDING THE UNICYCLE AND START JUGGLING THE BALLS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] might stop riding the unicycle."
+            },
+            {
+                "predicted": "IF PERSON_1 DROPS THE LUTE, IT WILL LIKELY BREAK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Maybe the lute will break."
+            },
+            {
+                "predicted": "IF THERE WERE NO CHAIR FOR PERSON 2, THEY WOULD ATTEMPT TO CLIMB HIGHER FOR A BETTER PERSPECTIVE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_2] would sit on the floor."
+            },
+            {
+                "predicted": "IF THE PERSON PLANNED A BIGGER PIECE OF WOOD, THEY WOULD HAVE TO SPEND MORE TIME TO PLANE IT AND SHOW IT TO THE CAMERA.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] would have to spend more time to plane it and show to the camera."
+            },
+            {
+                "predicted": "A: THE PERSON WOULD TAKE THE GUITAR DOWN AND BUY A NEW ONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] would take it down and buy a new guitar."
+            },
+            {
+                "predicted": "IF THE ROPE BREAKS AGAIN, THE PEOPLE IN THE VIDEO WILL CONTINUE TO PLAY AND DANCE WITH EACH OTHER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] and [person_7] will get bored."
+            },
+            {
+                "predicted": "B. THE PERSON IN THE VIDEO MIGHT FEEL LIKE THE ROOM NEEDS TO BE REDECORATED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will shine the other shoe."
+            },
+            {
+                "predicted": "THE POOL WOULD OVERFLOW DUE TO THE SPLASH MADE BY THE PERSON'S FALL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] would fall on a buoy mattress."
+            },
+            {
+                "predicted": "IF THE PIANO FALLS, IT WILL BE BROKEN SERIOUSLY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "It will be broken seriously."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE VIDEO GETS THE ITEM SHE LIKES THE MOST, SHE MIGHT START DOING A HAPPY DANCE, JUMP UP, OR SUDDENLY SING A LOUD SONG.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Maybe [person_1] will jump up."
+            },
+            {
+                "predicted": "THE GONG WILL BOUNCE BACK AND BREAK A WINDOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will get hurt and wake up."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE VIDEO DOESN'T LIFT THE BAGPIPE UP, THEY WILL LOSE BALANCE AND FALL DOWN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue playing."
+            },
+            {
+                "predicted": "IF PERSON 1 CYCLED TO THE RIGHT BEFORE HITTING A SMALL SLOPE, THEY MIGHT HAVE TO STOP AND PUSH THE BICYCLE UP THE SLOPE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] might keep cycling."
+            },
+            {
+                "predicted": "IF THE PERSON HITS A DIFFICULT CHORD, THEY MIGHT NEED TO PRACTICE MORE TO IMPROVE THEIR SKILLS AND OVERCOME THE CHALLENGE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will practice chord."
+            },
+            {
+                "predicted": "IF THE CHAIR FALLS OVER, THE BOY WILL LIKELY BE HURT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will be hurt."
+            },
+            {
+                "predicted": "IF THE PATCHES ARE APPLIED TOO LONG, THE PERSON MAY ACCIDENTALLY STICK THEM TO THE TABLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will watch [person_1] playing the toy."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS D: THE THREE PEOPLE IN THE VEHICLE WILL GET WET IF IT RAINS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] , [person_2] and [person_3] will get wet."
+            },
+            {
+                "predicted": "IF THE PERSON TOUCHES THE KEYBOARD REPEATEDLY, IT WILL MAKE SHRILL SOUNDS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The organ will make shrill sounds."
+            },
+            {
+                "predicted": "IF THE NAIL WAS BROKEN, THE PERSON WOULD CONTINUE TO USE THE HAMMER TO BREAK THE NAIL OFF THE BOTTLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] would look for a new screw."
+            },
+            {
+                "predicted": "IF THE POWER IS OUT, THE ROOM WILL BE DARK, AND THE RADIO WILL BEGIN TO WORK SUDDENLY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The room will be dark then."
+            },
+            {
+                "predicted": "IF IT IS SUNNY FOR A LONG TIME, THE PLANTS IN THE GREENHOUSE WILL GROW AND THRIVE. THE MAN IN THE VIDEO IS USING A HANDHELD DEVICE TO WATER THE PLANTS, ENSURING THAT THEY RECEIVE THE NECESSARY HYDRATION.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will have to water more."
+            },
+            {
+                "predicted": "IF THE LIGHT IS OFF, THE ROOM WILL BE DARKENED, AND THE PERSON PLAYING THE GUITAR WILL NOT BE ABLE TO SEE THE SCREEN PROPERLY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The room will be darkened."
+            },
+            {
+                "predicted": "THE GIFT WILL BE GIVEN TO THE PERSON SITTING IN THE CHAIR, AND THEY WILL MAKE A SPEECH ON STAGE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The game will be over."
+            },
+            {
+                "predicted": "IF THE WOMAN IN THE VIDEO DIDN'T BEND OVER, SHE WOULD HAVE SPILLED THE WATER SHE WAS HOLDING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] would hurt herself with a razor."
+            },
+            {
+                "predicted": "IF THE PERSON IS SLEEPY, THEY MIGHT ACCIDENTALLY ERASE ALL THE DATA FROM THE LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will stop laughing."
+            },
+            {
+                "predicted": "IF PERSON 1 FINISHES SQUEEZING ORANGES, THEY WILL SERVE ORANGE JUICE TO THE PERSON IN THE BLUE SHIRT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will serve orange juice."
+            },
+            {
+                "predicted": "IF THE PERSON BREAKS THE WOOD PLANER, THEY MAY HAVE TO REPAIR IT OR FIND A NEW ONE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will not be able to continue working."
+            },
+            {
+                "predicted": "A: THE PERSON IN THE VIDEO IS WEARING A BLACK JACKET AND A HAT, AND THEY ARE STANDING ON A SNOWY SURFACE. IF THE PERSON SLIPS DOWN ON THE SNOW, THEY MIGHT FALL AND GET HURT. TO AVOID THIS, THE PERSON SHOULD BE CAUTIOUS AND WEAR APPROPRIATE FOOTWEAR WITH GOOD TRACTION TO PREVENT SLIPPING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_2] will then lie on the snow."
+            },
+            {
+                "predicted": "IF THE RACKS ARE MADE OF PLASTIC, THE OBJECTS ON THE RACKS WILL REARRANGE THEMSELVES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The racks is broken."
+            },
+            {
+                "predicted": "IF THE MAN FINISHES PLANING THE WOOD, HE WILL LIKELY PLACE THE WOOD ON A TABLE OR A FLAT SURFACE, AND THEN HE WILL LIKELY USE A SANDPAPER OR A SANDER TO SMOOTH OUT THE WOOD'S SURFACE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will make a new one."
+            },
+            {
+                "predicted": "IF THE PERSON WEARING GLOVES, IT WOULD BE MORE EFFECTIVE FOR THIS EXPERIENCE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "It would be more effective for this experience."
+            },
+            {
+                "predicted": "A: A NEARBY SQUIRREL COULD GIVE THE PERSON A SOFT LANDING WITH ITS TAIL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] can fall down onto the [person_1]."
+            },
+            {
+                "predicted": "IF THE BUS STARTS, THE PEOPLE IN THE BUS MIGHT LEAN FORWARD IN ANTICIPATION OF THE BUS STARTING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] would stop for a minute."
+            },
+            {
+                "predicted": "IF THE SERVICE TIME COMES, THE PERSON WILL ASK OTHERS TO SPEED UP THE SERVICE PROCESS, EXPECTING TO SAVE RESOURCES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will add money to request extension of service time."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS B: HE WOULD GO TO THE KITCHEN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "He would go to the kitchen."
+            },
+            {
+                "predicted": "IF THE PERSON THROWS THE MALLETS AWAY, THEY MIGHT RUSH TO SHIELD THE DRUM SET FROM THE FLYING MALLETS, AS THE BABY IS PLAYING WITH THE MALLETS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] may stand up to collect the mallets for [person_2]."
+            },
+            {
+                "predicted": "D. HE'LL GO TO THE HOSPITAL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "He'll go to the hospital"
+            },
+            {
+                "predicted": "A: THE LIGHTS WILL FLICKER DRAMATICALLY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The bas guitar would be borken"
+            },
+            {
+                "predicted": "IF IT RAINS, THE PERSON WILL PULL OUT AN UMBRELLA FROM THEIR BACKPACK AND CONTINUE RUNNING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_3] will stop running."
+            },
+            {
+                "predicted": "IF THE WOMAN GOES TO SHOP, THE MAN WILL CONTINUE TO PLAY WITH THE WII GAME.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_2] will accompany [person_1]."
+            },
+            {
+                "predicted": "IF PERSON 1 TWISTED PERSON 2'S NECK, PERSON 2 WOULD BE IN SEVERE PAIN AND MIGHT EVEN LOSE CONSCIOUSNESS. THIS IS BECAUSE TWISTING SOMEONE'S NECK CAN CAUSE SEVERE DAMAGE TO THE SPINAL CORD AND LEAD TO PARALYSIS OR EVEN DEATH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will take [person_2] to the hospital."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE VIDEO USES THE SWORD TO CUT DOWN THE POTTED PLANT, IT WILL RESULT IN THE PLANT BEING DESTROYED AND THE PERSON GETTING A BLOODY NOSE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_4] will stay away from the [potted plant_1]."
+            },
+            {
+                "predicted": "IF THE PERSON CONTINUES TO SHOOT IN THE BASKET, THEY WILL LIKELY MISS THE BASKET AND THE BALL WILL ROLL AWAY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will be very confident in himself."
+            },
+            {
+                "predicted": "IF THE GUITAR STRAP BROKE OFF THE GUITAR, THE MAN WOULD HAVE TO QUICKLY ADJUST HIS GRIP ON THE GUITAR TO PREVENT IT FROM FALLING. HE MIGHT ALSO NEED TO FIND A NEW STRAP TO SECURE THE GUITAR PROPERLY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] might not be expecting it and accidentally drop his guitar on the floor."
+            },
+            {
+                "predicted": "IF THE PERSON ACCIDENTALLY KNOCKED OVER THE BOOK, IT WOULD CAUSE A LOUD NOISE, WHICH MIGHT STARTLE THE ATTENDEES OF THE FUNERAL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The people at the funeral would begin to get aggressive with [person_1] , and he would apologize while he left quickly."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE VIDEO WAS ALONE, THEY MIGHT DECIDE TO SING LOUDLY TO FILL THE SILENCE, AS SUGGESTED BY OPTION A.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] would cry."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE VIDEO IS WEARY, THE LIGHTS MIGHT FLICKER AND CAUSE A DISTRACTION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Maybe [person_2] will stop telling the audience about the workout."
+            },
+            {
+                "predicted": "IF THE BOY ON THE COUCH DID NOT BOW, THE COUCH WOULD NOT MOVE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The face of the boy would be hit."
+            },
+            {
+                "predicted": "IF PERSON 1 FALLS DOWN, THEY WILL CONTINUE PLAYING THE GAME AND THE SUN WILL NOT SET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will stop playing."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE VIDEO RELEASED HIS HAND, THE CHAIR WOULD TILT BACK SLIGHTLY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The bottle might strike down."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS B. THE WOMAN WILL CALL A TAXI.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The [person_1] will call a taxi."
+            },
+            {
+                "predicted": "IF PERSON 1 STOPS CLAPPING, PERSON 2 WILL NOT PLAY THEIR INSTRUMENT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_2] will also not play."
+            },
+            {
+                "predicted": "IF THE PERSON PUTS A BOWL UNDER THE DRILLER, IT WILL CAUSE THE DRILL TO START WORKING FASTER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The kitchen table can be cleaner."
+            },
+            {
+                "predicted": "IF THE PERSON'S HAIR WAS WET, IT WOULD NOT AFFECT THE FEELING OF THE PERSON BEING MASSAGED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "It would not affect the feeling."
+            },
+            {
+                "predicted": "A: A DISCUSSION ABOUT THE SWORD'S HISTORY MIGHT ENSUE BETWEEN THEM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_5] might get injured because of the sword."
+            },
+            {
+                "predicted": "IF THE FRIEND COMES TO HER HOME, THE GIRL WOULD INVITE HER TO EAT THE MARSHMALLOWS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] would invite her friend to eat the marshmallows."
+            },
+            {
+                "predicted": "IF THE PERSON DETERMINES THE BUTTONS CORRECTLY, THEY WILL PLAY THE SONG CORRECTLY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The [person_1] will play the song correctly."
+            },
+            {
+                "predicted": "IF PERSON 1 STILL FEELS TIRED, THEY WILL CONTINUE RESTING ON THE TREADMILL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue resting."
+            },
+            {
+                "predicted": "IF PERSON 4 LEARNS HOW TO GLIDE, THEY WILL BE ABLE TO GLIDE OVER WATER EFFORTLESSLY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_4] will propel yourself forward."
+            },
+            {
+                "predicted": "IF THE MAN IN THE VIDEO WENT HOME, HE WOULD NOT BE ABLE TO CONTINUE PLAYING WITH THE PUNCHING BAG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] wouldn't in the workshop."
+            },
+            {
+                "predicted": "IF THE STRINGS OF THE HARP ARE BROKEN, THE HARP WILL NO LONGER BE ABLE TO PRODUCE ANY SOUND. THE WOMAN IN THE VIDEO WILL BE UNABLE TO PLAY THE HARP AND WILL HAVE TO FIND A WAY TO FIX THE STRINGS OR REPLACE THEM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will miss the beat."
+            },
+            {
+                "predicted": "IF PERSON 1 HAD NO MARACAS TO PLAY WITH, THEY MIGHT START DANCING TO ATTRACT A BIRD, PRETEND TO BE IN A SILENT FILM, DECIDE TO START A PARADE WITH IMAGINARY DRUMS, OR FIND ANOTHER TOY TO PLAY WITH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] would find another toy to play with."
+            },
+            {
+                "predicted": "A. IT IS POSSIBLE THAT THE PERSON SMOKING HOOKAH MAY HAVE LUNG CANCER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "It is possible that [person_1] will probably have lung cancer."
+            },
+            {
+                "predicted": "IF THE POWER IS OFF, THE VIDEO WILL NOT BE ABLE TO BE VIEWED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will feel so hot."
+            },
+            {
+                "predicted": "IF THE PERSON GOT A GOOD EXAM RESULT, THEY MIGHT FEEL A SENSE OF ACCOMPLISHMENT AND PRIDE IN THEIR WORK. THEY COULD CHOOSE TO CELEBRATE BY DOING SOMETHING THEY ENJOY, SUCH AS WATCHING A MOVIE, GOING OUT FOR A MEAL, OR SPENDING TIME WITH FRIENDS AND FAMILY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] would tell with parents."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS A. THE LIGHTS ON STAGE WOULD START FLICKERING UNEXPECTEDLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_2] and [person_3] would fell too."
+            },
+            {
+                "predicted": "IF THE PERSON WHO NEEDS THE MAHJONG TILE CANNOT FIND IT, THE PERSON WHO HAS IT WILL WIN THE GAME.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_2] will win."
+            },
+            {
+                "predicted": "IF IT RAINED SUDDENLY, THE PERSON RIDING THE BICYCLE WOULD ATTEMPT TO OPEN AN UMBRELLA WHILE RIDING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] would stop riding [bicycle_1]."
+            },
+            {
+                "predicted": "A: A SPARK COULD CAUSE THE CURTAINS TO CATCH FIRE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will go to turn off the power."
+            },
+            {
+                "predicted": "THE APPLE WILL FALL FROM THE TABLE AND ROLL ACROSS THE FLOOR, BUT IT WILL NOT TELEPORT TO A BASKET NEARBY. INSTEAD, THE PERSON WILL PICK IT UP AND CONTINUE TO EAT IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will gather the apple."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE PINK SHIRT SKATES WITHOUT THE PERSON IN THE GREEN SHIRT AND THE PERSON IN THE GREEN SHIRT, THE PERSON IN THE PINK SHIRT WILL LIKELY LOSE BALANCE AND FALL. THE PERSON IN THE GREEN SHIRT WILL TRY TO CATCH UP BUT WILL NOT BE ABLE TO DO SO. THE PERSON IN THE PINK SHIRT WILL HAVE TO GET UP AND CONTINUE SKATING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The [person_3] can not keep balance and safety."
+            },
+            {
+                "predicted": "IF THE POWER IS TURNED OFF, THE LIGHTS WILL GO OUT, AND THE VIDEO WILL END.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Maybe [person_1] and [person_2] will go to bed."
+            },
+            {
+                "predicted": "IF THE PERSON DOESN'T KNOW HOW TO SMOKE, THEY MIGHT START JUGGLING CIGARS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will have a cough."
+            },
+            {
+                "predicted": "A: THE BOTTLE CAPS WOULD SCATTER ALL OVER THE FLOOR, CREATING A NEW GAME FOR THE PERSON TO PLAY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] would feel disappointed with what she had done."
+            },
+            {
+                "predicted": "IF THE MAN IN THE VIDEO DIDN'T GET THE MONEY, HE WOULD LIKELY START PACKING UP HIS FRUIT STAND.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] wouldn't pass the fruit to his customer."
+            },
+            {
+                "predicted": "A: IF THE PERSON BROKE HIS ARM, HE WOULD INSPIRE OTHERS TO TRY RIDING UNICYCLES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] might never want to try to ride a unicycle again."
+            },
+            {
+                "predicted": "A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will stop running."
+            },
+            {
+                "predicted": "THE PERSON WILL DO SHOOTING THE BALL THROUGH THE BASKET MORE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The [person_1] will do shooting the ball through the basket more."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] maybe stop working."
+            },
+            {
+                "predicted": "A: THE PERSON WILL START JUGGLING THE JUGGLING PINS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will go back to the beginning."
+            },
+            {
+                "predicted": "IF THE BOY DIDN'T TRY TO PROVOKE HIMSELF IN THE MIRROR, HE WOULD NOT HAVE BEEN HURT. THE MIRROR WOULD NOT HAVE STARTED REFLECTING A DIFFERENT WORLD, AND THE HIDDEN PASSAGE BEHIND THE MIRROR WOULD NOT HAVE BEEN REVEALED.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] might not be hurt."
+            },
+            {
+                "predicted": "D: THE BICYCLE BREAKS DOWN, AND A MAGICAL REPAIR OCCURS, ALLOWING THE PERSON TO CONTINUE USING IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] can't use [bicycle_1] further."
+            },
+            {
+                "predicted": "IF PERSON 1 DIDN'T PRESS THE BOTTLENECK, THE CHAMPAGNE WOULD HAVE SPOUTED OUT IN QUANTITY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The champagne would spout out in quantity."
+            },
+            {
+                "predicted": "IF THE PERSON SLIPS, THEY MIGHT ACCIDENTALLY START A CHAIN REACTION CAUSING SEVERAL OBJECTS TO FALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will be seriously injured."
+            },
+            {
+                "predicted": "IF THE MARACAS DON'T HAVE THE STONES, THE STAGE LIGHTS WILL FLICKER UNEXPECTEDLY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] won't be able to make sound."
+            },
+            {
+                "predicted": "IF THE LIGHT SHINES HARD, IT WILL MAKE THE PERSON'S SHOES START TO SING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will have a rest"
+            },
+            {
+                "predicted": "IF THE POWER IS OUT, THE BLENDER WILL NOT START WORKING SUDDENLY. THE OVEN WILL NOT PREHEAT FASTER, AND THE PERSON WILL NOT BECOME JITTERY. THE PERSON MAY NOT KEEP SOMERSAULTING, BUT THE VIDEO DOES NOT SHOW ANY INDICATION OF THE PERSON STOPPING OR CHANGING THEIR ACTIONS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] may not keep somersaulting."
+            },
+            {
+                "predicted": "IF THE BALL WERE TO BREAK THE CAR GLASS, IT WOULD LIKELY RESULT IN THE CAR ALARM STARTING TO SING A LULLABY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "It is possible that [person_1] will pay money for the car owner."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE VIDEO DID NOT PULL THE BRANCH DOWN, THE BRANCH WOULD HAVE REMAINED IN THE TREE, AND THE PERSON WOULD HAVE HAD TO CLIMB THE TREE TO REACH THE BRANCH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The [person_2] could not pick blueberries."
+            },
+            {
+                "predicted": "IF THE TV FELL, IT COULD CAUSE THE TABLE TO GET SCRATCHED BY THE CABLES, AND NEARBY DEVICES MAY DISTORT THE SOUND.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[tv_2] could be broken."
+            },
+            {
+                "predicted": "THE HANDS OF THE PERSON WOULD STICK PAINT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The hands of the [person_1] would stick paint."
+            },
+            {
+                "predicted": "IF THE DOOR WAS LOCKED FROM THE OUTSIDE, THE PERSON INSIDE THE ROOM WOULD NEED TO FIND A WAY TO UNLOCK IT. THEY COULD TRY USING A KEY, A TOOL, OR EVEN A COMBINATION OF BOTH TO OPEN THE DOOR. IF THEY ARE UNABLE TO OPEN THE DOOR, THEY MIGHT NEED TO FIND A WAY TO BREAK IT DOWN OR CALL FOR HELP FROM SOMEONE OUTSIDE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] and [person_2] might be stuck inside this room."
+            },
+            {
+                "predicted": "IF SOMEONE TOOK THE HARMONICA AWAY FROM THE BABY, THE BABY WOULD LIKELY CRY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] would cry."
+            },
+            {
+                "predicted": "IF THE PERSON'S FINGERS ARE HURT, THEY WILL NOT BE ABLE TO PLAY THE GUITAR AS EFFECTIVELY AS THEY WOULD LIKE. THIS COULD LEAD TO THE PERSON FEELING UNCOMFORTABLE OR UNABLE TO PERFORM AS WELL AS THEY WOULD LIKE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will feel uncomfortable."
+            },
+            {
+                "predicted": "A. IF THE MAN DOESN'T KNOW HOW TO OPEN THE GIFT BOX, HE MIGHT THINK THAT THE GIFT IS ALREADY BROKEN AND NEEDS REPLACEMENT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_2] will have to open the gift for [person_1]."
+            },
+            {
+                "predicted": "IF IT STARTS TO RAIN, THE MAN WILL CONTINUE TO SMOKE HIS CIGARETTE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will stop smoking."
+            },
+            {
+                "predicted": "IF THE PERSON IS SAD, THEY WILL GIVE THE GUITAR TO SOMEONE ELSE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "It is possible that [person_1] will continue to play the guitar."
+            },
+            {
+                "predicted": "A: THE MAN MIGHT DROP THE HAMMER ON HIS FOOT, CAUSING A MINOR INJURY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will stop [person_1]."
+            },
+            {
+                "predicted": "THE LIGHTS IN THE ROOM WILL FLICKER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[book_12] will startle [person_1]."
+            },
+            {
+                "predicted": "IF THE HAND OF THE PERSON IN THE VIDEO HURTS A LOT, THEY MIGHT GO FOR A JOG TO DISTRACT THEMSELVES FROM THE PAIN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_2] can't raise her hand."
+            },
+            {
+                "predicted": "IF THE PERSON FINISHES SHAVING, THE MIRROR WILL STEAM UP, REVEALING A MESSAGE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] feels more comfortable."
+            },
+            {
+                "predicted": "IF THE PERSON FAILS TO THROW THE APPLE INTO THE BOWL, THE APPLE WILL BOUNCE BACK AND HIT THE PERSON.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] has to stand up."
+            },
+            {
+                "predicted": "IF THE POWER IS CUT OUT, THE GROUP OF PEOPLE IN THE GYM WILL BE LEFT WITHOUT ELECTRICITY, AND THE EQUIPMENT WILL NOT FUNCTION. THEY WILL HAVE TO FIND ALTERNATIVE WAYS TO ENTERTAIN THEMSELVES OR CONTINUE THEIR WORKOUT ROUTINES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will stop practicing"
+            },
+            {
+                "predicted": "A: THE TWO GIRLS WILL FIND SOME FOAM AND WATER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] and [person_2] will find some foam and water."
+            },
+            {
+                "predicted": "IF THE PERSON STOPS PLAYING, THE LIGHTS WILL FLICKER URGENTLY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will stand up and walk to [chair_1]"
+            },
+            {
+                "predicted": "IF THE POWER IS OFF, THE TELEVISION SCENE WILL TURN ON, SHOWING A PRE-RECORDED VIDEO OF THE ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The room will be dark."
+            },
+            {
+                "predicted": "IF THE PERSON CONTINUES TO TRY TO LIFT HEAVY WEIGHTS, THEY MIGHT BE INJURED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will be injured."
+            },
+            {
+                "predicted": "A: [PERSON_1] CANNOT EAT ANYTHING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] cannot eat anything."
+            },
+            {
+                "predicted": "IF THE BOX FALLS TO THE GROUND, IT WILL BREAK AND THE CHILD WILL BE LEFT WITH A BROKEN BOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The box will break."
+            },
+            {
+                "predicted": "IF PERSON 1 LEAVES, THE LIGHTS MAY FLICKER UNEXPECTEDLY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_2] may not keep raising eyebrows."
+            },
+            {
+                "predicted": "D: THE PERSON MAY FALL OVER DUE TO DIZZINESS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] may get burned."
+            },
+            {
+                "predicted": "IF PERSON 1 TWISTED PERSON 2'S ANKLE, PERSON 2 WOULD CALL THE MANAGER OF THE SHOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_2] will call the manager of the shop."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE VIDEO DID NOT FALL FROM THE MECHANIC BULL, THEY WOULD HAVE CONTINUED TO RIDE THE BULL AND EVENTUALLY DISMOUNTED. THE VIDEO DOES NOT SHOW ANY INDICATION OF THE PERSON FALLING OFF THE BULL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] would keep playing."
+            },
+            {
+                "predicted": "IF PERSON 1 KICKED PERSON 2, THE GOALPOST MIGHT FALL DUE TO THE IMPACT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_2] might be badly hurt."
+            },
+            {
+                "predicted": "B: THE PERSON MAY BREAK THE GLASSES TO CUSHION THE FALL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will get dirty clothes."
+            },
+            {
+                "predicted": "IF THE MAN DIDN'T PUT HIS HEAD ON THE GROUND, HE WOULD HAVE BEEN UNABLE TO DO A SOMERSAULT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] might not be able to do somersault."
+            },
+            {
+                "predicted": "A: THE BED WILL START PLAYING A LULLABY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will stop playing."
+            },
+            {
+                "predicted": "IF THE CHAIR IS BROKEN, THE PERSON SITTING ON IT WILL FALL DOWN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will fall down."
+            },
+            {
+                "predicted": "IF THE DINING TABLE FALLS INTO THE FLOOR, IT WILL BREAK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[dining table_1] will break."
+            },
+            {
+                "predicted": "IF THE MAN WAS SHY ABOUT BEING RECORDED, HE MIGHT START PLAYING THE BAGPIPES BACKWARDS TO AVOID BEING SEEN ON CAMERA.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] would stop acting silly while playing the bagpipes the moment he sees the camera."
+            },
+            {
+                "predicted": "IF IT BECOMES DARK, THE PERSON IN THE VIDEO WILL ATTEMPT TO PAINT THE WALLS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] can't play."
+            },
+            {
+                "predicted": "C: THE BABY WILL BE VERY AMUSED BY THE WRAPPING PAPER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will be very amused."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE RED SHIRT DROPPED THEIR GLASSES, THEY WOULD PICK THEM UP AND CONTINUE READING THE NEWSPAPER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] wouldn't read the newspaper anymore."
+            },
+            {
+                "predicted": "IF THE PERSON STACKS THE CUPS SLOWLY, THE CUPS WILL FORM A TOWER THAT TOPPLES OVER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will be lose."
+            },
+            {
+                "predicted": "IF THE PERSON RECEIVES COMPLIMENTS FROM HER CLOSE FRIENDS, SHE WILL FEEL SATISFIED FOR HER EFFORT AND CONTINUE PLAYING THE VIOLIN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] feels satisfied for her effort."
+            },
+            {
+                "predicted": "IF THE LIGHT IS OFF, THE CHILD WILL NOT BE ABLE TO SEE THE BOOKS AND WILL NOT BE ABLE TO READ THEM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will cry"
+            },
+            {
+                "predicted": "IF THE TIE IS DROPPED, IT IS LIKELY TO FALL ON THE FLOOR. THE TEMPERATURE IN THE ROOM MIGHT INCREASE SLIGHTLY, AND THE PERSON'S WATCH MAY STOP WORKING MOMENTARILY. THE LAMP MIGHT FLICKER BRIEFLY AS A RESULT. THE PERSON MAY PICK UP THE TIE AND CONTINUE WITH THEIR EXERCISE ROUTINE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] may pick [tie_1] up."
+            },
+            {
+                "predicted": "A: IF [PERSON_1] READS BOOKS EVERYDAY, THEY MIGHT ACCIDENTALLY BREAK THEIR READING GLASSES FROM OVERUSE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will gain a lot of new things."
+            },
+            {
+                "predicted": "IF IT SUDDENLY RAINED, THE PICNIC BASKET WOULD FLOAT AWAY, AND THE VOLLEYBALL MATCH MIGHT BE POSTPONED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] and [person_2] had to go inside or find a shelter."
+            },
+            {
+                "predicted": "IF A CAT ACCIDENTALLY JUMPS ONTO THE SHELF, THE BOOKS ON THE SHELF COULD TOPPLE OVER AND SCATTER, AND THE CUP MIGHT FALL AS WELL. THE DOG MIGHT START BARKING AT THE CAT, BUT IT IS NOT POSSIBLE TO DETERMINE IF THE DOG WILL START BARKING AT THE CAT OR NOT FROM THE VIDEO ALONE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Perhaps the cup will fall."
+            },
+            {
+                "predicted": "A: THE MAN SUGGESTS STARTING A FLOWER BUSINESS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_2] and [person_1] will then go to the jewelry store."
+            },
+            {
+                "predicted": "IF THE REFRIGERATOR DOOR IS SUDDENLY OPENED, THE WATER INSIDE THE FRIDGE WILL SPLASH ALL OVER THE PERSON STANDING IN FRONT OF IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The [person_1] will fall to the ground."
+            },
+            {
+                "predicted": "IF PERSON 2 HITS THE TRIPLE RING, THEIR SCORE WILL BE TRIPLED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The score of [person_2] will be tripled."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE VIDEO DID NOT WEAR SUNGLASSES, THEY MIGHT BE IRRITATED BY THE SUN, AS THE BRIGHT LIGHT COULD CAUSE DISCOMFORT OR EVEN TEMPORARY BLINDNESS. ADDITIONALLY, THE SUNLIGHT COULD MAKE IT DIFFICULT FOR THE PERSON TO SEE THE INSTRUCTIONS DISPLAYED ON THE SCREEN, POTENTIALLY LEADING TO CONFUSION OR INCORRECT EXECUTION OF THE EXERCISES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] might be irritated by the sun."
+            },
+            {
+                "predicted": "IF THE PERSON FINISHES SHARPENING THE PENCIL, THEY WILL DRAW A PICTURE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will draw a picture."
+            },
+            {
+                "predicted": "IF THE PERSON DOES NOT CARRY THE BIG ACCORDION, THEY WILL NOT BE ABLE TO PLAY IT AND WILL NOT BE ABLE TO ENTERTAIN THE AUDIENCE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The [person_1] will not meet difficulty in holding accordion balance rightly."
+            },
+            {
+                "predicted": "A: THE PERSON WILL IMMEDIATELY START A FIRST AID TREATMENT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "He would ask their mother to help them."
+            },
+            {
+                "predicted": "THE STREET WOULD BECOME A BUSTLING WATER PARK FULL OF PEOPLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The kid who is wearing the pink clothes would be wet."
+            },
+            {
+                "predicted": "B. THE VISITORS WILL START A DANCE TO ATTRACT THE ATTENTION OF THE PERSON PLAYING, AND THEY WILL PLAY 1 VS 1.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] and that person will play 1 vs 1."
+            },
+            {
+                "predicted": "IF POWER IS OFF, THE LAMP WILL START FLICKERING WILDLY ON ITS OWN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] can't open the [book_1]."
+            },
+            {
+                "predicted": "IF PERSON 1 IS NOT IN THE ROOM, THE MUSIC PLAYER WOULD STOP ON ITS OWN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The bag of the present will not be opened by [person_1]."
+            },
+            {
+                "predicted": "A. THE SHOCKWAVE OF THE FALL WILL ADJUST THE MUSIC VOLUME.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_2] probably wouldn't get up and imitate [person_1]."
+            },
+            {
+                "predicted": "IF PERSON 2 FELL ASLEEP IN BED, PERSON 1 WOULD WAKE HIM UP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will wake him up."
+            },
+            {
+                "predicted": "IF THE LIGHTS ARE OFF, THE GIRL IN THE GREEN DRESS WILL BE SCARED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will be scared."
+            },
+            {
+                "predicted": "IF THE PERSON DID NOT KNOW HOW TO PLAY THE CLARINET, THEY WOULD NOT BE ABLE TO PERFORM ON STAGE AND WOULD HAVE TO FIND ANOTHER WAY TO ENTERTAIN THE AUDIENCE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] would not be able to be on a stage."
+            },
+            {
+                "predicted": "IF PERSON 1'S STOMACH SUDDENLY HAS A PAIN, THEY WILL CALL A FRIEND TO DISCUSS A MOVIE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will go to the toilet."
+            },
+            {
+                "predicted": "IF THE PERSON POURS THE DIRT WHEELBARROW IN THEIR HANDS, THEY WILL TRANSPORT THE NEXT DIRT WHEELBARROWS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will transport the next dirt wheelbarrows."
+            },
+            {
+                "predicted": "THE WHITE BUCKET WILL BE TUMBLED DOWN AND THE FLOOR WILL BECOME SLIPPERY, CAUSING THE PERSON TO FALL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The apple skin will be tumble on the floor too."
+            },
+            {
+                "predicted": "IF PERSON 2 BREAKS A STRING ON THE HARP, THEY WILL NOT PLAY IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_2] will not play it."
+            },
+            {
+                "predicted": "IF THE PERSON DID NOT HOLD THE COCO TIGHTLY, IT WOULD HAVE FLOWN AWAY INTO THE SKY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The bottle would be struck down."
+            },
+            {
+                "predicted": "IF THERE WERE THUNDERSTORMS OUTSIDE, THE CEILING FAN MIGHT START SPINNING IN REVERSE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] would switch off [tv_1]."
+            },
+            {
+                "predicted": "IF THE CHILD OF PERSON 1 WHO IS WEARING A CAP WAS NOT HELD, THE CHILD WOULD NOT BE ABLE TO STAND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "the child of [person_1] who is wearing a cap would not be able to stand."
+            },
+            {
+                "predicted": "IF THE PERSON DIDN'T THROW THE PLATE STRAIGHT UP IN THE AIR, IT WOULD LIKELY BOUNCE BACK AND LAND ON THE TABLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] couldn't turn the stick over and catch the plate on the other end of the stick."
+            },
+            {
+                "predicted": "C: THEY WILL BE FRIGHTENED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "They will be frightened."
+            },
+            {
+                "predicted": "IF THE HAIR BOW FALLS DOWN, THE LITTLE GIRL WILL CONTINUE TO DANCE ENERGETICALLY IN THE ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will stop raising her eyebrows."
+            },
+            {
+                "predicted": "IF PERSON 2 GETS DOWN THE COUCH, PERSON 3 MIGHT PLAY A PRANK ON THEM, AS SUGGESTED BY OPTION B.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_2] may want to take the present from [person_3]."
+            },
+            {
+                "predicted": "A: THE PERSON IN THE VIDEO WILL ENCOURAGE OTHERS TO EMBRACE GETTING WET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will run away."
+            },
+            {
+                "predicted": "IF THE GIFT INSIDE THE BOX WAS WHAT [PERSON_3] AND [PERSON_4] WANTED, THEY WOULD BE VERY HAPPY AND EXCITED. THEY WOULD LIKELY HUG EACH OTHER AND EXPRESS THEIR JOY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_3] and [person_4] may be very happy."
+            },
+            {
+                "predicted": "B: THE PERSON WILL BE EXHAUSTED.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will be exhausted."
+            },
+            {
+                "predicted": "THE PERSON WILL PEEL THE POTATO USING THE POTATO PEELER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The [person_1] will save time when peeling by bare hands."
+            },
+            {
+                "predicted": "IF THE PERSON DID NOT TAKE THE ORANGE PEEL OUT OF THE SQUEEZER, IT WOULD HAVE CAUSED THE SQUEEZER TO OVERFLOW WITH JUICE, CREATING A MESS IN THE KITCHEN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Leftover orange peel might block the squeezer"
+            },
+            {
+                "predicted": "THE TEAM WHOSE UNIFORM IS BLUE WILL HAVE TO CHANGE THEIR UNIFORMS TO A DIFFERENT COLOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "This team will be very sad and disappointed."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE PINK COSTUME DID NOT RECEIVE HER TREATS, SHE MIGHT START DIGGING TO FIND THEM, LOOK AROUND CURIOUSLY AS IF SEARCHING, DECIDE TO CLIMB A TREE LOOKING FOR MORE, OR BECOME VERY UNHAPPY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] would be very unhappy."
+            },
+            {
+                "predicted": "A: SHE WOULD NEED TO CALL AN AMBULANCE IMMEDIATELY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "She will bind up."
+            },
+            {
+                "predicted": "OPTION D: THE MAN WILL SEE FIREWORKS OUTSIDE THROUGH THE WINDOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Maybe [person_1] will feel hot."
+            },
+            {
+                "predicted": "IF THE TWO MEN IN THE BLUE SUITS ARE NOT SOLDIERS, THEY WILL NOT BE ABLE TO PERFORM THEIR DUTIES AS SOLDIERS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] and [person_2] will won't be here."
+            },
+            {
+                "predicted": "A: THE CHAIR WILL TILT SLIGHTLY BACKWARDS, CAUSING THE PERSON TO GRAB ONTO THE TABLE FOR BALANCE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] would not be able to put her arms down the side."
+            },
+            {
+                "predicted": "IF THE PERSON TORE THE NEWSPAPER, THEY WOULD ACCIDENTALLY START A FIRE IN THE FIREPLACE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will feel excited."
+            },
+            {
+                "predicted": "A: IF THE HORSE RAN FAST, THE PERSON RIDING IT WOULD FALL OFF.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] would fall off his horse."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS A: THE PERSON MIGHT GET HURT IF THEY FALL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] would get hurt."
+            },
+            {
+                "predicted": "IF THE PERSON HITS THE WRONG BEAT, THE STAGE LIGHTS WILL GO OUT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Maybe [person_1] will replay that beat."
+            },
+            {
+                "predicted": "IF THE GIRL DRINKS THE BUBBLE WATER, THE ROOM WILL FILL WITH BUBBLES AND EVERYONE WILL DANCE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will call their mother."
+            },
+            {
+                "predicted": "IF THE PERSON POKES THE CELLO STICK IN THEIR EYES, THEY WILL PROBABLY CRY VERY LOUDLY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will probably cry very loudly."
+            },
+            {
+                "predicted": "IF IT'S SUNNY, THE PERSON WILL BE CHASED BY A FLOCK OF BIRDS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will move into the house."
+            },
+            {
+                "predicted": "A. THE MAN MIGHT START SINGING TO REPLACE THE GONG.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will have to get one."
+            },
+            {
+                "predicted": "IF THE PERSON SLIPS, THEY MIGHT FALL OFF THE HORSE AND GET INJURED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Maybe [person_1] will go to the hospital."
+            },
+            {
+                "predicted": "IF THE PERSON GETS A BEAUTIFUL DOLL, THEY MAY DECIDE TO ORGANIZE A TEA PARTY FOR THE DOLL, AS SUGGESTED IN OPTION C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] may be very happy."
+            },
+            {
+                "predicted": "IF PERSON 2 JUMPS AND TRIES TO THROW THE BALL INTO THE BASKET, PERSON 1 WILL RAISE HIS HANDS TO BLOCK THE BALL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will raise his hands to block the ball."
+            },
+            {
+                "predicted": "A: THE WOMAN WOULD BE SAD ABOUT IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] would be sad about it."
+            },
+            {
+                "predicted": "IF THERE IS A SUDDEN BRAKE, THE PEOPLE IN THE CAR MIGHT FEEL A SUDDEN JERK, BUT THEY WOULD BE ALL RIGHT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "They would be all right."
+            },
+            {
+                "predicted": "A: HE MAY FIND A HIDDEN KEY TO OPERATE THE MANUAL SYSTEM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] cannot continue to practice."
+            },
+            {
+                "predicted": "IF IT RAINED, THE PEOPLE IN THE VIDEO WOULD GET WET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] would get wet."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS C: A HIDDEN DOOR COULD OPEN BENEATH THE PERSON.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The ground would be broken."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS C: THE DICE WILL STACK SUCCESSFULLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Perhaps [person_1] will stack the dice successfully."
+            },
+            {
+                "predicted": "IF THE PERSON IS SLEEPY, THEY MIGHT ACCIDENTALLY COMPOSE A NEW SONG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will not to play the guitar any longer."
+            },
+            {
+                "predicted": "IF THE PERSON PLAYING THE GUITAR OUT OF TUNE, THE STAGE LIGHTS WILL CHANGE COLOR DRAMATICALLY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will sing the wrong music."
+            },
+            {
+                "predicted": "IF PERSON 1 CAN'T PUSH THE WHEELBARROW, THEY WILL ATTEMPT TO JUGGLE WITH ITEMS IN THE WHEELBARROW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Someone else will push the wheelbarrow instead of [person_1]."
+            },
+            {
+                "predicted": "IF IT RAINS, THE PERSON WILL CONTINUE SKATING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] won't continue skating."
+            },
+            {
+                "predicted": "IF IT'S 12 O'CLOCK AT NOON, THE PERSON IN THE VIDEO WILL GO FOR LUNCH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will go for lunch."
+            },
+            {
+                "predicted": "IF THE PERSON PLAYING THE PIANO MISSES THE BEAT, THEY WILL CONTINUE PLAYING THE SONG AND THE AUDIENCE WILL CLAP AND ECHO THE SONG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Perhaps [person_1] will stop playing the song."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE VIDEO DROPS THE BOOK, THEY MAY GET HURT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] may get hurt."
+            },
+            {
+                "predicted": "A: IT IS POSSIBLE THAT THE PERSON MAY LEARN TO WEAVE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "It is possible that [person_1] will learn to weave."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE CORRECT PLAYING POSITION IS IN THE CORRECT POSITION, THEY WILL NOT MEET INJURY AFTER PLAYING THE ACCORDION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The [person_1] will not meet injury after playing accordion."
+            },
+            {
+                "predicted": "IF PERSON 1 DID NOT GAIN MOMENTUM AT THE START, THEY WOULD LIKELY NEED ASSISTANCE TO CONTINUE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] could not slide down."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE VIDEO DROPPED THE HARMONICA, THEY WOULD PICK IT UP AND CONTINUE PLAYING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] would pick the harmonica up and go on playing."
+            },
+            {
+                "predicted": "THE HOUSE OF PERSON 1 WILL NOT LOSE POWER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] won't be able to keep squeezing oranges."
+            },
+            {
+                "predicted": "THE HAT WILL CAUSE THE PERSON TO TRIP OVER IT AND FALL DRAMATICALLY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will have to steer clear of high - impact moves."
+            },
+            {
+                "predicted": "IF THE HAND OF PERSON 1 CRAMPS, IT COULD ACCIDENTALLY OVERTURN THE CHESSBOARD, CAUSING THE CHESS PIECES TO FALL OFF.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will break the chessman."
+            },
+            {
+                "predicted": "IF THE PERSON DOES NOT HOLD THE MECHANICAL BULL'S BACK, THEY WILL FALL OFF THE BULL AND POSSIBLY GET INJURED.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will fall."
+            },
+            {
+                "predicted": "A: THE NOISE MIGHT STARTLE THE DOG, CAUSING IT TO BARK LOUDLY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "It would seriously hurt [person_1]'s leg."
+            },
+            {
+                "predicted": "IF PERSON 3 DID NOT PLAY, THE BAND WOULD NEED ANOTHER CLARINETIST TO REPLACE HIM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The band would need other clarinet."
+            },
+            {
+                "predicted": "IF IT RAINS, THE TWO MEN WILL STOP PLAYING CHESS AND GATHER EVERYONE FOR A GROUP PHOTO WITHOUT THE RAIN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will stop playing chess."
+            },
+            {
+                "predicted": "IF THE TWO PEOPLE IN THE VIDEO HAD FINISHED THEIR PERFORMANCE, THE LIGHTS WOULD DIM TO MARK THE COMPLETION OF THE SHOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] and [person_5] would stop playing the instruments."
+            },
+            {
+                "predicted": "IF THE PERSON CANNOT OPEN THE GIFT, THE LOUD ALARM WILL RING UNEXPECTEDLY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Water will spill over the floor."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE BLUE SHIRT COULDN'T FIND HER PRESENT, SHE WOULD START DRAWING A PICTURE FOR THE PERSON IN THE RED SHIRT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_2] would share her present with [person_1]."
+            },
+            {
+                "predicted": "IF PERSON_1 DID NOT WEAR A CAP, THEY MIGHT NOT BE ABLE TO PLAY WELL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] might not be able to play well."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS HOLDING A BAGPIPE AND IS ABOUT TO SIT DOWN. IF THEY DO, THEY MIGHT ACCIDENTALLY DROP THE BAGPIPE, CAUSING IT TO BREAK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will quit playing the bagpipes."
+            },
+            {
+                "predicted": "IF THE PERSON DID NOT USE A TOWEL TO DRY FIRSTLY, THE WETNESS WOULD CAUSE THE FLOOR TO BECOME SLIPPERY, LEADING TO AN UNEXPECTED DANCE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "There would be many water drops flying anywhere."
+            },
+            {
+                "predicted": "A: SOMEONE ELSE MIGHT OFFER THE PERSON A GLASS OF WATER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will go out."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE VIDEO DID NOT USE THE METHOD OF PICKING UP THE BOTTLE WITH A TOWEL, THEY WOULD HAVE WINE TO DRINK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] would have wine to drink."
+            },
+            {
+                "predicted": "IF THE DOLL FALLS OVER, THE TOY CAR WILL START MOVING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The [person_1] will pick the [doll_1] up."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE VIDEO DID NOT SIT THERE, THE CHILD WOULD NOT HAVE BEEN ABLE TO PLAY WITH THE TOY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] may not talk anything."
+            },
+            {
+                "predicted": "IF THE PERSON STOPS PLAYING THE ACCORDION, THE WOMAN IN THE RED SHIRT MIGHT ADJUST THE STAGE LIGHTS FOR A BETTER MOOD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_2] may have a quick tidy - up."
+            },
+            {
+                "predicted": "IF THE PERSON FALLS INTO THE CUPBOARD WHILE SNATCHING WEIGHT LIFTING, THEY MAY GET HURT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[]person_1] may get hurt"
+            },
+            {
+                "predicted": "A: THE PERSON COULD ACCIDENTALLY TRIGGER A SPRINKLER SYSTEM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] may not somersault."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE VIDEO CANNOT DRINK SO MUCH, THEY WILL BE UPSET AND POSSIBLY START DANCING TO THE MUSIC.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will be upset"
+            },
+            {
+                "predicted": "THE BABY WILL BE SITTING IN THE CHAIR AND LOOKING AROUND THE ROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] maybe afraid."
+            },
+            {
+                "predicted": "THE LEG OF THE PERSON WITH PIMPLES OR OPEN SORES WILL BE TREATED WITH A CREAM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The leg of [person_1] may be infected after waxing."
+            },
+            {
+                "predicted": "IF THE MEAL IS READY, THE MAN AND THE GIRL WOULD SIT DOWN AT THE TABLE AND ENJOY THEIR MEAL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "They would stop playing."
+            },
+            {
+                "predicted": "IF THE DOLL FALLS OVER, THE PERSON WILL PICK IT UP AND CONTINUE PLAYING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The [person_1] will pick the doll up."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS A: THE PERSON WILL CHANGE ANOTHER DRILLER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will change another driller."
+            },
+            {
+                "predicted": "A: THE TWO PEOPLE MAY COMPETE AGAIN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] and [person_2] may compete again."
+            },
+            {
+                "predicted": "IF PERSON 1 DOESN'T STAND UP, THEY MIGHT KNOCK OVER A GLASS OF WATER OR MISS THE PASSING BALL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will just sit there"
+            },
+            {
+                "predicted": "IF SOMEONE TAKES THE CUP, THE CUP TOWER WILL FALL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The cup tower will fall."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE VIDEO DIDN'T KNOW HOW TO PLAY THE HARMONICA, THE HARMONICA WOULD NOT PLAY BY ITSELF. INSTEAD, THE PERSON WOULD HAVE TO PRACTICE MORE AND LEARN THE CORRECT TECHNIQUES TO PLAY IT PROPERLY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] would practice more."
+            },
+            {
+                "predicted": "IF THE ROAD WERE SLIPPERY, THE PERSON WOULD LIKELY JUMP ONTO A NEARBY SKATEBOARD TO TRAVEL MORE SAFELY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The [person_1] would not walk with the stilts."
+            },
+            {
+                "predicted": "IF PERSON 1 COULD RIDE UNICYCLE WELL, THEY MIGHT GET INVITED TO A TV SHOW FOR TALENTED RIDERS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] would be very happy."
+            },
+            {
+                "predicted": "THE COOKING PROCESS WOULD COME TO A HALT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The [person_1] will peel them faster."
+            },
+            {
+                "predicted": "B: THE LOUD NOISE WOULD CAUSE BIRDS NEARBY TO FLY AWAY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The tire would not be broken."
+            },
+            {
+                "predicted": "IF PERSON 2 DOES NOT WEAR SKATING SHOES, THEY WILL NOT BE ABLE TO USE THE TREADMILL PROPERLY. THE TREADMILL IS DESIGNED TO PROVIDE A SMOOTH AND EVEN SURFACE FOR RUNNING OR WALKING, AND THE SHOES ARE SPECIFICALLY DESIGNED TO GRIP THE SURFACE AND PROVIDE SUPPORT AND CUSHIONING FOR THE USER. WITHOUT THE PROPER SHOES, THE USER MAY EXPERIENCE DISCOMFORT, SLIPPING, OR EVEN INJURY WHILE USING THE TREADMILL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_2] may hurt his feet."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE VIDEO FINDS THAT HIS CAR IS LOST, HE WILL CALL THE POLICE TO REPORT THE INCIDENT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will call the police."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE VIDEO WERE NOT STEPPING TOWARDS THE VASE, THEY MIGHT TRY TO CATCH THE FALLING VASE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "It is probable that [person_1] would step backwards."
+            },
+            {
+                "predicted": "A: THEIR UNEXPECTED PERFORMANCE COULD EARN APPLAUSE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The waiters would come to help with that."
+            },
+            {
+                "predicted": "IF PERSON 2 DOES NOT COME TO THE GYM, THEY WILL NOT BE STRONG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_2] will not be strong."
+            },
+            {
+                "predicted": "A: THE PERSON WILL WHISTLE TO GET ATTENTION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_3] will speak loud."
+            },
+            {
+                "predicted": "THE DOG WILL LIKELY JUMP AWAY TO AVOID THE TUMBLE, AS IT IS NOT A NATURAL BEHAVIOR FOR THE DOG TO LIE ON TOP OF THE PERSON.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will lie on top of the dog."
+            },
+            {
+                "predicted": "IF THE ROOM IS DARK, THE PERSON WOULD NOT BE ABLE TO SEE THE IMAGE OF THE WOMAN ON THE SCREEN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will not do exercise."
+            },
+            {
+                "predicted": "IF A PERSON HAS A CRAMP WHILE DOING PARKOUR, THEY MAY FALL, AS SEEN IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] may fall."
+            },
+            {
+                "predicted": "A: THE PERSON MIGHT UNINTENTIONALLY STEP ON THE CYMBALS, CAUSING A FALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will have to pick up."
+            },
+            {
+                "predicted": "IF THE PERSON DOES NOT SHAKE THE INHALER, THE MEDICINE WON'T WORK TO ITS FULLEST EFFECT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The medicine won't work to its fullest effect."
+            },
+            {
+                "predicted": "IF PERSON 1 FEELS TIRED, THEY WILL ATTEMPT TO PLAY THE PIANO WHILE STANDING ON ONE LEG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will stop playing piano."
+            },
+            {
+                "predicted": "A: THE TREE WILL START PRODUCING GLOWING SAP IMMEDIATELY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The tree will burn."
+            },
+            {
+                "predicted": "IF THE POWER IS OUT, THE CHESS GAME WILL BE INTERRUPTED, AND THE PLAYERS WILL HAVE TO STOP PLAYING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_2] will stop playing chess."
+            },
+            {
+                "predicted": "IF THE POWER IS OFF, THE VIDEO WILL NOT BE DISPLAYED ON THE SCREEN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] maybe afraid."
+            },
+            {
+                "predicted": "IF PERSON 1 FEELS TIRED, THEY WILL PUT THE HARP DOWN AND STOP PLAYING IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will put the harp down."
+            },
+            {
+                "predicted": "IF THE POWER WENT OUT, THE WOMAN WOULD LIGHT A CANDLE AND CONTINUE READING THE BOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] would neither keep reading [book_1] nor talk with people."
+            },
+            {
+                "predicted": "IF THE PERSON TURNS OFF THE CAMERA, THE VIDEO WILL STOP PLAYING AND THE SCREEN WILL GO BLACK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will stop playing lute."
+            },
+            {
+                "predicted": "IF THE PERSON GETS ANOTHER PRESENT, THEY MIGHT OPEN IT IMMEDIATELY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] may open it."
+            },
+            {
+                "predicted": "IF THE STRING BREAKS, THE PERSON WILL STOP PLAYING AND THE MUSIC WILL STOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will stop playing"
+            },
+            {
+                "predicted": "A: THE PERSON WILL DECIDE TO RUN ALONGSIDE THE VEHICLE FOR FASTER PROGRESS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue walking the horse."
+            },
+            {
+                "predicted": "IF THE PERSON IN THE IMAGE DOES NOT CRY, THEY WILL NOT BE ABLE TO PLAY THE VIDEO GAME.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_2] can throw the first ball through the hoop."
+            },
+            {
+                "predicted": "IF THE PERSON WERE SLIPPED, THEY WOULD BE HURT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] would be hurt."
+            },
+            {
+                "predicted": "IF THE PERSON DOES NOT PUT HIS FINGER ON THE KEY BUTTONS, THE ACCORDION WILL NOT PLAY ANY NOTES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] can't play the accordion."
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.0
+    }
+}

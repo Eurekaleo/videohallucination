@@ -1,0 +1,2530 @@
+{
+    "factual_prediction": {
+        "accuracy": 0.0,
+        "unmatched_cases": [
+            {
+                "predicted": "THE PERSON WILL OPEN THE WINDOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Lie on the bed."
+            },
+            {
+                "predicted": "THE PERSON WILL SIT AT THE TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Sit at the table."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE WATER BOTTLE NEXT AFTER TAKING THE BAG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The shoe."
+            },
+            {
+                "predicted": "THE PERSON WILL LOOK AT THE SANDWICH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "THE PERSON WOULD CLOSE THE REFRIGERATOR NEXT AFTER THEY OPEN THE DOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The refrigerator."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE PILLOW NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "THE PERSON WILL LIKELY CLOSE THE WINDOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE KEYS NEXT AFTER SITTING AT THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The phone/camera."
+            },
+            {
+                "predicted": "THE PERSON WOULD EAT THE BANANA NEXT AFTER HOLDING IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE CUP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE BOOK NEXT AFTER WALKING THROUGH THE DOORWAY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "THE PERSON WILL REACH FOR A SNACK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Close the refrigerator."
+            },
+            {
+                "predicted": "THE PERSON WILL USE THE BROOM TO SWEEP THE FLOOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON WILL PLACE THE BAG ON THE CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Throw."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE BROOM NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "THE PERSON WILL OPEN THE REFRIGERATOR AND TAKE SOMETHING OUT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE CUP/GLASS/BOTTLE NEXT AFTER CLOSING THE REFRIGERATOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The cup/glass/bottle."
+            },
+            {
+                "predicted": "THE PERSON WILL CHECK THE PHONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the pillow."
+            },
+            {
+                "predicted": "THE PERSON WILL TURN OFF THE LIGHTS AND OPEN A WINDOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE REMOTE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "THE PERSON WILL CLOSE THE WINDOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON WOULD CLOSE THE REFRIGERATOR NEXT AFTER THEY WALK THROUGH THE DOORWAY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The refrigerator."
+            },
+            {
+                "predicted": "THE PERSON WILL TURN OFF THE LIGHTS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Close the window."
+            },
+            {
+                "predicted": "THE PERSON WOULD CLOSE THE WINDOW NEXT AFTER THEY DRINK FROM THE CUP/GLASS/BOTTLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The window."
+            },
+            {
+                "predicted": "THE PERSON WILL POUR A GLASS OF WATER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Sit at the table."
+            },
+            {
+                "predicted": "THE PERSON WOULD EAT THE APPLE NEXT AFTER THEY CLOSE THE REFRIGERATOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE GROCERIES BAG NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The dish."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE CUP NEXT AFTER TAKING THE FOOD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The phone/camera."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE WATER BOTTLE NEXT AFTER WALKING THROUGH THE DOORWAY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON WILL TAKE OUT A SHIRT FROM THE CLOSET/CABINET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Close the closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE BALL NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE CLOTHES NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Open the bag."
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE DRAWER NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "THE PERSON WOULD EAT THE BANANA NEXT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON WILL OPEN THE WINDOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Throw the box."
+            },
+            {
+                "predicted": "THE PERSON WILL LIKELY PUT FOOD ON TOP OF THE REFRIGERATOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE SANDWICH AFTER TAKING IT OUT OF THE DISH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE NEWSPAPER NEXT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE PERSON WILL TURN OFF THE LIGHT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE AND TALK ON IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Throw the bag."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE TOWEL NEXT AFTER OPENING THE BOX.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The food."
+            },
+            {
+                "predicted": "THE PERSON WOULD TIDY UP THE FRUIT BASKET ON THE KITCHEN COUNTER NEXT AFTER THEY OPEN THE DOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON WOULD LIKELY TAKE THE SNACK NEXT AFTER THEY LIE ON THE SOFA/COUCH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "THE PERSON WOULD CLOSE THE DRAWER NEXT AFTER HOLDING THE BLANKET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "THE PERSON WILL ADJUST THE CHAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the phone/camera."
+            },
+            {
+                "predicted": "THE PERSON WOULD CLOSE THE WINDOW NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The window."
+            },
+            {
+                "predicted": "THE PERSON WILL SIT ON THE CHAIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "THE PERSON WILL THROW THE SHOE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Throw the shoe."
+            },
+            {
+                "predicted": "THE PERSON WILL LOOK OUT THE WINDOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Open the book."
+            },
+            {
+                "predicted": "THE PERSON WILL SIT ON THE SOFA OR COUCH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sit on the sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON WILL PLACE THE PILLOW ON THE COUCH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE BOOK NEXT AFTER LYING ON THE SOFA/COUCH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE BOOK NEXT AFTER PUTTING DOWN THE BLANKET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE PERSON WOULD WASH THE BOWL NEXT AFTER TAKING THE BOX.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The table."
+            },
+            {
+                "predicted": "THE PERSON WILL PACK AWAY THE LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE REMOTE CONTROL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take the pillow."
+            },
+            {
+                "predicted": "THE PERSON WOULD SIT AT THE TABLE AFTER THEY PUT DOWN THE FOOD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The table."
+            },
+            {
+                "predicted": "THE PERSON WOULD LIE ON THE BED AFTER THEY HOLD THE FOOD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP A BOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the cup/glass/bottle."
+            },
+            {
+                "predicted": "THE PERSON WILL TURN ON THE TELEVISION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take the clothes."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP A BOOK FROM THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Wash the table."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the towel."
+            },
+            {
+                "predicted": "THE PERSON WOULD CLOSE THE DRAWER NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The door."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE PAPER BAG NEXT AFTER THEY PUT THE GROCERIES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The picture."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE KEYS NEXT AFTER OPENING THE DOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE REMOTE CONTROL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Close the refrigerator."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE BAG NEXT AFTER THEY THROW THE CLOTHES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE BOOK NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE SHOES NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "THE PERSON WILL OPEN THE DOOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Open the door."
+            },
+            {
+                "predicted": "THE PERSON WOULD EAT THE APPLE NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Throw the book."
+            },
+            {
+                "predicted": "THE PERSON WILL TAKE A BITE OF THE FOOD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE REFRIGERATOR NEXT AFTER TAKING THE CUP/GLASS/BOTTLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "THE PERSON WILL TAKE AN ITEM OUT OF THE BAG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take an item out."
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE REFRIGERATOR NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The refrigerator."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE GLASS NEXT AFTER TAKING THE FOOD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the clothes."
+            },
+            {
+                "predicted": "THE PERSON WILL OFFER THE SANDWICH TO SOMEONE ELSE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Eat."
+            },
+            {
+                "predicted": "THE PERSON WILL OPEN THE DOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "THE PERSON WOULD EAT THE CAKE NEXT AFTER THEY WALK THROUGH THE DOORWAY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Sit on the floor."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE KEYS NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The food."
+            },
+            {
+                "predicted": "THE PERSON WILL OPEN THE WINDOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Sit at the table."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE SHOES NEXT AFTER THEY PUT DOWN THE CUP/GLASS/BOTTLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE BOOK FROM THE FLOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take off shoes"
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE BOOK AND READ IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Eat the medicine."
+            },
+            {
+                "predicted": "THE PERSON WILL CLOSE THE REFRIGERATOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Close the refrigerator."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE BALL NEXT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The shoe."
+            },
+            {
+                "predicted": "THE PERSON WILL SIT ON THE FLOOR NEXT TO THE TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Sit on."
+            },
+            {
+                "predicted": "THE PERSON WILL TAKE A SIP OF WATER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pillow"
+            },
+            {
+                "predicted": "THE PERSON WILL WALK TOWARDS THE DOOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Throw the bag."
+            },
+            {
+                "predicted": "THE PERSON WILL GRAB A SNACK FROM THE COUNTER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Close the refrigerator."
+            },
+            {
+                "predicted": "THE PERSON WILL PUT DOWN THE BAG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE KEYS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON WILL WAVE AT THE CAMERA.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Touch the picture"
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE PHONE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE AND MAKE A CALL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Eat the sandwich."
+            },
+            {
+                "predicted": "THE PERSON WILL OPEN THE REFRIGERATOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "THE PERSON WOULD CLOSE THE WINDOW NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The window."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE REMOTE CONTROL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the phone/camera."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE BROOM NEXT AFTER TURNING ON THE LIGHT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "THE PERSON WILL HANG THE CLOTHES ON THE CLOTHESLINE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "THE PERSON WOULD SIT AT THE KITCHEN COUNTER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The table."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the shoe."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE CUP/GLASS/BOTTLE NEXT AFTER EATING THE SANDWICH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The cup/glass/bottle."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the broom."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE DOG NEXT AFTER TURNING ON THE LIGHT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The food."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE CUP/GLASS/BOTTLE NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The cup/glass/bottle."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE PHONE/CAMERA NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The phone/camera."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the book."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE WATER BOTTLE NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE BOOK NEXT AFTER WATCHING THE TELEVISION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON WILL ADJUST THE TV REMOTE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the phone/camera."
+            },
+            {
+                "predicted": "THE PERSON WOULD CLOSE THE DESK DRAWER NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Close the laptop."
+            },
+            {
+                "predicted": "THE PERSON WILL POUR A DRINK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the blanket"
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE SHOE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE CLOTHES AFTER THEY DRINK FROM THE CUP/GLASS/BOTTLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The clothes"
+            },
+            {
+                "predicted": "THE PERSON WILL LIKELY PICK UP THE JACKET FROM THE FLOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the book."
+            },
+            {
+                "predicted": "THE PERSON WILL HANG THE CLOTHES UP IN THE ROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON WILL GRAB THE BROOM AND USE IT TO CLEAN THE ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Throw the clothes."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE PAPER/NOTEBOOK NEXT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON WILL REACH FOR THE BOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "THE PERSON WILL PUT DOWN THE FOOD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON WILL POUR A DRINK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE NEWSPAPER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "THE PERSON WOULD TIDY UP THE BOOKS ON THE SHELF.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The clothes"
+            },
+            {
+                "predicted": "THE PERSON WOULD CLOSE THE BACKPACK NEXT AFTER TAKING THE BLANKET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "THE PERSON WILL SIT ON THE FLOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sit on."
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE OVEN NEXT AFTER CLOSING THE DOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE WATER BOTTLE NEXT AFTER TAKING THE BAG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Close the door."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE SOAP FROM THE TABLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Pick up the towel"
+            },
+            {
+                "predicted": "THE PERSON WILL LIKELY CONTINUE READING THE BOOK WHILE SITTING AT THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "THE PERSON WOULD CLOSE THE DRAWER NEXT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE PEN NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE WATER BOTTLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "THE PERSON WILL POLISH THE SHOE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take off"
+            },
+            {
+                "predicted": "THE PERSON WOULD SIT AT THE KITCHEN COUNTER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The table."
+            },
+            {
+                "predicted": "THE PERSON WILL CLOSE THE DOOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON WILL MOVE TO ANOTHER ROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Lie on."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE BAG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Pick up the bag"
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE BOOK FROM THE SHELF NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON WILL SIT ON THE SOFA/COUCH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sit on the sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON WILL CHECK THE CONTENTS OF THE CLOSET/CABINET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON WILL GET UP FROM THE BED AND WALK AWAY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Get up"
+            },
+            {
+                "predicted": "THE PERSON WILL CHECK THE PHONE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Eat the sandwich."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Pick up the blanket"
+            },
+            {
+                "predicted": "THE PERSON WILL OPEN THE REFRIGERATOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Open the refrigerator."
+            },
+            {
+                "predicted": "THE PERSON WILL SIT ON THE BED WITH THE BLANKET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Pick up"
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE PEN NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE PEN NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON WILL SIT ON THE CHAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the pillow."
+            },
+            {
+                "predicted": "THE PERSON WILL START VACUUMING THE FLOOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take the broom."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE BOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Open the box."
+            },
+            {
+                "predicted": "THE PERSON WOULD EAT THE CHOCOLATE BAR NEXT AFTER THEY OPEN THE CLOSET/CABINET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The medicine."
+            },
+            {
+                "predicted": "THE PERSON WILL CLOSE THE DOOR OF THE REFRIGERATOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON WILL LIKELY START READING A BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the clothes."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE BALL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "THE PERSON WOULD SIT AT THE KITCHEN COUNTER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The table."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE PILLOW NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE WATER BOTTLE NEXT AFTER WALKING THROUGH THE DOORWAY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE COFFEE MUG NEXT AFTER WATCHING OUTSIDE THE WINDOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE REFRIGERATOR NEXT AFTER CLOSING THE DOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The refrigerator."
+            },
+            {
+                "predicted": "THE PERSON IS TAKING A BOOK AFTER GRASPING ONTO THE DOORKNOB.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE LAPTOP CASE NEXT AFTER WALKING THROUGH THE DOORWAY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE DRAWER NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE WATER BOTTLE NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The shoe."
+            },
+            {
+                "predicted": "THE PERSON WILL PACK THE BOOK IN A BAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE MAN WILL SIT ON THE CHAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Open the closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON WILL EAT THE FOOD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Eat"
+            },
+            {
+                "predicted": "THE PERSON WILL PUT DOWN THE PILLOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the pillow."
+            },
+            {
+                "predicted": "THE PERSON WILL CLOSE THE REFRIGERATOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE BOOK NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE BACKPACK AFTER THEY OPEN THE CLOSET/CABINET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The bag"
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE CHARGER NEXT AFTER HOLDING THE LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE LAPTOP AFTER CLOSING THE DOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE KEYS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Open the bag."
+            },
+            {
+                "predicted": "THE PERSON WILL CLOSE THE WINDOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Close the window."
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Open the book."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE CLOTHES AFTER THEY HOLD THEM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "THE PERSON WILL SIT ON THE CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the book."
+            },
+            {
+                "predicted": "THE PERSON WILL HANG THE TOWEL ON THE CHAIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Throw the towel."
+            },
+            {
+                "predicted": "THE PERSON WOULD EAT THE BANANA NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the shoe."
+            },
+            {
+                "predicted": "THE PERSON WILL SIT ON THE COUCH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take the sandwich."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Close the laptop."
+            },
+            {
+                "predicted": "THE PERSON WILL PLUG IN THE LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "THE PERSON WILL START RECORDING A VIDEO OF THE VIEW OUTSIDE THE WINDOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "THE PERSON WILL CLOSE THE REFRIGERATOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Open the laptop."
+            },
+            {
+                "predicted": "THE PERSON WILL CLOSE THE WINDOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take the shoes"
+            },
+            {
+                "predicted": "THE PERSON WILL OPEN THE WINDOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Open the window"
+            },
+            {
+                "predicted": "THE PERSON WILL EAT THE FOOD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Eat the food"
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE CUP/GLASS/BOTTLE NEXT AFTER SITTING ON THE FLOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The cup/glass/bottle."
+            },
+            {
+                "predicted": "THE PERSON WILL SIT AT THE TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Sit at."
+            },
+            {
+                "predicted": "THE PERSON WOULD TIDY UP THE LAMP NEXT AFTER THEY TAKE THE CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE BOTTLE NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE BOX NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE CLOTHES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The clothes"
+            },
+            {
+                "predicted": "THE PERSON WOULD WASH THE WINDOWS NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The table."
+            },
+            {
+                "predicted": "THE PERSON WOULD LIE ON THE SOFA/COUCH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON WILL OPEN THE REFRIGERATOR AND POUR A DRINK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Open the refrigerator."
+            },
+            {
+                "predicted": "THE PERSON WOULD SIT AT THE ARMCHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The table."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE REMOTE AND TURN OFF THE LAMP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the blanket."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE BOOK FROM THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Throw the pillow"
+            },
+            {
+                "predicted": "THE PERSON WILL SIT AT THE TABLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sit at the table"
+            },
+            {
+                "predicted": "THE PERSON WILL PLACE THE FOOD IN THE CART.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "THE PERSON WOULD CLOSE THE WINDOW NEXT AFTER THROWING THE SHOE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Open the window."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE KEYS NEXT AFTER THEY WALK THROUGH THE DOORWAY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "THE PERSON WILL PUT DOWN THE BROOM AND PICK UP THE MOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the broom."
+            },
+            {
+                "predicted": "THE PERSON WOULD WASH THE CUTTING BOARD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The table."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE BOOK NEXT AFTER THEY TIDY UP THE CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON WILL THROW THE TOWEL OUT OF THE WINDOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "THE PERSON WOULD SIT AT THE BALCONY CHAIR NEXT AFTER TAKING THE FOOD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The table."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take the book."
+            },
+            {
+                "predicted": "THE PERSON WILL SIT ON THE COUCH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take the blanket"
+            },
+            {
+                "predicted": "THE PERSON WILL HANG THE CLOTHES ON THE RACK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "THE PERSON WILL OPEN THE WINDOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE BROOM NEXT AFTER GRASPING ONTO THE DOORKNOB.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "THE PERSON WILL HANG CLOTHES IN THE CLOSET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL LOOK OUT THE WINDOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the book"
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE BALL NEXT AFTER THEY OPEN THE BOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE WATER BOTTLE NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON WILL TAKE THE PAPER/NOTEBOOK OUT OF THE REFRIGERATOR AND PUT IT IN THEIR BACKPACK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE PHONE NEXT AFTER PUTTING DOWN THE BLANKET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "THE PERSON WILL LOOK AT THE PHONE SCREEN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Open the door"
+            },
+            {
+                "predicted": "THE PERSON WOULD CLOSE THE WINDOW NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "THE PERSON WILL PLACE THE BOOK ON THE SHELF.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE REMOTE CONTROL NEXT AFTER PUTTING DOWN THE CLOTHES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE KEYS NEXT AFTER THEY TAKE THE CUP/GLASS/BOTTLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "THE PERSON WILL LIE ON THE COUCH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Throw the book."
+            },
+            {
+                "predicted": "THE PERSON WILL LEAN AGAINST THE WALL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Throw."
+            },
+            {
+                "predicted": "THE PERSON WILL POUR THE CONTENTS OF THE CUP/GLASS/BOTTLE INTO ANOTHER CONTAINER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE KEYS NEXT AFTER CLOSING THE DOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE BROOM NEXT AFTER SITTING ON THE CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE IRON NEXT AFTER HOLDING THE CLOTHES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "THE PERSON WILL CLOSE THE BOOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON WILL SET THE TABLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Wash."
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE LAPTOP NEXT AFTER TAKING THE CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "THE PERSON WILL PUT THE BOX ON THE SHELF.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "THE PERSON WILL TAKE THE PILLOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take the pillow."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE BAG OF APPLES NEXT AFTER CLOSING THE REFRIGERATOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The food."
+            },
+            {
+                "predicted": "THE PERSON WILL REMOVE THE COVER FROM THE BED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Sit on."
+            },
+            {
+                "predicted": "THE PERSON WOULD EAT THE CARROT NEXT AFTER THEY OPEN THE REFRIGERATOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE NOTEBOOK NEXT AFTER CLOSING THE LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The phone/camera."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE TO MAKE A CALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the laptop."
+            },
+            {
+                "predicted": "THE PERSON WILL CHECK THE PHONE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take the bag."
+            },
+            {
+                "predicted": "THE PERSON WOULD EAT THE BAG OF CHIPS NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON WILL START READING A BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Eat the medicine."
+            },
+            {
+                "predicted": "THE PERSON WILL SIT AT THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Sit at."
+            },
+            {
+                "predicted": "THE PERSON WOULD CLOSE THE WINDOW NEXT AFTER HOLDING THE BROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The chair"
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE PEN NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The shoe."
+            },
+            {
+                "predicted": "THE PERSON WOULD TIDY UP THE SHOES NEXT AFTER HOLDING THE CLOTHES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE REMOTE CONTROL NEXT AFTER THEY WALK THROUGH THE DOORWAY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE COFFEE MUG NEXT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON WILL TAKE A PICTURE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the phone/camera."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE WATER BOTTLE NEXT AFTER TAKING THE FOOD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE KEYS FROM THE TABLE AND LEAVE THE ROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take the towel"
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE BOOK NEXT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE BOOK NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "THE PERSON WILL PUT DOWN THE DISH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the dish."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE FOLDER NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON WILL CLOSE THE WINDOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSES THE OVEN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The refrigerator."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE BOOK NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON WILL CHECK THE CLOCK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the phone/camera."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE PILLOW NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE BOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Throw the blanket."
+            },
+            {
+                "predicted": "THE PERSON WILL SIT ON THE CHAIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take off the shoe"
+            },
+            {
+                "predicted": "THE PERSON WOULD CLOSE THE WINDOW NEXT AFTER WALKING THROUGH THE DOORWAY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The window."
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON WOULD CLOSE THE REFRIGERATOR NEXT AFTER THEY HOLD THE DISH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The refrigerator."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE BOTTLE NEXT AFTER TAKING THE FOOD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON WOULD CLOSE THE DRAWER NEXT AFTER PUTTING DOWN THE BLANKET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE NEWSPAPER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take the food."
+            },
+            {
+                "predicted": "THE PERSON WILL OPEN THE DRAWER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the book."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE PILLOW NEXT AFTER OPENING THE DOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "THE WOMAN WILL TURN A PAGE IN THE BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE BOOK NEXT AFTER CLOSING THE DOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE BAG NEXT AFTER CLOSING THE DOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE SUNGLASSES NEXT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE SPOON NEXT AFTER THEY DRINK FROM THE CUP/GLASS/BOTTLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The food."
+            },
+            {
+                "predicted": "THE PERSON WILL GRAB THE MILK FROM THE REFRIGERATOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Close the refrigerator."
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE SUITCASE NEXT AFTER WALKING THROUGH THE DOORWAY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE DRAWER NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE REMOTE CONTROL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take the clothes."
+            },
+            {
+                "predicted": "THE PERSON WOULD LIE ON THE COUCH NEXT TO THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP A PAIR OF SCISSORS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the food"
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE DRAWER NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Open the box."
+            },
+            {
+                "predicted": "THE PERSON WILL PLACE THE BOOK ON THE SHELF.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take the towel"
+            },
+            {
+                "predicted": "THE PERSON WILL PUT DOWN THE FOOD AND START EATING IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the food."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE BAG NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE REMOTE CONTROL NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The shoe."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE WATER BOTTLE NEXT AFTER WALKING THROUGH THE DOORWAY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The phone/camera."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE PHONE AFTER THEY THROW THE TOWEL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The dish."
+            },
+            {
+                "predicted": "THE PERSON WILL PACK AWAY THE CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "THE MAN WILL PICK UP A TOY CAR FROM THE FLOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Throw the pillow."
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE DRAWER NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE COFFEE MUG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take the pillow."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE REMOTE CONTROL NEXT AFTER WALKING THROUGH THE DOORWAY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON WILL SIT ON THE CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Tidy up the blanket."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE BROOM NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The broom"
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PILLOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the pillow."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE REMOTE CONTROL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON WOULD TIDY UP THE PILE OF CLOTHES NEXT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE BOOK FROM THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Close the window."
+            },
+            {
+                "predicted": "THE PERSON WILL PUT THE SHOE DOWN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON WILL SEARCH FOR KEYS IN THE CLOSET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON WILL EAT THE SANDWICH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Eat."
+            },
+            {
+                "predicted": "THE PERSON WOULD CLOSE THE WINDOW NEXT AFTER WASHING THE CUP/GLASS/BOTTLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The window."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE WALLET NEXT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The dish."
+            },
+            {
+                "predicted": "THE PERSON WOULD CLOSE THE WINDOW BLINDS NEXT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "THE PERSON WILL TURN OFF THE LIGHTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the blanket."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE APPLE NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The food."
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE DOOR NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The door"
+            },
+            {
+                "predicted": "THE PERSON WOULD TIDY UP THE PICTURE FRAME NEXT AFTER WALKING THROUGH THE DOORWAY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the bag."
+            },
+            {
+                "predicted": "THE PERSON WILL POUR THE CONTENTS OF THE CUP/GLASS/BOTTLE INTO ANOTHER CONTAINER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE WINDOW BLINDS NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "THE PERSON WILL PUT DOWN THE CLOTHES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the clothes."
+            },
+            {
+                "predicted": "THE PERSON WILL BEGIN EATING A SANDWICH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the phone/camera."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE SHOES FROM THE FLOOR AND PUT THEM ON.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Throw the clothes."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE REMOTE CONTROL NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE PEN NEXT AFTER HOLDING THE PICTURE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE WATER BOTTLE NEXT AFTER TAKING THE FOOD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE WATER BOTTLE NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "THE PERSON WILL SIT AT THE TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Sit at the table"
+            },
+            {
+                "predicted": "THE PERSON WILL POUR A DRINK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take the dish."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE PAPER/NOTEBOOK NEXT AFTER SITTING ON THE SOFA/COUCH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON WOULD LIE ON THE COUCH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON WILL SIT DOWN ON THE CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the laptop."
+            },
+            {
+                "predicted": "THE PERSON WILL PUT DOWN THE BLANKET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON WILL SIT ON THE SOFA.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sit on."
+            },
+            {
+                "predicted": "THE PERSON WILL BEGIN A PHONE CALL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take the bag"
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE REMOTE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Lie on the sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE DRAWER NEXT AFTER TAKING THE FOOD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON WILL PUT DOWN THE LAPTOP AND START WRITING NOTES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the laptop."
+            },
+            {
+                "predicted": "THE PERSON WILL GO TO THE KITCHEN AND START COOKING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Tidy up the closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON WILL OPEN THE DOOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Close the window."
+            },
+            {
+                "predicted": "THE PERSON WILL START READING A BOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take the clothes"
+            },
+            {
+                "predicted": "THE PERSON WILL HANG THE TOWEL ON THE HOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Throw."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE BAG NEXT AFTER WALKING THROUGH THE DOORWAY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE FRISBEE NEXT AFTER THEY PUT DOWN THE BAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The shoe."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE KEYS NEXT AFTER CLOSING THE DOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE BOOK NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The clothes"
+            },
+            {
+                "predicted": "THE PERSON WILL HANG THE CLOTHES IN THE CLOSET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take the clothes."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE BROOM NEXT AFTER OPENING THE DOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE PHONE/CAMERA NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The phone/camera."
+            },
+            {
+                "predicted": "THE PERSON WILL TAKE THE PICTURE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the picture."
+            },
+            {
+                "predicted": "THE PERSON WOULD EAT THE FOOD NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The food."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE TOWEL NEXT AFTER THEY THROW THE CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE BOOK NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE CUP NEXT AFTER THEY PUT DOWN THE PAPER/NOTEBOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE PERSON WILL FOLD THE CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the food"
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE BOOK NEXT AFTER DRINKING FROM THE CUP/GLASS/BOTTLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The dish."
+            },
+            {
+                "predicted": "THE PERSON WILL FOLD THE BLANKET NEATLY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take"
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE BOOK AFTER THEY TIDY UP THE TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON WILL START READING THE DOCUMENT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take the box."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE TOWEL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Wash the mirror."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE KEYS NEXT AFTER THEY WALK THROUGH THE DOORWAY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE PERSON WILL SIT AT THE TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Sit at."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE MUG NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The picture."
+            },
+            {
+                "predicted": "THE PERSON IS TAKING THE BAG.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The bag"
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE AND CALL SOMEONE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Throw the clothes."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE COFFEE MUG NEXT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON WILL DROP THE BOOK ON THE FLOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "THE PERSON WOULD CLOSE THE WINDOW NEXT AFTER PUTTING DOWN THE CUP/GLASS/BOTTLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "THE PERSON WILL POUR A DRINK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Sit at the table."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE SHOES NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "THE PERSON WILL HANG UP THE CLOTHES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Throw."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE MAGAZINE NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the towel"
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PILLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the shoe."
+            },
+            {
+                "predicted": "THE PERSON WILL LIKELY PUT DOWN THE CUP/GLASS/BOTTLE AND WASH IT OUT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON WOULD SIT AT THE TABLE AFTER TAKING THE FOOD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The table."
+            },
+            {
+                "predicted": "THE PERSON WILL START READING A BOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Throw the broom"
+            },
+            {
+                "predicted": "THE PERSON WILL KICK THE SOCCER BALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take the box"
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Sit on the bed."
+            },
+            {
+                "predicted": "THE PERSON WILL POUR A DRINK FROM THE CUP OR GLASS OR BOTTLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE BALL NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE DRAWER NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE PHONE/CAMERA NEXT AFTER THEY THROW THE CLOTHES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The phone/camera."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the book"
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE DRAWER NEXT AFTER CLOSING THE WINDOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON WILL OPEN THE WINDOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the towel."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE CUP NEXT AFTER SITTING AT THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE MOP AND START SWEEPING THE FLOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the broom."
+            },
+            {
+                "predicted": "THE PERSON WILL LIKELY WRAP THE BLANKET AROUND THEMSELVES, AS THEY ARE ALREADY SITTING ON THE CHAIR WITH THE BLANKET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take"
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE PHONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the towel."
+            },
+            {
+                "predicted": "THE PERSON WOULD TIDY UP THE SHOE RACK NEXT AFTER GRASPING ONTO THE DOORKNOB.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON WOULD THROW THE SHOE NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The shoe."
+            },
+            {
+                "predicted": "THE PERSON WOULD OPEN THE DRAWER NEXT AFTER WALKING THROUGH THE DOORWAY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON WILL PUT DOWN THE SHOE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the shoe."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE KEYS NEXT AFTER CLOSING THE BOX.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON WILL SIT ON THE CHAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the blanket"
+            },
+            {
+                "predicted": "THE PERSON WILL WALK OUT OF THE ROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the broom"
+            },
+            {
+                "predicted": "THE PERSON WILL OPEN THE REFRIGERATOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Open the refrigerator."
+            },
+            {
+                "predicted": "THE PERSON WILL LIKELY TAKE A DRINK FROM THE CUP/GLASS/BOTTLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "THE PERSON WOULD TIDY UP THE SHOES NEXT AFTER THEY HOLD THE CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "THE PERSON WILL SIT ON THE BED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Sit on."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE GLASS OF WATER NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The phone/camera."
+            },
+            {
+                "predicted": "THE PERSON WILL STAND UP TO LEAVE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "THE PERSON WILL PUT THE BAG ON THE SHOULDER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE WATER BOTTLE NEXT AFTER HOLDING THE CLOTHES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE PERSON WILL POUR A DRINK FROM THE JUG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Eat the sandwich."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE PEN NEXT AFTER SITTING AT THE TABLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "THE PERSON WILL PLACE THE MEDICINE BACK IN THE CABINET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Eat."
+            },
+            {
+                "predicted": "THE PERSON WILL SIP THE DRINK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Throw the towel."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THEIR COAT NEXT AFTER OPENING THE CLOSET/CABINET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "THE PERSON WILL CLOSE THE WINDOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON WILL PICK UP THE BOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take the bag."
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.0
+    }
+}

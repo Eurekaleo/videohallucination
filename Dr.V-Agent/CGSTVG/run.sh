@@ -1,0 +1,1 @@
+python3 -m torch.distributed.launch  --nproc_per_node=8  scripts/test_net.py  --config-file "experiments/hcstvg.yaml"  INPUT.RESOLUTION 420  MODEL.WEIGHT weights/hcstvg.pth  OUTPUT_DIR output/hcstvg

@@ -1,0 +1,2530 @@
+{
+    "factual_prediction": {
+        "accuracy": 0.0,
+        "unmatched_cases": [
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP THE REMOTE CONTROL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Lie on the bed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL CHECK THEIR PHONE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Sit at the table."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO THROWS A SHOE AFTER TAKING THE BAG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The shoe."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BE TAKING THE SANDWICH NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENS THE DOOR AND THEN CLOSES THE REFRIGERATOR. SO, THE ANSWER IS D. THE REFRIGERATOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The refrigerator."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TAKES THE BLANKET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BE CLOSING THE WINDOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TAKE THE PHONE AFTER THEY SIT AT THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The phone/camera."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BE EATING A SANDWICH NEXT AFTER HOLDING THE FOOD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "BASED ON THE VIDEO, THE OBJECT THAT THE PERSON IS HOLDING AND IS LIKELY TO THROW NEXT IS A SHOE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD TAKE THE BOOK NEXT AFTER WALKING THROUGH THE DOORWAY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BE REACHING FOR A SNACK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Close the refrigerator."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL USE THE BROOM TO SWEEP, SO THE ANSWER SHOULD BE OPTION A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PLACE THE BAG ON THE CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Throw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD PUT DOWN THE BROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, THE PERSON WILL PICK UP AN ITEM FROM THE REFRIGERATOR IN THE FUTURE. THEREFORE, THE ANSWER OPTION IS A.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD TAKE THE CUP OR GLASS AFTER CLOSING THE REFRIGERATOR. SO, THE CORRECT ANSWER IS A: THE CUP/GLASS/BOTTLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The cup/glass/bottle."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PUT DOWN THE PILLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the pillow."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS TAKING A PAPER/NOTEBOOK, SO THE ANSWER TO THE QUESTION IS \"A: TAKE THE PAPER/NOTEBOOK.,\".",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PUT DOWN THE SANDWICH AND PICK UP THE REMOTE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL ADJUST THE BLINDS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSES THE CUPBOARD AFTER WALKING THROUGH THE DOORWAY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The refrigerator."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BE PICKING UP A BOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Close the window."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL CLOSE THE WINDOW AFTER DRINKING FROM THE CUP, GLASS, OR BOTTLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The window."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL POUR A GLASS OF WATER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Sit at the table."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD EAT A SANDWICH NEXT AFTER THEY CLOSE THE REFRIGERATOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SHOWN PLACING A GROCERIES BAG DOWN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The dish."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD PUT DOWN THE BOOK AFTER TAKING THE FOOD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The phone/camera."
+            },
+            {
+                "predicted": "THE PERSON WALKS THROUGH THE DOORWAY AND THROWS A BOOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TAKE OUT A SHIRT FROM THE CLOSET/CABINET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Close the closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS HOLDING A BOOK AND IS ABOUT TO THROW IT. SO, THE ANSWER IS B.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO THROWS DOWN A PAIR OF PANTS AFTER THEY PUT DOWN THE CUP, GLASS, OR BOTTLE. THEREFORE, THE ANSWER TO THE QUESTION IS D. THE BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP THE BAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Open the bag."
+            },
+            {
+                "predicted": "BASED ON THE GIVEN INFORMATION, IT IS MOST LIKELY THAT THE PERSON WILL OPEN THE LAPTOP AFTER HOLDING THE PHONE/CAMERA. THEREFORE, THE ANSWER TO THE QUESTION IS C, THE DRAWER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS EATING AN APPLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL OPEN THE WINDOW, ACCORDING TO THE GIVEN OPTION LETTER. HOWEVER, THE ANSWER THAT ACTUALLY CORRESPONDS TO THE VIDEO IS \"D: PICK UP THE BOOK..\" AS THE PERSON IS PICKING UP A BOOK FROM THE FLOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Throw the box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PUT FOOD ON TOP OF THE REFRIGERATOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "BASED ON THE VIDEO, THE PERSON IS MOST LIKELY TO PUT DOWN THE KEYS AFTER TAKING THE DISH. THEREFORE, THE ANSWER LETTER SHOULD BE A.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO THROWS THE NEWSPAPER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS PLANNING TO OPEN THE REFRIGERATOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP THE BAG.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Throw the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD TAKE THE FOOD NEXT AFTER THEY OPEN THE BOX.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The food."
+            },
+            {
+                "predicted": "THE PERSON OPENS THE DOOR AND THEN PROCEEDS TO TIDY UP THE SHOES NEXT TO IT. THEREFORE, THE CORRECT ANSWER IS A: THE SHOES BY THE DOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON WOULD PICK UP THE REMOTE CONTROL AFTER LYING ON THE SOFA OR COUCH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSES THE LAPTOP AFTER HOLDING THE BLANKET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL ADJUST THE CHAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the phone/camera."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSES THE LAPTOP AND MOVES ON TO THE WINDOW. SO, THE CORRECT ANSWER OPTION IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The window."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP THE CUP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN PICKING UP A NEWSPAPER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Throw the shoe."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL LOOK OUT THE WINDOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Open the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BEGIN READING A BOOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sit on the sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PLACE THE PILLOW ON THE COUCH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "THE PERSON LYING ON THE COUCH WOULD TAKE THE BLANKET NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PUTS DOWN THE BLANKET AND THEN TAKES THE TOWEL NEXT. THEREFORE, THE CORRECT ANSWER IS A: THE TOWEL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WASHES THE BOX BEFORE WASHING THE TABLE. THEREFORE, THE ANSWER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The table."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BE CLOSING THE LAPTOP, BUT THEY ARE NOT PLACING IT IN A BAG. THE OPTION LETTER THAT IS RELEVANT TO THE QUESTION IS B, AS THE PERSON IS PLACING THE LAPTOP IN A BAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TAKE THE PILLOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take the pillow."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD SIT AT THE ARMCHAIR AFTER PUTTING DOWN THE FOOD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The table."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD LIE ON THE BED AFTER HOLDING THE FOOD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP A BOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the cup/glass/bottle."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS PREPARING A SNACK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL WASH THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Wash the table."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PUT DOWN THE TOWEL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS CLOSING THE DOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The door."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PUT DOWN A FRUIT BASKET AFTER PUTTING THE GROCERIES DOWN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The picture."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENS THE DOOR AND THROWS A BOX.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS HOLDING A LAPTOP, AND THE NEXT OBJECT THEY WILL OPEN IS A LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BE PREPARING A SANDWICH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Close the refrigerator."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD PUT DOWN THE BAG AFTER THEY THROW THE CLOTHES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, THE NEXT OBJECT THE PERSON IS LIKELY TO TAKE WOULD BE THE UMBRELLA.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, THE PERSON IS PLANNING TO PUT DOWN A PILLOW. THEREFORE, THE CORRECT ANSWER IS A: THE PILLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS EXPECTED TO OPEN THE DOOR NEXT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Open the door."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO EAT AN APPLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP THE BOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Throw the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL OFFER THE FOOD TO SOMEONE NEARBY, BUT NOT TO ANOTHER PERSON. THE OPTION LETTER FOR THE ANSWER IS C.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION GIVEN, THE OBJECT THAT THE PERSON OPENS NEXT AFTER TAKING THE CUP/GLASS/BOTTLE IS THE LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, THE PERSON IN THE VIDEO IS LIKELY TO CLOSE THE BAG AFTER OPENING IT. THEREFORE, THE ANSWER OPTION THAT CORRESPONDS TO THE ACTION IS A.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take an item out."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENS THE REFRIGERATOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The refrigerator."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD LIKELY PUT DOWN THE GLASS AFTER TAKING THE FOOD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BE TAKING THEIR CLOTHES OFF.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS TAKING A BITE OF THEIR SANDWICH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Eat."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL OPEN THE DOOR, SO THE CORRECT ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS CARRYING A CAKE AND WALKING THROUGH THE DOORWAY. BASED ON THIS INFORMATION, THE ANSWER OPTION THAT IS MOST LIKELY RELATED TO WHAT THEY ARE EATING IS THE CAKE. SO, THE ANSWER IS A.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "BASED ON THE GIVEN INFORMATION, THE PERSON IN THE VIDEO IS SEEN WASHING CLOTHES AND THE LAUNDRY BASKET IS NEARBY. THEREFORE, THE ANSWER CHOICE THAT SEEMS MOST RELEVANT IS C. PICK UP THE PHONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Sit on the floor."
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, THE PERSON IN THE VIDEO IS EXPECTED TO TAKE THE FOOD NEXT. THEREFORE, THE ANSWER OPTION LETTER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The food."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL OPEN THE WINDOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Sit at the table."
+            },
+            {
+                "predicted": "THE PERSON THROWS DOWN THE CUP OR GLASS OR BOTTLE AND THEN THE BLANKET. SO, THE ANSWER IS C: THE BLANKET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION GIVEN, THE PERSON IN THE VIDEO WILL LIKELY PICK UP THE BAG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS ABOUT TO TURN OFF THE LIGHT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take off shoes"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL START COOKING IN THE KITCHEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Eat the medicine."
+            },
+            {
+                "predicted": "BASED ON THE AVAILABLE INFORMATION, IT IS NOT POSSIBLE TO DETERMINE THE NEXT ACTION OF THE PERSON IN THE VIDEO. THEREFORE, THE ANSWER IS NOT AVAILABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Close the refrigerator."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO THROWS A BALL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The shoe."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL SWEEP THE FLOOR NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Sit on."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL LOOK OUT THE WINDOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pillow"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS PLANNING TO THROW THE BAG. SO, THE CORRECT ANSWER IS B.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Throw the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO CLOSE THE REFRIGERATOR. THEREFORE, THE ANSWER LETTER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Close the refrigerator."
+            },
+            {
+                "predicted": "BASED ON THE GIVEN INFORMATION, THE NEXT ACTION FOR THE PERSON SEEMS TO BE PUTTING DOWN THE BAG. SO, THE ANSWER OPTION WOULD BE C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS TAKING THEIR BAG.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "BASED ON THE GIVEN INFORMATION, THE PERSON IN THE VIDEO WILL MOST LIKELY LOOK OUT THE WINDOW NEXT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Touch the picture"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PUT DOWN THE KEYS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BE EATING A SANDWICH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Eat the sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PLANS TO OPEN THE REFRIGERATOR, BUT IT'S NOT CLEAR WHAT THEY WILL DO NEXT. THEREFORE, THE ANSWER OPTIONS INCLUDE \"OPEN\", BUT THE EXACT ACTION IS NOT SPECIFIED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS CLOSING THE WINDOW. THEREFORE, THE ANSWER IS D. THE WINDOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The window."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TURN ON THE TELEVISION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the phone/camera."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PUTS DOWN THE BROOM AFTER TURNING ON THE LIGHT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL FOLD THEIR CLOTHES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD SIT ON THE TABLE AFTER HOLDING THE FOOD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The table."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TAKE A SHOE, AS SEEN IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the shoe."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD PUT DOWN THE KNIFE AFTER EATING THE SANDWICH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The cup/glass/bottle."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BE USING THE BROOM TO SWEEP THE FLOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the broom."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TAKES A BAG OF CHIPS AFTER TURNING ON THE LIGHT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The food."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PUTS DOWN A CUP/GLASS/BOTTLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The cup/glass/bottle."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD PUT DOWN THE PHONE/CAMERA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The phone/camera."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP THE PHONE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TAKES THE BOOK NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE BOOK NEXT AFTER WATCHING THE TELEVISION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BE ADJUSTING THE TV REMOTE NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the phone/camera."
+            },
+            {
+                "predicted": "THE PERSON WOULD CLOSE THE LAPTOP AFTER PUTTING DOWN THE PAPER/NOTEBOOK, SO THE ANSWER OPTION LETTER SHOULD BE C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP THE PHONE, AS SEEN IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Close the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP THE REMOTE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the blanket"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TAKES THE TOWEL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PUT DOWN THEIR CLOTHES AFTER DRINKING FROM THE CUP/GLASS/BOTTLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The clothes"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TAKE A BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the book."
+            },
+            {
+                "predicted": "BASED ON THE VIDEO, IT SEEMS THAT THE PERSON WILL HANG UP THE CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL THROW THE CLOTHES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Throw the clothes."
+            },
+            {
+                "predicted": "BASED ON THE GIVEN INFORMATION, THE PERSON WOULD PUT DOWN THE PAPER/NOTEBOOK AS THE NEXT OBJECT. THEREFORE, THE ANSWER LETTER IS B.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The paper/notebook."
+            },
+            {
+                "predicted": "BASED ON THE PROVIDED ANSWER, THE NEXT ACTION FOR THE PERSON IN THE VIDEO IS TO TAKE THE REMOTE CONTROL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PREPARE THE FOOD AND PACK IT. THE OPTIONS ARE A, B, C, AND D. THE ANSWER THAT MATCHES THE VIDEO IS A, WHICH IS THE CORRECT OPTION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL POUR A DRINK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TURN ON THE TV.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS CLEANING UP THEIR ROOM, SO THEY WILL TIDY UP THE CLOTHES. SO, THE ANSWER IS (D) THE MAGAZINES ON THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The clothes"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSES THE DRAWER AFTER TAKING THE BLANKET. THEREFORE, THE ANSWER OPTION LETTER FOR THE QUESTION IS C.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN SCRATCHING THE FLOOR, BUT THE QUESTION IS ASKING FOR THE ACTION THEY WILL TAKE NEXT. THEREFORE, THE CORRECT ANSWER IS THAT THE PERSON WILL START CLEANING THE FLOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sit on."
+            },
+            {
+                "predicted": "BASED ON THE VIDEO, THE OBJECT THAT THE PERSON WOULD OPEN NEXT AFTER CLOSING THE DOOR IS A CLOSET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD PUT DOWN THE BAG BEFORE PROCEEDING TO TAKE THE WATER BOTTLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TURN ON THE TV.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Close the door."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL FOLD THE TOWEL, WHICH IS THE NEXT ACTION THEY WILL TAKE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Pick up the towel"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL OPEN THE BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "BASED ON THE VIDEO, IT IS POSSIBLE THAT THE PERSON MIGHT CLOSE THE DRAWER. HOWEVER, IT IS NOT CLEAR WHICH DRAWER IS BEING REFERRED TO, SO THE ANSWER OPTIONS ARE NOT SUFFICIENT TO DETERMINE THE CORRECT OPTION LETTER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The closet/cabinet."
+            },
+            {
+                "predicted": "BASED ON THE VIDEO, THE PERSON WOULD PUT DOWN THE LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, THE ANSWER IS LIKELY D. THE PILLOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL KICK THE SHOE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take off"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING ON THE TABLE AND EATING. THEREFORE, THE ANSWER TO THE QUESTION IS THE TABLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The table."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL CLOSE THE DOOR NEXT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "BASED ON THE GIVEN INFORMATION, THE NEXT ACTION FOR THE PERSON WITH THE SOFA/COUCH IS LIKELY TO BE STACKING CUSHIONS, AS SEEN IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Lie on."
+            },
+            {
+                "predicted": "BASED ON THE GIVEN ANSWER, IT SEEMS LIKE THE PERSON WILL BE PICKING UP A MAGAZINE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Pick up the bag"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TAKES A BOOK FROM THE SHELF AFTER LOOKING OUT OF THE WINDOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP THE TV REMOTE AND CONTINUE WATCHING TV.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sit on the sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO FOLD THE CLOTHES IN THE CLOSET OR CABINET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS PLANNING TO GET UP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Get up"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS PREPARING TO EAT A SANDWICH. HENCE, THE ANSWER OPTION LETTER SHOULD BE D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Eat the sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP THE BLANKET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Pick up the blanket"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN OPENING THE REFRIGERATOR AND THEN CLOSING IT. THE OPTION LETTER FOR THE ANSWER IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Open the refrigerator."
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, THE PERSON WILL TOSS ASIDE THE BLANKET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Pick up"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO TAKE A CUP NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD PUT DOWN A BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL SIT ON THE CHAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the pillow."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TAKE THE BROOM TO CLEAN THE FLOOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take the broom."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP THE BOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Open the box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENS THE CLOSET/CABINET AND EATS THE MEDICINE NEXT. THEREFORE, THE ANSWER IS (A) THE MEDICINE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The medicine."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TAKE OUT A HAT FROM THE CLOSET/CABINET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TAKE THE CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the clothes."
+            },
+            {
+                "predicted": "THE ANSWER IS C. THE BOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN SITTING ON THE KITCHEN COUNTER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The table."
+            },
+            {
+                "predicted": "BASED ON THE ANSWER GIVEN, IT SEEMS THAT THE PERSON IS HOLDING A PILLOW. SO, THE CORRECT OPTION LETTER WOULD BE D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "THE PERSON WALKS THROUGH THE DOORWAY AND THROWS THE PILLOW. SO, THE ANSWER IS C: THE PILLOW. (D: THE KEYS..)",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD PUT DOWN THE COFFEE MUG AFTER THEY WATCH OUTSIDE THE WINDOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENS THE CABINET AFTER CLOSING THE DOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The refrigerator."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS TAKING A BAG AFTER GRASPING ONTO THE DOORKNOB. SO, THE ANSWER IS A. THE BAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENS A BOOK AFTER WALKING THROUGH THE DOORWAY. THEREFORE, THE CORRECT ANSWER IS B. THE BOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENS THE DRAWER NEXT AFTER HOLDING THE CLOTHES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS TAKING A SHOE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The shoe."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL CLOSE THE BOOK NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN PICKING UP A NEWSPAPER. THE OPTIONS AVAILABLE ARE TO SIT ON A CHAIR OR TO OPEN A CLOSET/CABINET. THE ANSWER OPTION IS B, AS THE PERSON PICKS UP THE NEWSPAPER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Open the closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL EAT THE FOOD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Eat"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP THE PILLOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the pillow."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TAKE OUT A CAN OF SODA FROM THE REFRIGERATOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PICKS UP A DRINK BEFORE TAKING THE NEXT OBJECT, WHICH IS THE TOWEL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE OBJECT THAT THE PERSON WOULD TAKE AFTER OPENING THE CLOSET/CABINET IS A JACKET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The bag"
+            },
+            {
+                "predicted": "THE NEXT OBJECT THAT THE PERSON IN THE VIDEO WILL TAKE IS THE LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, THE PERSON IN THE VIDEO WOULD PUT DOWN A BOOK AFTER CLOSING THE DOOR. SO, THE CORRECT OPTION LETTER FOR THE ANSWER IS B.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO LIFT THE BOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Open the bag."
+            },
+            {
+                "predicted": "BASED ON THE CONTEXT AND THE GIVEN ANSWER OPTIONS, IT IS MOST LIKELY THAT THE PERSON WILL TURN OFF THE LIGHT IN THE ROOM. SO, THE ANSWER OPTION THAT RELATES TO TURNING OFF A LIGHT IS MOST LIKELY TO BE CORRECT. THEREFORE, THE ANSWER IS B.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Close the window."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENS THE LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL OPEN THE BOOK NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Open the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD PUT DOWN THE PILLOW AFTER HOLDING THE CLOTHES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN OPENING A BOOK, WHICH IS THE NEXT ACTION THEY WILL TAKE. SO, THE ANSWER IS D. SIT ON THE CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PUT THE TOWEL ON THE CHAIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Throw the towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD EAT A SANDWICH NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PICKS UP A BAG FROM THE FLOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the shoe."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS PLANNING TO TURN ON THE TV.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take the sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS LIKELY TO STAND UP AND STRETCH THEIR BODY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Close the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO PUT THE LAPTOP TO SLEEP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS USING A PHONE/CAMERA TO TAKE A PICTURE. SO, THE NEXT ACTION THEY WILL TAKE WITH THE PHONE IS TO TAKE A PICTURE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS EXPECTED TO PICK UP THE BOOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Open the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL CLOSE THE WINDOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take the shoes"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BE PICKING UP THE HEADPHONES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Open the window"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS LIKELY TO EAT THE FOOD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Eat the food"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS TAKING A CARD OUT OF THEIR POCKET, WHICH COULD BE THE CARD THEY WILL HOLD NEXT AFTER SITTING ON THE FLOOR. THEREFORE, THE ANSWER OPTION THAT MATCHES THE VIDEO IS A. THE BOOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The cup/glass/bottle."
+            },
+            {
+                "predicted": "BASED ON THE GIVEN INFORMATION, THE MOST LIKELY NEXT ACTION OF THE PERSON WITH THE TABLE IS TO FOLD IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Sit at."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD TIDY UP THE BOX AFTER TAKING THE CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PUTS DOWN THE BROOM NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENS THE BAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE OBJECT THAT THE PERSON IS THROWING IN THE VIDEO IS A TOWEL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The clothes"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WASHING THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The table."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO LIES ON THE BED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL GRAB A CUP FROM THE COUNTER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Open the refrigerator."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL SIT AT THE DESK NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The table."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP THE REMOTE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL THROW THE PILLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Throw the pillow"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TURN OFF THE LIGHT SWITCH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sit at the table"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO TAKE THE FOOD NEXT. SO, THE CORRECT ANSWER IS A. TAKE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, THE OBJECT THAT THE PERSON IS EXPECTED TO CLOSE NEXT AFTER THROWING THE SHOE IS A WINDOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, THE NEXT ACTION FOR THE PERSON IS TO OPEN THE WINDOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Open the window."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING A SHIRT AND THEY WALK THROUGH THE DOORWAY. AFTER THAT, THEY TAKE THEIR CLOTHES OFF. SO, THE ANSWER TO THE QUESTION IS C. THEY TAKE THEIR CLOTHES OFF AFTER WALKING THROUGH THE DOORWAY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PUT DOWN THE BROOM ON THE GROUND AND THEN CARRY IT TO THE CLOSET. SO, THE ANSWER IS C. PUT DOWN THE BROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the broom."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WASHES A CUTTING BOARD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The table."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD THROW THE BOOK AFTER THEY HAVE FINISHED TIDYING UP THE CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TAKE THE TOWEL AND FOLD IT NEATLY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEATED ON THE TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The table."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TURN OFF THE LIGHT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TAKE THE BLANKET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take the blanket"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL FOLD THE CLOTHES NEATLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL ADJUST THE BLINDS NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PUT DOWN THE KEYS AFTER GRASPING ONTO THE DOORKNOB.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS OPENING THE CLOSET/CABINET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PLANS TO STAND UP FROM THE CHAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the book"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENS A BOX AND THEN THROWS A PIECE OF CLOTHING. THEREFORE, THE ANSWER OPTION IS D. THE PERSON THROWS A BALL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PUT DOWN THE CELL PHONE NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL LIKELY FOLD THE PAPER/NOTEBOOK NEATLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PUTS DOWN THE BLANKET ON THE FLOOR AND THEN PICKS UP THE BOOK. SO, THE OBJECT THEY WOULD TAKE NEXT IS THE BOOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENS THE LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL CLOSE THE WINDOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Open the door"
+            },
+            {
+                "predicted": "BASED ON THE GIVEN ANSWER, THE PERSON IN THE VIDEO WOULD CLOSE THE LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL FLIP THE BOOK UPSIDE DOWN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "BASED ON THE GIVEN INFORMATION, IT SEEMS THAT THE PERSON MIGHT USE THE REMOTE CONTROL AFTER THEY PUT DOWN THE CLOTHES. THEREFORE, THE ANSWER IS A: THE REMOTE CONTROL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO THROWS THE MAGAZINE AFTER THEY TAKE THE CUP, GLASS OR BOTTLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL THROW A BOOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Throw the book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PLACE THE PILLOW ON THE CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Throw."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL RAISE THE CUP TO TAKE A SIP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD THROW THE BOX AFTER CLOSING THE DOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD TAKE THE BROOM NEXT AFTER THEY SIT ON THE CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TAKE THE IRON AFTER HOLDING THE CLOTHES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, THE MOST LIKELY NEXT ACTION FOR THE PERSON IN THE VIDEO WITH THE BOOK IS TO PLACE IT ON A SHELF.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO POLISH THE TABLE NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Wash."
+            },
+            {
+                "predicted": "BASED ON THE GIVEN INFORMATION, THE OBJECT THAT THE PERSON WOULD OPEN NEXT IS A LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PUT THE BOX ON THE SHELF AFTER OPENING IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TURN OFF THE LIGHT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take the pillow."
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, THE OBJECT THAT THE PERSON WOULD TAKE NEXT AFTER CLOSING THE REFRIGERATOR IS A CARTON OF MILK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The food."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO SIT ON THE BED. THEREFORE, THE ANSWER THAT SEEMS MOST RELEVANT IS \"A: SIT ON.\"",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Sit on."
+            },
+            {
+                "predicted": "THE PERSON OPENS THE REFRIGERATOR TO FIND AN APPLE, WHICH THEY EAT NEXT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSES THE LAPTOP AND PUTS DOWN THE NOTEBOOK NEXT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The phone/camera."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS PICKING UP THE LAPTOP AND CLOSING IT. HENCE, THE CORRECT ANSWER IS D. PUT DOWN THE LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the laptop."
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, THE PERSON WILL LEAVE THE ROOM. THEREFORE, THE ANSWER IS A. LEAVE THE ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS EATING A BANANA, WHICH IS THE OBJECT THEY ARE ABOUT TO EAT NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, THE PERSON IN THE VIDEO IS GOING TO TAKE A SIP OF WATER. THEREFORE, THE ANSWER IS B.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Eat the medicine."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL SIT AT THE TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Sit at."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSES THE WINDOW AFTER HOLDING THE BROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The chair"
+            },
+            {
+                "predicted": "THE NEXT OBJECT THAT THE PERSON IN THE VIDEO IS GOING TO TAKE OUT IS A BOOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The shoe."
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION GIVEN, THE PERSON WOULD TIDY UP THE BOOKS ON THE TABLE AFTER HOLDING THE CLOTHES. THEREFORE, THE ANSWER OPTION IS (A) THE BOOKS ON THE TABLE..",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON WALKING THROUGH THE DOORWAY IS LIKELY TO THROW A BOOK NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "BASED ON THE VIDEO, THE PERSON IS MOST LIKELY TO TAKE THE PAPER/NOTEBOOK NEXT, WHICH IS THE OPTION LETTER C.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO WAVE TO SOMEONE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the phone/camera."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PLACE DOWN A BOOK AFTER TAKING THE FOOD. THEREFORE, THE ANSWER IS BOOK (A).",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BE PICKING UP THE KEYS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take the towel"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SHOWN THROWING A BOOK, SO THE ANSWER OPTION LETTER THAT MATCHES THE VIDEO IS D.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS PICKING UP THE PILLOW. THEREFORE, THE ANSWER IS A: THE PILLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN WEARING A BATHROBE, BUT THEY ARE NOT SEEN TAKING A BATH. THEREFORE, THE ANSWER TO THE QUESTION IS INCORRECT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the dish."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PUTS DOWN THE POT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL CLOSE THE WINDOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO CLOSE THE OVEN NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The refrigerator."
+            },
+            {
+                "predicted": "BASED ON THE CONTEXT OF THE QUESTION, IT IS POSSIBLE THAT THE NEXT OBJECT THE PERSON WOULD TAKE IS A BAG. HOWEVER, THE GIVEN OPTIONS ARE FOR OPTIONS A, B, C, AND D. THEREFORE, WE CAN ONLY CONCLUDE THAT THE ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TAKE THE PHONE/CAMERA NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the phone/camera."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TAKES A TOWEL, WHICH IS THE NEXT OBJECT THEY PICK UP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL CLOSE THE WINDOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Throw the blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BE SITTING ON THE CHAIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take off the shoe"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD CLOSE THE WINDOW NEXT AFTER WALKING THROUGH THE DOORWAY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The window."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENS A BOOK, SO THE ANSWER OPTION LETTER SHOULD BE (A).",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL CLOSE THE WINDOW AFTER HOLDING THE DISH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The refrigerator."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PUTS DOWN A LAPTOP AFTER TAKING THEIR FOOD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSES THE DRAWER AFTER PUTTING DOWN THE BLANKET. SO, THE CORRECT ANSWER IS D. THE DRAWER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BE WRITING A NOTE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take the food."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TURN OFF THE LIGHT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the book."
+            },
+            {
+                "predicted": "THE OBJECT THAT THE PERSON THROWS NEXT AFTER OPENING THE DOOR IS A BOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TURN A PAGE INSIDE THE BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "ACCORDING TO THE INFORMATION PROVIDED, THE PERSON WOULD TAKE THEIR CLOTHES AFTER CLOSING THE DOOR. THEREFORE, THE CORRECT ANSWER IS D. CLOTHES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENS A BAG AFTER CLOSING THE DOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TAKES THE BOOK AFTER PUTTING ON THE CLOTHES. THEREFORE, THE CORRECT ANSWER IS A. THE BOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD TAKE THE PHONE NEXT AFTER DRINKING FROM THE CUP/GLASS/BOTTLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The food."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BE TAKING OUT A SANDWICH FROM THE FRIDGE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Close the refrigerator."
+            },
+            {
+                "predicted": "THE PERSON WALKS THROUGH THE DOORWAY AND OPENS THE BAG, WHICH IS THE BAG THEY ARE CARRYING. SO THE ANSWER IS THE BAG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENS A BAG. THEREFORE, THE ANSWER THAT CORRESPONDS TO THE VIDEO IS C. THE BAG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL OPEN THE WINDOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL LIE ON THE SOFA AFTER TAKING THE PILLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP A PAIR OF SCISSORS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the food"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENS THE BOX TO REVEAL THE CORN AND THEN OPENS THE DRAWER TO GET THE BOOK. SO, THE ANSWER IS D. DRAWER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP THE PHONE AND TURN OFF THE LIGHT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Open the box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO CLOSE THE WINDOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take the towel"
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, THE NEXT ACTION THAT THE PERSON WILL TAKE IS TO PUT DOWN THE FOOD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the food."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS ABOUT TO THROW THE TABLET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO TAKE THE SHOE NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The shoe."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS HOLDING THE KEYS AND THEY PUT THEM DOWN AFTER WALKING THROUGH THE DOORWAY. THEREFORE, THE ANSWER IS A. THE KEYS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The phone/camera."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS HOLDING A DISH, SO THE OBJECT THEY WOULD PUT DOWN NEXT AFTER THROWING THE TOWEL WOULD BE THE DISH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The dish."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL FOLD THE CLOTHES NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL LIKELY THROW THE PILLOW, AS SEEN IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Throw the pillow."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENS THE BOX. THEREFORE, THE ANSWER IS (A) THE BOX.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL START WRITING IN THE NOTEBOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take the pillow."
+            },
+            {
+                "predicted": "THE PERSON WALKS THROUGH THE DOORWAY AND THROWS THE CAP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENS A BRIEFCASE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "BASED ON THE VIDEO, THE PERSON'S NEXT ACTION IS TO PICK UP THE PHONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Tidy up the blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL THROW THE BROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The broom"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL ADJUST THE CURTAINS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the pillow."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP THE REMOTE CONTROL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN TIDYING UP THE STACK OF BOOKS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL CLOSE THE WINDOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Close the window."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PUT THE SHOE DOWN AND KICK IT LATER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PLANS TO TAKE OUT A JACKET FROM THE CLOSET OR CABINET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BE EATING THE SANDWICH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Eat."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO CLOSES THE WINDOW AFTER WASHING THE CUP, GLASS, OR BOTTLE. THEREFORE, THE ANSWER IS A. THE WINDOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The window."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN PUTTING DOWN THE PHONE. THEREFORE, THE ANSWER TO THE QUESTION IS B.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The dish."
+            },
+            {
+                "predicted": "BASED ON THE VIDEO, IT SEEMS THAT THE PERSON IS CLOSING THE LAPTOP. THEREFORE, THE ANSWER OPTION THAT IS RELATED TO CLOSING AN OBJECT ON THE TABLE WOULD BE D.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TURN OFF THE LIGHTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TAKES THE FOOD NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The food."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENS THE DOOR. SO, THE ANSWER OPTION LETTER WOULD BE A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The door"
+            },
+            {
+                "predicted": "THE PERSON WALKS THROUGH THE DOORWAY AND BEGINS TO TIDY UP THE CLOSET/CABINET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP THE PHONE, NOT PUT ON A HAT OR TURN OFF A LIGHT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS POURING THE CONTENTS OF THE CUP INTO ANOTHER CONTAINER. SO, THE ANSWER IS (D) PUT DOWN..",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENS A BACKPACK AFTER SITTING ON THE CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP THE JACKET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Put down the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PUT DOWN THE PHONE/CAMERA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the phone/camera."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TOSS THEIR CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Throw the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TAKE THE BLANKET NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD TAKE A PILLOW NEXT AFTER HOLDING THE PICTURE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PUTS DOWN A PLATE AFTER TAKING THEIR FOOD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PICKS UP A BOTTLE AND PUTS IT DOWN. THE ANSWER LETTER IS C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN PICKING UP A PHONE, AND BASED ON THE INFORMATION PROVIDED, IT CAN BE INFERRED THAT THE ANSWER SHOULD BE OPTION B. HOWEVER, THE QUESTION DOES NOT PROVIDE ANY CONTEXT OR INFORMATION ABOUT A PERSON, SO IT IS UNCLEAR HOW THE PERSON IS REFERRED TO. CAN YOU PLEASE PROVIDE MORE INFORMATION OR CONTEXT TO UNDERSTAND THE QUESTION AND ANSWER?",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Sit at the table"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL POUR A DRINK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take the dish."
+            },
+            {
+                "predicted": "THE ANSWER IS D: THE KEYS..",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD LIE ON A COUCH OR A SOFA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The sofa/couch."
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, THE NEXT ACTION THAT THE PERSON WILL TAKE IS TO TURN OFF THE LIGHTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PUT DOWN THE BLANKET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TURN THE SOFA OR COUCH ON ITS SIDE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Sit on."
+            },
+            {
+                "predicted": "BASED ON THE VIDEO, THE PERSON IS LIKELY TO TURN OFF THE LIGHTS AS THEIR NEXT ACTION.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take the bag"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL START READING THE BOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Lie on the sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENS THE BOX BEFORE TAKING THE FOOD. SO, THE ANSWER TO THE QUESTION IS \"A\".",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BE USING THE LAPTOP, SO THE ANSWER OPTION LETTER IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP A BOOK FROM THE SHELF.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Tidy up the closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SHOWN OPENING THE DOOR. THEREFORE, THE CORRECT ANSWER IS A. OPEN THE DOOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Close the window."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL MAKE A PHONE CALL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take the clothes"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL FOLD THE TOWEL NEATLY AND THEN HANG IT ON THE HOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Throw."
+            },
+            {
+                "predicted": "THE PERSON WOULD TAKE THE BAG NEXT AFTER WALKING THROUGH THE DOORWAY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO THROWS DOWN A BAG AND THEN PUTS IT DOWN. THE NEXT OBJECT THEY THROW IS A CUSHION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The shoe."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TAKE A HAT NEXT AFTER CLOSING THE DOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN PUTTING DOWN A BAG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The clothes"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL FOLD THE CLOTHES NEATLY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD PUT DOWN THE BROOM AFTER THEY OPEN THE DOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PUT DOWN THE BOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The phone/camera."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BE TAKING A PICTURE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the picture."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BE EATING FOOD FROM THE PLATE, AND IT IS THE NEXT OBJECT THEY WILL BE CONSUMING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The food."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TAKES A TOWEL AFTER THROWING THE CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS ABOUT TO PICK UP THE BAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD THROW DOWN A BOOK AFTER PUTTING DOWN THE PAPER/NOTEBOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN FOLDING CLOTHES IN THE KITCHEN. THE ACTIVITY IS TAKING PLACE AT A TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the food"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TAKES THE BOOK AFTER DRINKING FROM THE CUP/GLASS/BOTTLE. SO, THE ANSWER IS D. THE BOOK..",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The dish."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL THROW THE BLANKET ASIDE, AND THIS IS THE NEXT ACTION THEY WILL TAKE WITH IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take"
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE CUP AFTER TIDYING UP THE TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The paper/notebook."
+            },
+            {
+                "predicted": "BASED ON THE VIDEO, IT SEEMS THAT THE PERSON WILL BE TAKING THE BOX. THEREFORE, THE ANSWER TO THE QUESTION IS C.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take the box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BE PICKING UP A TOWEL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Wash the mirror."
+            },
+            {
+                "predicted": "THE PERSON TAKES THE TOWEL AFTER WALKING THROUGH THE DOORWAY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO PAINT THE TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Sit at."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PUT DOWN THE NOTEBOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The picture."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS TAKING A BAG.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The bag"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO THROW THE CLOTHES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Throw the clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS CARRYING A COFFEE MUG AND WOULD PUT IT DOWN NEXT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL TAKE OUT THE BOOK FROM THE BOOKCASE AND THEN PUT IT BACK. SO, THE CORRECT ANSWER OPTION IS A. OPEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "THE PERSON WOULD CLOSE THE LAPTOP AFTER THEY PUT DOWN THE CUP, GLASS, OR BOTTLE. THEREFORE, THE CORRECT ANSWER IS A: THE LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL POUR A DRINK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Sit at the table."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN PUTTING DOWN THE CHAIRS. THEREFORE, THE CORRECT OPTION LETTER TO CHOOSE IS A.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN HANGING UP THE CLOTHES. SO, THE ANSWER TO THE QUESTION IS D.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Throw."
+            },
+            {
+                "predicted": "BASED ON THE GIVEN ANSWER, THE NEXT OBJECT THAT THE PERSON WOULD PUT DOWN IS THE MAGAZINE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS PLANNING TO TAKE A SHOWER. THEREFORE, THE CORRECT ANSWER IS D. DRINK WATER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the towel"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING A SHOE AND IS LIKELY TO TAKE IT OFF NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the shoe."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BE PUTTING DOWN THE GLASS/BOTTLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD SIT AT THE ARMCHAIR AFTER THEY TAKE THE FOOD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The table."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL THROW THE BROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Throw the broom"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO KICK THE SOCCER BALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take the box"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL SIT ON THE BED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Sit on the bed."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN PICKING UP THE BOOKS FROM THE TABLE AND PLACING THEM ON THE CHAIR. THEREFORE, THE ANSWER THAT IS RELEVANT TO THE QUESTION IS C. PUT DOWN THE PAPER/NOTEBOOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the paper/notebook."
+            },
+            {
+                "predicted": "BASED ON THE GIVEN INFORMATION, THE PERSON IN THE VIDEO IS LIKELY TO THROW A TOWEL NEXT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENS A BOX.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD PUT DOWN THE BLANKET AFTER THROWING THE CLOTHES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The phone/camera."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP THE PHONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Take the book"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO OPENS THE DRAWER AFTER CLOSING THE WINDOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PICKS UP THE TOWEL AND CONTINUES DOING SOMETHING WITH IT. THEREFORE, THE ANSWER TO THE QUESTION IS \"A: PUT DOWN THE TOWEL.\"",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the towel."
+            },
+            {
+                "predicted": "THE PERSON SITS AT THE TABLE AND TAKES OFF THEIR SHIRT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PLANS TO LEAVE THE ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Put down the broom."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL WRAP THEMSELVES IN THE BLANKET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP THE PHONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Put down the towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO GOES TO THE CLOSET/CABINET AND THEN GRASPS ONTO THE DOORKNOB. BASED ON THIS ACTION, THE ANSWER OPTION THAT WOULD BE TIDIED UP NEXT IS THE CLOSET/CABINET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD THROW THE BOOK, WHICH IS THE OBJECT MENTIONED IN THE QUESTION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The shoe."
+            },
+            {
+                "predicted": "THE PERSON WALKING THROUGH THE DOORWAY WOULD OPEN THE REFRIGERATOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN PICKING UP A CUP OF COFFEE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the shoe."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD PUT DOWN THE BOX AFTER CLOSING IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP THE PHONE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the blanket"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WALKING OUT OF THE ROOM. THEREFORE, THE ANSWER OPTION LETTER SHOULD BE D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Take the broom"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PICK UP THE KEYS FROM THE COUNTER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Open the refrigerator."
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, THE PERSON IN THE VIDEO IS WEARING A STRIPED SHIRT, SITTING ON THE BED AND HOLDING A CUP. THEREFORE, THE CORRECT ANSWER IS D. TAKE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "BASED ON THE VIDEO, THE PERSON WOULD TIDY UP THE BLANKET NEXT AFTER HOLDING THE CLOTHES. SO, THE ANSWER OPTION LETTER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL ADJUST THE PILLOWS NEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Sit on."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WOULD PUT DOWN THE PHONE/CAMERA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The phone/camera."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL POUR A DRINK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BEGIN PACKING THE BAG. THEREFORE, THE CORRECT ANSWER OPTION LETTER IS A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "THE NEXT THING THAT THE PERSON IN THE VIDEO WOULD TAKE AFTER HOLDING THE CLOTHES IS THE TOWEL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL POUR A DRINK FROM THE JUG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Eat the sandwich."
+            },
+            {
+                "predicted": "THE PERSON SITTING AT THE TABLE WOULD PICK UP THE PEN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PLANS TO PLACE THE MEDICINE BACK IN THE CABINET AFTER TAKING IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Eat."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL BE SEEN ADJUSTING THE HAT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Throw the towel."
+            },
+            {
+                "predicted": "THE PERSON WOULD PUT DOWN THE BOX AFTER OPENING THE CLOSET/CABINET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL ADJUST THE BLINDS NEXT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL CLOSE THE LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Take the bag."
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.0
+    }
+}

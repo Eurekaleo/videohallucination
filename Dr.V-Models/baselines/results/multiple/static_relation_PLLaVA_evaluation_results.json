@@ -1,0 +1,658 @@
+{
+    "static_relation": {
+        "accuracy": 0.7735849056603774,
+        "unmatched_cases": [
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "bench",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "garden fence",
+                "expected_text": "boiler"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "stack of old newspapers",
+                "expected_text": "woman in white"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "wooden bookshelf",
+                "expected_text": "blue plastic film"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "cushion",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "rectangle",
+                "expected_text": "circle"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "red ball",
+                "expected_text": "white man"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "fountain",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "scoreboard",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "bookshelf",
+                "expected_text": "cabinet"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "a small wooden box",
+                "expected_text": "marble"
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "bookshelf",
+                "expected_text": "door"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "swimming pool",
+                "expected_text": "playground"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "plant",
+                "expected_text": "window"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "soap dish",
+                "expected_text": "hand washing box"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "a tall building",
+                "expected_text": "spider man"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "bicycle",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "a brick wall",
+                "expected_text": "iron block"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "bookshelf",
+                "expected_text": "kitchen sink"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "cutting board",
+                "expected_text": "seasoning"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "a snowboard",
+                "expected_text": "ski"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "door",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "scoreboard",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "a large trophy cabinet",
+                "expected_text": "spectator seats"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "a white cat resting near a window",
+                "expected_text": "black hair girl"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "green plant",
+                "expected_text": "yellow bag"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "a fireplace",
+                "expected_text": "glass"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "scoreboard",
+                "expected_text": "stand"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "fireplace",
+                "expected_text": "window"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "kitchen",
+                "expected_text": "living room"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "raincloud forming",
+                "expected_text": "canvas"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "in the middle of a field",
+                "expected_text": "playground"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "wooden platform",
+                "expected_text": "gymnastic mat"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "fence",
+                "expected_text": "enclosure"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "small parking lot",
+                "expected_text": "wood"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "a scoreboard",
+                "expected_text": "spectator seats"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "a small pond",
+                "expected_text": "grassland"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "a large scoreboard",
+                "expected_text": "red baffle"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "kite",
+                "expected_text": "star shaped toy"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "a wooden floor pattern",
+                "expected_text": "inverted reflection in water"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "camera setup",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "curtain",
+                "expected_text": "lamp"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "a bright red flag flapping in the wind",
+                "expected_text": "two little funny birds"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "a rocky cliff",
+                "expected_text": "sandy beach"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "basement",
+                "expected_text": "pool"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "bench",
+                "expected_text": "tool"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "small brick house",
+                "expected_text": "grassland"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "bridge",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "barn",
+                "expected_text": "house"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "gazebo",
+                "expected_text": "telegraph pole"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "painting",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "a bus stop sign",
+                "expected_text": "network"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "bookshelf",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "building",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "patch of moss",
+                "expected_text": "sapling"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "building",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "wooden table",
+                "expected_text": "mat cloth"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "pond",
+                "expected_text": "forest"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "bookshelf",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "bookshelf",
+                "expected_text": "mirror"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "bench",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "rug",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "bench",
+                "expected_text": "wall"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "a large fountain",
+                "expected_text": "personal information"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "sand",
+                "expected_text": "seawater"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "an information kiosk",
+                "expected_text": "surround masses"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "bookshelf",
+                "expected_text": "sofa"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "a series of bright spotlights",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "a wooden bench",
+                "expected_text": "grassland"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "parking lot",
+                "expected_text": "kitchen"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "small pond",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "vase",
+                "expected_text": "bottle"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "a small bench",
+                "expected_text": "trash"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "piano",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "a window",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "A deck chair",
+                "expected_text": "2 people"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "workbench",
+                "expected_text": "grinder machine"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "bookshelf",
+                "expected_text": "table"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "a tree",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "a bicycle",
+                "expected_text": "dog"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "cabin",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "a small fountain",
+                "expected_text": "painted wall"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "lamp post",
+                "expected_text": "drawing board"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "mountain",
+                "expected_text": "cruise"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "a window",
+                "expected_text": "blonde"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "fireplace",
+                "expected_text": "television"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "scoreboard",
+                "expected_text": "audience"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "shoe",
+                "expected_text": "toilet paper"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "green tree",
+                "expected_text": "white woman"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "concrete platform",
+                "expected_text": "bridge frame"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "lifeguard chair",
+                "expected_text": "swimming pool"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "a shop",
+                "expected_text": "billboard"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "wooden barrel",
+                "expected_text": "silverware cadets"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "window",
+                "expected_text": "sofa"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "building",
+                "expected_text": "fountain"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "pathway",
+                "expected_text": "house"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "puddle",
+                "expected_text": "skate"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "bookshelf",
+                "expected_text": "cabinet"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "bookshelf",
+                "expected_text": "glass table"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "triangle",
+                "expected_text": "circle"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "strip of cardboard",
+                "expected_text": "sealing layer"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "large screen",
+                "expected_text": "court"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "bookshelf",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "a stone pathway",
+                "expected_text": "bushes"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "curtain",
+                "expected_text": "mirror"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "mirror reflecting the room",
+                "expected_text": "photo"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "bench",
+                "expected_text": "tree"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "building",
+                "expected_text": "tree"
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.7735849056603774
+    }
+}

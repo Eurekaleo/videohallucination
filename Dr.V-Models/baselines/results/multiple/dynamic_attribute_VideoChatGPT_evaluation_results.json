@@ -1,0 +1,1090 @@
+{
+    "dynamic_attribute": {
+        "accuracy": 0.0,
+        "unmatched_cases": [
+            {
+                "predicted": "THE MAN ABOVE IS JUMPING AT A FASTER SPEED THAN THE MAN BELOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Faster than the man below"
+            },
+            {
+                "predicted": "THE STADIUM IS SHIFTING TO A WARMER HUE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "turning darker"
+            },
+            {
+                "predicted": "THE BALL IS MOVING AT THE SAME SPEED AS THE BALL BELOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "slower than the ball below"
+            },
+            {
+                "predicted": "THE WOMAN ATHLETES ARE RUNNING IN A CIRCLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "from right to left"
+            },
+            {
+                "predicted": "THE JELLYFISH ARE MOVING IN ALL DIRECTIONS, INCLUDING UPWARDS, DOWNWARDS, AND TOWARDS THE SURFACE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sinking downwards"
+            },
+            {
+                "predicted": "THE SPEED OF THE EARTH'S ROTATION COMPARED TO THE SUN IS FASTER THAN THE SUN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Faster than the sun"
+            },
+            {
+                "predicted": "THE LIGHT CONDITION ON THE FOOTBALL PLAYERS IS SHIFTING TO A WARMER HUE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "turning darker"
+            },
+            {
+                "predicted": "THE TENNIS BALL IS ROLLING TOWARDS THE CAMERA.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "bouncing up and down"
+            },
+            {
+                "predicted": "THE NUMBER OF FRUITS AND VEGETABLES IS INCREASING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "increasing"
+            },
+            {
+                "predicted": "THE PERSON ABOVE STARTS DRAWING AT A SLOWER PACE THAN THE PERSON BELOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "slower than the person below"
+            },
+            {
+                "predicted": "THE ICE CRYSTAL IS MELTING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "freezing"
+            },
+            {
+                "predicted": "THE VIDEO IS A TIME-LAPSE OF THE MOUNTAINS, WITH THE MOUNTAINS GRADUALLY CHANGING IN COLOR AND SIZE AS THE SUN SETS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "time-lapse"
+            },
+            {
+                "predicted": "THE WOMAN CLOSEST TO THE CAMERA IS RUNNING AT THE FASTEST SPEED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The fastest speed"
+            },
+            {
+                "predicted": "THE VIDEO IS SET TO FAST-FORWARD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "time-lapse"
+            },
+            {
+                "predicted": "THE JELLYFISH IS MOVING IN A SPIRAL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "floating upwards"
+            },
+            {
+                "predicted": "THE TREE ABOVE IS GROWING AT THE SAME SPEED AS THE TREE BELOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "growing at the same speed as the tree below"
+            },
+            {
+                "predicted": "THE LEAVES ARE CHANGING COLOR FROM GREEN TO RED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "changing color from green to red"
+            },
+            {
+                "predicted": "THE CLOCK HANDS ARE MOVING IN A COUNTERCLOCKWISE DIRECTION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "counterclockwise"
+            },
+            {
+                "predicted": "THE LITTLE LION IS MOVING SIDE-TO-SIDE IN A ZIG-ZAG MOTION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "downward"
+            },
+            {
+                "predicted": "THE DIRECTION OF MOVEMENT IN THE VIDEO IS FORWARD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "moving backward"
+            },
+            {
+                "predicted": "THE LIGHT CONDITION ON THE FOOTBALL PLAYERS IS CHANGING FROM DIM TO BRIGHT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "turning brighter"
+            },
+            {
+                "predicted": "THE FOREST ABOVE IS CHANGING COLOR AT A FASTER PACE THAN THE FOREST BELOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "at the same speed as the forest below"
+            },
+            {
+                "predicted": "THE BRIGHTNESS OF THE VIDEO IS GRADUALLY INCREASING IN BRIGHTNESS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "getting darker"
+            },
+            {
+                "predicted": "THE PERSON IS MOVING IN CIRCLES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "moving leftwards"
+            },
+            {
+                "predicted": "THE PERSON IS MOVING THE CHARGING GUN TOWARDS THE FRONT OF THE CAR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Away from the car"
+            },
+            {
+                "predicted": "THE 3D SHAPES ARE TURNING INTO DISAPPEARING SHAPES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "turning into cubes"
+            },
+            {
+                "predicted": "THE SPEED OF THE ENTIRE VIDEO IS TIME-LAPSE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "time-lapse"
+            },
+            {
+                "predicted": "THE CAMERA ZOOMS RAPIDLY TOWARDS AND THEN AWAY FROM A 3D DIGITAL BRAIN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Zoom out from a 3D digital brain"
+            },
+            {
+                "predicted": "THE GALAXY IS SPINNING TOWARDS THE CORE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "counterclockwise"
+            },
+            {
+                "predicted": "THE EARTH'S MOTION AROUND THE SUN IS COUNTER-CLOCKWISE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Counter-clockwise"
+            },
+            {
+                "predicted": "THE DIRECTION OF THE MOVEMENT IN THE VIDEO IS UPWARDS AMONG SKYSCRAPER BUILDINGS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "upwards among skyscraper buildings"
+            },
+            {
+                "predicted": "THE APPLE IS TURNING RED AND RIPE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "shrinking and drying out"
+            },
+            {
+                "predicted": "THE PERSON ABOVE IS CLIMBING WITH MORE AGILITY BUT AT THE SAME SPEED AS THE PERSON BELOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Climbing faster than the person below"
+            },
+            {
+                "predicted": "THE WAVE ABOVE IS MOVING AT THE SAME SPEED AS THE WAVE BELOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Moving at the same speed as the wave below"
+            },
+            {
+                "predicted": "THE FOREST ABOVE IS TURNING INTO AUTUMN FOLIAGE WHILE THE BELOW STAYS THE SAME.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "slower than the forest below"
+            },
+            {
+                "predicted": "THE TWO PEOPLE ABOVE ARE LIFTING THE KETTLEBELL AT THE SAME SPEED AS THE TWO PEOPLE BELOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "at the same speed as the two people below"
+            },
+            {
+                "predicted": "THE PAPER IS CHANGING FROM A WRINKLED PAPER BALL INTO A FLATTENED SHEET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "changing from a wrinkled paper ball into a flattened sheet"
+            },
+            {
+                "predicted": "THE FLOWERS ARE TURNING FROM FULL BLOOM INTO BUDS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "turning into buds"
+            },
+            {
+                "predicted": "THE VIDEO HAS A GRADUAL SPEED INCREASE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "normal speed"
+            },
+            {
+                "predicted": "THE 3D HOUSE MODEL IS BEING ROTATED SLOWLY TO REVEAL ALL SIDES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "being constructed"
+            },
+            {
+                "predicted": "THE WOMAN ABOVE IS DOING PUSH UPS AT A FASTER SPEED THAN THE WOMAN BELOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "faster than the woman below"
+            },
+            {
+                "predicted": "THE LARGE WAVE IS MOVING DIAGONALLY CLOCKWISE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "moving vertically towards the top of the screen"
+            },
+            {
+                "predicted": "THE BASKETBALL IS MOVING IN A STRAIGHT LINE FROM TOP TO BOTTOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "in a parabola from left to right"
+            },
+            {
+                "predicted": "THE TERM THAT BEST DESCRIBES THE TRANSFORMATION HAPPENING TO THE SNOW PARTICLES IS \"EVAPORATING.\"",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "solidifying"
+            },
+            {
+                "predicted": "THE DIRECTION OF MOVEMENT IN THE VIDEO IS FORWARD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "moving forward"
+            },
+            {
+                "predicted": "THE WHITE CIRCLE ABOVE IS ROTATING AT THE SAME SPEED AS THE WHITE CIRCLE BELOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "rotating at the same speed as the white circle below"
+            },
+            {
+                "predicted": "THE TWO ROWS OF DUCK TOYS ARE MOVING IN OPPOSITE DIRECTIONS ON A CONVEYOR BELT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "moving in opposite directions on a conveyor belt"
+            },
+            {
+                "predicted": "THE BATTERY CHARGE ABOVE IS DECREASING AT A FASTER SPEED THAN THE BATTERY CHARGE BELOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "increasing at a faster speed than the battery charge below"
+            },
+            {
+                "predicted": "THE SPEED OF THE EARTH ABOVE IS FASTER THAN THE EARTH BELOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "faster than the earth below"
+            },
+            {
+                "predicted": "THE CONCRETE WALL IS CRUMBLING SLOWLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "assembling together"
+            },
+            {
+                "predicted": "THE PUPPY IS WALKING INTO A WIGWAM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "walking into a wigwam"
+            },
+            {
+                "predicted": "THE SUN IS RISING FASTER THAN THE SUN BELOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "rising slower than the sun below"
+            },
+            {
+                "predicted": "THE SUN IS MOVING IN THE DIRECTION OF THE RIGHT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "setting"
+            },
+            {
+                "predicted": "THE BALL ABOVE IS ROTATING AT THE SAME SPEED AS THE BALL BELOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "faster than the ball below"
+            },
+            {
+                "predicted": "THE VIDEO IS SPINNING SLOWLY CLOCKWISE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "zooming in"
+            },
+            {
+                "predicted": "THE CAMERA IS MOVING IN A COUNTERCLOCKWISE DIRECTION WITH INCREASING SPEED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "clockwise"
+            },
+            {
+                "predicted": "B: TROTTING LEISURELY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "slow motion"
+            },
+            {
+                "predicted": "THE ICE CREAM IS MELTING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "melting"
+            },
+            {
+                "predicted": "THE GIRL IS RUNNING AT THE SAME SPEED AS THE GIRL BELOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "running at the same speed as the girl below"
+            },
+            {
+                "predicted": "THE GLASS IS BEING FILLED WITH WATER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "It is going from empty to full of water"
+            },
+            {
+                "predicted": "THE CAMERA IS PANNING TO THE SIDE OF THE FIGHTER JET, MAKING IT APPEAR TO MOVE SIDEWAYS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "panning to the front of a fighter jet"
+            },
+            {
+                "predicted": "THE PANNING IN THE VIDEO IS A CIRCULAR MOTION INCREASING SPEED TOWARDS THE RIGHT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "left to right"
+            },
+            {
+                "predicted": "THE SPEED OF THE EARTH ABOVE APPEARS TO BE FASTER THAN THE EARTH BELOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "rotates at the same speed as the earth below"
+            },
+            {
+                "predicted": "THE PEOPLE ARE SKATING TOWARDS THE CAMERA.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "towards the camera"
+            },
+            {
+                "predicted": "THE ROBOT VACUUM CLEANER IS MOVING IN A CIRCULAR PATH ON THE FLOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "to the right side of the screen"
+            },
+            {
+                "predicted": "THE PERSON IS MOVING UPWARDS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "downwards"
+            },
+            {
+                "predicted": "THE WHITE CIRCLE ABOVE IS DECELERATING COMPARED TO THE WHITE CIRCLE BELOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "faster than the white circle below"
+            },
+            {
+                "predicted": "THE 3D CLOUD IS MOVING UPWARD SLOWLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "leftward"
+            },
+            {
+                "predicted": "THE VIDEO IS A TIME-LAPSE OF A FLOWER OPENING AND CLOSING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "time-lapse"
+            },
+            {
+                "predicted": "THE BATTERY CHARGE IS INCREASING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "increasing"
+            },
+            {
+                "predicted": "THE NUMBER OF FRUITS AND VEGETABLES IS INCREASING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "decreasing"
+            },
+            {
+                "predicted": "THE CLOCK HANDS ARE MOVING IN A COUNTERCLOCKWISE DIRECTION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "clockwise"
+            },
+            {
+                "predicted": "THE ICE CREAM IS MELTING INTO SYRUP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "solidifying"
+            },
+            {
+                "predicted": "THE CIRCULAR PATTERN IS MOVING CLOCKWISE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "clockwise"
+            },
+            {
+                "predicted": "THE GLACIER IS MELTING AND STEADILY FLOATING UPWARDS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "breaking and falling in water"
+            },
+            {
+                "predicted": "THE EARTH ABOVE ROTATES WITH SLIGHT VARIATION IN SPEED COMPARED TO THE EARTH BELOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "slower than the earth below"
+            },
+            {
+                "predicted": "THE PLANT IS BLOOMING INTO FLOWERS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "reviving"
+            },
+            {
+                "predicted": "THE TRAFFIC LIGHTS ARE CHANGING FROM RED TO GREEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "From red to green"
+            },
+            {
+                "predicted": "THE VIDEO IS SET TO FAST FORWARD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "normal speed"
+            },
+            {
+                "predicted": "THE CAMERA VIEW IS GRADUALLY TILTING LEFT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "moving backward"
+            },
+            {
+                "predicted": "THE SPEED OF THE CONVEYOR BELT IS REVERSING DIRECTION QUICKLY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "normal speed"
+            },
+            {
+                "predicted": "THE DOLPHINS ARE SWIMMING IN CIRCLES NEAR THE SHORE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "swimming away from the shore"
+            },
+            {
+                "predicted": "THE WAVE ABOVE IS MOVING FASTER THAN THE WAVE BELOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Moving slower than the wave below"
+            },
+            {
+                "predicted": "THE PUPPY IS DIGGING A HOLE IN FRONT OF A WIGWAM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "walking out of a wigwam"
+            },
+            {
+                "predicted": "THE WAVE ABOVE IS MOVING AT THE SAME SPEED AS THE WAVE BELOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Moving faster than the wave below"
+            },
+            {
+                "predicted": "THE SPEED OF THE VIDEO IS PROGRESSIVELY SLOWING DOWN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "normal speed"
+            },
+            {
+                "predicted": "THE SUN IS RISING AT THE SAME SPEED AS THE SUN BELOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "rising at the same speed as the sun below"
+            },
+            {
+                "predicted": "THE CHEF IS PLACING THE BREAD ON TOP OF THE BURGER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "putting it on top of the burger"
+            },
+            {
+                "predicted": "THE TREE IS SWAYING GENTLY IN THE WIND.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "increasing height"
+            },
+            {
+                "predicted": "THE MAN ABOVE IS JUMPING ROPE FASTER THAN THE MAN BELOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "jumping rope faster"
+            },
+            {
+                "predicted": "THE SPEED OF THE ENTIRE VIDEO IS FAST FORWARD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "normal speed"
+            },
+            {
+                "predicted": "THE VIDEO IS SET TO FAST FORWARD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "slow motion"
+            },
+            {
+                "predicted": "THE GALAXY IS SPINNING INWARD IN A SPIRAL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "clockwise"
+            },
+            {
+                "predicted": "THE VIDEO IS FADING GRADUALLY INTO WARM HUES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "getting darker"
+            },
+            {
+                "predicted": "THE LIGHT IS GROWING IN THE DIRECTION OF THE CAMERA.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Clockwise"
+            },
+            {
+                "predicted": "THE GLACIER IS MELTING INTO STREAMS OF WATER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "assembling and rising from water"
+            },
+            {
+                "predicted": "THE PERSON ABOVE STARTS AT A FASTER SPEED BUT GRADUALLY BECOMES SLOWER THAN THE PERSON BELOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "faster than the person below"
+            },
+            {
+                "predicted": "THE CAMERA IS ZOOMING UPWARD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "zooming backward"
+            },
+            {
+                "predicted": "THE SPEED OF THE VIDEO IS TIME-LAPSE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "time-lapse"
+            },
+            {
+                "predicted": "THE SKYSCRAPER IS SINKING INTO THE GROUND.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "growing taller"
+            },
+            {
+                "predicted": "THE INSECT IS TRANSFORMING FROM A COCOON INTO A BUTTERFLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "transforming from butterfly into pupa"
+            },
+            {
+                "predicted": "THE CAMERA MOTION IS COUNTERCLOCKWISE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "counterclockwise"
+            },
+            {
+                "predicted": "THE PACE OF THE VIDEO IS DESCRIBED AS TWICE THE NORMAL SPEED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "normal speed"
+            },
+            {
+                "predicted": "THE EYE IS BEING EXAMINED BY A DOCTOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "from closed to open"
+            },
+            {
+                "predicted": "THE BATTERY CHARGE IS FLUCTUATING INTERMITTENTLY AT THE SAME RATE AS THE BATTERY CHARGE BELOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "increasing at a slower speed than the battery charge below"
+            },
+            {
+                "predicted": "THE SPHERE BUILDING IS CHANGING FROM GREEN TO YELLOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "It is changing from green to blue."
+            },
+            {
+                "predicted": "THE TREE ABOVE IS GROWING FASTER THAN THE TREE BELOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "growing faster than the tree below"
+            },
+            {
+                "predicted": "THE SUN IS RISING DRAMATICALLY SLOWER THAN THE SUN BELOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "rising faster than the sun below"
+            },
+            {
+                "predicted": "THE ZEBRAS ARE MOVING FROM RIGHT TO CENTER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "from left to right"
+            },
+            {
+                "predicted": "THE VIDEO IS SHOWN IN SLOW MOTION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "normal speed"
+            },
+            {
+                "predicted": "THE ROOM IS GRADUALLY FILLING WITH LIGHT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "turning darker"
+            },
+            {
+                "predicted": "THE AIRPLANE IS FLYING IN A CIRCULAR MOTION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "top to bottom"
+            },
+            {
+                "predicted": "THE LIGHT BULB IS SLOWLY CHANGING TO A WARM HUE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "turning off"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A PANNING DOWNWARDS TO A SPORTS BANNER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Zooming into three football players"
+            },
+            {
+                "predicted": "THE FACE IS BEING TRANSFORMED INTO THAT OF A CHIMPANZEE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Morphing from a human into a chimpanzee"
+            },
+            {
+                "predicted": "THE PINK LIQUID IS BEING POURED INTO A GLASS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "White foam appears on the surface"
+            },
+            {
+                "predicted": "THE VIDEO IS PANNING TO THE RIGHT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "To the right"
+            },
+            {
+                "predicted": "THE TRAFFIC LIGHTS ARE CHANGING FROM RED TO YELLOW AND THEN BACK TO RED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "From green to red"
+            },
+            {
+                "predicted": "THE ASTEROIDS ARE FLYING IN SPIRALS TO THE LEFT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "flying towards the camera"
+            },
+            {
+                "predicted": "THE SPEED OF THE VIDEO IS GRADUAL SLOW DOWN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "normal speed"
+            },
+            {
+                "predicted": "THE VIDEO'S BRIGHTNESS IS FADING INTO TWILIGHT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "turning brighter"
+            },
+            {
+                "predicted": "THE BOAT ON THE TOP OF THE SCREEN IS TRAVELING AT THE SAME SPEED AS THE BOAT ON THE BOTTOM OF THE SCREEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "travels at the same speed as the boat on the bottom of the screen"
+            },
+            {
+                "predicted": "THE CAR IS MOVING AT THE SAME SPEED AS THE CAMERA, THEN ACCELERATING BACKWARD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "faster than the camera"
+            },
+            {
+                "predicted": "THE MAN ABOVE IS JUMPING ROPE AT A FASTER SPEED THAN THE MAN BELOW, WHO IS JUMPING ROPE AT A SLOWER SPEED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "jumping rope at the same speed"
+            },
+            {
+                "predicted": "THE 3D HOUSE MODEL IS BEING EXPANDED TO DOUBLE ITS SIZE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "being demolished"
+            },
+            {
+                "predicted": "THE SPEED OF THE VIDEO IS SET TO REVERSE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "slow motion"
+            },
+            {
+                "predicted": "THE SPORT STADIUM IS GRADUALLY CHANGING TO A WARM HUE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "turning brighter"
+            },
+            {
+                "predicted": "THE MOVEMENT IN THE VIDEO IS UPWARDS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "upwards"
+            },
+            {
+                "predicted": "THE CLOSEST ROBOTIC ARM IS MOVING FROM THE CAMERA'S POINT OF VIEW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "To the left side of the screen"
+            },
+            {
+                "predicted": "THE CORONAVIRUS IS REPLICATING FASTER THAN BEFORE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "dissolving under the attack of antibodies"
+            },
+            {
+                "predicted": "THE FLOWERS IN THE IMAGE ARE OPENING UP INTO BLOOMS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "turning into full bloom"
+            },
+            {
+                "predicted": "THE CLOSEST ROBOTIC ARM IS MOVING UPWARDS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "To the right side of the screen"
+            },
+            {
+                "predicted": "THE TREE IS SHEDDING ITS LEAVES AS THE VIDEO PLAYS IN REVERSE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "decreasing height"
+            },
+            {
+                "predicted": "THE PILE OF SALT ABOVE IS GROWING AT THE SAME SPEED AS THE PILE OF SALT BELOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "growing at the same speed as the pile of salt below"
+            },
+            {
+                "predicted": "THE TREE ABOVE IS GROWING AT A SPEED INITIALLY SLOWER BUT THEN ACCELERATING TO MATCH THE TREE BELOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "growing slower than the tree below"
+            },
+            {
+                "predicted": "THE PERSON ABOVE IS CLIMBING AT A FASTER SPEED THAN THE PERSON BELOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Climbing slower than the person below"
+            },
+            {
+                "predicted": "THE VIDEO IS PLAYING IN SLOW MOTION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "in slow motion"
+            },
+            {
+                "predicted": "THE ICE CREAM ABOVE IS MELTING AT AN ACCELERATING RATE COMPARED TO THE ICE CREAM BELOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "melting slower than the ice cream below"
+            },
+            {
+                "predicted": "THE PIZZA DOUGH IS ROTATING IN A SPIRAL PATTERN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "counter-clockwise"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A PERSON PICKING UP A PINEAPPLE FROM THE GROUND.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "A person picks up the pineapple"
+            },
+            {
+                "predicted": "THE CAMERA VIEW IS MOVING FORWARD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "moving forward"
+            },
+            {
+                "predicted": "THE MAN ABOVE IS JUMPING AT A SLOWER SPEED THAN THE MAN BELOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Slower than the man below"
+            },
+            {
+                "predicted": "THE SUN IS MOVING DIAGONALLY ACROSS THE SKY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "ascending"
+            },
+            {
+                "predicted": "THE SKY'S APPEARANCE CHANGES FROM DARKENING TO A SUNSET HUE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "lightening up"
+            },
+            {
+                "predicted": "THE SKYSCRAPER IS EXPANDING HORIZONTALLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "collapsing"
+            },
+            {
+                "predicted": "THE ARMORED VEHICLES ARE MOVING AT A CONSTANT SPEED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Slowly"
+            },
+            {
+                "predicted": "THE PINK FLOWERS ARE WILTING AND TURNING FROM WITHERED TO FULL BLOSSOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "turning from withered to full blossom"
+            },
+            {
+                "predicted": "THE AIRPLANE IS FLYING FROM BOTTOM TO TOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bottom to top"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A 3D DIGITAL BRAIN FLOATING IN THE AIR, AND THE CAMERA ZOOMS IN AND OUT OF IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Zoom into a 3D digital brain"
+            },
+            {
+                "predicted": "THE TRAINS ARE MOVING TOWARDS EACH OTHER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "away from each other"
+            },
+            {
+                "predicted": "THE VIDEO APPEARS TO BE IN A SLOW MOTION.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "in a slow motion"
+            },
+            {
+                "predicted": "THE INSECT IS EMERGING FROM THE CHRYSALIS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "transforming from pupa into butterfly"
+            },
+            {
+                "predicted": "THE VIDEO IS SET TO A DYNAMIC REVERSE EFFECT, WHICH MEANS THAT THE VIDEO IS PLAYED IN REVERSE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "normal speed"
+            },
+            {
+                "predicted": "THE ICE CREAM ABOVE IS MELTING FASTER THAN THE ICE CREAM BELOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "melting faster than the ice cream below"
+            },
+            {
+                "predicted": "THE FOOTBALL IN THE VIDEO IS MOVING FROM LEFT TO RIGHT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "moving from left to right"
+            },
+            {
+                "predicted": "THE CAMERA IS PERFORMING A PANNING UP MOTION IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "panning to the right"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A CAMERA MOTION OF A PERSON ZOOMING RAPIDLY TOWARDS THE FOOTBALL PLAYERS AS IF HIGHLIGHTING ACTION.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Zooming out from three football palyers"
+            },
+            {
+                "predicted": "THE LARGE WAVE IS MOVING DIAGONALLY TOWARDS THE TOP-RIGHT CORNER OF THE SCREEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "moving vertically towards the bottom of the screen"
+            },
+            {
+                "predicted": "THE PERSON IS MOVING THE CHARGING GUN TOWARDS THE SKY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Towards the car"
+            },
+            {
+                "predicted": "THE BALL ABOVE IS MOVING AT THE SAME SPEED AS THE BALL BELOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "moving at the same speed as the ball below"
+            },
+            {
+                "predicted": "THE ICE CREAM ABOVE IS MELTING AT A SLOWER PACE THAN THE ICE CREAM BELOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "melting at the same speed as the ice cream below"
+            },
+            {
+                "predicted": "THE PAPER IS BEING TRANSFORMED INTO A FLUTTERING SHREDDED PILE FROM A SMOOTH SHEET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "changing from a flattened sheet into a wrinkled paper ball"
+            },
+            {
+                "predicted": "THE DOOR IS SWINGING WIDE OPEN QUICKLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "closing"
+            },
+            {
+                "predicted": "THE MAN IS LEAPING TO THE CAMERA'S RIGHT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to his right"
+            },
+            {
+                "predicted": "THE CHILD IS FACING AWAY FROM THE MAN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Turning towards the man"
+            },
+            {
+                "predicted": "THE GIRL ABOVE IS RUNNING AT A SPRINT WHILE THE GIRL BELOW IS JOGGING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "running faster than the girl below"
+            },
+            {
+                "predicted": "THE PLANET EARTH IS SPINNING IN THE DIRECTION OF RIGHTWARDS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Rightwards"
+            },
+            {
+                "predicted": "THE WIND TURBINES ARE MOVING IN A COUNTERCLOCKWISE DIRECTION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Rotating counterclockwise"
+            },
+            {
+                "predicted": "THE CAMERA MOVEMENT IN THE VIDEO IS A COMBINATION OF PANNING UP AND DOWN AROUND THE GIRL AND SMOOTHLY ZOOMING IN AND OUT RAPIDLY AROUND HER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "panning up and down around the girl"
+            },
+            {
+                "predicted": "THE VIDEO IS SET TO A FAST SPEED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "normal speed"
+            },
+            {
+                "predicted": "THE PILE OF SALT ABOVE IS GROWING AT A FASTER SPEED THAN THE PILE OF SALT BELOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "growing at a faster speed than the pile of salt below"
+            },
+            {
+                "predicted": "THE TRAINS ARE MOVING IN PARALLEL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "towards each other"
+            },
+            {
+                "predicted": "THE ICE CRYSTAL IS MELTING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "melting"
+            },
+            {
+                "predicted": "THE WOMAN ABOVE IS DOING PUSH UPS SLOWER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "two women doing push ups at the same speed"
+            },
+            {
+                "predicted": "THE SPEED OF THE VIDEO IS GRADUALLY INCREASING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "time-lapse"
+            },
+            {
+                "predicted": "THE DIRECTION OF THE PANNING IN THE VIDEO IS DOWNWARDS IN A RAPID MOTION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "right to left"
+            },
+            {
+                "predicted": "THE 3D HEART IS CHANGING COLOR SLOWLY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "gradually disappearing"
+            },
+            {
+                "predicted": "THE TEMPO OF THE VIDEO IS GRADUAL BUILD-UP IN SPEED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "slow motion"
+            },
+            {
+                "predicted": "THE VIDEO IS FADING TO DARKNESS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "turning brighter"
+            },
+            {
+                "predicted": "THE PERSON ABOVE IS CLIMBING AT A FASTER PACE THAN THE PERSON BELOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Climbing at the same speed as the person below"
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.0
+    }
+}

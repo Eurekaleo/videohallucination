@@ -1,0 +1,1132 @@
+{
+    "ocr": {
+        "accuracy": 0.37666666666666665,
+        "unmatched_cases": [
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "fir",
+                "expected_text": "for"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "124.99",
+                "expected_text": "134.99"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Worlds 2012",
+                "expected_text": "Worlds 2021"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Ouma Sangria Tee",
+                "expected_text": "Omua Sangria Tea"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "ropc",
+                "expected_text": "ropz"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "5.49",
+                "expected_text": "4.95"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "17",
+                "expected_text": "16"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "BANANA",
+                "expected_text": "DURIAN"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "EXIT OMLY",
+                "expected_text": "EXIT ONLY"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "8",
+                "expected_text": "0"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "$159.98",
+                "expected_text": "$149.98"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "KANFIB",
+                "expected_text": "KONFIG"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Drinking hydroelectric chlorine or determent",
+                "expected_text": "Drinking hydroxychloroquine or detergent"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "NIGHTY NEWZ",
+                "expected_text": "NIGHTLY NEWS"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "7",
+                "expected_text": "4"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "VSCOcom",
+                "expected_text": "VSCOcam"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "5",
+                "expected_text": "6"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "$310",
+                "expected_text": "$3100"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "62",
+                "expected_text": "26"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "HEADWEAR",
+                "expected_text": "HARDWEAR"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "896 1100",
+                "expected_text": "865 1010"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Prebator",
+                "expected_text": "Predator"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Membor's Mork",
+                "expected_text": "Member's Mark"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "88%",
+                "expected_text": "83%"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "SHEET CL0SED",
+                "expected_text": "STREET CLOSED"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Sun Francisco",
+                "expected_text": "San Francisco"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "FORDUNE",
+                "expected_text": "FORTUNE"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "8",
+                "expected_text": "0"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "PROTO ENFORCED",
+                "expected_text": "PHOTO ENFORCED"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "7.79",
+                "expected_text": "7.49"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "516.817.8872",
+                "expected_text": "516.817.8879"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Airpot Exit VIO",
+                "expected_text": "Airport Exit VIA"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "49",
+                "expected_text": "40"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "106",
+                "expected_text": "160"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "DR SnowMaker",
+                "expected_text": "DK ShowMaker"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "$3950",
+                "expected_text": "$3850"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "KINLEDS",
+                "expected_text": "KINDES"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Links Previsioned Belief",
+                "expected_text": "Links Provided Below"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Bright",
+                "expected_text": "Right"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "33",
+                "expected_text": "23"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Az1Le",
+                "expected_text": "Ax1Le"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Grend Central Pkwy East",
+                "expected_text": "Grand Central Pkwy East"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "CLODDED BAN",
+                "expected_text": "COFFER BAR"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "beaitiful",
+                "expected_text": "beautiful"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Yes (ADK of gla1ve)",
+                "expected_text": "No"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "SCHGO",
+                "expected_text": "SCHOOL"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Pinl",
+                "expected_text": "Pink"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Watelog",
+                "expected_text": "Waterlogue"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Van Wyck Expwy, Whitmore Dr Brox",
+                "expected_text": "Van Wyck Expwy, Whitestone Br Bronx"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "try tv",
+                "expected_text": "tru tv"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "70",
+                "expected_text": "50"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "gla8ve",
+                "expected_text": "gla1ve"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "REVONS PLE GRAND",
+                "expected_text": "REVONS PLUS GRAND"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Holbit",
+                "expected_text": "Hobbit"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "60",
+                "expected_text": "80"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "HONIE",
+                "expected_text": "HOME"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Spot 6",
+                "expected_text": "Shot 6"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Chelsea & Munchester City",
+                "expected_text": "Chelsea & anchester City"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "718.975.0405",
+                "expected_text": "718.974.0505"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "FLONDER",
+                "expected_text": "FLANDRE"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "$5,050",
+                "expected_text": "$5,000"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "bat",
+                "expected_text": "be"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "030125",
+                "expected_text": "020125"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Gundor",
+                "expected_text": "Gundo"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "DEER, PINE & SPIRITS",
+                "expected_text": "BEER, WINE & SPIRITS"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "8:00am",
+                "expected_text": "7:00am"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Deflt",
+                "expected_text": "Delft"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "TRADE IN BANGLADESH",
+                "expected_text": "MADE IN BANGLADESH"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "JIEJEE",
+                "expected_text": "JIEJIE"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "BYP4SS",
+                "expected_text": "BYPASS"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "17.04.20",
+                "expected_text": "17.04.21"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "FI7E STAR BUS GROUP",
+                "expected_text": "FIVE STAR SCHOOL BUS LLC"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "2",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Plague",
+                "expected_text": "Playue"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Deansgart St Peter's Square",
+                "expected_text": "Deansgate St Peter's Square"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "B\u00c1RU SHOP",
+                "expected_text": "B\u00c1HN SHOP"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "1595.98",
+                "expected_text": "1559.98"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Motivation dark",
+                "expected_text": "Motivation ark"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "1",
+                "expected_text": "7"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "76 Ave, Queens Pl, Right Lane",
+                "expected_text": "78 Ave, Queens Blvd, Right Lane"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "ARNOID",
+                "expected_text": "ARNOLD"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "CORANAVIRUS",
+                "expected_text": "CORONAVIRUS"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Terninal",
+                "expected_text": "Terminal"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "NO PARKING",
+                "expected_text": "NO U-TURN"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "CAY",
+                "expected_text": "ACK"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "\u00a33.80",
+                "expected_text": "\u00a33.30"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "CALBONE",
+                "expected_text": "CARBONE"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Soup",
+                "expected_text": "Stop"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "cava cafe",
+                "expected_text": "cava"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "airstream",
+                "expected_text": "air stream"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "two way",
+                "expected_text": "one way"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "cvs express",
+                "expected_text": "cvs"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "liquor store",
+                "expected_text": "liquors"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "17",
+                "expected_text": "15 mph"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "keep",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The Sequo",
+                "expected_text": "sequoias"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "black",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "42 ave",
+                "expected_text": "35 ave"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "straight",
+                "expected_text": "right"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "35 Ave",
+                "expected_text": "dead end"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "stop sign",
+                "expected_text": "stop ahead"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "honda",
+                "expected_text": "nissan"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "1.5 miles",
+                "expected_text": "1 mile"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "25",
+                "expected_text": "30"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "hartford ct",
+                "expected_text": "new haven ct"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "webster street",
+                "expected_text": "webster ave"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "construction zone ahead",
+                "expected_text": "road work ahead"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "straight",
+                "expected_text": "right"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "depot",
+                "expected_text": "643"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "exit 24a",
+                "expected_text": "exit 24b"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "24",
+                "expected_text": "25"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "francis lewis avenue",
+                "expected_text": "francis lewis blvd"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "merrick avenue",
+                "expected_text": "merrick blvd"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "dry",
+                "expected_text": "bus"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "15",
+                "expected_text": "20"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "25",
+                "expected_text": "20"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "212 660 7726",
+                "expected_text": "212 660 7725"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "webster avenue",
+                "expected_text": "webster av"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "one way",
+                "expected_text": "stop"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "yes",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "left",
+                "expected_text": "right"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "left",
+                "expected_text": "right"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "718-640-5655",
+                "expected_text": "718-975-0655"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "D'Minelys",
+                "expected_text": "laundromat"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "649-4325",
+                "expected_text": "649-4324"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "right",
+                "expected_text": "south"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "gold",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "15 mph",
+                "expected_text": "30 mph"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "exit 22",
+                "expected_text": "23"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "right",
+                "expected_text": "left"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "yes",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "right turn is allowed",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "no, they must turn",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "1-800-573-2000",
+                "expected_text": "1-800-573-2008"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "www.nuzzice.net",
+                "expected_text": "www.nuzzice.com"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "left",
+                "expected_text": "right"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "deli market",
+                "expected_text": "deli grocery"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "ups",
+                "expected_text": "fedex"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "clearance",
+                "expected_text": "one way"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "straight",
+                "expected_text": "right"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "6",
+                "expected_text": "7"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "716",
+                "expected_text": "30"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "718-277",
+                "expected_text": "718-277-8300"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "super clean laundry",
+                "expected_text": "super laundromat"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "5",
+                "expected_text": "7"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "yes",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "gray",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "right",
+                "expected_text": "left"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "proceed",
+                "expected_text": "stop"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "bank",
+                "expected_text": "mattress firm"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "community bank",
+                "expected_text": "amalgamated bank"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "20",
+                "expected_text": "25"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "yes",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "right",
+                "expected_text": "left"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "ahead",
+                "expected_text": "school"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "collado tire store",
+                "expected_text": "collado tire shop"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "AHEAD",
+                "expected_text": "school"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "yes",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "saturday",
+                "expected_text": "sunday"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "yes",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "exit 15",
+                "expected_text": "exit 16"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "e 116 st",
+                "expected_text": "e 106 st"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "left",
+                "expected_text": "right"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "left",
+                "expected_text": "right"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "canopy",
+                "expected_text": "canal"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "latex rubber",
+                "expected_text": "foam rubber"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "ROYAL",
+                "expected_text": "greene st"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "yes",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "no",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "royal",
+                "expected_text": "canal"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "left",
+                "expected_text": "right"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "510-842-3240",
+                "expected_text": "510-842-3241"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "left",
+                "expected_text": "right"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "31",
+                "expected_text": "32"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "SFO",
+                "expected_text": "airport"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "yes",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "one way",
+                "expected_text": "keep intersection clear"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "exit 11",
+                "expected_text": "12"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "97",
+                "expected_text": "95"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "55 mph",
+                "expected_text": "40"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "yes",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "only",
+                "expected_text": "passenger cars"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "cross is parkway",
+                "expected_text": "cross is pkwy"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "yes",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "west",
+                "expected_text": "detour"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "straight",
+                "expected_text": "right"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "yes",
+                "expected_text": "no"
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.37666666666666665
+    }
+}

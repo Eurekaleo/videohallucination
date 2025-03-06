@@ -1,0 +1,730 @@
+{
+    "sequence": {
+        "accuracy": 0.0,
+        "unmatched_cases": [
+            {
+                "predicted": "THE WOMAN IN THE VIDEO SHOOK THE PAN BEFORE POURING THE EGG MIXTURE INTO IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Crack eggs into a clear bowl and mixing them."
+            },
+            {
+                "predicted": "THE ANSWER IS D. EGG IN A BOWL -> STIR -> PUT ON PLATE -> POUR INTO PAN -> EGG IN A PAN -> EAT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Egg in a bowl -> Stir -> Egg in a pan -> Pour into pan -> Put on plate -> Eat"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D: PLATES ARE SHOWN WITH A PIECE OF BREAD WHILE BACON IS COOKING ON A GRILL..",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Plates are shown with a piece of bread while bacon is cooking on a grill."
+            },
+            {
+                "predicted": "THE SEQUENCE OF EVENTS IN THE VIDEO IS BREADING \u2192 COOKING \u2192 PLATING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Dipping \u2192 Breading \u2192 Cooking \u2192 Plating"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) THE MAN SHOWS THE RAW MEAT, THEN MIXES IT WITH OTHER INGREDIENTS TO MAKE HAMBURGER PATTIES BEFORE COOKING THEM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The man shows the raw meat, then mixes it with other ingredients to make hamburger patties before cooking them and serving them on a bun with toppings."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO, IT'S THE COOKING METHOD MENTIONED IN THE QUESTION. IT IS POSSIBLE TO USE A BLENDER TO MAKE THE SOUP, BUT IT IS NOT THE ORDER OF EVENTS SHOWN IN THE VIDEO. THEREFORE, THE CORRECT ANSWER IS D. THE WOMAN POURS THE SOUP INTO THE BLACK POT WITHOUT MIXING IT WITH THE OTHER INGREDIENTS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The woman mixes the soup with the other ingredients before pouring them into the black pot."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS C: HE PUTS THE INGREDIENTS INTO THE MIXING BOWL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "He mixes the onions with crumbs in the bowl"
+            },
+            {
+                "predicted": "THE MAN ADDS THE INGREDIENTS NEEDED TO MAKE FRIED CHICKEN AND THEN PROCEEDS TO COOK THE CHICKEN WINGS IN A WOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The man adds the ingredients needed to make fried chicken"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (C) ASIAN WOMAN STANDING IN FRONT OF A KITCHEN COUNTER, MIXING INGREDIENTS IN A BOWL, AND THEN COOKING MEAT IN A POT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Asian woman standing in front of a kitchen counter, mixing ingredients in a bowl, and then cooking meat in a pot."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (B) MARINATING MEAT -> FOOD PICTURES -> COOKING ON GRILL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Food pictures -> Marinating meat -> Cooking on grill"
+            },
+            {
+                "predicted": "THE ANSWER IS D. MARINATING MEAT -> MIXING INGREDIENTS -> COOKING FOOD -> SERVING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Mixing ingredients -> marinating meat -> cooking food -> serving"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (D): SSEMBLING SANDWICH -> MIXING INGREDIENTS -> GRILLING MEAT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Mixing ingredients -> Grilling meat -> Assembling sandwich"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A PERSON CUTTING UP FOOD FIRST, FOLLOWED BY A WOMAN AND A MAN STANDING BEHIND A COUNTER, AND THEN A CLOSE-UP OF THE FINISHED DISH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "A woman and a man standing behind a counter, then a person cutting up food, and put the it in a cup"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A SEQUENCE OF EVENTS WHERE BREAD CRUMBS ARE ADDED TO A BOWL, MEAT IS MIXED WITH OTHER INGREDIENTS, KETCHUP IS POURED OVER THE MEATLOAF, OIL IS POURED INTO A PAN, ONIONS ARE COOKED, AND BREAD CRUMBS ARE ADDED TO A BOWL. THEREFORE, THE ANSWER IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Oil is poured into a pan, onions are cooked, bread crumbs are added to a bowl, meat is mixed with other ingredients, ketchup is poured over the meatloaf."
+            },
+            {
+                "predicted": "THE VIDEO SHOWS THE PROCESS OF TAKING A PIZZA OUT OF THE OVEN AND PLACING IT IN THE OVEN, FOLLOWED BY MAKING A PIZZA.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Making a pizza - Placing the pizza in the oven - Taking the pizza out of the oven"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D: MIXING SALAD -> MAKING CROUTONS -> MIXING INGREDIENTS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Making croutons -> Mixing ingredients -> Mixing salad"
+            },
+            {
+                "predicted": "THE ANSWER IS D. THE CHEF SHOWS THE INGREDIENTS, CUTS UP VEGETABLES, AND THEN PRESENTS THE FINISHED SALAD..",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The chef makes the salad by showing the ingredients, mixing them together, and then presenting it."
+            },
+            {
+                "predicted": "THE SEQUENCE OF EVENTS SHOWN IN THE VIDEO IS B: THE MAN SHOWS THE INGREDIENTS, MIXES THEM IN A BLENDER, AND THEN COOKS THEM ON THE GRILL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The man shows the ingredients, chops the vegetables, and then cooks them on the grill."
+            },
+            {
+                "predicted": "THE VIDEO SEQUENCE GOES AS FOLLOWS: A WOMAN SHOWS THE INGREDIENTS FOR A DISH, THEN COOKS IT, AND FINALLY EATS IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "A woman sits on a couch, then shows ingredients for a dish, then shows how to cook it, and finally eats it."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (D) THE WOMAN POINTS AT THE INGREDIENTS, POURS WATER INTO A POT, AND THEN POURS THE MIXTURE INTO A BOWL..",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The woman points at the ingredients, mixes them in a bowl, and then puts the mixture into a oven"
+            },
+            {
+                "predicted": "THE VIDEO SEQUENCE SHOWS THE PROCESS OF PREPARING A PIZZA WITH GROUND MEAT AND VEGETABLES, FOLLOWED BY ADDING BUTTER AND SPICES BEFORE BAKING IT. AFTER COOKING, THE MAN SHOWS OFF THE FINISHED PIE AND HIS DOG. THEREFORE, THE ANSWER IS D.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The man shows the ingredients, and cooks them with meat. Then he adds butter and spices."
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "A woman prepares a meal by slicing tomatoes, mixing ingredients in a bowl, and placing them in a pan. She then blends the mixture in a pot."
+            },
+            {
+                "predicted": "THE ANSWER IS (D) THE MAN DEMONSTRATES THE COOKING PROCESS, TALKS ABOUT THE RECIPE, AND THEN SHOWS THE INGREDIENTS..",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The man shows the ingredients, talks about the recipe, and then demonstrates the cooking process."
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Water with salt and baking soda -> Beans soaked -> Beans cooked"
+            },
+            {
+                "predicted": "THE ANSWER IS C. THE MAN CUTS ONIONS AND PEPPERS ON A CUTTING BOARD, ADDS INGREDIENTS TO THE POT, AND THEN POURS THE MIXTURE INTO THE POT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The man adds ingredients to the pot, then cuts onions and peppers on a cutting board, and finally pours the mixture into the pot."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (D) THE MAN TALKS TO THE CAMERA, SHOWS THE INGREDIENTS, AND THEN POURS OIL INTO THE POT BEFORE STIRRING THE MIXTUR..",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The man talks to the camera, shows the ingredients, and then pours oil into the pot before adding the spices."
+            },
+            {
+                "predicted": "THE ANSWER IS D. MAKING COOKIES -> EATING COOKIES -> MAKING PANCAKES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Mixing ingredients -> Cooking pancakes -> Making cookies"
+            },
+            {
+                "predicted": "THE ANSWER IS D. THE WOMAN MIXES INGREDIENTS TOGETHER, TALKS TO THE CAMERA, AND THEN COOKS PANCAKES..",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The woman talks to the camera, shows off her ingredients, mixes them together, and then cooks pancakes."
+            },
+            {
+                "predicted": "THE SEQUENCE OF EVENTS SHOWN IN THE VIDEO IS B: WATER BOTTLE - MIXING INGREDIENTS - COOKING PANCAKES - STACKING PANCAKES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Water bottle - mixing ingredients - cooking pancakes - stacking pancakes"
+            },
+            {
+                "predicted": "THE ANSWER IS C: PREPARING BATTERY -> COOKING PANCAKES -> FLIPPING PANCAKES -> CLEANING UP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Preparing batter -> cooking pancakes -> flipping pancakes"
+            },
+            {
+                "predicted": "THE SEQUENCE OF EVENTS IN THE VIDEO IS AS FOLLOWS: (D) THE MAN SHOWS THE INGREDIENTS, PUTS THEM ON THE PIZZA, AND THEN EATS A SLICE IN FRONT OF A CHILD..",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The man shows the ingredients, puts them on the pizza, and then eats a slice in front of a child."
+            },
+            {
+                "predicted": "THE VIDEO SHOWS THE STEPS OF MAKING PIZZA DOUGH, MIXING INGREDIENTS, ROLLING OUT DOUGH, PUTTING TOPPINGS ON PIZZA, AND ROLLING OUT DOUGH. SO, THE CORRECT ANSWER IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Mixing ingredients - Making pizza dough - Rolling out dough - Putting toppings on pizza"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (C) THE WOMAN POURS INGREDIENTS INTO A BOWL, ROLLS UP DOUGH, PUTS IT ON A PIZZA, AND THEN ROLLS UP DOUGH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The woman pours ingredients into a bowl, mixes them together, rolls up dough, and puts it on a pizza."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (C) MIXING INGREDIENTS -> MAKING PIZZA DOUGH -> PLACING PIZZA.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Mixing ingredients -> Making pizza dough -> Placing pizza"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO FIRST PREPARES THE INGREDIENTS, THEN SHOWS THEM, AND FINALLY COOKS THE FOOD. SO, THE CORRECT ANSWER IS (C) THE WOMAN FIRST SHOWS THE INGREDIENTS, THEN COOKS THE FOOD, AND FINALLY MIXES THE INGREDIENTS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The woman first shows the ingredients, then mixes them together, and finally cooks the food."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D. THEY ARE PREPARING FOOD TOGETHER. THE FIRST WOMAN SHOWS THE INGREDIENTS, THEN ROLLS OUT DOUGH, AND FINALLY MIXES THEM IN A BOWL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "They are preparing food together. The first woman shows the ingredients, then mixes them in a bowl, and finally rolls out dough."
+            },
+            {
+                "predicted": "THE VIDEO STARTS WITH THE MAN TALKING TO THE CAMERA AND SHOWING THE INGREDIENTS, AND THEN HE COOKS ONION RINGS. IT DOES NOT MENTION ANY DOG OR SEQUENCE OF EVENTS. THEREFORE, THE CORRECT ANSWER IS D. THE MAN TALKS TO THE CAMERA, SHOWS A DOG, MIXES THE INGREDIENTS, AND THEN COOKS ONION RINGS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The man talks to the camera, shows the ingredients, mixes them together, and then cooks onion rings."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (D) CUTTING ONIONS, COATING WITH FLOUR, SOAKING THEM, AND FRYING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Cutting onions, soaking them, coating with flour, and frying"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) THE MAN FRIES THE ONION RINGS, SHOWS THE INGREDIENTS, AND THEN MIXES THEM IN A BOWL..",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The man shows the ingredients, then mixes them in a bowl, and finally fries the onion rings."
+            },
+            {
+                "predicted": "THE ANSWER IS C. EGG -> RICE -> PEAS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Egg -> Rice -> Peas"
+            },
+            {
+                "predicted": "THE ANSWER IS (D): THE PERSON FIRST MIXES EVERYTHING TOGETHER, THEN COOKS THE MEAT AND VEGETABLES IN A PAN, AND FINALLY ADDS SOY SAUCE TO THE POT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The person adds soy sauce to the pot, then cooks the meat and vegetables in a pan, and finally mixes everything together."
+            },
+            {
+                "predicted": "THE ANSWER IS (D): THE PERSON PUTS INGREDIENTS INTO A BOWL, THEN MIXES THEM. NEXT, THEY PUT OIL IN A PAN AND FRY THE INGREDIENTS, FOLLOWED BY ADDING MORE INGREDIENTS TO THE PAN AND STIRRING THEM TOGETHER, AND FINALLY, THEY ADD MORE INGREDIENTS TO THE PAN..",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The person puts ingredients into a bowl, then mixes them. Next, they put oil in a pan and fry the ingredients, followed by adding more ingredients to the pan and stirring them together."
+            },
+            {
+                "predicted": "THE ANSWER IS (C) THE WOMAN PREPARES THE SALAD, THEN SHOWS THE INGREDIENTS AND TALKS ABOUT IT..",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The woman talks about the salad, then shows the ingredients and prepares it."
+            },
+            {
+                "predicted": "THE ANSWER IS (D) THE WOMAN PUTS THE INGREDIENTS INTO A BOWL, MIXES THEM TOGETHER, AND THEN SHOWS OFF THE FINISHED SALAD..",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The woman puts the ingredients into a bowl, mixes them together, and then shows off the finished salad."
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A CHEF DEMONSTRATING HOW TO MAKE A SAUCE, THEN COOK VEGETABLES, AND FINALLY ASSEMBLE SPRING ROLLS. THEREFORE, THE CORRECT ANSWER IS (B) THE CHEF PREPARES THE INGREDIENTS, COOKS THE VEGETABLES, AND THEN ASSEMBLES THE SPRING ROLLS., WHICH IS THE CORRECT SEQUENCE OF EVENTS IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The chef prepares the ingredients, cooks the vegetables, and then assembles the spring rolls."
+            },
+            {
+                "predicted": "THE ANSWER IS C. THE CHEF PUTS INGREDIENTS INTO THE POT, THEN ADDS WATER AND CLOSES IT. NEXT, HE SHOWS THE INGREDIENTS IN THE POT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The chef puts ingredients into the pot, then shows the ingredients in the pot. Next, he adds water and closes it."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (B) MIXING INGREDIENTS IN A POT -> WATER BOILING -> POURING SOUP INTO A BOWL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Water boiling -> Mixing ingredients in a pot -> Pouring soup into a bowl"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO. PLEASE PROVIDE THE ANSWER THAT MATCHES THE QUESTION.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The chef talks to the camera, prepares the meat, and cooks it."
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A MAN COOKING IN A KITCHEN, FOLLOWED BY HIM MIXING INGREDIENTS AND FINALLY, A WOMAN CUTTING MEAT. SO, THE ANSWER TO THE QUESTION IS C. A MAN IS SEEN COOKING IN A KITCHEN, FOLLOWED BY HIM MIXING INGREDIENTS AND FINALLY, A WOMAN CUTTING MEAT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The Daily Collegian logo appears, followed by a man cutting meat and mixing ingredients, and then a woman eating."
+            },
+            {
+                "predicted": "THE ANSWER IS (D) THE PERSON PUTS MEAT IN FLOUR, THEN FRIES IT, AND FINALLY DIPS IT IN FLOUR..",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The person puts meat in flour, then dips it in egg, and finally fries it."
+            },
+            {
+                "predicted": "THE VIDEO SEQUENCE INVOLVES TALKING ABOUT THE RECIPE, SHOWING THE INGREDIENTS, MIXING THEM TOGETHER, AND THEN COOKING THE DISH. THE MAN HOLDS A PLATE WITH THE FINISHED DISH IN THE FINAL STEP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The man talks about the recipe, shows the ingredients, mixes them together, and then talks about the cooking process while holding a plate with the finished dish."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO. THEREFORE, I AM UNABLE TO PROVIDE AN ANSWER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Mixing ingredients -> Cutting meat -> Breading meat -> Frying meat"
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).\n\nACCORDING TO THE VIDEO, THE EVENTS IN THE ORDER ARE MIXING INGREDIENTS -> BREADING THE CORN DOGS -> FRYING THE CORN DOGS -> SERVING WITH DIPPING SAUCE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Mixing ingredients -> Breading the corn dogs -> Frying the corn dogs -> Serving with dipping sauce"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) THE MAN STARTS BY PREPARING THE SUSHI RICE, THEN WRAPS IT IN SEAWEED AND AVOCADO, AND FINALLY ADDS THE TOPPINGS BEFORE PRESENTING IT ON A PLATE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The man starts by preparing the sushi rice, then wraps it in seaweed and avocado, and finally adds the toppings before presenting it on a plate."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (D) THE MAN AND WOMEN CUT THE SUSHI ROLLS, THEN THEY PREPARE SUSHI ROLLS, THEN THEY STAND AROUND A TABLE TALKING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The man and women are standing around a table talking, then they prepare sushi rolls, then they cut the rolls."
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).\n\nACCORDING TO THE VIDEO, THE SEQUENCE OF EVENTS INCLUDES THE WOMEN TALKING ABOUT THEIR INGREDIENTS, MAKING SUSHI ROLLS, AND THEN SHOW HOW TO MAKE THEM. THE VIDEO DEMONSTRATES THE PROCESS OF MAKING SUSHI ROLLS USING DIFFERENT INGREDIENTS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The women talk about their ingredients, then they make sushi rolls and show how to make them."
+            },
+            {
+                "predicted": "THE VIDEO SHOWS THE CHEF COOKING, ADDING INGREDIENTS, AND THEN CUTTING UP MEAT. THEREFORE, THE ANSWER IS A: THE CHEF TALKS TO THE CAMERA, POURS OIL INTO A PAN, ADDS INGREDIENTS, AND COOKS THE DISH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The chef talks to the camera, pours oil into a pan, adds ingredients, and cooks the dish."
+            },
+            {
+                "predicted": "THE SEQUENCE OF EVENTS IN THE VIDEO IS AS FOLLOWS: (A) THE WOMAN TALKS TO THE CAMERA, THEN SHOWS VARIOUS INGREDIENTS, FOLLOWED BY HER COOKING PASTA AND MIXING IT WITH OTHER INGREDIENTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The woman talks to the camera, then shows various ingredients, followed by her cooking pasta and mixing it with other ingredients."
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A SEQUENCE OF EVENTS WHERE THE MAN IS COOKING PASTA AND THEN TALKING TO THE CAMERA ABOUT HIS RESTAURANT. THEREFORE, THE ANSWER OPTIONS ARE A AND B.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The man is shown talking to the camera about his restaurant, and then he is seen cooking pasta."
+            },
+            {
+                "predicted": "THE SEQUENCE OF EVENTS SHOWN IN THE VIDEO IS A WOMAN DEMONSTRATING HOW TO COOK A DISH WHILE SHOWING INGREDIENTS AND TALKING ABOUT HER FAVORITE RECIPES. SO, THE ANSWER IS C.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "A woman talks about her favorite recipes, demonstrates how to cook a dish, and shows ingredients."
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO INTRODUCES HERSELF AND SHOWS THE INGREDIENTS BEFORE COOKING THE DISH. THEREFORE, THE ANSWER IS (C) THE WOMAN SHOWS THE INGREDIENTS, THEN INTRODUCES HERSELF, AND FINALLY STARTS COOKING THE DISH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The woman introduces herself, shows the ingredients, and then proceeds to cook the dish."
+            },
+            {
+                "predicted": "THE ANSWER IS C. FRYING EGGS, MIXING INGREDIENTS, RICE COOKING, AND EATING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Rice cooking, mixing ingredients, frying eggs, and eating"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D. CAR DRIVING, PREPARING FOOD, WOMAN TOUCHING PLANTS, EATING NOODLES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Car driving, woman touching plants, preparing food, eating noodles"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS THE ORDER OF EVENTS WHICH ARE CUTTING VEGETABLES ON A CUTTING BOARD, COOKING THEM IN A POT, AND FINALLY SERVING THE DISH. THEREFORE, THE ANSWER IS C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The person cuts vegetables on a cutting board, then cooks them in a pot, and finally serves the dish."
+            },
+            {
+                "predicted": "THE ANSWER IS (D) SHREDDED CHEESE IS ADDED TO THE BREAD, THEN THE SANDWICH IS CUT IN HALF, AND FINALLY, IT IS COOKED IN A PAN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Shredded cheese is added to the bread, then the sandwich is cooked in a pan, and finally, it is cut in half."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (D) THE MAN TALKS TO THE CAMERA, SHOWS HOW TO MAKE A GRILLED CHEESE SANDWICH, AND THEN EATS IT WHILE TALKING..",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The man talks to the camera, then shows how to make a grilled cheese sandwich, and finally eats it."
+            },
+            {
+                "predicted": "THE ANSWER IS (B) THE MAN SHOWS THE INGREDIENTS, THEN ASSEMBLES THE HOT DOGS AND BUNS, AND FINALLY PREPARES THE HOT DOGS..",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The man shows the ingredients, then prepares the hot dogs and buns, and finally assembles the hot dogs."
+            },
+            {
+                "predicted": "THE ANSWER IS D. THE MAN INTRODUCES HIMSELF, MIXES THE INGREDIENTS, SHOWS THE FISH, AND THEN EATS THE FISH..",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The man introduces himself, shows the fish, mixes the ingredients, and then fries the fish."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS C: BREADING FISH AND FRYING IT -> MIXING INGREDIENTS -> ADDING FLOUR TO BATTER, D: ADDING FLOUR TO BATTER -> MIXING INGREDIENTS -> BREADING FISH AND FRYING IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Mixing ingredients -> Adding flour to batter -> Breading fish and frying it"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (A, B, C, D).\n\nACCORDING TO THE VIDEO, THE EVENTS THAT UNFOLD ARE:\n\n1. ADDING MUSHROOMS AND GREEN ONIONS -> WATER BOILING -> STRAINING SOUP INTO A BOWL.\n\nTHEREFORE, THE ORDER OF EVENTS IN THE VIDEO IS AS FOLLOWS:\n\n1. ADDING MUSHROOMS AND GREEN ONIONS -> WATER BOILING -> STRAINING SOUP INTO A BOWL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Water boiling -> Adding mushrooms and green onions -> Straining soup into a bowl"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A WOMAN DEMONSTRATING HOW TO PREPARE A DISH BY DISPLAYING HER INGREDIENTS, TALKING ABOUT THEM, AND THEN COOKING THEM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The woman displays her ingredients, talks about them, and then proceeds to cook them."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (D) WATER BOILING -> SOUP PREPARATION -> CHEESE CUTTING AND CHOPPING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Water boiling -> Cheese cutting and chopping -> Soup preparation"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS THE ORDER OF EVENTS FROM START TO END, WHICH IS A: THE MAN TALKS, THEN SHOWS A BOWL OF PEANUTS, THEN DEMONSTRATES COOKING INGREDIENTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The man talks, then shows a bowl of peanuts, then demonstrates cooking ingredients."
+            },
+            {
+                "predicted": "THE ANSWER IS (A) TWO WOMEN PREPARE AND COOK A MEAL TOGETHER, THEN EAT IT AT A TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Two women prepare and cook a meal together, then eat it at a table."
+            },
+            {
+                "predicted": "THE ANSWER IS (C) POTATOES ARE SLICED, THEN MIXED WITH BUTTER AND MILK, AND THEN BOILED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Potatoes are sliced, then boiled, and then mixed with butter and milk."
+            },
+            {
+                "predicted": "THE ANSWER IS D. THE MAN PUTS OIL IN A PAN, MIXES INGREDIENTS IN A BOWL, AND THEN EATS FOOD FROM A PLATE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The man puts oil in a pan, mixes ingredients in a bowl, and then eats food from a plate."
+            },
+            {
+                "predicted": "THE SEQUENCE OF EVENTS IN THE VIDEO IS AS FOLLOWS:\n\n1. THE MAN AND WOMAN ARE SHOWN PREPARING FOOD TOGETHER.\n2. THEY ARE SEEN MIXING INGREDIENTS IN A BOWL.\n3. A DOG IS SHOWN ON THE FLOOR.\n4. THEY ARE SEEN PREPARING FOOD TOGETHER.\n\nBASED ON THIS INFORMATION, THE CORRECT ANSWER IS (C).",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The man and woman are shown preparing food together, followed by a shot of a dog on the floor. Then, they are seen mixing ingredients in a bowl."
+            },
+            {
+                "predicted": "THE SEQUENCE OF EVENTS IN THE VIDEO IS SHOWN BY THE WOMAN PREPARING THE DOUGH, COOKING THE MUSHROOMS, AND MAKING DUMPLINGS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The woman shows the ingredients, cooks the mushrooms, and makes dumplings."
+            },
+            {
+                "predicted": "THE ANSWER IS (A, B, C, D).\n\nTHE VIDEO SHOWS THE STEPS TO PREPARE BEEF BOURGUIGNON BY FIRST MIXING THE INGREDIENTS, THEN COOKING IT ON THE STOVE. IT ALSO SHOWS THE PROCESS OF MAKING A SALAD. THE WOMAN IN THE VIDEO DEMONSTRATES HOW TO PREPARE BOTH DISHES WITH GREAT DETAIL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The woman shows the steps to prepare the beef Bourguignon, including mixing the ingredients and cooking it on the stove."
+            },
+            {
+                "predicted": "THE SEQUENCE OF EVENTS IN THE VIDEO IS AS FOLLOWS:\n1. MIXING INGREDIENTS.\n2. PREPARING DUMPLINGS.\n3. FRYING THEM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Mixing ingredients, preparing dumplings, frying them"
+            },
+            {
+                "predicted": "THE SEQUENCE OF EVENTS IN THE VIDEO IS AS FOLLOWS:\n\n1. A WOMAN SPEAKS TO THE CAMERA, FOLLOWED BY A MAN WHO SHOWCASES HIS COOKING SKILLS.\n2. THE WOMAN AND THE MAN THEN SPEAK AGAIN.\n\nBASED ON THE VIDEO, THE ANSWER OPTION LETTER (D) DOES NOT MATCH THE GIVEN INFORMATION. THEREFORE, THE ANSWER OPTION LETTER THAT MATCHES THE VIDEO IS (A, B, C, D) AND IS PROVIDED BELOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "A woman speaks to the camera, a man shows off his cooking skills, and then they both speak again."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (D) THE PERSON MIXES THE INGREDIENTS, SERVES THE POTATO PANCAKE ON A PLATE, AND THEN COOKS IT..",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The person mixes the ingredients, cooks the potato pancake, and serves it on a plate."
+            },
+            {
+                "predicted": "THE VIDEO DESCRIBES THE PROCESS OF BOILING A POT OF WATER, ADDING INGREDIENTS TO THE POT, AND THEN POURING THE CONTENTS INTO A CASSEROLE DISH. THEREFORE, THE SEQUENCE OF EVENTS IN THE VIDEO IS A.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The man talks to the camera, boils water in a pot, and then pours it into a casserole dish."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (D) STIR-FRY NOODLES, ADD SHRIMP AND VEGETABLES, PREPARE SAUCE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Prepare sauce, stir-fry noodles, add shrimp and vegetables"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (D) MIXING INGREDIENTS, ADDING SALT AND OIL, CHOPPING VEGETABLES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Chopping vegetables, mixing ingredients, adding salt and oil"
+            },
+            {
+                "predicted": "THE SEQUENCE OF EVENTS SHOWN IN THE VIDEO IS AS FOLLOWS:\n\n1. WATER IS BOILED, AND THEN THE PERSON STIRS.\n2. THE PERSON THEN COOKS FOOD USING THE WATER.\n3. THE PERSON FRIES THE DOUGH IN THE PAN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Water boiling -> person stirring -> person cooking food"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A SEQUENCE OF EVENTS WHERE SOMEONE IS CUTTING ONIONS, MIXING THEM WITH SPICES, AND THEN COOKING THE MIXTURE. THEREFORE, THE ANSWER OPTION IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Ingredients are laid out, meat is marinated, and then it is cooked with other ingredients."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (C) MIXING INGREDIENTS -> COOKING CURRY -> PLACING CHICKEN IN A POT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Mixing ingredients -> Placing chicken in a pot -> Cooking curry"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (C) COOKING TOFU, CUTTING VEGETABLES, MIXING INGREDIENTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Cutting vegetables, cooking tofu, mixing ingredients"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (D) BOILING WATER -> COOKING FOOD -> MIXING INGREDIENTS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Boiling water -> Mixing ingredients -> Cooking food"
+            },
+            {
+                "predicted": "THE VIDEO DOES NOT HAVE A SEQUENCE OF EVENTS. IT SIMPLY SHOWS A PERSON COOKING FOOD IN A POT, THEN SHOWS OFF THE INGREDIENTS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "A person shows off the ingredients, then cooks them in a pot."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (A, B, C, D).\n\nACCORDING TO THE VIDEO, THE MAN FIRST COOKS THE SAUSAGES AND ONIONS ON THE STOVE AND THEN ADDS COLD WATER TO THE POTATOES. HE THEN COOKS THE POTATOES AND ADDS BUTTER BEFORE STIRRING THEM WITH A WOODEN SPOON.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The man puts the potatoes into cold water, then cooks them on the stove. He then puts the potatoes into a pot and adds butter."
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A SEQUENCE OF EVENTS IN WHICH A PERSON IS CHOPPING ONIONS AND A BEEF WHILE MIXING A SAUCE AND THEN COOKING IT. IT ALSO INVOLVES CHOPPING SOME GREEN ONIONS AND SLICING THE BEEF. HOWEVER, THE DETAILS IN THE VIDEO ARE NOT CLEAR ENOUGH TO CONFIRM THE ANSWER TO THIS QUESTION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Chop the green onions, slice the beef, mix the sauce, cook the beef and vegetables"
+            },
+            {
+                "predicted": "THE ANSWER IS D. THE WOMAN SHOWS THE INGREDIENTS, MIXES THEM TOGETHER, AND THEN TALKS ABOUT THE RECIPE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The woman talks about the recipe, shows the ingredients, mixes them together, and then cooks the dish."
+            },
+            {
+                "predicted": "THE VIDEO SHOWS THE SEQUENCE OF EVENTS RELATED TO PREPARING SAUSAGES, COOKING THEM, SEASONING, AND SERVING. SO, THE ANSWER OPTIONS ARE D, C, B, AND A. THEREFORE, THE CORRECT OPTION IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Sausage preparation, seasoning, and cooking"
+            },
+            {
+                "predicted": "THE ANSWER IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Preparing ingredients, making dumplings, boiling noodles"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE QUESTION, THE ANSWER OPTIONS ARE A, B, C, D, BUT THEY ARE NOT RELATED TO THE EVENTS IN THE VIDEO. THEREFORE, THE CORRECT ANSWER IS D. THE WOMAN TALKS ABOUT THE RECIPE, SHOWS THE INGREDIENTS, AND THEN EATS THE DISH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The woman demonstrates how to make a dish by showing the ingredients, mixing them together, and then cooking it."
+            },
+            {
+                "predicted": "THE ANSWER IS D. THE PERSON MIXES THE INGREDIENTS TOGETHER, SHOWS THE MEAT, AND THEN COOKS IT..",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The person shows the ingredients, mixes them together, and then cooks the meat."
+            },
+            {
+                "predicted": "THE ANSWER IS (D) THE MAN AND WOMAN ARE SHOWN PREPARING FOOD TOGETHER, THEN THEY KISS..",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The man and woman are shown preparing food together, then they eat the food."
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO AND SEEMS TO BE A RANDOM WORD. IT IS NOT RELATED TO THE VIDEO PROMPT AND DOES NOT MAKE SENSE AS A POSSIBLE ANSWER. PLEASE PROVIDE A VALID ANSWER RELATED TO THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The man shows ingredients, talks about sushi, and then demonstrates how to make it."
+            },
+            {
+                "predicted": "THE ANSWER IS D. THE MEN ARE SHOWN IN THE KITCHEN, FOLLOWED BY THEM COOKING AND MIXING INGREDIENTS, AND THEN THEY PRESENT THE DISH TO THE CAMERA..",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The men are shown in the kitchen, followed by them cooking and mixing ingredients, and then they present the dish to the camera."
+            },
+            {
+                "predicted": "THE ANSWER IS D. THE CHEF PUTS THE MEAT IN THE OVEN, PREPARES THE PASTA, AND THEN POURS SAUCE OVER THE PASTA..",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The chef puts the meat in the oven, prepares the pasta, and then pours sauce over the pasta."
+            },
+            {
+                "predicted": "THE ANSWER IS D. FLOUR MIXING -> BAKING BREAD -> DOUGH MAKING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Flour mixing -> Dough making -> Baking bread"
+            },
+            {
+                "predicted": "THE ANSWER IS NOT RELATED TO THE VIDEO. PLEASE PROVIDE A VALID OPTION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Mixing ingredients -> kneading dough -> rolling out dough -> cooking tortillas"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (B) COOKING TORTILLAS -> MIXING INGREDIENTS -> ROLLING DOUGH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Mixing ingredients -> rolling dough -> cooking tortillas"
+            },
+            {
+                "predicted": "THE VIDEO SEEMS TO FOLLOW THE ORDER OF EVENTS AS SHOWN IN OPTION C, WHERE THE WOMAN TALKS, SHOWS THE INGREDIENTS FOR SOUP, THEN POURS OIL INTO A PAN AND WATER INTO A POT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The woman talks, then shows the ingredients for soup, then pours oil into a pan and water into a pot."
+            },
+            {
+                "predicted": "THE ORDER OF EVENTS IN THE VIDEO IS AS FOLLOWS: (D) THE MAN SHOWS HOW TO MAKE EGGS, THEN ADDS CHEESE TO THE DISH., (B) THE MAN SHOWS HOW TO MAKE EGGS, THEN TALKS TO THE CAMERA, AND FINALLY ADDS CHEESE TO THE DISH., (C) THE MAN TALKS TO THE CAMERA, THEN SHOWS HOW TO MAKE EGGS, AND FINALLY ADDS CHEESE TO THE DISH., (A) THE MAN TALKS TO THE CAMERA, THEN SHOWS HOW TO MAKE EGGS, AND FINALLY ADDS CHEESE TO THE DISH., (C) THE MAN TALKS TO THE CAMERA, THEN SHOWS HOW TO MAKE EGGS, AND FINALLY ADDS CHEESE TO THE DISH., (D) THE MAN SHOWS HOW TO MAKE EGGS, THEN ADDS CHEESE TO THE DISH, AND FINALLY TALKS TO THE CAMERA..",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The man talks to the camera, then shows how to make eggs, and finally adds cheese to the dish."
+            },
+            {
+                "predicted": "THE SEQUENCE OF EVENTS IN THE VIDEO IS AS FOLLOWS:\n\n1. THE WOMAN TALKS ABOUT EGGS AND SHOWS A BOWL OF EGGS.\n2. SHE THEN DEMONSTRATES HOW TO MAKE THE EGGS.\n3. FINALLY, SHE SHOWS A PAN WITH OIL AND DEMONSTRATES HOW TO MAKE THE EGGS.\n\nSO, THE SEQUENCE OF EVENTS IN THE VIDEO ARE:\n\n1. TALKING ABOUT EGGS\n2. DEMONSTRATING HOW TO MAKE THE EGGS\n3. DEMONSTRATING HOW TO MAKE THE EGGS WITH A PAN OF OIL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The woman talks about eggs, shows a pan with oil, and then demonstrates how to make them."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (C) THE MAN ADDS BUTTER TO THE PAN, THEN CUTS THE BREAD AND ADDS EGGS..",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The man adds butter to the pan, then cuts the bread and adds eggs."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (D) THE CHEF ADDS INGREDIENTS, COOKS MUSSELS, AND POURS WINE INTO THE POT..",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The chef adds ingredients, pours wine into the pot, and cooks mussels."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS D. BOILING WATER, MIXING EGGS, ADDING HOLLANDAISE SAUCE, COOKING TOAST.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Boiling water, mixing eggs, adding hollandaise sauce, cooking toast"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (D) PASTA BEING COOKED, PASTA BEING MIXED WITH VEGETABLES, VEGETABLES BEING ADDED TO THE BOWL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Pasta being cooked, vegetables being added to the bowl, pasta being mixed with vegetables"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) BACON COOKING, PIZZA MAKING, BREAD GRINDING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Bacon cooking, bread grilling, pizza making"
+            },
+            {
+                "predicted": "THE SEQUENCE OF EVENTS IN THE VIDEO IS C: THE CHEF MIXES THE INGREDIENTS, TALKS ABOUT THE RECIPE, AND THEN SHOWS THE FINISHED PRODUCT..",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The chef talks about the recipe, mixes the ingredients, and then shows the finished product."
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A WOMAN MAKING POTATO SALAD WITH BACON AND CABBAGE, THEN POURING CHOCOLATE SYRUP OVER A BUNDT CAKE. THEREFORE, THE CORRECT ANSWER IS A: THE WOMAN POURS CHOCOLATE SYRUP OVER A BUNDT CAKE, THEN SHOWS HOW TO MAKE POTATO SALAD WITH BACON AND CABBAGE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The woman pours chocolate syrup over a bundt cake, then shows how to make potato salad with bacon and cabbage."
+            },
+            {
+                "predicted": "THE ANSWER IS D. THE CHEF INTRODUCES HIMSELF, SHOWS THE INGREDIENTS, AND THEN ONLY TALKS ABOUT THE RECIPE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The chef introduces himself, shows the ingredients, and then proceeds to cook the dish."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (D) LEMON JUICE -> STIR-FRY -> RICE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Rice -> Stir-fry -> Lemon juice"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS (C) A MAN WALKS THROUGH RUINS, THEN COOKS AND EATS FOOD..",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "A man walks through ruins, then cooks and eats food."
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A SEQUENCE OF EVENTS IN THE KITCHEN, INCLUDING A CHEF COOKING, PRESENTING THE DISH, AND CLEANING UP. THEREFORE, THE CORRECT ANSWER IS D. THE CHEF IS SEEN COOKING AND THEN TALKING TO THE CAMERA.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The chef is seen cooking and then presenting the dish to the camera."
+            },
+            {
+                "predicted": "THE MAN IN THE KITCHEN IS PREPARING FOOD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Preparing food"
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.0
+    }
+}

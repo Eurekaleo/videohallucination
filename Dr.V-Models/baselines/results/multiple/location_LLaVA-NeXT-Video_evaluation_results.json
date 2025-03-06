@@ -1,0 +1,46 @@
+{
+    "location": {
+        "accuracy": 0.98,
+        "unmatched_cases": [
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "parking lot",
+                "expected_text": "park"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "beach",
+                "expected_text": "morning"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "cafe",
+                "expected_text": "a park"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "office",
+                "expected_text": "room"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "classroom",
+                "expected_text": "walkway"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "aquarium",
+                "expected_text": "snow jungle"
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.98
+    }
+}

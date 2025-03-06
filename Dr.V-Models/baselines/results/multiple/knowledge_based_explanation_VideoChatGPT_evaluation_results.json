@@ -1,0 +1,2140 @@
+{
+    "knowledge_based_explanation": {
+        "accuracy": 0.013888888888888888,
+        "unmatched_cases": [
+            {
+                "predicted": "THE PERSON IS ON THE VERGE OF ENTERING THE HOUSE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] is on the verge of entering the house."
+            },
+            {
+                "predicted": "THE MAN WILL STRUM THE GUITAR STRINGS IN RHYTHM.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1]'s right hand will probably hit the guitar body."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Maybe [person_2] will continue to record videos."
+            },
+            {
+                "predicted": "A: THE PERSON WILL CONTINUE PRACTICING HAND STRETCHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will go on using the piano."
+            },
+            {
+                "predicted": "B.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will finish talking and then record himself doing another guitar technique."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS C. THE WOMAN IS GOING TO PICK UP THE BADMINTON SHUTTLECOCK AFTER THE BOY HAS HIT IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_2] is going to pick up the badminton shuttlecock after [person_1] hitting it."
+            },
+            {
+                "predicted": "AFTER USING THE INHALER, THE MAN WILL CONTINUE TAKING DEEP BREATHS TO RELAX.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will hold his breath for 10 seconds."
+            },
+            {
+                "predicted": "AFTER SEVERAL MINUTES, THE MAN WILL HAVE A BREAK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will have a break."
+            },
+            {
+                "predicted": "AFTER ROASTING THE MARSHMALLOWS, THE WOMAN WILL EAT THEM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_5] will eat the marshmallows."
+            },
+            {
+                "predicted": "THE PERSON IS GOING TO WASH THE DISHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The [person_1] may peel another potato."
+            },
+            {
+                "predicted": "A.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to start jumps and spins."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to shave off all his beard."
+            },
+            {
+                "predicted": "A: THE PERSON WILL CONTINUE TO RIDE INTO THE SUNSET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will get off the horse."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "[person_3] is about to pull [person_2] to the side to show something interesting.",
+                "expected_text": "[person_3] might let [person_2] touch the mirror."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to whistle."
+            },
+            {
+                "predicted": "A.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will play with the dog."
+            },
+            {
+                "predicted": "B. THE PERSON WILL GUIDE THE HORSE TO JUMP OVER A FENCE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will make the horse stop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN JUMPING UP AND DOWN IN A ROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will jump up again."
+            },
+            {
+                "predicted": "B. THE PERSON IS LIKELY TO SIT DOWN AND MEDITATE ON THE ROPE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_2] may keep trying to stand on the rope."
+            },
+            {
+                "predicted": "THE MAN WILL ADJUST HIS CAP TO BLOCK THE SUN.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] will move up the trowel."
+            },
+            {
+                "predicted": "THE PERSON IS GOING TO ADJUST THE LIGHTING IN THE ROOM.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to move the product to the warehouse."
+            },
+            {
+                "predicted": "THE PERSON IN THE YELLOW SHIRT WILL ASK FOR A REMATCH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_6] will do the punishment."
+            },
+            {
+                "predicted": "A: THE MAN WILL CHECK THE TEMPERATURE OF THE WOMAN LYING ON THE BED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will ask [person_2] to turn over [person_2]'s body."
+            },
+            {
+                "predicted": "B.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to rip paper."
+            },
+            {
+                "predicted": "THE PERSON IS GOING TO MAKE A SANDWICH WITH THE INGREDIENTS ON THE TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The [person_1] is going to take the book."
+            },
+            {
+                "predicted": "THE TWO PEOPLE WILL PLAY A SECOND ROUND OF THE GAME.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "They will play a second round."
+            },
+            {
+                "predicted": "THE MAN IN THE RED SHIRT WILL SHOW THE WOMAN HOW TO RUN PROPERLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will feel a lot of fatigue in his shoulders and thighs."
+            },
+            {
+                "predicted": "A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_10] is going to continue trying to stomp the grapes."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS B.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_2] will certainly continue cycling."
+            },
+            {
+                "predicted": "THE MECHANICAL BULL IS GOING TO GIVE THE PERSON A SNACK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The mechanical bull is going to move faster."
+            },
+            {
+                "predicted": "A: THE MAN WILL BEGIN TO DANCE AROUND.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will take a break."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS HOLDING A CHESS PIECE AND APPEARS TO BE ABOUT TO MOVE IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will attack the queen."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS B. THE MAN IS GOING TO RIDE A UNICYCLE SOMEWHERE ELSE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to ride unicycle somewhere else."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO GRAB AN UMBRELLA, EXPECTING RAIN.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to dance."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_6] is going to read the next page of the book."
+            },
+            {
+                "predicted": "THE PERSON WILL SIGNAL TO MAKE A TURN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The [person_1] will hold the scooter tightly."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL NOT PLAY THE KEYBOARD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will not play the keyboard."
+            },
+            {
+                "predicted": "B. THE PERSON IS GOING TO ADJUST HER HAT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to move her body towards."
+            },
+            {
+                "predicted": "A: THE THREE PEOPLE ARE GOING TO SET UP A PICNIC TABLE IN THE SNOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] , [person_2] and [person_3] will pile up snow."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO ADJUST THE MICROPHONE.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to play drums."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS A. THE PERSON IS ABOUT TO ORGANIZE THE TOOLS BY SIZE.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "Give the tools to [person_2]."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "[person_1] will start a new hobby.",
+                "expected_text": "[person_1] will go on practicing."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS B. IT IS PREDICTED THAT THE PERSON WILL KEEP PLAYING THE FLUTE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "It is predicted that [person_1] will keep playing the flute."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS A.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] may keep trying to play the gong."
+            },
+            {
+                "predicted": "A. THE PERSON IS GOING TO DRY THE SHOES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_2] may dry the shoes."
+            },
+            {
+                "predicted": "THE PERSON IS GOING TO WATER THE PLANTS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will certainly watering plants."
+            },
+            {
+                "predicted": "THE PERSON IS GOING TO CHECK THE TIME ON THEIR WATCH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The [person_1] is going to continue to wipe the round table."
+            },
+            {
+                "predicted": "A.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue to ride the unicycle back and forth."
+            },
+            {
+                "predicted": "A: THE PERSON WILL BEGIN TO ORGANIZE A STACK OF BOOKS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue to play other musical instruments."
+            },
+            {
+                "predicted": "THE RELATIONSHIP BETWEEN THE TWO PEOPLE IN THE VIDEO IS THAT THEY ARE COLLEAGUES WHO OFTEN ARGUE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] and [person_2] may be a couple."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL CONTINUE TO USE THE GREEN SCREEN TO INTERACT WITH THE VIRTUAL WORLD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will explain how it work."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS A: THE WOMAN IS GOING TO WAVE AT SOMEONE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to throw something."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS A: [PERSON_1] WILL GIVE [PERSON_7] A HIGH FIVE FOR A SUCCESSFUL ATTEMPT.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] and [person_7] will try skipping rope again."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to continue demonstrating."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS A. THE PERSON IS GOING TO SIT DOWN AND REST.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will lean back."
+            },
+            {
+                "predicted": "THE PERSON INTENDS TO PLAY A NEW SONG ON THE GUITAR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] intends to continue using the piano."
+            },
+            {
+                "predicted": "A: THE PERSON WILL CONSIDER MAKING A CALL TO ORGANIZE A GATHERING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue to open the present."
+            },
+            {
+                "predicted": "THE WOMAN IN FRONT OF THE PERSON IS GOING TO CONTINUE PERFORMING INSOMNIA TREATMENT FOR THE PERSON.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The woman is going to continue performing insomnia treatment for [person_1]."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] may stop playing."
+            },
+            {
+                "predicted": "C\n\nTHE PERSON IN THE VIDEO IS RIDING A BIKE DOWN THE STREET, AND THE VIDEO SHOWS THAT THEY ARE WEARING A HELMET. THEY ARE ALSO WEARING A DEVICE ON THEIR WRIST, WHICH IS LIKELY A GPS DEVICE. THE PERSON MAY STOP TO TALK WITH A PASSERBY OR CONTINUE RIDING DOWN THE STREET. THE EXACT ACTION THEY WILL TAKE CANNOT BE DETERMINED FROM THE VIDEO ALONE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will probably keep going straight."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS A. THE PERSON IS GOING TO PACK UP THE GUITAR AND LEAVE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue to play the guitar."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] keeps playing the harmonica."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to recommend the patch on his chest."
+            },
+            {
+                "predicted": "THE PERSON IS GOING TO PARTICIPATE IN A GROUP PAINTING ACTIVITY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_3] is going to keep playing."
+            },
+            {
+                "predicted": "B. THE PERSON WILL LIKELY TIDY UP THE MUSICAL SHEETS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "will stop touching the piano"
+            },
+            {
+                "predicted": "THE NEXT STEP OF THE PERSON IN THE VIDEO IS TO POUR A GLASS OF WINE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will pull the cork out."
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A YOUNG GIRL WEARING A BLUE SHIRT AND A GREEN SHIRT, BOTH OF WHICH ARE WHITE. THE GIRL IS STANDING ON A SKATEBOARD AND APPEARS TO BE LOOKING AT THE CAMERA. THE NEXT ACTION OF THE GIRL IS NOT CLEAR FROM THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will try to skating faster."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS B. THE MAN IS LIKELY TO LAY DOWN AND REST IN THE GREENHOUSE.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue to water the plants."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL PLAY THE GUITAR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will play the guitar."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_6] will take the gift and open the rope quickly . "
+            },
+            {
+                "predicted": "THE WOMAN WILL CONTINUE SHAVING HER LEGS.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] will keep shaving [person_1]'s left leg."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to play."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS C. THE PERSON IS GOING TO SELL THE ORANGE JUICE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to sell the orange juice."
+            },
+            {
+                "predicted": "THE PERSON IS GOING TO SHAPE THE PRODUCT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] going to shape the product."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS B. THE PERSON IS GOING TO INITIATE A SNOWBALL FIGHT WITH THE OTHER PERSON.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Shovel some snow and drop them on [person_1]."
+            },
+            {
+                "predicted": "THE PERSON IS GOING TO BREAK THE BAR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to break."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to plane wood."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS B. THE PERSON IS GOING TO CHECK THE TIME AND PLAN THE NEXT RESEARCH STEPS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to adjust another staff on the microscope."
+            },
+            {
+                "predicted": "THE PERSON IS ABOUT TO STRETCH BEFORE LIFTING WEIGHTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is about to raise the dumbbells up."
+            },
+            {
+                "predicted": "THE PERSON WHO IS NOT THE DRIVER WILL CONTINUE TO TALK WITH THE DRIVER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_3] will play a game with [person_1]."
+            },
+            {
+                "predicted": "C: THE PERSON WILL GO TO THE HOSPITAL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will go to the hospital."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS B. THE PERSON IS GOING TO OBSERVE WHAT THE OTHER PERSON DOES NEXT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_2] is going to try to strike the bars of the toy."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SEEN RUNNING ON A TREADMILL, AND THE VIDEO SHOWS THEM RUNNING FOR A WHILE. AFTER RUNNING, THE PERSON WILL LIKELY STOP AND REST FOR A WHILE, POSSIBLY TO CATCH THEIR BREATH AND RECOVER FROM THE EXERCISE. THEY MIGHT ALSO CHECK THEIR WATCH TO SEE HOW LONG THEY HAVE BEEN RUNNING AND HOW MUCH TIME IS LEFT BEFORE THEY FINISH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will rest and go home."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] will feel the music and play the bass guitar."
+            },
+            {
+                "predicted": "A: AFTER RUNNING, [PERSON_3] WILL HEAD TO THE REFRESHMENT TENT TO GRAB A BOTTLE OF WATER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_3] will receive an interview."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS C: THE WOMAN IS GOING TO TIDY UP THE GAMING AREA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will go to the shop."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS STANDING IN A ROOM AND APPEARS TO BE LOOKING AT A CAMERA. THE NEXT ACTION OF THE PERSON IS NOT CLEAR FROM THE VIDEO.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_2] will then lie on the bed."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS A.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to dance with a sword."
+            },
+            {
+                "predicted": "B. THE PERSON IS GOING TO START JOGGING AROUND THE AREA FOR EXERCISE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to pick up the ball and shoot again."
+            },
+            {
+                "predicted": "A.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will go to find some cups."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS PREPARING A FRUIT SALAD AND IS ABOUT TO CUT IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will get money from his customer."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS A. THE PERSON IS GOING TO FINALIZE THE PROJECT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to try again."
+            },
+            {
+                "predicted": "THE MAN WILL STOP RUNNING AND GATHER EVERYONE FOR AN IMPROMPTU STORYTELLING SESSION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will stop running."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO START STRETCHING TO PREPARE FOR YOGA.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The [person_1] may carry on playing basketball."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS B.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "Maybe [person_1] is going to start spray paint."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS A.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to go all the way to the end of the rope."
+            },
+            {
+                "predicted": "THE BOY IS GOING TO PICK UP THE GUITAR AND START PLAYING A SONG.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will probably lie on the ground."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO RIDE A BICYCLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to ride [bicycle_1]."
+            },
+            {
+                "predicted": "A: HE COULD PREPARE TO CLICK ANOTHER PICTURE QUICKLY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "He will escape the bubble from the champagne."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to play with mechanical bull."
+            },
+            {
+                "predicted": "A: IT IS FORESEEN THAT THE PERSON WILL WAVE TO THE CAMERA.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] intends to turn off the camera."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to practice standing on his hands."
+            },
+            {
+                "predicted": "A. THE PERSON IS GOING TO GESTURE TO EXPLAIN A POINT.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "Maybe [person_1] is going to continue doing."
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A MAN PRACTICING HIS BREATHING TECHNIQUE WHILE HOLDING A STRING. HE IS LIKELY TO CONTINUE PRACTICING HIS BREATHING TECHNIQUE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will kick the ball."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO START PREPARING A SMOOTHIE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The [person_1] is going to keep seeking blueberries."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO ATTEMPT A NEW RIDING TRICK ON THE MECHANICAL BULL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will go out of the mechanical bull area."
+            },
+            {
+                "predicted": "THE PERSON IS GOING TO DRY THE TABLE.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "The [person_1] is going to dry the table."
+            },
+            {
+                "predicted": "AFTER THE MAN HAS RAN AWAY, THE WOMAN WILL CONTINUE PLAYING THE DRUM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] may leave the room as well."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS C. THE BABY IS SEEN PUTTING THE HARMONICA DOWN AND STARTING TO CLAP TO A RHYTHM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will stop playing the harmonica."
+            },
+            {
+                "predicted": "THE PERSON IS GOING TO PLAY THE HARP.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to play the harp."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] intends to open the gift box."
+            },
+            {
+                "predicted": "B",
+                "expected": "E",
+                "predicted_text": "[person_2] will start a conversation with [person_3].",
+                "expected_text": "Maybe [person_2] is going to continue smoke hookah."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO LIE DOWN ON THE COUCH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "It is possible that [person_1] will lie down on [couch_1]."
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS HOLDING A HAMMER AND IS ABOUT TO NAIL A BOARD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will switch the hammer to another hand."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] may breath smoke."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS SITTING ON A MASSAGE TABLE, AND THE DOG IS SITTING NEXT TO HER. THE PERSON IS LIKELY TO CONTINUE THEIR MASSAGE SESSION, AS THEY ARE ALREADY IN THE PROCESS OF BEING MASSAGED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue treatment."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] going to shave."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will move the stripping cutting edge to peel an apple."
+            },
+            {
+                "predicted": "A: THE PERSON WILL SIT DOWN TO TIE THEIR SHOELACES.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "Maybe [person_1] will continue to practice lunge."
+            },
+            {
+                "predicted": "IT IS FORESEEN THAT THE PERSON WILL CONTINUE ADJUSTING THEIR STANCE FOR BETTER AIM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Perhaps [person_1] will throw the ball into the cups."
+            },
+            {
+                "predicted": "IT IS NOT POSSIBLE TO DETERMINE THE EXACT NEXT ACTION OF THE PERSON IN THE VIDEO. HOWEVER, GIVEN THE CONTEXT, IT IS LIKELY THAT THE PERSON WILL CONTINUE READING THE NEWSPAPER OR MAKE A CALL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue reading the newspaper."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to ride a bike and solve a Rubik's."
+            },
+            {
+                "predicted": "B",
+                "expected": "E",
+                "predicted_text": "[person_1] will go for a run after the massage.",
+                "expected_text": "[person_1] will feel relaxed with his head."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS CURRENTLY SITTING ON THE FLOOR WITH A GREEN OBJECT IN FRONT OF THEM. THEY ARE LIKELY TO CONTINUE SITTING ON THE FLOOR AND INTERACT WITH THE GREEN OBJECT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will hit the gong's face again."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO HAND THE BASKETBALL TO A FRIEND.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "The [person_1] is going to catch the basketball."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS A: THE PERSON IS GOING TO GLANCE AT THEIR WATCH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to keep trying to raise eyebrows."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to give playing accordion a shot."
+            },
+            {
+                "predicted": "A. THE PERSON IS GOING TO START COOKING DINNER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] won't read the book anymore."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_2] is going to hold [dog_1]."
+            },
+            {
+                "predicted": "IF THE PERSON LOSES THE GAME, THEY WILL ARRANGE A REMATCH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will be invited."
+            },
+            {
+                "predicted": "A.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] will probably shake her shoulder to the left."
+            },
+            {
+                "predicted": "A.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue to give the newspaper for [people_2]."
+            },
+            {
+                "predicted": "THE PERSON IN THE RED SHIRT IS GOING TO ADJUST THEIR STANCE FOR A SWING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The [person_1] may crawl under the [baseball bat_1]."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS A.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Imitate [person_1] shaking the bottle."
+            },
+            {
+                "predicted": "B: THE PERSON IN THE VIDEO IS GOING TO SIT DOWN AND REST.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to continue riding in the dining room."
+            },
+            {
+                "predicted": "A: AFTER THE EXERCISE, THEY WILL LIKELY GO GRAB A QUICK PROTEIN SHAKE TOGETHER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_2] and [person_5] will rest and go for lunch."
+            },
+            {
+                "predicted": "THE CAMERAMAN WILL PAN TO CAPTURE THE TWO PEOPLE DANCING.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "The cameraman will film the Christmas tree."
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS LIKELY TO ADJUST THE SEATING ARRANGEMENT FOR COMFORT.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] will keep roasting the marshmallows."
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO IS CURRENTLY TRYING TO PUT ON A WIG. SHE IS LIKELY TO CONTINUE TRYING IT OR TAKE A BREAK, DEPENDING ON HER PROGRESS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue try it."
+            },
+            {
+                "predicted": "A: AFTER A WHILE, THE PERSON WILL SAFELY DISMOUNT THE HORSE AND WALK AWAY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] will fall down from the horse."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] is likely to hit the ball by a stick."
+            },
+            {
+                "predicted": "B. THE PERSON WILL SMILE AND BRUSH IT OFF.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will not be angry."
+            },
+            {
+                "predicted": "A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is likely to smoking hookah."
+            },
+            {
+                "predicted": "B. THE WOMAN WILL MAKE A PHONE CALL RIGHT AFTER USING THE INHALER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will put down the inhaler and wait for 10 seconds."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to continue try."
+            },
+            {
+                "predicted": "A. THE PERSON WILL STILL PUT THE GUITAR ON HER LAP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will still put the guitar on her lap."
+            },
+            {
+                "predicted": "AFTER SLOWING DOWN, THE WOMAN WILL ADJUST HER HELMET BEFORE SPEEDING UP AGAIN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] will leave."
+            },
+            {
+                "predicted": "AFTER RUNNING, THE PERSON WILL HAVE A REST.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] will have a rest."
+            },
+            {
+                "predicted": "THE PERSON IS GOING TO ADJUST THE MUSIC STAND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to go on playing clarinet."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS A: THE PERSON IS GOING TO OPEN THE BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to open the book."
+            },
+            {
+                "predicted": "B",
+                "expected": "E",
+                "predicted_text": "It is foreseen that [person_1] will wave goodbye to everyone.",
+                "expected_text": "[person_1] will dance with the maracas."
+            },
+            {
+                "predicted": "A: THE PERSON INTENDS TO SIT AT THE PIANO AND PLAY IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] intends to touch in the harp."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to jump into [bowl_1]."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS D. THE MAN IN THE VIDEO IS LIKELY TO TEACH THE NEXT MOVES TO THE PERSON ON THE OTHER SIDE OF THE SCREEN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will continue to teach the next moves."
+            },
+            {
+                "predicted": "THE PERSON IS GOING TO PERFORM SOME STRETCHES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_2] may keep trying to get faster."
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A MAN AND A WOMAN STANDING IN FRONT OF A SCREEN. THEY ARE LIKELY TO CONTINUE DANCING TOGETHER ROMANTICALLY.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] and [person_2] will kiss."
+            },
+            {
+                "predicted": "A. THE PERSON IS LIKELY TO ADJUST THE CURTAINS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to play in the room."
+            },
+            {
+                "predicted": "THE RELATIONSHIP BETWEEN THE TWO PEOPLE IN THE VIDEO IS THAT OF A FATHER AND HIS SON. THE FATHER IS SEEN HOLDING THE BABY AND PLAYING WITH IT WHILE THE BABY IS SITTING ON THE BED.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] and [person_3] are brothers."
+            },
+            {
+                "predicted": "THE PERSON IS GOING TO LOOK AROUND TO CHECK IF ANYONE IS WATCHING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "the [person_1] is going to continue peeling the potato"
+            },
+            {
+                "predicted": "B. THE GIRL WILL LOOK AROUND TO FIND A LOST ITEM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "[person_1] will start roller skating."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS B. THE PERSON IS GOING TO KEEP TURNING AROUND.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to keep turning around."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] will take the stick away."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS GOING TO TAKE ANOTHER ROLL WITH THE DICE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to put all the dice on his mouth."
+            },
+            {
+                "predicted": "A: THE WOMAN WILL CONTINUE RIDING THE MACHINE BULL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "will continue riding machine bull"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A MAN IN A WHITE SHIRT AND BLACK PANTS STANDING IN FRONT OF A BLUE MAT, AND HE IS SEEN WALKING AWAY FROM THE CAMERA.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "It looks like that [person_2] is the teacher of [person_1]."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to put the pineapple in the sun."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS C. THE MAN IN THE GREEN SHIRT WILL CONTINUE PRACTICING WITH THE OTHER MAN IN THE WHITE SHIRT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "[person_2] will go on practicing."
+            },
+            {
+                "predicted": "AFTER UNWRAPPING THE BOX, THE PERSON WILL LIKELY PUT ON THE NEW CLOTHES OR ACCESSORIES.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_2] will share it with [person_1]."
+            },
+            {
+                "predicted": "A. THE GIRL WILL BEGIN SKETCHING A PORTRAIT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "To borrow the bubble machine from [person_2]."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to learn the strings of the harp."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TENDS TO UNWRAP THE PRESENT TO SEE WHAT'S INSIDE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_1] tends to show how to stand on two hands."
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS A.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to lie on [bed_1] and rest."
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS B.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to put the beer bottle back to the basket."
+            },
+            {
+                "predicted": "A: THE PERSON IS GOING TO GLANCE AT THEIR WATCH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "[person_1] is going to take out the box next to it."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WILL START ARRANGING THE TABLE FOR DINNER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "[person_2] will try to raising eyebrows."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "[person_1] will start reading a book.",
+                "expected_text": "[person_1] will continue practicing the spinning poi."
+            },
+            {
+                "predicted": "THE PERSON WILL DRINK A GLASS OF WATER TO REFRESH.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "The [person_1] may apply some ointment on [person_2]'s feet."
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS A. THE PERSON IS GOING TO SHARE THE DONUTS WITH OTHERS NEARBY.",
+                "expected": "E",
+                "predicted_text": "",
+                "expected_text": "[person_1] will get out of the machine bull area"
+            },
+            {
+                "predicted": "THE LEFT TEAM SCORES BY PERFORMING A SYNCHRONIZED SWIMMING MOVE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "volleyball spike"
+            },
+            {
+                "predicted": "THE LEFT TEAM WINS A POINT BY EXECUTING A PERFECT SLAM DUNK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "basketball 3-point shot"
+            },
+            {
+                "predicted": "YES, BOTH TEAMS SUCCESSFULLY HIT A THREE-POINTER AND GAIN A POINT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE ROBOT STANDS UP USING ITS MECHANICAL ARM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "With the support of its mechanical arm."
+            },
+            {
+                "predicted": "THE RIGHT TEAM STARTS A POWER PLAY FORMATION USED IN HOCKEY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "volleyball adjust"
+            },
+            {
+                "predicted": "YES, THE SPIKE OF THE LEFT TEAM WAS SUCCESSFUL USING THE ADVANCED'VELOCITY PIVOT' TECHNIQUE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "YES, A TEAM SCORES IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE MOMENT OF INERTIA OF THE GIRL CHANGED WHEN SHE STRECHED OUT HER LEGS. THE MOMENT OF INERTIA IS A MEASURE OF THE RESISTANCE TO ROTATION THAT AN OBJECT EXPERIENCES. WHEN THE GIRL STRETCHED OUT HER LEGS, SHE INCREASED THE MOMENT OF INERTIA, WHICH IN TURN INCREASED THE RESISTANCE TO ROTATION. THIS IS BECAUSE THE MOMENT OF INERTIA IS PROPORTIONAL TO THE SQUARE OF THE DISTANCE FROM THE AXIS OF ROTATION. AS THE GIRL STRETCHED OUT HER LEGS, SHE MOVED FURTHER AWAY FROM THE AXIS OF ROTATION, WHICH LED TO AN INCREASE IN THE MOMENT OF INERTIA AND A CORRESPONDING INCREASE IN THE RESISTANCE TO ROTATION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The moment of inertia get increased."
+            },
+            {
+                "predicted": "THE LEFT TEAM IS DEFENDING BECAUSE THEY ARE TRYING TO STEAL THE BALL FOR A FAST BREAK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "volleyball spike"
+            },
+            {
+                "predicted": "THE PLAYERS ARE ENGAGED IN A CRICKET MATCH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "basketball"
+            },
+            {
+                "predicted": "THE PLAYERS PERFORM A CLEAR PIKE CIRCLE BACKWARD WITH 1 TURN TO HANDSTAND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "stalder backward to handstand"
+            },
+            {
+                "predicted": "THE GIRL NEEDS TO DO THE STEP SHOWN IN THE VIDEO BECAUSE SHE IS TRYING TO MAKE SURE THAT THE LEG IS TIGHTLY MOUNTED TO THE TV BENCH. THIS IS IMPORTANT TO ENSURE THAT THE LEG IS SECURE AND STABLE, PREVENTING IT FROM FALLING OR CAUSING ANY DAMAGE TO THE BENCH OR SURROUNDING AREA.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Becasue she needs to make sure the leg is tightly mounted to the TV bench."
+            },
+            {
+                "predicted": "C: HEISENBERG'S UNCERTAINTY PRINCIPLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Coulomb's law"
+            },
+            {
+                "predicted": "YES, THE TEAM IN BLUE SCORES AFTER A SUCCESSFUL DRIBBLE-AND-PASS COMBINATION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE VIDEO IS ABOUT A BASKETBALL GAME.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "basketball"
+            },
+            {
+                "predicted": "THE FOOD DYES ARE USED IN EACH GLASS TO DEMONSTRATE THE PROCESS OF OSMOSIS BETWEEN LIQUIDS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "To visualize the flow of water"
+            },
+            {
+                "predicted": "THE CUT OF THE SODIUM METAL SHOWS GOLD COLOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "It reacts with oxygen and generates sodium peroxide"
+            },
+            {
+                "predicted": "THE CORRECT ORDER OF THE CHANGES IS: TAIL LENGTHENS -> FORE LEGS GROW -> HIND LEGS GROW -> GILLS DEVELOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Eyes become visible -> hind legs grow -> fore legs grow -> tail disappear."
+            },
+            {
+                "predicted": "THE BLUE PIGMENT DISSOLVES FASTER BECAUSE IT IS MORE HYDROPHILIC, WHICH MEANS IT HAS A STRONGER AFFINITY FOR WATER. THIS RESULTS IN THE BLUE PIGMENT DIFFUSING AND DISSOLVING MORE QUICKLY IN THE WATER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Red. The molecules in hot water have higher average kinetic energy, which causes the molecules of the red pigment to diffuse and dissolve faster in the water."
+            },
+            {
+                "predicted": "THE VIDEO DOES NOT PROVIDE ENOUGH INFORMATION TO DETERMINE THE EXACT PERCENTAGE OF SHRINKAGE OF LAKE TULARE. HOWEVER, IT IS CLEAR THAT THE LAKE HAS SHRUNK SIGNIFICANTLY OVER TIME.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "More than 95%"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A PERSON LIGHTING UP A RING OF LED LIGHTS BY CONNECTING A WIRE TO A CIRCUIT BOARD. THE LED LIGHTS ARE THEN CONNECTED TO A BATTERY, AND THE CIRCUIT BOARD IS CONNECTED TO THE BATTERY. THE PERSON THEN TURNS ON THE CIRCUIT BOARD, AND THE LED LIGHTS START TO LIGHT UP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "It is due to Faraday's law of electromagnetic induction."
+            },
+            {
+                "predicted": "THE PLAYERS IN THE VIDEO ARE ENGAGING IN A BASKETBALL GAME.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "basketball"
+            },
+            {
+                "predicted": "YES, THE RIGHT TEAM'S OFFENSIVE STRATEGY CULMINATED IN A SUCCESSFUL SPIKE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE CAUSE OF THE RIGHT TEAM DOING DEFEND IS THAT THEY ARE ANTICIPATING A SERVE IN TENNIS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "volleyball second attack"
+            },
+            {
+                "predicted": "YES, THE DEFENSE OF THE RIGHT TEAM IS SUCCESSFUL, AS THEY SUCCESSFULLY BLOCKED THE BALL FROM SCORING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "YES, THE LEFT TEAM SCORED WITH A HEADER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE MIDDLE FINGER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The middle finger."
+            },
+            {
+                "predicted": "YES, BECAUSE THE PERSON TOUCHED THEM WITH BARE HANDS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "No, because the person touched them with bare hands."
+            },
+            {
+                "predicted": "THE PLAYERS ARE PERFORMING AEROBIC GYMNASTICS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "aerobic gymnastics"
+            },
+            {
+                "predicted": "THE VIDEO IS ABOUT THE MARTIAL ART OF CAPOEIRA.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "aerobic gymnastics"
+            },
+            {
+                "predicted": "THE ELECTRONS WILL FLOW TOWARDS THE RIGHT DUE TO THE GRAVITATIONAL FIELD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Left negative, right positive."
+            },
+            {
+                "predicted": "THE PLAYERS ARE PRACTICING DRIBBLING IN RUGBY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "basketball"
+            },
+            {
+                "predicted": "THE PERSON NEEDS TO DO THE STEP SHOWN IN THE VIDEO BECAUSE IT IS NECESSARY TO ARRANGE KITCHENWARE BY WEIGHT DISTRIBUTION TO OPTIMIZE CABINET STORAGE. THIS ENSURES THAT THE CABINET SPACE IS UTILIZED EFFICIENTLY AND THAT HEAVY ITEMS ARE PLACED ON THE BOTTOM SHELVES, WHILE LIGHTER ITEMS ARE PLACED ON THE TOP SHELVES. THIS ALSO HELPS IN PREVENTING DAMAGE TO THE CABINET DUE TO THE UNEVEN DISTRIBUTION OF WEIGHT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Because she wants to put the white plate inside the counter cabinet."
+            },
+            {
+                "predicted": "THE RIGHT TEAM GAINED A SCORE BY EXECUTING A SLAM DUNK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "volleyball spike"
+            },
+            {
+                "predicted": "THE PLAYERS PERFORM STRADDLE JUMP THREE TIMES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "1"
+            },
+            {
+                "predicted": "THE VIDEO IS ABOUT THE DYNAMICS OF A CRICKET BATTING STRATEGY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "football"
+            },
+            {
+                "predicted": "THE SPIKE OF THE RIGHT TEAM FAILED BECAUSE THE HITTER WAS OFFSIDE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "volleyball saved"
+            },
+            {
+                "predicted": "THE PEANUTS EMERGE FROM THE SOIL ON THE THIRD DAY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "On the fifth day. In the first five days, the seeds absorb water, initiate growth, and eventually emerge from the soil."
+            },
+            {
+                "predicted": "THE PERSON NEEDS TO DO THE STEP SHOWN IN THE VIDEO BECAUSE THEY ARE SECURING THE DYNAMIC PULLEY SYSTEM FOR ENERGY EFFICIENCY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Because he wants to tighten the locking carabiners for climbing."
+            },
+            {
+                "predicted": "THE LEFT TEAM FAILED TO DO SPIKE BECAUSE THEY ATTEMPTED TO SPIKE WITH TWO HANDS INSTEAD OF ONE, RESULTING IN AN ILLEGAL PLAY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "volleyball blocked"
+            },
+            {
+                "predicted": "THE PLAYERS PERFORM A DOUBLE SALTO BACKWARD TUCKED WITH 2 TWIST, AND THEN THEY ENTER A BUTTERFLY KICK SEQUENCE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "1 turn on one leg, free leg optional below horizontal"
+            },
+            {
+                "predicted": "THE CROSS OF THE RIGHT TEAM FAILED BECAUSE THE PLAYER'S KINETIC FORCE WAS MISCALCULATED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "football intercept"
+            },
+            {
+                "predicted": "THE LEFT TEAM ATTEMPTS A PENALTY KICK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "football cross"
+            },
+            {
+                "predicted": "THE 2-POINT SHOT OF THE RIGHT TEAM WAS NOT SUCCESSFUL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE PLAYERS PERFORM A SWITCH LEAP WITH 0.5 TURN BEFORE PERFORMING THE SALTO BACKWARD TUCKED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "switch leap with 0.5 turn"
+            },
+            {
+                "predicted": "THE PINK PINWHEEL ROTATES BECAUSE IT IS A TOY THAT IS DESIGNED TO SPIN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "It is due to the heat-induced convection currents created by the candles."
+            },
+            {
+                "predicted": "OPTION A IS THE CORRECT ANSWER. COLONIES ENHANCE GENETIC DIVERSITY BECAUSE ANTS FROM DIFFERENT COLONIES OFTEN INTERMIX WITHIN A SINGLE COLONY FOR EVOLUTIONARY BENEFITS. THIS ALLOWS FOR THE EXCHANGE OF GENES AND THE DEVELOPMENT OF NEW TRAITS, WHICH CAN LEAD TO INCREASED RESILIENCE AND ADAPTABILITY WITHIN THE COLONY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Colonies house their queen, their offspring, and their food, as well as serve as a shelter for the ants"
+            },
+            {
+                "predicted": "THE PLAYERS IN THE VIDEO ARE PARTICIPATING IN A CRICKET MATCH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "football"
+            },
+            {
+                "predicted": "THE 2-POINT SHOT OF THE LEFT TEAM FAILED BECAUSE THE PLAYER APPLIED EXCESSIVE SPIN SIMILAR TO A TENNIS SERVE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "basketball missed"
+            },
+            {
+                "predicted": "YES, THE BLOCK OF THE RIGHT TEAM WAS SUCCESSFUL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE PROFESSOR IS TRYING TO PROVE THAT THE EMPIRICAL T IS CLOSE ENOUGH TO THE CALCULATED T.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The empirical T is close enough to the calculated T."
+            },
+            {
+                "predicted": "YES, THE PLAYERS PERFORM A SCISSORS LEAP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE ROBOT NEEDS TO PICK UP THE PLANK AT FIRST BECAUSE IT IS A CRUCIAL STEP IN THE PROCESS OF BUILDING A BRIDGE TO ACCESS THE SCAFFOLDING PLATFORM. THE PLANK SERVES AS A BRIDGE TO CONNECT THE TWO STRUCTURES, ALLOWING THE ROBOT TO SAFELY AND SECURELY TRAVERSE THE GAP BETWEEN THEM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "To build a simple bridge for the him to get on the scaffolding platform."
+            },
+            {
+                "predicted": "YES, THE PLAYERS PERFORM EXPLOSIVE PUSH UPS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE CICADA IN THE VIDEO USES SPECIAL CHEMICAL SIGNALS TO ATTRACT FEMALES DURING ITS EMERGENCE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "There is a crack on its back when it starts the metamorphosis."
+            },
+            {
+                "predicted": "YES, THE PLAYERS PERFORM CAT LEAP (KNEES ABOVE HORIZONTAL ALTERNATELY) AFTER THE DOUBLE SALTO BACKWARD STRETCHED WITH 2 TWIST.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE CORRECT OPTION LETTER IS D: CONSERVATION OF MECHANICAL ENERGY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Conservation of mechanical energy."
+            },
+            {
+                "predicted": "THE FROGS ARE PLACED IN A BOWL OF WATER TO KEEP THEM HYDRATED AND COMFORTABLE. THE BOWL OF WATER HELPS TO KEEP THE FROGS' BODY TEMPERATURE REGULATED AND PROVIDES THEM WITH A SOURCE OF WATER TO DRINK. ADDITIONALLY, THE BOWL OF WATER CAN ALSO BE USED TO CLEAN THE FROGS' BODY BY REMOVING DIRT AND DEBRIS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "They need the moisture to survive"
+            },
+            {
+                "predicted": "THE PEANUT IN THE FOOD PROCESSOR COMES FROM A PAN WITH A LOT OF ROASTED PEANUTS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "A pan with a lot of roasted peanuts."
+            },
+            {
+                "predicted": "THE PURPOSE OF SIMULATING THESE CRASHES IS TO TEST THE DURABILITY OF THE CARS AND THE TIRES IN HIGH-IMPACT SITUATIONS. THIS CAN HELP MANUFACTURERS AND TIRE COMPANIES IMPROVE THEIR PRODUCTS TO BETTER WITHSTAND SUCH ACCIDENTS AND ENSURE THE SAFETY OF DRIVERS AND PASSENGERS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "We can learn about the structural integrity of these cars through these crashes"
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS A: THE NOSTRILS EXPAND TO INCREASE SENSORY CAPABILITY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The bridge of the nose gets higher."
+            },
+            {
+                "predicted": "THE PLAYERS ARE PERFORMING A CAPOEIRA DANCE MOVE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "aerobic gymnastics illusion"
+            },
+            {
+                "predicted": "THE SCIENTIFIC PRINCIPLE DEMONSTRATED IN THE VIDEO IS THE CONCEPT OF THE CHAIN REACTION. THIS IS CRUCIAL FOR UNDERSTANDING THE CONCEPT OF THE CHAIN REACTION BECAUSE IT EXPLAINS HOW ONE EVENT CAN LEAD TO ANOTHER, AND HOW THE ENERGY RELEASED FROM ONE EVENT CAN BE USED TO INITIATE ANOTHER. IN THE VIDEO, THE PERSON IS USING A TOOTHBRUSH TO ROLL A TOY CAR DOWN A LONG LINE OF TOOTHBRUSHES. THIS DEMONSTRATES THE CONCEPT OF A CHAIN REACTION, WHERE THE ENERGY RELEASED FROM THE TOOTHBRUSH ROLLING THE TOY CAR IS USED TO INITIATE THE MOVEMENT OF THE TOOTHBRUSHES, CREATING A CONTINUOUS CHAIN OF EVENTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Tension and Friction"
+            },
+            {
+                "predicted": "YES, BOTH TEAMS SCORED A PENALTY GOAL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE BLUE WATER IS MIXED WITH SPECIAL COMPOUNDS MAKING IT REPEL THE RED WATER THROUGH SURFACE TENSION EFFECTS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The blue water is hot and has lower density than the red water. Thus, it stays on the top."
+            },
+            {
+                "predicted": "THE DIFFERENT COLORS IN THE GLASSES ARE DUE TO THE PRESENCE OF DIFFERENT DYES IN THE SOLUTIONS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The different temperatures cause different convection currents"
+            },
+            {
+                "predicted": "THE SCIENTIFIC PRINCIPLE DEMONSTRATED IN THE VIDEO IS THE CONCEPT OF EVAPORATION. THE VIDEO SHOWS A CLOSE-UP OF A GREEN LEAF WITH WATER DROPLETS ON IT, AND THE WATER DROPLETS ARE SEEN TO EVAPORATE AND DISAPPEAR. THIS DEMONSTRATES THE PROCESS OF EVAPORATION, WHICH IS A FUNDAMENTAL CONCEPT IN THERMODYNAMICS AND THE BEHAVIOR OF WATER MOLECULES IN THE ENVIRONMENT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Evaporation"
+            },
+            {
+                "predicted": "THE PLAYERS IN THE VIDEO ARE PERFORMING A COMPLEX RUGBY DRILL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "basketball"
+            },
+            {
+                "predicted": "THE RIGHT TEAM USES A COMBINATION OF STRATEGIC DEFENSIVE MANEUVERS AND TEAMWORK TO SAVE THE SITUATION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "football caught"
+            },
+            {
+                "predicted": "THE LEFT TEAM USED THE OFFSIDE TRAP TO REGAIN POSSESSION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "basketball 2-point shot"
+            },
+            {
+                "predicted": "THE PLAYERS PERFORM A ROLL INTO A BRIDGE POSITION BEFORE PERFORMING THE SWITCH LEAP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "salto forward piked to cross stand"
+            },
+            {
+                "predicted": "YES, THE PLAYERS PERFORM ROUND-OFF.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE PERSON NEEDS TO DO THE STEP SHOWN IN THE VIDEO TO REMOVE THE BLOOD FROM THE RAW MEAT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Because he wants to cook the raw meat."
+            },
+            {
+                "predicted": "THEY USE SODIUM BICARBONATE AND CITRIC ACID TO CREATE SNOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "They use sodium polyacrylate and vinegar."
+            },
+            {
+                "predicted": "THERE ARE TWO PLAYERS PERFORMING GYMNASTICS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "2"
+            },
+            {
+                "predicted": "THE PLAYERS PERFORM A SYNCHRONIZED SWIMMING ROUTINE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "aerobic gymnastics scissors leap"
+            },
+            {
+                "predicted": "THE PERSON IS DRILLING HOLES INTO THE WOOD TO MAKE HOLES FOR THE NAILS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "To test the battery of the power drill."
+            },
+            {
+                "predicted": "THE MOST POPULATED COUNTRY IN 2023 IS INDIA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "India."
+            },
+            {
+                "predicted": "THE CRACK IN ETHIOPIA IS A RESULT OF ANCIENT TECTONIC MOVEMENTS THAT OCCURRED THOUSANDS OF YEARS AGO. THERE IS NO CURRENT ACTIVITY THAT IS CAUSING THE CRACK TO WIDEN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The African, Arabian and Somali Plates are pulling away from each other."
+            },
+            {
+                "predicted": "THE COWS IN THE VIDEO SEEM TO APPRECIATE THE MUSIC THE MOST. THEY ARE SEEN STANDING IN A FIELD AND MOVING THEIR HEADS AS THE BAND PLAYS. THE MUSIC SEEMS TO HAVE A CALMING EFFECT ON THE COWS, AS THEY STAND STILL AND ENJOY THE PERFORMANCE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The psychophysics of music"
+            },
+            {
+                "predicted": "YES, THE PLAYERS PERFORM BALANCE TURNS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "YES, A TEAM SCORES IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "YES, THE PLAYERS PERFORM TRANSITION FLIGHT FROM LOW BAR TO HIGH BAR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "yes"
+            },
+            {
+                "predicted": "THE MAN NEEDS TO DO THE STEP SHOWN IN THE VIDEO BECAUSE IT IS PART OF THE PROCESS OF ASSEMBLING THE TABLE. HE IS ALIGNING THE TABLETOP WITH THE FLOOR TO ENSURE PROPER WEIGHT DISTRIBUTION AND STABILITY. THIS STEP IS CRUCIAL FOR THE STRUCTURAL INTEGRITY OF THE TABLE AND PREVENTS IT FROM TIPPING OVER OR BECOMING UNSTABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Becasue he needs to make sure the mounting holes are facing up so that the legs can be mounted."
+            },
+            {
+                "predicted": "YES, THE RIGHT TEAM SUCCESSFULLY EXECUTED A CROSS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "no"
+            },
+            {
+                "predicted": "THE RIGHT TEAM IS DISCUSSING A HALFTIME STRATEGY FOR FOOTBALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "volleyball defend"
+            },
+            {
+                "predicted": "THE PLAYER IS CONTROLLING A TESLA IN THE VIDEO GAME SCENARIO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "An Audi"
+            },
+            {
+                "predicted": "THE LIGHT BULB LIGHTS UP DUE TO THE CHEMICAL REACTION WITHIN THE BULB.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The movement of the magnet relative to the motor induce an electrical current in the circuit."
+            },
+            {
+                "predicted": "THE RIGHT TEAM DOES SAVING AS IT IS CRUCIAL FOR STARTING A CHESS MATCH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "football cross"
+            },
+            {
+                "predicted": "THE RIGHT TEAM DOES TACKLE AS PART OF A LINE-OUT STRATEGY TO DISRUPT THE OPPONENT'S PASS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "football cross"
+            },
+            {
+                "predicted": "THE CORRECT STATEMENT IS THAT THE RAPA NUI PEOPLE WERE THE ONES WHO BUILT THE MOAI STATUES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "They were the ones who built the Moai statues."
+            },
+            {
+                "predicted": "THE MAIN TOPIC OF THE VIDEO IS FITNESS AND NUTRITION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Fitness and nutrition"
+            },
+            {
+                "predicted": "THE RELATIONSHIP BETWEEN THE TWO MEN IN THE VIDEO IS THAT OF A CASUAL CONVERSATION ABOUT THEIR HOBBIES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "They are having a serious discussion about their religious beliefs"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A VARIETY OF FLOWERS, INCLUDING SUNFLOWERS, DAISIES, CARNATIONS, AND LILIES. HOWEVER, THE VIDEO DOES NOT SHOW CHRYSANTHEMUMS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Carnations"
+            },
+            {
+                "predicted": "THE PURPOSE OF THE POLICE DEPARTMENT'S REQUEST FOR INFORMATION IN THE VIDEO IS TO GATHER INFORMATION ABOUT A MISSING PERSON.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "To identify individuals who may have been involved in a crime"
+            },
+            {
+                "predicted": "THE MAIN TOPIC OF THE VIDEO IS A WOMAN TALKING ABOUT A BASKETBALL PLAYER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "A woman speaking about a celebrity couple"
+            },
+            {
+                "predicted": "THE MOST RELIABLE CAR ACCORDING TO THE VIDEO IS THE HONDA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Honda"
+            },
+            {
+                "predicted": "THE MAN WAS SHOT DURING A ROBBERY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "He was involved in a home invasion"
+            },
+            {
+                "predicted": "THE STRAP ON THE SCUBA MASK IS USED TO ADJUST THE SIZE AND FIT OF THE MASK FOR A COMFORTABLE SEAL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "To adjust the size and fit of the mask for a comfortable seal"
+            },
+            {
+                "predicted": "THE WOMAN USED BLUE PAINT TO PAINT THE BORDER OF THE CANVAS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Blue"
+            },
+            {
+                "predicted": "THE KITTENS WERE BORN IN A LITTER OF 12.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The kittens were abandoned by their mother."
+            },
+            {
+                "predicted": "THE TEAM WEARING RED AND WHITE JERSEYS IS THE TEAM THAT WINS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The team that wins"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS CONDUCTING AN INTERVIEW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Reading from a paper"
+            },
+            {
+                "predicted": "THE PURPOSE OF DOWNLOADING AND INSTALLING SOFTWARE ON A COMPUTER IS TO PERFORM SPECIFIC TASKS OR FUNCTIONS, IMPROVE THE COMPUTER'S PERFORMANCE, AND ACCESS THE INTERNET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "To perform specific tasks or functions"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS WEARING A PLAID SHIRT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "A plaid shirt"
+            },
+            {
+                "predicted": "THE MAN WHO ENTERED THE VAN WAS WEARING A HELMET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The man who entered the van was carrying a bag."
+            },
+            {
+                "predicted": "THE PURPOSE OF USING CONDITIONAL FORMATTING IN EXCEL IS TO HIGHLIGHT SPECIFIC CELLS BASED ON CERTAIN CRITERIA. THIS CAN BE USED TO DRAW ATTENTION TO IMPORTANT INFORMATION, SUCH AS WARNING USERS ABOUT POTENTIAL ERRORS OR HIGHLIGHTING IMPORTANT DATA. IN THE VIDEO, THE USER HIGHLIGHTS SPECIFIC CELLS IN THE SPREADSHEET TO DRAW ATTENTION TO THE DATA THEY CONTAIN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "To highlight specific cells based on certain criteria"
+            },
+            {
+                "predicted": "THE CARDBOARD BOX IS USED TO STORE ICE RINK MATERIALS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "To store ice rink materials"
+            },
+            {
+                "predicted": "THE MAIN TOPIC OF THE VIDEO IS DENTISTRY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Dentistry"
+            },
+            {
+                "predicted": "THE MAIN TOPIC OF THE VIDEO IS A MAN TALKING ABOUT A CAR HE OWNS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "A new Nissan vehicle being reviewed"
+            },
+            {
+                "predicted": "THE MACHINE IS USED TO SHARPEN OBJECTS, SPECIFICALLY KNIVES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "To sharpen objects"
+            },
+            {
+                "predicted": "THE STATEMENT THAT IS TRUE ABOUT THE SPACE STATION CREW MEMBERS IS THAT THEY ARE ALL ENGINEERS FROM NASA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "They are all astronauts from different countries."
+            },
+            {
+                "predicted": "THE PURPOSE OF THE VIDEO IS TO SHOWCASE A NEW CAR MODEL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "To provide driving tips and safe practices"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WALKING THROUGH A FARM AT NIGHT, SHINING A FLASHLIGHT ON VARIOUS ANIMALS AND OBJECTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The person in the video is walking through a farm at night, shining a flashlight on various animals and objects."
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A DALMATIAN DOG BEING TRAINED TO PULL A FIRE ENGINE, WHICH IS NOT TRUE. THE VIDEO ALSO SHOWS A DALMATIAN DOG BEING USED AS A THERAPY DOG FOR CHILDREN WITH AUTISM, WHICH IS TRUE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "They are trained to pull fire engines."
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS WEARING A RED HAT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "A red hat"
+            },
+            {
+                "predicted": "THE CALENDAR IN THE VIDEO GAME MENU SERVES TO DISPLAY THE PLAYER'S ACHIEVEMENTS, SHOWCASING THE PROGRESS THEY HAVE MADE IN THE GAME.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "To show the schedule of basketball games"
+            },
+            {
+                "predicted": "THE BLUE TEAM SCORED THE MOST GOALS IN THE GAME.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Blue team"
+            },
+            {
+                "predicted": "THE MAN'S PROFESSION IS A SALESMAN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Salesman"
+            },
+            {
+                "predicted": "THE NAME OF THE DESSERT SHOWN IN THE VIDEO IS CHOCOLATE CAKE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Cheesecake"
+            },
+            {
+                "predicted": "THE AUSTRALIAN FLAG IN THE VIDEO REPRESENTS THE COUNTRY WHERE THE VIDEO WAS FILMED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "It indicates that the video features an event or situation related to Australia or its interests."
+            },
+            {
+                "predicted": "THE NEIGHBORS' REQUEST FOR POLICE PATROLS IN THE NEARBY WOODS IS LIKELY DUE TO THE PRESENCE OF ILLEGAL DUMPING OF TRASH, AS SUGGESTED BY THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "To prevent illegal dumping of trash"
+            },
+            {
+                "predicted": "THE NEWS SEGMENT IN THE VIDEO IS TO REPORT ON A LOCAL BASEBALL GAME.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "To cover a local parade"
+            },
+            {
+                "predicted": "THE NAME OF THE GAME SHOWN IN THE VIDEO IS HALO 5.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Halo 4"
+            },
+            {
+                "predicted": "THE MAIN INGREDIENT USED TO MAKE A HAMBURGER PATTY IS BEEF.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Beef"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A CAR DRIVING IN THE RAIN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The video shows a car driving through a neighborhood and encountering various obstacles."
+            },
+            {
+                "predicted": "B: THEY ARE ALL HUGGING EACH OTHER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "They are all standing inside an airport."
+            },
+            {
+                "predicted": "THE PURPOSE OF AN AUTO SHOW IS TO DISPLAY NEW AND CONCEPT CARS, SHOWCASE CAR DESIGNS, AND COMPARE DIFFERENT CAR MODELS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "To display new and concept cars"
+            },
+            {
+                "predicted": "THE VIDEO IS ABOUT A MAN GIVING A PRESENTATION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Healthy food and vitamins"
+            },
+            {
+                "predicted": "THE DRIVER WAS UNDER THE INFLUENCE OF ALCOHOL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The driver ran a red light."
+            },
+            {
+                "predicted": "THE FISH ARE BEING RELEASED BACK INTO THE WATER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The fish are being released back into the water."
+            },
+            {
+                "predicted": "THE PURPOSE OF USING A SPRAY CAN IN THE VIDEO IS TO CLEAN THE CAR'S WINDOWS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "To apply a protective coating on the car's glass"
+            },
+            {
+                "predicted": "THE WOMAN WAS ARRESTED FOR USING FAKE CASH TO MAKE A PURCHASE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "She was caught using fake cash to make a purchase."
+            },
+            {
+                "predicted": "THE PURPOSE OF THE MAP SHOWN IN THE VIDEO IS TO SHOW THE WEATHER FORECAST FOR A SPECIFIC AREA.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "To show the weather forecast for a specific area"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS MOMENTS BEFORE AN UBER SUV HIT A PEDESTRIAN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The video shows moments before an Uber SUV hit a pedestrian."
+            },
+            {
+                "predicted": "THE MAIN TOPIC OF THE VIDEO IS THE BENEFITS OF EATING FRUITS AND VEGETABLES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The differences between Greek and regular yogurt"
+            },
+            {
+                "predicted": "THE TOPIC OF DISCUSSION IN THE VIDEO IS TAX REFORM TIMELINE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Business and finance news"
+            },
+            {
+                "predicted": "THE PURPOSE OF THE SCARECROW IN THE VIDEO IS TO SCARE AWAY BIRDS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "To decorate the garden"
+            },
+            {
+                "predicted": "THE PURPOSE OF THE ANGLED WORKPLANE IN THE VIDEO IS TO CREATE A NEW OBJECT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "To modify an existing object"
+            },
+            {
+                "predicted": "THE POLICE OFFICERS IN THE VIDEO ARE WEARING CASUAL CLOTHES, AND THEY ARE NOT ESCORTING A GROUP OF MOTORCYCLES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "They are responding to a car accident."
+            },
+            {
+                "predicted": "THE PROCESS OF WELDING IS USED FOR ATTACHING WHEELS TO THE TRAILER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Joining metal parts together"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE SITTING IN A ROOM AND WATCHING A SPEAKER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The video shows a group of people sitting in a room and watching a speaker."
+            },
+            {
+                "predicted": "THE TOPIC OF THE VIDEO IS A MAN TALKING ABOUT HIS JOB AS A RADIO HOST.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "A man talking about his job as a radio host"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO IS MAKING A DRINK AT THE COFFEE SHOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Making a drink"
+            },
+            {
+                "predicted": "THE MAIN FOCUS OF THE VIDEO IS A SHOE ADVERTISEMENT FEATURING A BASKETBALL PLAYER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "A tweet about a shoe advertisement for a basketball player"
+            },
+            {
+                "predicted": "THE PURPOSE OF THE VIDEO IS TO SHOW HOW TO FIX A MOTORCYCLE ENGINE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "To show how to fix a motorcycle engine"
+            },
+            {
+                "predicted": "THE PURPOSE OF THE REPAIR CLINIC LOGO ON THE SIDE OF THE AIR CONDITIONER IS TO PROVIDE INFORMATION ABOUT THE BRAND OF THE AIR CONDITIONER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "To show that it has been approved by the repair clinic"
+            },
+            {
+                "predicted": "THE MAIN REASON WHY WOMEN LIVE LONGER THAN MEN IS DUE TO THE FACT THAT WOMEN HAVE A HIGHER METABOLISM. THIS MEANS THAT WOMEN BURN MORE CALORIES AND FAT THAN MEN, WHICH CONTRIBUTES TO THEIR LONGER LIFESPAN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Women have a better balance of hormones, particularly estrogen"
+            },
+            {
+                "predicted": "THE PURPOSE OF USING A POLISHING COMPOUND ON A CAR IS TO REMOVE SCRATCHES AND SWIRL MARKS FROM THE PAINT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "To remove scratches and swirl marks"
+            },
+            {
+                "predicted": "THE PURPOSE OF THE METAL PIECE THAT THE MAN PUTS ON TOP OF THE ENGINE IS TO ACT AS A SEAL BETWEEN THE ENGINE AND ANOTHER COMPONENT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "To act as a seal between the engine and another component"
+            },
+            {
+                "predicted": "THE NEW MANAGEMENT DEADLINE IS IMPORTANT BECAUSE IT WILL HELP TO IMPROVE PATIENT CARE, INCREASE THE PROFITS OF THE HOSPITAL, AND MAKE THE HOSPITAL MORE EFFICIENT. THE VIDEO SHOWS A MAN TALKING TO THE CAMERA, AND THE NEWS REPORTER IS SEEN IN THE BACKGROUND. THE MAN IS WEARING A WHITE SHIRT AND A BLUE TIE, AND HE IS TALKING ABOUT THE NEW MANAGEMENT DEADLINE. THE NEWS REPORTER IS SEEN IN THE BACKGROUND, AND THE VIDEO ENDS WITH THE MAN TALKING TO THE CAMERA.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "All of the above."
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A GROUP OF PEOPLE TRAVELING TO DIFFERENT LOCATIONS IN A CITY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "The video shows a group of people traveling to different locations in a city."
+            },
+            {
+                "predicted": "THE CLAMP IN THE VIDEO IS USED TO HOLD A PIECE OF WOOD IN PLACE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "To hold a pipe in place"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS MAKING A DISH CALLED \"SESAME BEEF.\"",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Garlic beef"
+            },
+            {
+                "predicted": "THE CAR SHOWN IN THE VIDEO HAS A MANUAL TRANSMISSION.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The car has a hybrid engine."
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO IS HOLDING A BABY IN HER ARMS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Showing off her shirt"
+            },
+            {
+                "predicted": "THE MAN IS MAKING A SANDWICH IN THE KITCHEN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "Making a sandwich"
+            },
+            {
+                "predicted": "THE REASON BEHIND LARRY BAER'S SUSPENSION AS THE CEO OF THE SAN FRANCISCO GIANTS IS DUE TO A VIDEO SHOWING HIM USING A RACIAL SLUR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "Unacceptable behavior and conduct"
+            },
+            {
+                "predicted": "THE MAIN FOCUS OF THE VIDEO IS A MAN WEARING A BLACK T-SHIRT WITH A LION ON IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "A basketball game being played in a stadium"
+            },
+            {
+                "predicted": "THE GREEN AND WHITE HATS WORN BY SOME INDIVIDUALS IN THE VIDEO ARE LIKELY WORN TO DISTINGUISH PLAYERS FROM SUPPORTERS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "To show support for a soccer team"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO IS COOKING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Cooking"
+            },
+            {
+                "predicted": "THE VIDEO SHOWS A NEWS ANCHOR REPORTING ON A STORY ABOUT A CELEBRITY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The video features a baby in a hospital bed."
+            },
+            {
+                "predicted": "THE VIDEO IS ABOUT A MAN SITTING AT A DESK WITH A LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "Explaining what a check is and why a cashier's check is better than a regular check."
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE ALL WEARING DIFFERENT COLORED SHIRTS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "They are all wearing different colored shirts."
+            },
+            {
+                "predicted": "THE MAIN INGREDIENT USED IN THE PREPARATION OF THE DISH SHOWN IN THE VIDEO IS FISH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Fish"
+            },
+            {
+                "predicted": "THE MAIN MESSAGE OF THE VIDEO IS THAT THE MAN IS DISCUSSING A TOPIC RELATED TO HIS FIELD OF EXPERTISE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "The man is discussing a topic related to his field of expertise."
+            },
+            {
+                "predicted": "THE PURPOSE OF THE VIDEO IS TO DEMONSTRATE HOW TO USE THE NEW TYPE OF EARBUDS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "To demonstrate how to use a new type of earbud"
+            },
+            {
+                "predicted": "THE MAIN TOPIC OF THE VIDEO IS THE CAUSES OF ADHD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "How to manage symptoms of ADHD"
+            },
+            {
+                "predicted": "THE MAIN TOPIC OF THE VIDEO IS COOKING AND FOOD PREPARATION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Cooking and food preparation"
+            },
+            {
+                "predicted": "THE PURPOSE OF THE NATIONAL WEATHER SERVICE'S WINTER WEATHER BRIEFING IS TO PROVIDE INFORMATION ABOUT THE UPCOMING WEATHER CONDITIONS IN NORMAN, OK AND SURROUNDING AREAS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "To inform people about the possibility of snow, sleet, and ice accumulations in certain areas"
+            },
+            {
+                "predicted": "THE PURPOSE OF THE TECHNOLOGY DEMONSTRATED IN THE VIDEO IS TO PROVIDE A PLATFORM FOR VIRTUAL REALITY EXPERIENCES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "To enable remote control of robots in space exploration"
+            },
+            {
+                "predicted": "THE SURFER WITH THE YELLOW SHIRT IS IN THE LEAD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "The surfer with the blue shirt wins the competition."
+            },
+            {
+                "predicted": "THE CAUSE OF THE ACCIDENT CAPTURED IN THE VIDEO IS A CAR RUNNING A RED LIGHT AND COLLIDING WITH A TRUCK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "A driver swerved to avoid hitting a deer, causing a collision with another vehicle."
+            },
+            {
+                "predicted": "THE PURPOSE OF THE GAME SHOWN IN THE VIDEO IS TO TEACH PLAYERS HOW TO BUILD AND DESIGN VIRTUAL OBJECTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "To create a virtual world for players to explore"
+            },
+            {
+                "predicted": "THE NAME OF THE DESSERT FEATURED IN THE VIDEO IS CHOCOLATE BALL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "Golden Ball"
+            },
+            {
+                "predicted": "THE PLAYER IS WEARING A YELLOW JERSEY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "The player is performing a slam dunk."
+            },
+            {
+                "predicted": "THE PURPOSE OF THE RED BULL ENERGY DRINK IN THIS VIDEO IS TO SERVE AS A BASE INGREDIENT FOR A SPECIAL ENERGY DRINK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "To increase focus and concentration for extreme sports"
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.013888888888888888
+    }
+}

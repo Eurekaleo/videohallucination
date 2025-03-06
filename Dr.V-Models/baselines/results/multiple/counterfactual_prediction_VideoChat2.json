@@ -1,0 +1,3602 @@
+[
+    {
+        "video": "causalqa/u-5hzYU2TG8_000043_000053.mp4",
+        "question": "What would happen if [person_1] did not walk slowly?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] would start running.",
+            "B": "[person_1] would accidentally step on a slippery surface and fall.",
+            "C": "[person_1] would not be able to keep up with the tempo.",
+            "D": "The crowd might start cheering louder for [person_1]."
+        },
+        "predict": "IF THE PERSON WALKED SLOWLY, IT WOULD LEAD TO THEM NOT BEING ABLE TO KEEP UP WITH THE TEMPO. SO, THE CORRECT ANSWER OPTION IS C, WHICH IS THE MOST LIKELY OUTCOME OF WALKING SLOWLY."
+    },
+    {
+        "video": "causalqa/a3ElG2aNI34_000031_000041.mp4",
+        "question": "What if [person_1] stood while playing the piano?",
+        "answer": "C",
+        "choices": {
+            "A": "The nearby lamp might fall over.",
+            "B": "The piano might start moving away from [person_1].",
+            "C": "[person_1] could still play normally.",
+            "D": "[person_1] would struggle to reach the keys."
+        },
+        "predict": "THE ANSWER IS C. [PERSON_1] WOULD STRUGGLE TO REACH THE KEYS."
+    },
+    {
+        "video": "causalqa/ioBHY_Np-IY_000153_000163.mp4",
+        "question": "What will happen if it rains?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] will continue playing despite the rain.",
+            "B": "[person_1] will enter the house.",
+            "C": "[person_1] will ride a bike home in the rain.",
+            "D": "[person_1] will build a rain shelter."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] WILL BUILD A RAIN SHELTER.."
+    },
+    {
+        "video": "causalqa/IeVotfCD8s4_000042_000052.mp4",
+        "question": "What will happen if [person_1] feel thirsty ?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will forget the piano notes.",
+            "B": "Maybe he will choose to sleep instead.",
+            "C": "will have some water",
+            "D": "[person_1] will look for some ice cream."
+        },
+        "predict": "THE POSSIBLE ANSWER IS C. I BELIEVE THE ANSWER IS INCORRECT AND DOES NOT MATCH THE GIVEN INFORMATION. COULD YOU PLEASE PROVIDE MORE DETAILS OR CONTEXT ON THE QUESTION?"
+    },
+    {
+        "video": "causalqa/bJwiIEBTj1k_000030_000040.mp4",
+        "question": "What would happen if [chair_1] broke while [person_1] was playing?",
+        "answer": "D",
+        "choices": {
+            "A": "The guitar will magically levitate to prevent damage.",
+            "B": "[chair_1] will cause all nearby chairs to collapse in sequence.",
+            "C": "[person_1] will grab a passing sheet of music to cushion his fall.",
+            "D": "[person_1] would fall onto the ground and break his guitar as [chair_1] breaks underneath him."
+        },
+        "predict": "THE ANSWER IS (D) [PERSON_1] WOULD FALL ONTO THE GROUND AND BREAK HIS GUITAR AS [CHAIR_1] BREAKS UNDERNEATH HIM.."
+    },
+    {
+        "video": "causalqa/RdnubBQolVk_000002_000012.mp4",
+        "question": "What will happen if [person_1] makes the shuttlecock broken while hitting it?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will ask [person_2] to stop playing for a bit.",
+            "B": "[person_2] will initiate a discussion about the shuttlecock brand.",
+            "C": "[person_2] may have to take another shuttlecock to play.",
+            "D": "[person_2] will blame the broken shuttlecock for losing points."
+        },
+        "predict": "I'M SORRY, THE ANSWER PROVIDED DOESN'T SEEM TO BE RELATED TO THE QUESTION. COULD YOU PLEASE PROVIDE ME WITH THE CORRECT QUESTION?"
+    },
+    {
+        "video": "causalqa/Qxa4NxH36D4_000084_000094.mp4",
+        "question": "What will happen if the chair breaks suddenly?",
+        "answer": "C",
+        "choices": {
+            "A": "The carpet below will soften [person_1]'s landing.",
+            "B": "[person_1] will grab the guitar from the floor to cushion the fall.",
+            "C": "[person_1] will fall onto the ground.",
+            "D": "[person_2] will rush over to steady [person_1] before falling."
+        },
+        "predict": "THE ANSWER IS C. [PERSON_1] WILL FALL ONTO THE GROUND."
+    },
+    {
+        "video": "causalqa/EBS1LS46bf4_000000_000010.mp4",
+        "question": "What if [person_1] used one hand to do this?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] might impress onlookers with unexpected skill.",
+            "B": "[person_1] might accidentally drop the object and lead to chaos.",
+            "C": "[person_1] would likely cause a distraction to others.",
+            "D": "His that arm would be very sore."
+        },
+        "predict": "IF PERSON 1 USED ONE HAND TO DO THIS, IT WOULD LEAD TO CHAOS. SO, THE ANSWER TO THE QUESTION IS C."
+    },
+    {
+        "video": "causalqa/2hSSDJdcAbA_000050_000060.mp4",
+        "question": "What would happen if [person_5] cheers for himself?",
+        "answer": "D",
+        "choices": {
+            "A": "The lights could go out, leaving [person_5] amazed in the dark.",
+            "B": "[person_5] might decide to perform an unexpected dance routine.",
+            "C": "[person_5] might suddenly start singing loudly, surprising everyone.",
+            "D": "Others would cheer for [person_5] together."
+        },
+        "predict": "BASED ON THE GIVEN INFORMATION, THE ANSWER IS D. OTHERS WOULD CHEER FOR [PERSON_5] TOGETHER.."
+    },
+    {
+        "video": "causalqa/e8SyruHcjuI_000008_000018.mp4",
+        "question": "What will happen if the [person_1] peels the potatoes?",
+        "answer": "D",
+        "choices": {
+            "A": "The [person_1] would be interrupted while playing game.",
+            "B": "[person_1] will make a mess in the kitchen that everyone enjoys.",
+            "C": "The [person_1] will decide to become a professional chef.",
+            "D": "The [person_1] will cook a gourmet meal instead of finishing the project."
+        },
+        "predict": "THE CORRECT ANSWER IS A: THE [PERSON_1] WOULD BE INTERRUPTED WHILE PLAYING GAME."
+    },
+    {
+        "video": "causalqa/wxKgMj3MVFU_000123_000133.mp4",
+        "question": "What will happen if [person_1] doesn't open his hands?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1]'s shadow will detach and dance alone.",
+            "B": "The audience will suddenly stand up and applaud for [person_1].",
+            "C": "[person_1] will be propelled forward by an unseen force.",
+            "D": "[person_1] can't turn around and jump."
+        },
+        "predict": "THE OPTION LETTER FOR THE ANSWER IS C."
+    },
+    {
+        "video": "causalqa/qc7Nmkvbtjg_000031_000041.mp4",
+        "question": "What will happen if the [cup_1] falls to the floor?",
+        "answer": "A",
+        "choices": {
+            "A": "The [cup_1] will be picked up by [person_1].",
+            "B": "The sunlight will become dimmer in the room.",
+            "C": "The pieces of [cup_1] will arrange themselves neatly on the floor.",
+            "D": "[Person_1] will make a sudden decision to redecorate."
+        },
+        "predict": "IF THE CUP FALLS TO THE FLOOR, THE PERSON WILL PICK IT UP. THEREFORE, THE ANSWER IS A."
+    },
+    {
+        "video": "causalqa/_FubIvDQYHw_000009_000019.mp4",
+        "question": "What will happen if [person_1] is tired?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] might fall asleep on the horse, causing it to stop.",
+            "B": "[person_1] will start singing aloud unexpectedly.",
+            "C": "[person_1] will mistakenly lead the horse to the wrong path.",
+            "D": "[person_1] will get off the horse."
+        },
+        "predict": "IF PERSON 1 IS TIRED, THEY MAY FALL ASLEEP ON THE HORSE AND THE HORSE WILL STOP."
+    },
+    {
+        "video": "causalqa/gCSS55ayr64_000038_000048.mp4",
+        "question": "what will happen if [person_2] touches the mirror?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_2] might unlock hidden memories.",
+            "B": "[person_2]'s reflection will also touch the mirror.",
+            "C": "[person_2] will get absorbed into the mirror.",
+            "D": "The mirror will shatter into pieces."
+        },
+        "predict": "THE ANSWER IS D. THE MIRROR WILL SHATTER INTO PIECES."
+    },
+    {
+        "video": "causalqa/17iQalBxrHc_000008_000018.mp4",
+        "question": "What will happen if [person_1] whistles too loudly?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] will attract a crowd of people.",
+            "B": "Nothing will happen.",
+            "C": "The lights will flicker, causing a minor distraction.",
+            "D": "Nearby birds will mimic the sound."
+        },
+        "predict": "THE ANSWER IS D. NEARBY BIRDS WILL MIMIC THE SOUND.."
+    },
+    {
+        "video": "causalqa/fuIh5SCOGxQ_000016_000026.mp4",
+        "question": "What will happen if the dog bites [person_1]?",
+        "answer": "D",
+        "choices": {
+            "A": "The dog will start dancing around happily.",
+            "B": "[person_1] will suddenly have to play a game of fetch with the dog.",
+            "C": "The neighbor will offer [person_1] a basket of apples as a peace offering.",
+            "D": "[person_1] will shout and cry."
+        },
+        "predict": "THE CORRECT ANSWER IS D: [PERSON_1] WILL SHOUT AND CRY.."
+    },
+    {
+        "video": "causalqa/O4Wj8ibDCBo_000209_000219.mp4",
+        "question": "What will [person_1] do if it rains?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] will dance joyfully in the rain.",
+            "B": "[person_1] will quickly cover the cow with an umbrella.",
+            "C": "[person_1] will start singing a song about the rain.",
+            "D": "will stop riding the horse"
+        },
+        "predict": "THE ANSWER IS D. IT SEEMS THAT THE ANSWER IS INCORRECT AND MAY HAVE BEEN PROVIDED BY A PERSON WHO DID NOT UNDERSTAND THE QUESTION OR MAY HAVE MISUNDERSTOOD IT. THEREFORE, I CANNOT PROVIDE AN ANSWER TO THE QUESTION."
+    },
+    {
+        "video": "causalqa/X-IQeyo1Sns_000006_000016.mp4",
+        "question": "What if the rope broke?",
+        "answer": "D",
+        "choices": {
+            "A": "As the rope breaks, [person_1] will land softly on a trampoline and bounce back.",
+            "B": "[person_1] will float momentarily before gliding to the ground.",
+            "C": "[person_1] will catch the trapeze artist swinging by.",
+            "D": "[person_1]'s right foot would hit the floor"
+        },
+        "predict": "I'M SORRY, THE PROVIDED ANSWER SEEMS TO BE INCORRECT. CAN YOU PLEASE DOUBLE-CHECK THE ANSWER AND PROVIDE IT AGAIN?"
+    },
+    {
+        "video": "causalqa/zaJ6BoC548g_000054_000064.mp4",
+        "question": "What will happen if it rains?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_2] will start thinking about buying an umbrella.",
+            "B": "The slackline might become a makeshift shelter for [person_2].",
+            "C": "[person_2] may not continue slacklining.",
+            "D": "[person_2] might go on stage and perform instead."
+        },
+        "predict": "IF IT RAINS, THE SLACKLINE MIGHT BECOME A MAKESHIFT SHELTER FOR THE PERSON USING IT, AS PER THE GIVEN OPTION. THE ANSWER LETTER IS C."
+    },
+    {
+        "video": "causalqa/EsarK5343U4_000335_000345.mp4",
+        "question": "What will happen if the trowel is broken while [person_1] is using it?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] may have to use a new trowel.",
+            "B": "The sky might suddenly get very bright.",
+            "C": "[person_1] may decide to start painting the walls.",
+            "D": "[person_1] might call friends to help with the garden."
+        },
+        "predict": "IF THE TROWEL BREAKS WHILE [PERSON_1] IS USING IT, HE/SHE MAY HAVE TO USE A NEW TROWEL. THEREFORE, THE CORRECT OPTION LETTER IS C."
+    },
+    {
+        "video": "causalqa/V9vyx_fS-6o_000161_000171.mp4",
+        "question": "What will happen if [person_1] drops the product on the floor?",
+        "answer": "C",
+        "choices": {
+            "A": "A rush of air will cause papers in the room to scatter everywhere.",
+            "B": "The floor will crack under the weight of the product dropping.",
+            "C": "[person_1] will pick it up without any damage.",
+            "D": "[person_1] may decide to buy a completely different product."
+        },
+        "predict": "BASED ON THE PROVIDED ANSWER, THE CORRECT OPTION LETTER TO CHOOSE FROM IS C. [PERSON_1] WILL PICK IT UP WITHOUT ANY DAMAGE."
+    },
+    {
+        "video": "causalqa/htx0eMMBkeA_000031_000041.mp4",
+        "question": "What if someone proposes betting money in the game?",
+        "answer": "A",
+        "choices": {
+            "A": "The other people would refuse that.",
+            "B": "She will gain unexpected financial insight.",
+            "C": "[person_6] will develop a strategic advantage and start winning consistently.",
+            "D": "The group dynamics will drastically change, leading to a heated debate."
+        },
+        "predict": "IF SOMEONE PROPOSES BETTING MONEY IN THE GAME, THEN THE GROUP DYNAMIC WILL CHANGE. HOWEVER, I'M NOT SURE IF THE GIVEN OPTION IS THE RIGHT ONE. CAN YOU PLEASE PROVIDE MORE CONTEXT OR INFORMATION ABOUT THE GAME AND WHAT IS EXPECTED TO HAPPEN?"
+    },
+    {
+        "video": "causalqa/85M0Q3pQ17M_000238_000248.mp4",
+        "question": "What will happen if [person_2] twisted [person_2]'s neck suddenly?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_2] would laugh uncontrollably at jokes.",
+            "B": "Then [person_2] might start singing loudly.",
+            "C": "[person_2] might bake a cake immediately.",
+            "D": "[person_2] will lie on the bed for a while."
+        },
+        "predict": "I'M SORRY, BUT THE ANSWER PROVIDED SEEMS TO BE A WRONG OPTION. THE OPTIONS GIVEN FOR THE QUESTION SEEM TO BE A JOKE OR NOT RELATED TO THE QUESTION. I WOULD SUGGEST REVIEWING THE QUESTION AND PROVIDING A VALID ANSWER."
+    },
+    {
+        "video": "causalqa/9eirnD868Zs_000017_000027.mp4",
+        "question": "What would hppen if the paper falls on the ground",
+        "answer": "C",
+        "choices": {
+            "A": "A spontaneous dance might break out.",
+            "B": "[person_1] will call for help from [cell phone_1].",
+            "C": "[person_1] would not stand there.",
+            "D": "The venue lights might begin to flicker."
+        },
+        "predict": "THE PAPER FALLS ON THE GROUND, AND A SPONTANEOUS DANCE BREAKS OUT IN THE VIDEO."
+    },
+    {
+        "video": "causalqa/lEBmSc5E0dA_000026_000036.mp4",
+        "question": "What would happen if the [person_1] could not rip the wrapper?",
+        "answer": "D",
+        "choices": {
+            "A": "The wrapper would become invisible, confusing [person_2].",
+            "B": "[person_1] would become the unlikely hero of the day.",
+            "C": "The wrapper might explode, scattering its contents everywhere.",
+            "D": "The [person_2] would help the [person_1]."
+        },
+        "predict": "BASED ON THE PROVIDED VIDEO, THE ANSWER SEEMS TO BE D, WHICH SUGGESTS THAT IF THE PERSON CAN'T RIP THE WRAPPER, IT MIGHT EXPLODE, SCATTERING ITS CONTENTS EVERYWHERE."
+    },
+    {
+        "video": "causalqa/ymjpBYQkadk_000012_000022.mp4",
+        "question": "What would happen if [person_1] has been comforted by [persoon_2] when losing the game?",
+        "answer": "A",
+        "choices": {
+            "A": "The baby bottle will drop on the [person_1].",
+            "B": "[person_1] might spontaneously start juggling balls to cheer [person_2].",
+            "C": "[person_2] would start crafting a new game plan on the spot.",
+            "D": "[person_1] will attempt to perform a magic trick instead."
+        },
+        "predict": "THE CORRECT ANSWER IS D. [PERSON_1] WILL ATTEMPT TO PERFORM A MAGIC TRICK INSTEAD.."
+    },
+    {
+        "video": "causalqa/2m_4dwouElQ_000022_000032.mp4",
+        "question": "What happens if his demonstration goes wrong?",
+        "answer": "B",
+        "choices": {
+            "A": "The lights could flicker and go out.",
+            "B": "He'll be fired.",
+            "C": "The audience may start a standing ovation for [person_1].",
+            "D": "The desk might suddenly collapse."
+        },
+        "predict": "IF HIS DEMONSTRATION GOES WRONG, HE MIGHT FACE TERMINATION."
+    },
+    {
+        "video": "causalqa/gtlAn-4zcYU_000115_000125.mp4",
+        "question": "What will happen if it rains?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_10] will find an umbrella nearby and start singing.",
+            "B": "Perhaps [person_8] will dance in the rain.",
+            "C": "[person_8] and [person_10] maybe stop working.",
+            "D": "[person_10] will spontaneously start planting flowers."
+        },
+        "predict": "THE CORRECT ANSWER IS D. [PERSON_10] WILL SPONTANEOUSLY START PLANTING FLOWERS.."
+    },
+    {
+        "video": "causalqa/LojlxlNC5IU_000524_000534.mp4",
+        "question": "What will happen if [person_2] falls down?",
+        "answer": "D",
+        "choices": {
+            "A": "Birds could start singing loudly.",
+            "B": "Leaves could start falling from the trees.",
+            "C": "A sudden breeze might knock over nearby objects.",
+            "D": "Perhaps [person_2] will cry."
+        },
+        "predict": "IF [PERSON_2] FALLS DOWN, THEY MIGHT END UP CRYING."
+    },
+    {
+        "video": "causalqa/eWL7cn3UddM_000012_000022.mp4",
+        "question": "What will happen if [person_1] falls?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will start a domino effect with the surrounding objects.",
+            "B": "[person_1] might release balloons into the sky.",
+            "C": "[person_1] will fall on the buoy mattress.",
+            "D": "[person_1] might trigger a security alarm."
+        },
+        "predict": "THE ANSWER IS C. [PERSON_1] MIGHT FALL ON THE BUOY MATTRESS."
+    },
+    {
+        "video": "causalqa/BxSryaEe9sM_000003_000013.mp4",
+        "question": "What if [person_1] smashed at a balloon?",
+        "answer": "D",
+        "choices": {
+            "A": "The balloon would release a sweet fragrance.",
+            "B": "The [person_1] would become startled and jump back.",
+            "C": "The air from the balloon would gently lift [person_1]'s hair.",
+            "D": "The balloon would be broken immediately."
+        },
+        "predict": "THE OPTION LETTER THAT IS THE CORRECT ANSWER IS D. THE BALLOON WOULD BE BROKEN IMMEDIATELY."
+    },
+    {
+        "video": "causalqa/dRqjGGEcUDc_000332_000342.mp4",
+        "question": "What will happen if [person_1] spills the chess piece?",
+        "answer": "C",
+        "choices": {
+            "A": "Then [person_1] might decide to start a new game instead.",
+            "B": "[person_1] would suddenly feel inspired to organize a calm conversation.",
+            "C": "[person_1] and [person_2] will stop playing.",
+            "D": "[person_1] would take it as a sign to change strategies and discuss it with [person_2]."
+        },
+        "predict": "THE ANSWER IS NOT RELATED TO THE VIDEO AND IS NOT A VALID ANSWER OPTION. PLEASE PROVIDE A VALID OPTION RELATED TO THE VIDEO."
+    },
+    {
+        "video": "causalqa/KXhyza7pePQ_000017_000027.mp4",
+        "question": "What would happen if it rained suddenly?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] would let the rain enhance their warm-up session by jogging in the downpour.",
+            "B": "[person_1] would start dancing in the rain instead of seeking shelter.",
+            "C": "[person_1] might forget about the rain and continue lighting the candle despite getting wet.",
+            "D": "[person_1] will cycle to find shelter from the rain."
+        },
+        "predict": "THE CORRECT ANSWER IS D. [PERSON_1] WILL CYCLE TO FIND SHELTER FROM THE RAIN.."
+    },
+    {
+        "video": "causalqa/mcjztxjCKWg_000181_000191.mp4",
+        "question": "What will happen if the power is off?",
+        "answer": "B",
+        "choices": {
+            "A": "The generator will start automatically.",
+            "B": "Nothing would happen",
+            "C": "Candles may magically light up.",
+            "D": "[person_1] will begin shouting for help due to sudden darkness."
+        },
+        "predict": "IF THERE IS A POWER OUTAGE, THE GENERATOR WILL START AUTOMATICALLY."
+    },
+    {
+        "video": "causalqa/uAeyW12yLUo_000065_000075.mp4",
+        "question": "What will happen if [person_6] stops reading?",
+        "answer": "C",
+        "choices": {
+            "A": "The ceiling fan might stop working suddenly.",
+            "B": "A teacher might begin delivering a lecture.",
+            "C": "Students may have lunch.",
+            "D": "[person_6] might begin painting a canvas nearby."
+        },
+        "predict": "THE ANSWER IS C. STUDENTS MAY HAVE LUNCH."
+    },
+    {
+        "video": "causalqa/I_jM8zr3O74_000002_000012.mp4",
+        "question": "What if the [person_1] wants to use other vehicles?",
+        "answer": "C",
+        "choices": {
+            "A": "The [person_1] will rent a hot air balloon to travel.",
+            "B": "The [person_1] might call in a cavalry charge.",
+            "C": "The [person_1] will park the scooter home first.",
+            "D": "The [person_1] might decide to build a new path."
+        },
+        "predict": "THE CORRECT ANSWER IS D. THE [PERSON_1] MIGHT DECIDE TO BUILD A NEW PATH.."
+    },
+    {
+        "video": "causalqa/QOFb7ZEFE2w_000067_000077.mp4",
+        "question": "What will happen if [person_1] cries?",
+        "answer": "B",
+        "choices": {
+            "A": "The room will begin to fill with water.",
+            "B": "[person_1] will call his mother.",
+            "C": "[person_1] might inadvertently start a fire.",
+            "D": "[person_1] might spill a cup of tea."
+        },
+        "predict": "THE ANSWER IS (D): [PERSON_1] MIGHT SPILL A CUP OF TEA.."
+    },
+    {
+        "video": "causalqa/mLRSUt7rO6I_000021_000031.mp4",
+        "question": "What would happen if [person_1] felt tired?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] might suddenly switch to dancing to regain energy.",
+            "B": "[person_1] could potentially fall off the stage due to exhaustion.",
+            "C": "It is possible that [person_1] would take a short rest.",
+            "D": "[person_1] might begin singing loudly to stay awake."
+        },
+        "predict": "BASED ON THE GIVEN OPTIONS, THE ANSWER SEEMS TO BE D. IT IS POSSIBLE THAT [PERSON_1] MIGHT BEGIN SINGING LOUDLY TO STAY AWAKE."
+    },
+    {
+        "video": "causalqa/4gsaNJVBE9w_000036_000046.mp4",
+        "question": "What will happen if [person_1] fell down on the grass?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_2] might attempt to juggle to distract onlookers.",
+            "B": "A sudden burst of applause from a nearby crowd.",
+            "C": "[person_2] and [person_3] will start inspecting the grass for bugs.",
+            "D": "[person_2] and [person_3] will stretch their hands."
+        },
+        "predict": "THE CORRECT OPTION LETTER IS D."
+    },
+    {
+        "video": "causalqa/0u_UwM-p_I4_000025_000035.mp4",
+        "question": "What would happen if [person_2] weren't there?",
+        "answer": "C",
+        "choices": {
+            "A": "The audience might suspect technical issues.",
+            "B": "[person_1] might suddenly start drumming instead.",
+            "C": "[person_2] would not play the drums.",
+            "D": "The performance might switch to acoustic mode."
+        },
+        "predict": "IF [PERSON_2] WEREN'T THERE, THE AUDIENCE MIGHT SUSPECT TECHNICAL ISSUES."
+    },
+    {
+        "video": "causalqa/PRJ_vBy3XZg_000015_000025.mp4",
+        "question": "What if the bubble water comes into [person_2]'s eyes?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will throw the bubble wand away.",
+            "B": "[person_2] will start to laugh spontaneously.",
+            "C": "The string will fall on the ground.",
+            "D": "[person_1] might drop the bubble wand."
+        },
+        "predict": "THE BUBBLE WATER IN THE VIDEO COULD ACCIDENTALLY SPILL ON THE PERSON WHO IS STANDING IN FRONT OF IT, LEADING TO AN UNFORTUNATE OUTCOME. THEREFORE, THE CORRECT OPTION LETTER FOR THE ANSWER WOULD BE D - THE BUBBLE WAND MIGHT DROP."
+    },
+    {
+        "video": "causalqa/MgV7fiP_-NA_000065_000075.mp4",
+        "question": "What would happen if those cymbals did not belong to [person_1]?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] would attempt to negotiate for the cymbals.",
+            "B": "[person_1] would likely return the cymbals quickly.",
+            "C": "[person_1] might be deemed as very impolite.",
+            "D": "Security could intervene and ask [person_1] to leave."
+        },
+        "predict": "BASED ON THE INFORMATION PROVIDED, THE ANSWER OPTION THAT IS RELATED TO THE VIDEO IS D. SECURITY COULD INTERVENE AND ASK [PERSON_1] TO LEAVE."
+    },
+    {
+        "video": "causalqa/1hJnwE11XZ0_000000_000010.mp4",
+        "question": "What will happen if [person_1] doesn't play the flute?",
+        "answer": "C",
+        "choices": {
+            "A": "The [person_1] could begin dancing with an invisible partner.",
+            "B": "Then [person_1] might decide to play the trumpet instead and lead a parade.",
+            "C": "[person_1] will give up.",
+            "D": "[person_1] might attempt to teach music to the nearby birds."
+        },
+        "predict": "THE OPTION LETTER THAT IS RELATED TO THE QUESTION IS C. THE PERSON IN THE VIDEO MIGHT DECIDE TO GIVE UP."
+    },
+    {
+        "video": "causalqa/GfurY92Kgtw_000023_000033.mp4",
+        "question": "What will happen if [person_1] can't play the gong?",
+        "answer": "A",
+        "choices": {
+            "A": "Someone will help [person_1] to play the gong.",
+            "B": "The audience might applaud thinking it's part of the performance.",
+            "C": "[person_1] will attempt to sing instead to cover up the mistake.",
+            "D": "The gong might fall and create a loud noise that distracts everyone."
+        },
+        "predict": "IF [PERSON_1] IS UNABLE TO PLAY THE GONG, SOMEONE WILL ASSIST THEM. THEREFORE, THE CORRECT OPTION LETTER IS A."
+    },
+    {
+        "video": "causalqa/ykD3IEA3c5E_000059_000069.mp4",
+        "question": "What will happen if [person_1] finishes his work?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will wait for [person_2] to leave together.",
+            "B": "[person_1] might assume their responsibilities are concluded and announce a meeting.",
+            "C": "[person_2] might decide to leave immediately due to the rush hour.",
+            "D": "[person_2] will start cleaning the workspace to pass the time."
+        },
+        "predict": "I'M SORRY, BUT THE PROVIDED ANSWER IS UNRELATED TO THE VIDEO QUESTION. PLEASE PROVIDE THE CORRECT ANSWER TO THE VIDEO QUESTION."
+    },
+    {
+        "video": "causalqa/2h06BZKhr8U_000001_000011.mp4",
+        "question": "what will happen if [person_1] gets his clothes wet?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] might slip and fall on a puddle, causing him to lose his balance.",
+            "B": "[person_1] will have to change into other clothes",
+            "C": "The water might damage [person_1]'s shoes, causing them to squeak loudly.",
+            "D": "[person_1] will start to shiver uncontrollably, even if the weather is warm."
+        },
+        "predict": "IF PERSON 1 GETS THEIR CLOTHES WET, THEY MIGHT SLIP AND FALL ON A PUDDLE, CAUSING THEM TO LOSE THEIR BALANCE."
+    },
+    {
+        "video": "causalqa/pOOlKAyHthY_000015_000025.mp4",
+        "question": "What would happen if the [person_1] wore gloves?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] would accidentally drop the cup they are holding.",
+            "B": "[person_1] would forget the next line of the song.",
+            "C": "The hands of the [person_1] would be protected.",
+            "D": "Maybe someone would mistake [person_1]'s gestures for a dance."
+        },
+        "predict": "IF THE PERSON WEARS GLOVES, THEY WOULD BE PROTECTED FROM POTENTIAL ACCIDENTS, SUCH AS DROPPING THE CUP THEY ARE HOLDING. SO, THE ANSWER IS C: THE HANDS OF THE [PERSON_1] WOULD BE PROTECTED."
+    },
+    {
+        "video": "causalqa/dLMTgWMh4Q0_000003_000013.mp4",
+        "question": "What would happen if [person_1] got bored?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] might stop riding the unicycle.",
+            "B": "[person_1]'s juggling balls might fall unexpectedly.",
+            "C": "[person_1] could start performing magic tricks with the unicycle.",
+            "D": "The unicycle could suddenly break down from stress."
+        },
+        "predict": "IF PERSON 1 BECOMES BORED, THEY MIGHT STOP RIDING THE UNICYCLE, AS SHOWN IN THE VIDEO. THEREFORE, THE CORRECT ANSWER IS C."
+    },
+    {
+        "video": "causalqa/kpXWRlZtJhM_000045_000055.mp4",
+        "question": "What will happen if [person_1] drops the lute?",
+        "answer": "A",
+        "choices": {
+            "A": "Maybe the lute will break.",
+            "B": "The lute could play a final note on its own.",
+            "C": "A bird might start singing nearby.",
+            "D": "A crowd could suddenly gather around [person_1]."
+        },
+        "predict": "THE ANSWER IS NOT RELATED TO THE QUESTION. COULD YOU PLEASE PROVIDE THE CORRECT ANSWER?"
+    },
+    {
+        "video": "causalqa/naAFGNkEGxM_000481_000491.mp4",
+        "question": "What would happen if there were no chair for [person_2]?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_2] would attempt to climb higher for a better perspective.",
+            "B": "[person_2] would sit on the floor.",
+            "C": "[person_2] would start a musical performance to entertain others.",
+            "D": "[person_2] would casually move to a different room for a better view."
+        },
+        "predict": "IF THERE WERE NO CHAIR FOR [PERSON_2], THEY WOULD ATTEMPT TO CLIMB HIGHER FOR A BETTER PERSPECTIVE."
+    },
+    {
+        "video": "causalqa/aEg3cdccYkM_000109_000119.mp4",
+        "question": "What will happen if [person_1] planed a bigger piece of wood?",
+        "answer": "B",
+        "choices": {
+            "A": "The wood might curve unexpectedly.",
+            "B": "[person_1] would have to spend more time to plane it and show to the camera.",
+            "C": "[person_1] might need to adjust the plane's blade.",
+            "D": "More dust might settle on the equipment."
+        },
+        "predict": "THE ANSWER IS D. MORE DUST MIGHT SETTLE ON THE EQUIPMENT."
+    },
+    {
+        "video": "causalqa/8LhQ_YosI24_000000_000010.mp4",
+        "question": "What would happen if [person_1] threw the guitar on the tree?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] would take it down and buy a new guitar.",
+            "B": "The tree branches could transform into a swing for the guitar.",
+            "C": "A squirrel might bring the guitar down to play.",
+            "D": "A nearby bird might start making guitar sounds."
+        },
+        "predict": "THE ANSWER IS C. A SQUIRREL MIGHT BRING THE GUITAR DOWN TO PLAY."
+    },
+    {
+        "video": "causalqa/23WY0pcM_Z0_000003_000013.mp4",
+        "question": "What will happen if the rope breaks again?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] and [person_7] will get bored.",
+            "B": "[person_1] will start to juggle the pieces of rope.",
+            "C": "[person_1] and [person_7] may suddenly decide to build a new rope bridge.",
+            "D": "[person_1] will begin to perform magic tricks."
+        },
+        "predict": "THE CORRECT ANSWER IS A. [PERSON_1] AND [PERSON_7] WILL GET BORED."
+    },
+    {
+        "video": "causalqa/3b-O4vuB6go_000146_000156.mp4",
+        "question": "What will [person_1] do if [person_1] finishes shining one shoes?",
+        "answer": "C",
+        "choices": {
+            "A": "Possibly, [person_1] will start singing a song.",
+            "B": "[person_1] might feel like the room needs to be redecorated.",
+            "C": "[person_1] will shine the other shoe.",
+            "D": "[person_1] will suddenly decide to go for a jog."
+        },
+        "predict": "THE ANSWER IS C. [PERSON_1] WILL SHINE THE OTHER SHOE."
+    },
+    {
+        "video": "causalqa/Ie3zOYuJQDw_000009_000019.mp4",
+        "question": "what would happen if [person_1] fell?",
+        "answer": "B",
+        "choices": {
+            "A": "The pool would overflow due to the splash made by [person_1]'s fall.",
+            "B": "[person_1] would fall on a buoy mattress.",
+            "C": "[person_1] would trigger an alarm that calls for help.",
+            "D": "[person_1] would land on a pile of soft toys scattered nearby."
+        },
+        "predict": "THE ANSWER IS C. [PERSON_1] WOULD TRIGGER AN ALARM THAT CALLS FOR HELP."
+    },
+    {
+        "video": "causalqa/vI0IV1rUyuU_000000_000010.mp4",
+        "question": "What will happen if the piano falls ?",
+        "answer": "D",
+        "choices": {
+            "A": "The music will start playing suddenly.",
+            "B": "A new melody will be composed spontaneously.",
+            "C": "The stage lights will turn on automatically.",
+            "D": "It will be broken seriously."
+        },
+        "predict": "IF THE PIANO FALLS, IT WILL BE DAMAGED."
+    },
+    {
+        "video": "causalqa/cyENAoC4c4k_000009_000019.mp4",
+        "question": "What will happen if [person_1] gets the item she likes the most?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] might start doing a happy dance.",
+            "B": "Maybe [person_1] will jump up.",
+            "C": "[person_1] could suddenly sing a loud song.",
+            "D": "The [person_1] will decide to take a long nap."
+        },
+        "predict": "IF THE PERSON GETS THE ITEM THEY LIKE THE MOST, THEN THEY MAY DECIDE TO TAKE A LONG NAP, ACCORDING TO THE GIVEN ANSWER. HOWEVER, IT DOES NOT SEEM TO BE RELATED TO THE QUESTION OF \"WHAT WILL HAPPEN IF [PERSON_1] GETS THE ITEM SHE LIKES THE MOST?\" HENCE, I CANNOT PROVIDE THE CORRECT OPTION LETTER."
+    },
+    {
+        "video": "causalqa/tv9XSFQovzA_000026_000036.mp4",
+        "question": "What will happen if the woman drops the gong on [person_1]?",
+        "answer": "C",
+        "choices": {
+            "A": "The gong will immediately stop making noise.",
+            "B": "[person_1] will suddenly remember something important.",
+            "C": "[person_1] will get hurt and wake up.",
+            "D": "The gong will bounce back and break a window."
+        },
+        "predict": "THE GONG WILL IMMEDIATELY STOP MAKING NOISE WHEN THE WOMAN DROPS IT ON [PERSON_1]."
+    },
+    {
+        "video": "causalqa/Q6kB5Hd-RV8_000134_000144.mp4",
+        "question": "What will happen if [person_1] doesn't lift the bagpipe up?",
+        "answer": "D",
+        "choices": {
+            "A": "The bagpipe will produce music by itself.",
+            "B": "[person_1] will lose balance and fall down.",
+            "C": "The crowd will immediately start clapping.",
+            "D": "[person_1] will continue playing."
+        },
+        "predict": "THE BAGPIPE WILL NOT PRODUCE MUSIC IF [PERSON_1] DOESN'T LIFT IT UP. HOWEVER, [PERSON_1] WILL FALL DOWN DUE TO THIS, AND THE CROWD MAY START CLAPPING IN RESPONSE TO THE UNEXPECTED MOVEMENT."
+    },
+    {
+        "video": "causalqa/9OzUHQlNe-w_000103_000113.mp4",
+        "question": "What if [person_1] cycled to the right before hit a small slope?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] would cycle faster due to less resistance.",
+            "B": "[person_1] may perform a successful trick move.",
+            "C": "[person_1] might keep cycling.",
+            "D": "[person_1] will discover a new path."
+        },
+        "predict": "IF PERSON 1 CYCLED TO THE RIGHT BEFORE HITTING A SMALL SLOPE, THEY WOULD STILL CYCLE. SO, THE ANSWER IS C: [PERSON_1] MIGHT KEEP CYCLING."
+    },
+    {
+        "video": "causalqa/03jVDJT45Y0_000014_000024.mp4",
+        "question": "What will happen if [person_1] hits a difficult chord?",
+        "answer": "D",
+        "choices": {
+            "A": "The guitar might fall down.",
+            "B": "[person_1] would suddenly remember a phone call.",
+            "C": "The ceiling might start leaking.",
+            "D": "[person_1] will practice chord."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] WILL PRACTICE CHORD.."
+    },
+    {
+        "video": "causalqa/XHzUKr_C8zg_000006_000016.mp4",
+        "question": "What will happen if [chair_1] falls over?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will be hurt.",
+            "B": "Maybe [person_1] will take a picture of [chair_1].",
+            "C": "[person_1] will start laughing about the whole situation.",
+            "D": "[person_1] will immediately start dancing around it."
+        },
+        "predict": "THE ANSWER IS C. [PERSON_1] WILL START LAUGHING ABOUT THE WHOLE SITUATION."
+    },
+    {
+        "video": "causalqa/u-ojcTkJdP4_000004_000014.mp4",
+        "question": "What will happen if [person_1] applies these patches too long?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] would misplace the patches and forget.",
+            "B": "[person_1] will accidentally stick patches to the table.",
+            "C": "[person_1] will watch [person_1] playing the toy.",
+            "D": "[person_1] may cause the patches to change color."
+        },
+        "predict": "IF [PERSON_1] APPLIES THE PATCHES FOR TOO LONG, THEY MAY CAUSE [PERSON_1] TO MISPLACE THE PATCHES AND FORGET."
+    },
+    {
+        "video": "causalqa/e8er9_O8wlk_000056_000066.mp4",
+        "question": "What will happen if it rains?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_2] might decide to dance.",
+            "B": "[person_1] will start singing a song.",
+            "C": "[person_1] and [person_3] will take a nap.",
+            "D": "[person_1] , [person_2] and [person_3] will get wet."
+        },
+        "predict": "IF IT RAINS, IT WILL GET WET."
+    },
+    {
+        "video": "causalqa/PRm6Axqb9Gs_000070_000080.mp4",
+        "question": "What will happen if [person_1] touches the keyboard repeatedly?",
+        "answer": "A",
+        "choices": {
+            "A": "The organ will make shrill sounds.",
+            "B": "A friendly crowd might start dancing to the sudden rhythm.",
+            "C": "[person_1] might accidentally start a fire alarm.",
+            "D": "The ceiling fan might start spinning a different direction."
+        },
+        "predict": "THE ANSWER IS C. [PERSON_1] MIGHT ACCIDENTALLY START A FIRE ALARM."
+    },
+    {
+        "video": "causalqa/p9NPn6oSUJc_000005_000015.mp4",
+        "question": "What would happen if the nail was broken?",
+        "answer": "C",
+        "choices": {
+            "A": "All the nails would simultaneously break, causing chaos in the room.",
+            "B": "[person_1] would misplace the hammer and be unable to finish the task.",
+            "C": "[person_1] would look for a new screw.",
+            "D": "[person_1]'s toolbox would unexpectedly lock itself."
+        },
+        "predict": "THE CORRECT ANSWER IS D: [PERSON_1]'S TOOLBOX WOULD UNEXPECTEDLY LOCK ITSELF.."
+    },
+    {
+        "video": "causalqa/qCxm3PeU7_Q_000008_000018.mp4",
+        "question": "What will happen if the power is out?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] may start dancing energetically.",
+            "B": "The room will be dark then.",
+            "C": "The radio will begin to work suddenly.",
+            "D": "The computer will spontaneously restart."
+        },
+        "predict": "THE ANSWER IS C. THE RADIO WILL BEGIN TO WORK SUDDENLY."
+    },
+    {
+        "video": "causalqa/qd-L78kPhvY_000039_000049.mp4",
+        "question": "What will happen if it is sunny for a long time?",
+        "answer": "B",
+        "choices": {
+            "A": "Birds will start nesting indoors.",
+            "B": "[person_1] will have to water more.",
+            "C": "[person_1] will need a bigger umbrella.",
+            "D": "[person_1] will take a sunbathing lesson."
+        },
+        "predict": "THE OPTION LETTER THAT IS CORRECT IS D. IT SEEMS THAT THE VIDEO MENTIONS THAT IF IT IS SUNNY FOR A LONG TIME, BIRDS WILL START NESTING INDOORS."
+    },
+    {
+        "video": "causalqa/MSM0T9LuUOE_000012_000022.mp4",
+        "question": "What will happen if the light is off?",
+        "answer": "D",
+        "choices": {
+            "A": "Someone will mistakenly enter the wrong room.",
+            "B": "[person_1] will lock the door hastily.",
+            "C": "[person_1] will hesitate to proceed further.",
+            "D": "The room will be darkened."
+        },
+        "predict": "IF THE LIGHT IS OFF, SOMEONE WILL MISTAKENLY ENTER THE WRONG ROOM."
+    },
+    {
+        "video": "causalqa/3SvnXT3v4g8_000130_000140.mp4",
+        "question": "What will happen if the gift is given [person_4]?",
+        "answer": "D",
+        "choices": {
+            "A": "The penguins will begin to dance.",
+            "B": "[person_4] will make a speech on stage.",
+            "C": "[person_4] will abruptly start juggling.",
+            "D": "The game will be over."
+        },
+        "predict": "THE GIFT BEING GIVEN TO [PERSON_4] WILL RESULT IN THEIR EXIT FROM THE STAGE."
+    },
+    {
+        "video": "causalqa/pG7TQ7HfWfg_000041_000051.mp4",
+        "question": "What if [person_1] didn't bend over?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] might spill the water she was holding.",
+            "B": "[person_1] would accidentally turn off the lights.",
+            "C": "[person_1] would hurt herself with a razor.",
+            "D": "[person_1] may knock over the toolbox behind her."
+        },
+        "predict": "IF [PERSON_1] DIDN'T BEND OVER, THEY WOULD ACCIDENTALLY TURN OFF THE LIGHTS."
+    },
+    {
+        "video": "causalqa/-tuKSaADF3c_000022_000032.mp4",
+        "question": "What will happen if [person_1] is sleepy ?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] will mistakenly erase all the data from the laptop.",
+            "B": "[person_1] will stop laughing.",
+            "C": "[person_1] will fall and accidentally spill the paint.",
+            "D": "[person_1] will suddenly start hiccuping loudly."
+        },
+        "predict": "THE PERSON MENTIONED IN THE QUESTION MIGHT FEEL SLEEPY AND ACCIDENTALLY ERASE ALL THE DATA FROM THE LAPTOP. THEREFORE, THE ANSWER LETTER IS A."
+    },
+    {
+        "video": "causalqa/piCd_DiRmrg_000006_000016.mp4",
+        "question": "What will happen if [person_1] finishes squeezing oranges?",
+        "answer": "D",
+        "choices": {
+            "A": "The kitchen appliances will malfunction.",
+            "B": "[person_1] will slip on the floor.",
+            "C": "[person_1] will cause a spill all over the table.",
+            "D": "[person_1] will serve orange juice."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] WILL SERVE ORANGE JUICE.."
+    },
+    {
+        "video": "causalqa/EfgdE-fHEi4_000000_000010.mp4",
+        "question": "What will happen if [person_1] breaks the wood planer ?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] will laugh and the wood repairs itself.",
+            "B": "[person_1] will suddenly find a hidden toolkit.",
+            "C": "[person_1] might accidentally discover a new technique.",
+            "D": "[person_1] will not be able to continue working."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] WILL NOT BE ABLE TO CONTINUE WORKING.."
+    },
+    {
+        "video": "causalqa/Ou2kXfsnbqw_000000_000010.mp4",
+        "question": "What if [person_2] slips down on the snow?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_2] begins to spin around like they're skating.",
+            "B": "[person_2] could pick up a snowball and amuse others.",
+            "C": "[person_2] will then lie on the snow.",
+            "D": "[person_2] will slide gracefully across the snow."
+        },
+        "predict": "THE CORRECT ANSWER IS D: [PERSON_2] WILL SLIDE GRACEFULLY ACROSS THE SNOW.."
+    },
+    {
+        "video": "causalqa/jPMNYIK4ZuA_000017_000027.mp4",
+        "question": "What will happen if the racks are made of plastic?",
+        "answer": "A",
+        "choices": {
+            "A": "The racks is broken.",
+            "B": "The objects on the racks will rearrange themselves.",
+            "C": "[person_1] gets tangled in cables.",
+            "D": "The room changes color under the lighting."
+        },
+        "predict": "THE RACKS IN THE VIDEO ARE MADE OF PLASTIC, BUT NO OTHER INFORMATION IS PROVIDED ABOUT THE CONSEQUENCES OF THIS FACT. THEREFORE, THE ANSWER OPTION LETTER C, WHICH DOES NOT PROVIDE ANY INFORMATION RELATED TO THE GIVEN QUESTION, CANNOT BE SELECTED. IT IS NOT APPROPRIATE TO SELECT THIS ANSWER OPTION."
+    },
+    {
+        "video": "causalqa/IOnbv6HxECg_000184_000194.mp4",
+        "question": "What will happen if [person_1] finishes planing the wood?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will drop the wood, causing it to splinter.",
+            "B": "[person_1] will slip and cut themselves with the plane.",
+            "C": "[person_1] will make a new one.",
+            "D": "[person_1] will knock over a bottle of wood polish, making a mess."
+        },
+        "predict": "THE ANSWER IS C. [PERSON_1] WILL MAKE A NEW ONE."
+    },
+    {
+        "video": "causalqa/YhBZaITHfi8_000024_000034.mp4",
+        "question": "What will happen if [person_1] wear gloves?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will have a better grip but might drop everything.",
+            "B": "[person_1] would become invisible momentarily.",
+            "C": "It would be more effective for this experience.",
+            "D": "[person_1] would join the dance instead of massaging."
+        },
+        "predict": "IF THE PERSON WEARS GLOVES, THEY MIGHT DROP EVERYTHING. SO, THE CORRECT ANSWER IS B: [PERSON_1] WOULD BECOME INVISIBLE MOMENTARILY."
+    },
+    {
+        "video": "causalqa/R2r6BHuM1mk_000000_000010.mp4",
+        "question": "What will happen if [person_1] falls?",
+        "answer": "C",
+        "choices": {
+            "A": "A nearby squirrel could give [person_1] a soft landing with its tail.",
+            "B": "With cat-like reflexes, [person_1] could land on their feet unscathed.",
+            "C": "[person_1] can fall down onto the [person_1].",
+            "D": "[person_1] will bounce back up on a trampoline."
+        },
+        "predict": "THE CORRECT ANSWER IS D. [PERSON_1] WILL BOUNCE BACK UP ON A TRAMPOLINE.."
+    },
+    {
+        "video": "causalqa/c0zsCLq8ZXQ_000004_000014.mp4",
+        "question": "What would happen if the bus starts?",
+        "answer": "C",
+        "choices": {
+            "A": "The people in the bus might lean forward in anticipation.",
+            "B": "[person_1] might rush to the exit to catch the bus.",
+            "C": "[person_1] would stop for a minute.",
+            "D": "[person_1] would quickly grab the handle to avoid falling."
+        },
+        "predict": "THE OPTION LETTER THAT IS RELEVANT TO THE QUESTION IS C, WHICH MEANS THE PEOPLE IN THE BUS MIGHT STOP FOR A MINUTE."
+    },
+    {
+        "video": "causalqa/qoXRnqxGUDE_000432_000442.mp4",
+        "question": "What happens if the service time comes?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] will ask others to speed up the service process, expecting to save resources.",
+            "B": "[person_1] might negotiate a faster completion to avoid any penalties.",
+            "C": "[person_1] could expect the service to conclude prematurely to accommodate new tasks.",
+            "D": "[person_1] will add money to request extension of service time."
+        },
+        "predict": "THE OPTION LETTER THAT REPRESENTS THE ANSWER IS D."
+    },
+    {
+        "video": "causalqa/Dn5pMiLbdxo_000026_000036.mp4",
+        "question": "Where would he go if he was hungry?",
+        "answer": "B",
+        "choices": {
+            "A": "The kitchen curtains might catch on fire.",
+            "B": "He would go to the kitchen.",
+            "C": "The refrigerator could unexpectedly move.",
+            "D": "He would start organizing the spice rack."
+        },
+        "predict": "THE ANSWER IS NOT RELATED TO THE QUESTION. I SUGGEST YOU TRY AGAIN AND PROVIDE THE CORRECT OPTIONS TO GET AN ACCURATE RESPONSE."
+    },
+    {
+        "video": "causalqa/R9u8NHNcgbg_000027_000037.mp4",
+        "question": "What will happen if [person_2] throws the mallets away?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] might rush to shield the drum set from the flying mallets.",
+            "B": "[person_1] may stand up to collect the mallets for [person_2].",
+            "C": "[person_2] might start a juggling act with other objects nearby.",
+            "D": "[person_2] might wonder where the mallets have disappeared to."
+        },
+        "predict": "BASED ON THE INFORMATION PROVIDED, THE ANSWER SEEMS TO BE B. IT IS POSSIBLE THAT IF [PERSON_2] THROWS THE MALLETS AWAY, [PERSON_1] MIGHT RUSH TO SHIELD THE DRUM SET FROM THE FLYING MALLETS. HOWEVER, IT IS IMPORTANT TO NOTE THAT THE VIDEO DESCRIPTION MENTIONS THAT [PERSON_1] IS PLAYING WITH A TOY PIANO. THEREFORE, IT IS POSSIBLE THAT THE ANSWER OPTION RELATED TO THROWING THE MALLETS AWAY IS NOT DIRECTLY RELEVANT TO THE VIDEO."
+    },
+    {
+        "video": "causalqa/2mjxrl7tQ90_000011_000021.mp4",
+        "question": "Where would he go if he got hurt?",
+        "answer": "D",
+        "choices": {
+            "A": "He could head back home instead.",
+            "B": "He might start dancing with the crew.",
+            "C": "An ambulance might immediately arrive to take him.",
+            "D": "He'll go to the hospital"
+        },
+        "predict": "THE CORRECT ANSWER IS (D) HE'LL GO TO THE HOSPITAL."
+    },
+    {
+        "video": "causalqa/HLT5wjR6RIc_000109_000119.mp4",
+        "question": "What will happen if [person_1] hits the bass guitar forcefully?",
+        "answer": "B",
+        "choices": {
+            "A": "The lights will flicker dramatically.",
+            "B": "The bas guitar would be borken",
+            "C": "The guitar strings will catch fire spontaneously.",
+            "D": "[person_1] will break the drumsticks."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] WILL BREAK THE DRUMSTICKS.."
+    },
+    {
+        "video": "causalqa/WocEWaxJQac_000005_000015.mp4",
+        "question": "What will [person_3] do if it rains?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_3] will start singing loudly to cheer up.",
+            "B": "[person_3] will pull out an umbrella from a backpack and continue running.",
+            "C": "[person_3] will stop running.",
+            "D": "[person_3] will climb the tree to get a better view."
+        },
+        "predict": "THE ANSWER IS NOT RELATED TO RUNNING. THEREFORE, I CANNOT PROVIDE A SUITABLE ANSWER TO THIS QUESTION. PLEASE PROVIDE MORE INFORMATION ABOUT THE CONTEXT OF THE QUESTION OR THE ANSWER YOU ARE REFERRING TO."
+    },
+    {
+        "video": "causalqa/Lm6TIWuMVGI_000084_000094.mp4",
+        "question": "What would happen if [person_1] goes to shop?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_2] would unexpectedly start singing loudly.",
+            "B": "The shopkeeper may offer [person_2] a dance challenge.",
+            "C": "[person_2] will accompany [person_1].",
+            "D": "A bicycle could suddenly stop in front of them."
+        },
+        "predict": "IF PERSON 1 GOES TO THE SHOP, THEN PERSON 2 WOULD START UNEXPECTEDLY SINGING LOUDLY."
+    },
+    {
+        "video": "causalqa/jZQgpbmznh4_000165_000175.mp4",
+        "question": "What will happen if [person_1] twisted [person_2]'s neck?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] will think they can escape unnoticed.",
+            "B": "[person_1] will take [person_2] to the hospital.",
+            "C": "[person_2] will suddenly stand up and applaud.",
+            "D": "[person_1] will immediately win the argument between them."
+        },
+        "predict": "THE CORRECT ANSWER IS D. [PERSON_1] WILL IMMEDIATELY WIN THE ARGUMENT BETWEEN THEM.."
+    },
+    {
+        "video": "causalqa/u31lkPjMMG0_000072_000082.mp4",
+        "question": "What will happen if [person_2] uses the sword to cut down the [potted plant_1]?",
+        "answer": "D",
+        "choices": {
+            "A": "The [sword] will turn into a musical instrument.",
+            "B": "[person_2] will find a hidden door inside the [potted plant_1].",
+            "C": "[person_2] will discover a treasure map hidden in the [potted plant_1].",
+            "D": "[person_4] will stay away from the [potted plant_1]."
+        },
+        "predict": "BASED ON THE INFORMATION PROVIDED, THE ANSWER IS C. [PERSON_2] WILL STAY AWAY FROM THE [POTTED PLANT_1]."
+    },
+    {
+        "video": "causalqa/ihgwYbJ0cQg_000007_000017.mp4",
+        "question": "What will happen if [person_1] continues to shoot in the basket?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will be very confident in himself.",
+            "B": "[person_1] would accidentally hit a teammate with the ball.",
+            "C": "[person_1] may suddenly decide to change the game rules.",
+            "D": "[person_1] may trigger a dance performance on the court."
+        },
+        "predict": "THE VIDEO DOES NOT PROVIDE ENOUGH INFORMATION TO DETERMINE THE CAUSE OF THE ACCIDENT. THEREFORE, THE ANSWER OPTION FOR THE QUESTION IS INCOMPLETE AND UNRELATED TO THE GIVEN ANSWER OPTIONS. IT WOULD BE BETTER TO PROVIDE MORE CONTEXT OR INFORMATION ABOUT THE VIDEO TO AVOID CONFUSION."
+    },
+    {
+        "video": "causalqa/fbI0WsOLe8Q_000000_000010.mp4",
+        "question": "what would happen if the guitar strap broke off the guitar [person_1] is holding?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] will expertly catch the guitar with one hand and continue playing.",
+            "B": "The audience would unanimously laugh and start clapping rhythmically.",
+            "C": "[person_1] will immediately start tap dancing to cover up the situation.",
+            "D": "[person_1] might not be expecting it and accidentally drop his guitar on the floor."
+        },
+        "predict": "THE CORRECT ANSWER IS D. [PERSON_1] MIGHT NOT BE EXPECTING IT AND ACCIDENTALLY DROP HIS GUITAR ON THE FLOOR.."
+    },
+    {
+        "video": "causalqa/YDg-KCilGIo_000132_000142.mp4",
+        "question": "what would happen if [person_1] accidentally knocked over [book_1] while he was walking away?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] would accidentally trigger an alarm, causing everyone to evacuate.",
+            "B": "[person_1] would accidentally knock over a portrait next to the book.",
+            "C": "[person_1] would inadvertently cause the lights to flicker, startling the attendees.",
+            "D": "The people at the funeral would begin to get aggressive with [person_1] , and he would apologize while he left quickly."
+        },
+        "predict": "I'M SORRY, BUT THE ANSWER PROVIDED SEEMS TO BE INCORRECT. IT IS UNCLEAR WHAT WOULD HAPPEN IF [PERSON_1] ACCIDENTALLY KNOCKED OVER [BOOK_1] WHILE HE WAS WALKING AWAY. COULD YOU PLEASE PROVIDE MORE CONTEXT OR CLARIFY THE QUESTION?"
+    },
+    {
+        "video": "causalqa/8oE2AJpIOYo_000166_000176.mp4",
+        "question": "What would happen if [person_1] was alone?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] might decide to sing loudly to fill the silence.",
+            "B": "There could be a sudden dance-off with imaginary partners.",
+            "C": "[person_1] would cry.",
+            "D": "[person_1] could start an unexpected juggling performance."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] COULD START AN UNEXPECTED JUGGLING PERFORMANCE.."
+    },
+    {
+        "video": "causalqa/TQyQib7_brc_000116_000126.mp4",
+        "question": "What will happen if [person_2] is weary?",
+        "answer": "D",
+        "choices": {
+            "A": "The lights might flicker and cause a distraction.",
+            "B": "The microphone might stop working suddenly.",
+            "C": "The water bottle will spill on the floor.",
+            "D": "Maybe [person_2] will stop telling the audience about the workout."
+        },
+        "predict": "THE ANSWER IS D. MAYBE [PERSON_2] WILL STOP TELLING THE AUDIENCE ABOUT THE WORKOUT.."
+    },
+    {
+        "video": "causalqa/G5F-9OLe_1U_000000_000010.mp4",
+        "question": "What would happen if the boy on the [couch_1] did not bow?",
+        "answer": "B",
+        "choices": {
+            "A": "The [couch_1] could suddenly stand and take the boy to another room.",
+            "B": "The face of the boy would be hit.",
+            "C": "A squirrel might come through the window and distract the boy.",
+            "D": "The cup he was holding might suddenly slip out of his hands and break."
+        },
+        "predict": "THE ANSWER IS D. THE CUP HE WAS HOLDING MIGHT SUDDENLY SLIP OUT OF HIS HANDS AND BREAK.."
+    },
+    {
+        "video": "causalqa/RbkjYRITXCs_000004_000014.mp4",
+        "question": "What will happen if [person_1] falls down?",
+        "answer": "B",
+        "choices": {
+            "A": "The sun will instantly set.",
+            "B": "[person_1] will stop playing.",
+            "C": "Nearby animals will gather to watch.",
+            "D": "[person_1]'s guitar will magically float."
+        },
+        "predict": "THE OPTION LETTER THAT IS RELEVANT TO THE QUESTION IS C. NEARBY ANIMALS WILL GATHER TO WATCH."
+    },
+    {
+        "video": "causalqa/T2BST9mCT7Y_000039_000049.mp4",
+        "question": "What would happen if [person_2] released his hand?",
+        "answer": "B",
+        "choices": {
+            "A": "The chair could tilt back slightly.",
+            "B": "The bottle might strike down.",
+            "C": "[person_2] might step back inadvertently.",
+            "D": "The hat could fall off his head."
+        },
+        "predict": "THE CORRECT ANSWER IS D. THE HAT COULD FALL OFF HIS HEAD."
+    },
+    {
+        "video": "causalqa/DqtwXBrKv24_000008_000018.mp4",
+        "question": "What if the [person_1] wants to leave by car?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] will gather everyone for an immediate farewell party.",
+            "B": "The [person_1] will call a taxi.",
+            "C": "[person_1] will start thinking about walking instead.",
+            "D": "[person_1] will decide to repair the car on the spot."
+        },
+        "predict": "IF THE PERSON WANTS TO LEAVE BY CAR, THEN THEY SHOULD CALL A TAXI."
+    },
+    {
+        "video": "causalqa/u8dAnKA2XWw_000171_000181.mp4",
+        "question": "What will happen if [person_1] stops clapping?",
+        "answer": "D",
+        "choices": {
+            "A": "Everyone will start dancing spontaneously.",
+            "B": "[person_1] will decide to leave the stage.",
+            "C": "[person_2] might drop their instrument.",
+            "D": "[person_2] will also not play."
+        },
+        "predict": "THE OPTION LETTER FOR THE ANSWER IS D."
+    },
+    {
+        "video": "causalqa/PhAtBMbgEMg_000019_000029.mp4",
+        "question": "What will happen if [person_1] puts a bowl under the driller?",
+        "answer": "C",
+        "choices": {
+            "A": "The driller will start working faster.",
+            "B": "The table might get suddenly cluttered with tools.",
+            "C": "The kitchen table can be cleaner.",
+            "D": "The lights will flicker briefly."
+        },
+        "predict": "THE ANSWER IS NOT RELATED TO THE VIDEO AND IT DOESN'T MAKE SENSE. PLEASE PROVIDE THE CORRECT QUESTION AND VIDEO."
+    },
+    {
+        "video": "causalqa/6SmZDyIr7L0_000119_000129.mp4",
+        "question": "What would happen if [person_1]'s hair was wet?",
+        "answer": "C",
+        "choices": {
+            "A": "It would mess up the piano keys.",
+            "B": "[person_1] would have difficulty catching the frisbee.",
+            "C": "It would not affect the feeling.",
+            "D": "The microphone might not work properly."
+        },
+        "predict": "IF PERSON 1'S HAIR IS WET, IT WOULD MESS UP THE PIANO KEYS. SO, THE CORRECT OPTION LETTER IS A."
+    },
+    {
+        "video": "causalqa/YkkINJTdYww_000012_000022.mp4",
+        "question": "What would happen if [person_5] were closed to [person_1]?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] might start juggling to entertain [person_5].",
+            "B": "A discussion about the sword's history might ensue between them.",
+            "C": "[person_5] might get injured because of the sword.",
+            "D": "[person_1] might push [person_5] into the water to avoid danger."
+        },
+        "predict": "THE OPTION LETTER THAT IS INCORRECT IS C. THEREFORE, THE CORRECT ANSWER IS D. [PERSON_1] MIGHT PUSH [PERSON_5] INTO THE WATER TO AVOID DANGER.."
+    },
+    {
+        "video": "causalqa/ag2pbbRQx5o_000000_000010.mp4",
+        "question": "What would happen if [person_1]'s friend comes to her home?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1]'s cat would knock over a vase as a result of excitement.",
+            "B": "[person_1]'s friend will start a water fight, leading to broken dishes.",
+            "C": "[person_1] would decide to have an impromptu dance party, making everyone tired.",
+            "D": "[person_1] would invite her friend to eat the marshmallows."
+        },
+        "predict": "THE OPTION LETTER TO SELECT IS D."
+    },
+    {
+        "video": "causalqa/IYA3XgbuaMs_000004_000014.mp4",
+        "question": "What will happen if the [person_1] determines buttons?",
+        "answer": "A",
+        "choices": {
+            "A": "The [person_1] will play the song correctly.",
+            "B": "The [person_1] will lose balance and fall off the stage.",
+            "C": "The lighting equipment will automatically shut down.",
+            "D": "The [person_1]'s instrument will stop producing sound."
+        },
+        "predict": "THE OPTION LETTER THAT REPRESENTS THE CORRECT ANSWER IS D. THE [PERSON_1]'S INSTRUMENT WILL STOP PRODUCING SOUND."
+    },
+    {
+        "video": "causalqa/gexjhPwANwE_000001_000011.mp4",
+        "question": "What will happen if [person_1] still feels tired?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will continue resting.",
+            "B": "[person_1] might forget to feed the dog.",
+            "C": "The others will start clapping enthusiastically.",
+            "D": "[person_1] will spill the coffee inadvertently."
+        },
+        "predict": "IF PERSON 1 CONTINUES TO FEEL TIRED, THEY MAY NEED TO REST."
+    },
+    {
+        "video": "causalqa/T8QcMK1MYLY_000156_000166.mp4",
+        "question": "What will happen if [person_4] learns how to glide?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_4] will hover in place indefinitely.",
+            "B": "[person_4] will propel yourself forward.",
+            "C": "[person_4] will glide into a tree accidentally.",
+            "D": "[person_4] will glide over water effortlessly."
+        },
+        "predict": "THE CORRECT ANSWER IS D: [PERSON_4] WILL GLIDE OVER WATER EFFORTLESSLY.."
+    },
+    {
+        "video": "causalqa/OFNacAyy6lU_000002_000012.mp4",
+        "question": "What will happen if [person_1] went home?",
+        "answer": "D",
+        "choices": {
+            "A": "A surprise visitor might ring the doorbell at [person_1]'s house.",
+            "B": "A squirrel might follow [person_1] inside and cause chaos.",
+            "C": "[person_1] might trip over and spill paint in the living room.",
+            "D": "[person_1] wouldn't in the workshop."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] WOULDN'T IN THE WORKSHOP.."
+    },
+    {
+        "video": "causalqa/buaumHig9wY_000004_000014.mp4",
+        "question": "What will happen if the strings of the harp are broken ?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] might start singing instead.",
+            "B": "The audience might join in clapping.",
+            "C": "The chandelier could fall down.",
+            "D": "[person_1] will miss the beat."
+        },
+        "predict": "THE CORRECT ANSWER IS D: [PERSON_1] WILL MISS THE BEAT.."
+    },
+    {
+        "video": "causalqa/BYVOAUgBVb0_000033_000043.mp4",
+        "question": "What would happen if [person_1] had no maracas to play with?",
+        "answer": "D",
+        "choices": {
+            "A": "They might start dancing to attract a bird.",
+            "B": "[person_1] would pretend to be in a silent film.",
+            "C": "[person_1] would decide to start a parade with imaginary drums.",
+            "D": "[person_1] would find another toy to play with."
+        },
+        "predict": "IF [PERSON_1] HAD NO MARACAS TO PLAY WITH, THEY MIGHT DECIDE TO START A PARADE WITH IMAGINARY DRUMS."
+    },
+    {
+        "video": "causalqa/cs0EOmmp1W0_000098_000108.mp4",
+        "question": "What will happen if [person_1] smokes hookah?",
+        "answer": "A",
+        "choices": {
+            "A": "It is possible that [person_1] will probably have lung cancer.",
+            "B": "[person_1] may think it's time to bake a cake.",
+            "C": "[person_1] might decide to adopt a pet elephant.",
+            "D": "[person_1] might suddenly master playing the guitar."
+        },
+        "predict": "THE ANSWER IS (A) IT IS POSSIBLE THAT [PERSON_1] WILL PROBABLY HAVE LUNG CANCER."
+    },
+    {
+        "video": "causalqa/76GlXGmzfHU_000004_000014.mp4",
+        "question": "What will happen if the power is off?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] might call a friend to chat and pass the time.",
+            "B": "[person_1] will start dancing to cool down.",
+            "C": "[person_1] will feel so hot.",
+            "D": "[person_1] will take the opportunity to rearrange the room."
+        },
+        "predict": "THE POWER BEING OFF IN THE VIDEO WILL RESULT IN A BLACKOUT."
+    },
+    {
+        "video": "causalqa/CEkg4od3bNw_000018_000028.mp4",
+        "question": "What would happen if [person_1] got good exam result ?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] may suddenly feel the urge to sing.",
+            "B": "[person_1] would tell with parents.",
+            "C": "[person_1] could spontaneously decide to cook a new dish.",
+            "D": "[person_1] will not do his homework."
+        },
+        "predict": "IF [PERSON_1] RECEIVED GOOD EXAM RESULTS, IT WOULD LEAD TO THEM HAVING GOOD SPIRITS."
+    },
+    {
+        "video": "causalqa/bQ6qVS7hWrs_000198_000208.mp4",
+        "question": "What would happen if [person_1] fell while performing?",
+        "answer": "C",
+        "choices": {
+            "A": "The lights on stage would start flickering unexpectedly.",
+            "B": "Perhaps the music would suddenly stop playing entirely.",
+            "C": "[person_2] and [person_3] would fell too.",
+            "D": "The guitar might break upon hitting the stage."
+        },
+        "predict": "THE ANSWER IS C. [PERSON_2] AND [PERSON_3] WOULD FELL TOO."
+    },
+    {
+        "video": "causalqa/JX8mDrHlCX0_000033_000043.mp4",
+        "question": "What will happen if [person_1] can't find the mahjong [person_1] needs?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_2] will win.",
+            "B": "The mahjong table might turn over, causing chaos.",
+            "C": "[person_1] could suddenly find an unexpected opportunity to score big.",
+            "D": "[person_2] will likely gain another chance to guess a hidden tile."
+        },
+        "predict": "BASED ON THE GIVEN INFORMATION, THE ANSWER OPTION THAT CAN BE INFERRED IS D. [PERSON_2] WILL LIKELY GAIN ANOTHER CHANCE TO GUESS A HIDDEN TILE.."
+    },
+    {
+        "video": "causalqa/30_deNYn6Cc_000013_000023.mp4",
+        "question": "What would happen if it rained suddenly?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] would attempt to open an umbrella while riding.",
+            "B": "[person_1] would pedal faster to keep dry.",
+            "C": "[person_1] and [person_1] might start dancing in the rain.",
+            "D": "[person_1] would stop riding [bicycle_1]."
+        },
+        "predict": "BASED ON THE INFORMATION PROVIDED, THE ANSWER SEEMS TO BE RELATED TO THE VIDEO CONTENT. THEREFORE, I SUGGEST REFERRING TO THE VIDEO FOR A MORE ACCURATE ANSWER. COULD YOU PLEASE PROVIDE THE VIDEO LINK OR PROVIDE THE VIDEO CAPTION SO THAT I CAN ASSIST YOU WITH A BETTER ANSWER?"
+    },
+    {
+        "video": "causalqa/-yTDRFePZuQ_000025_000035.mp4",
+        "question": "What if the circular saw goes out of control?",
+        "answer": "B",
+        "choices": {
+            "A": "A spark could cause the curtains to catch fire.",
+            "B": "[person_1] will go to turn off the power.",
+            "C": "The wooden plank could split in half unexpectedly.",
+            "D": "The table next to the saw will suddenly collapse."
+        },
+        "predict": "IF THE CIRCULAR SAW GOES OUT OF CONTROL, IT CAN LEAD TO A SPARK AND CAUSE THE CURTAINS TO CATCH FIRE. THEREFORE, THE CORRECT ANSWER IS A: A SPARK COULD CAUSE THE CURTAINS TO CATCH FIRE."
+    },
+    {
+        "video": "causalqa/PEPOMnDq5po_000048_000058.mp4",
+        "question": "What will happen if the apple that is peeled tumbles down?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will gather the apple.",
+            "B": "[person_1] will decide to juggle the apples instead.",
+            "C": "[person_1] will slip on the peel and do a cartwheel.",
+            "D": "The apple would teleport to a basket nearby."
+        },
+        "predict": "THE CORRECT ANSWER IS D. THE APPLE WOULD TELEPORT TO A BASKET NEARBY.."
+    },
+    {
+        "video": "causalqa/qixg8SlR5UU_000004_000014.mp4",
+        "question": "What will happen if the [person_3] skates without the [person_1] and [person_2]?",
+        "answer": "B",
+        "choices": {
+            "A": "The skating rink will provide extra support to maintain balance.",
+            "B": "The [person_3] can not keep balance and safety.",
+            "C": "[person_3] will suddenly become very fast and outpace everyone.",
+            "D": "The other skaters will find it hard to catch up with [person_3]."
+        },
+        "predict": "THE CORRECT ANSWER IS B: THE [PERSON_3] CAN NOT KEEP BALANCE AND SAFETY., WHICH MEANS THAT IF [PERSON_3] SKATES WITHOUT THE HELP OF [PERSON_1] AND [PERSON_2], THE RISK OF FALLING INCREASES."
+    },
+    {
+        "video": "causalqa/2b2oP4wiJHs_000010_000020.mp4",
+        "question": "What will happen if the power is turned off?",
+        "answer": "B",
+        "choices": {
+            "A": "The [person_1] will decide to go outside and enjoy the stars.",
+            "B": "Maybe [person_1] and [person_2] will go to bed.",
+            "C": "[person_1] would start cleaning to make use of the quiet time.",
+            "D": "Perhaps [person_1] will cook a meal using a gas stove."
+        },
+        "predict": "I'M SORRY, BUT THE GIVEN ANSWER LETTER IS NOT RELATED TO THE VIDEO QUESTION. COULD YOU PLEASE PROVIDE THE CORRECT ANSWER OPTION LETTER RELATED TO THE QUESTION?"
+    },
+    {
+        "video": "causalqa/LqvMqA4Eqc4_000031_000041.mp4",
+        "question": "What will happen if [person_1] doesn't know how to smoke?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] would drop the flower pot.",
+            "B": "The room will fill with bubbles.",
+            "C": "[person_1] might start juggling cigars.",
+            "D": "[person_1] will have a cough."
+        },
+        "predict": "IF PERSON 1 DOES NOT KNOW HOW TO SMOKE, THEN THE ROOM WILL FILL WITH BUBBLES."
+    },
+    {
+        "video": "causalqa/-fAw8Noja9E_000015_000025.mp4",
+        "question": "What would happen if [person_1] knocked the bottle over by accident?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] could accidentally invent a new game with the scattered bottle caps.",
+            "B": "[person_1] would feel disappointed with what she had done.",
+            "C": "Perhaps [person_1]'s favorite plant will absorb the spilled liquid.",
+            "D": "[person_1] might inadvertently create an art piece with the spillage."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] MIGHT INADVERTENTLY CREATE AN ART PIECE WITH THE SPILLAGE.."
+    },
+    {
+        "video": "causalqa/pQes6Vi8uiY_000024_000034.mp4",
+        "question": "What would happen if [person_1] didn't get the money?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] would likely start packing up the stall.",
+            "B": "[person_1] might start discussing with the vendor next door.",
+            "C": "[person_1] will look at the sky for a rain sign.",
+            "D": "[person_1] wouldn't pass the fruit to his customer."
+        },
+        "predict": "IF THE PERSON DIDN'T GET THE MONEY, THEY WOULD LIKELY PACK UP THEIR STALL."
+    },
+    {
+        "video": "causalqa/h-JsupqiUvU_000000_000010.mp4",
+        "question": "What would happen if [person_1] broke his arm?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] would inspire others to try riding unicycles.",
+            "B": "[person_1] might never want to try to ride a unicycle again.",
+            "C": "[person_1] might instantly learn to ride a bicycle with one hand.",
+            "D": "[person_1] would suddenly become frightened and run faster than ever before."
+        },
+        "predict": "THE CORRECT ANSWER IS A: [PERSON_1] WOULD INSPIRE OTHERS TO TRY RIDING UNICYCLES."
+    },
+    {
+        "video": "causalqa/AbYJMFEH3P0_000020_000030.mp4",
+        "question": "What will [person_1] do if he is hurt?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] may tend to the flowers nearby.",
+            "B": "[person_1] will stop running.",
+            "C": "[person_1] might decide to help someone pick up fallen leaves.",
+            "D": "It is likely that [person_1] will start preparing to climb a tree."
+        },
+        "predict": "THE PERSON IN THE VIDEO, [PERSON_1], IS LIKELY TO START PREPARING TO CLIMB A TREE IF THEY GET HURT."
+    },
+    {
+        "video": "causalqa/CiI-TTPXkPc_000002_000012.mp4",
+        "question": "What will happen if the [person_1] has the ball?",
+        "answer": "A",
+        "choices": {
+            "A": "The [person_1] will do shooting the ball through the basket more.",
+            "B": "The [person_1] will start to dance to distract the opponent.",
+            "C": "The [person_1] will ask everyone to sit down and discuss strategy.",
+            "D": "The [person_1] might throw the ball into the audience as a joke."
+        },
+        "predict": "THE ANSWER IS D. THE [PERSON_1] MIGHT THROW THE BALL INTO THE AUDIENCE AS A JOKE.."
+    },
+    {
+        "video": "causalqa/hfkEWPr_7dc_000436_000446.mp4",
+        "question": "What will happen if it rains?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] might suddenly find a treasure chest.",
+            "B": "Maybe the umbrella will fly away from [person_1].",
+            "C": "Perhaps [person_1] will start collecting firewood.",
+            "D": "[person_1] maybe stop working."
+        },
+        "predict": "BASED ON THE INFORMATION PROVIDED, THE ANSWER SEEMS TO BE RELATED TO A TREASURE CHEST, WHICH HAS NOTHING TO DO WITH RAIN. IT IS DIFFICULT TO UNDERSTAND THE MEANING OF THE GIVEN ANSWER. COULD YOU PLEASE PROVIDE MORE CONTEXT OR REPHRASE THE QUESTION?"
+    },
+    {
+        "video": "causalqa/kIbHE2WEjCE_000116_000126.mp4",
+        "question": "What if [person_1] can't walk all the way through the rope?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will start juggling the juggling pins.",
+            "B": "[person_1] will attempt to fly a small kite.",
+            "C": "[person_1] will go back to the beginning.",
+            "D": "[person_1] would begin singing loudly."
+        },
+        "predict": "IF [PERSON_1] IS UNABLE TO WALK THROUGH THE ROPE, THEN [PERSON_2] SHOULD HELP [PERSON_1]. THEREFORE, THE ANSWER IS C. [PERSON_1] WOULD GO BACK TO THE BEGINNING."
+    },
+    {
+        "video": "causalqa/IYzbxW5nyKE_000001_000011.mp4",
+        "question": "What if [person_1] didn't try to provoke himself in the mirror?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1]'s clothes will change color.",
+            "B": "[person_1] might not be hurt.",
+            "C": "The mirror would start reflecting a different world.",
+            "D": "[person_1] will find a hidden passage behind the mirror."
+        },
+        "predict": "THE ANSWER IS C. THE MIRROR WOULD START REFLECTING A DIFFERENT WORLD."
+    },
+    {
+        "video": "causalqa/IEmylQo1MXY_000091_000101.mp4",
+        "question": "What if [bicycle_1] breaks down?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will discover a hidden shortcut and arrive early.",
+            "B": "[person_1] would suddenly win a race on foot.",
+            "C": "[person_1] can't use [bicycle_1] further.",
+            "D": "[person_1] can use [bicycle_1] further after a magical repair."
+        },
+        "predict": "IF THE [BICYCLE_1] BREAKS DOWN, THEN THE PERSON CAN USE [BICYCLE_1] FURTHER. THIS OPTION LETTER REPRESENTS THE ANSWER OPTION \"D: [PERSON_1] CAN USE [BICYCLE_1] FURTHER AFTER A MAGICAL REPAIR..\".\n\nTHEREFORE, THE CORRECT ANSWER IS D: [PERSON_1] CAN USE [BICYCLE_1] FURTHER AFTER A MAGICAL REPAIR.."
+    },
+    {
+        "video": "causalqa/q382I17AS1M_000015_000025.mp4",
+        "question": "What if [person_1] didn't press the bottleneck?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] would see fireworks begin.",
+            "B": "The champagne would spout out in quantity.",
+            "C": "[person_1] would find the bottle frozen shut.",
+            "D": "[person_1] would have to juggle the glasses quickly."
+        },
+        "predict": "THE ANSWER IS C. [PERSON_1] WOULD FIND THE BOTTLE FROZEN SHUT."
+    },
+    {
+        "video": "causalqa/Gishd9sKkEU_000000_000010.mp4",
+        "question": "What will happen if [person_1] slips?",
+        "answer": "D",
+        "choices": {
+            "A": "The [person_1] might suddenly find themselves transported to a different location.",
+            "B": "[person_1] might accidentally start a chain reaction causing several objects to fall.",
+            "C": "Maybe [person_1] will slide gracefully to a safer spot.",
+            "D": "[person_1] will be seriously injured."
+        },
+        "predict": "BASED ON THE PROVIDED VIDEO, THE ANSWER TO THE QUESTION IS RELATED TO THE PERSON NAMED PERSON_1 AND THEIR SLIPPING. SO, THE CORRECT OPTION IS D, WHICH MEANS THAT THE PERSON MIGHT BE SERIOUSLY INJURED."
+    },
+    {
+        "video": "causalqa/hXd5YB9zR0U_000007_000017.mp4",
+        "question": "What will happen if the maracas don't have the stones?",
+        "answer": "B",
+        "choices": {
+            "A": "The stage lights will flicker unexpectedly.",
+            "B": "[person_1] won't be able to make sound.",
+            "C": "[person_1] would lose his balance and fall.",
+            "D": "Maybe [person_1]'s rhythm will suddenly improve."
+        },
+        "predict": "BASED ON THE GIVEN VIDEO, THE MARACAS WITHOUT STONES WOULD RESULT IN A RHYTHMIC IMPROVEMENT FOR THE PERSON HOLDING THEM. SO, THE ANSWER IS D. MAYBE [PERSON_1]'S RHYTHM WILL SUDDENLY IMPROVE.."
+    },
+    {
+        "video": "causalqa/ZPP2s99Dt14_000007_000017.mp4",
+        "question": "What will happen if it shines hard?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] will see colors more vividly.",
+            "B": "[person_1] will have a rest",
+            "C": "The [person_1] will start dancing to attract attention.",
+            "D": "The [person_1]'s shoes would start to sing."
+        },
+        "predict": "BASED ON THE VIDEO, THE ANSWER SEEMS TO BE B. IF IT SHINES HARD, THE PERSON'S SHOES WOULD START TO SING."
+    },
+    {
+        "video": "causalqa/0wugSggDja8_000000_000010.mp4",
+        "question": "What will happen if the power is out?",
+        "answer": "C",
+        "choices": {
+            "A": "The blender will start working suddenly.",
+            "B": "[person_1] will become jittery.",
+            "C": "[person_1] may not keep somersaulting.",
+            "D": " The oven will preheat faster."
+        },
+        "predict": "IF THE POWER GOES OUT, THE VIDEO CAMERA MIGHT STOP WORKING."
+    },
+    {
+        "video": "causalqa/gtmGt3K5uTc_000494_000504.mp4",
+        "question": "What will happen if [person_1] kick the ball into the car glass and it's broken?",
+        "answer": "B",
+        "choices": {
+            "A": "The ball could bounce back and help someone win a lottery.",
+            "B": "It is possible that [person_1] will pay money for the car owner.",
+            "C": "The shattered glass may transform into a new piece of street art.",
+            "D": "The car alarm might start singing a lullaby."
+        },
+        "predict": "THE CORRECT ANSWER IS D. THE CAR ALARM MIGHT START SINGING A LULLABY.."
+    },
+    {
+        "video": "causalqa/zKoka7kGBg4_000095_000105.mp4",
+        "question": "What would happen if the [person_2] did not pull the branch down?",
+        "answer": "B",
+        "choices": {
+            "A": "The rope might snap, causing [person_2] to fall back.",
+            "B": "The [person_2] could not pick blueberries.",
+            "C": "Birds may flock to the area out of curiosity.",
+            "D": "A sudden breeze could push the branch within reach."
+        },
+        "predict": "BASED ON THE INFORMATION PROVIDED, THE POSSIBLE OUTCOME IF [PERSON_2] DOES NOT PULL THE BRANCH DOWN IS THAT BIRDS WILL FLOCK TO THE AREA. THEREFORE, THE ANSWER OPTION IS D."
+    },
+    {
+        "video": "causalqa/1Q3INfCUrdk_000005_000015.mp4",
+        "question": "what would happen if [tv_2] fell?",
+        "answer": "D",
+        "choices": {
+            "A": "The table will get scratched by the cables.",
+            "B": "The broadcast could switch to static.",
+            "C": "Nearby devices may distort the sound.",
+            "D": "[tv_2] could be broken."
+        },
+        "predict": "THE ANSWER IS D. [TV_2] COULD BE BROKEN.."
+    },
+    {
+        "video": "causalqa/DNQHt1kzzjY_000669_000679.mp4",
+        "question": "What would happen if the [person_1] touched the table?",
+        "answer": "D",
+        "choices": {
+            "A": "The ceiling light could flicker suddenly.",
+            "B": "The chair might slide away slightly from the table.",
+            "C": "The table might flip over, causing a spill.",
+            "D": "The hands of the [person_1] would stick paint."
+        },
+        "predict": "IF THE PERSON TOUCHES THE TABLE, IT MIGHT CAUSE THE CEILING LIGHT TO FLICKER SUDDENLY. THEREFORE, THE ANSWER TO THE QUESTION IS A."
+    },
+    {
+        "video": "causalqa/l7Ytr8rznQU_000002_000012.mp4",
+        "question": "What would happen if the door was locked from the outside?",
+        "answer": "C",
+        "choices": {
+            "A": "A mysterious person might unlock the door unexpectedly.",
+            "B": "The room might transform into an escape room challenge.",
+            "C": "[person_1] and [person_2] might be stuck inside this room.",
+            "D": "[person_1] will devise a plan to tunnel out from the room."
+        },
+        "predict": "IF THE DOOR WAS LOCKED FROM THE OUTSIDE, THEN THE PERSON LOCKED INSIDE THE ROOM WOULD NEED TO COME UP WITH A PLAN TO ESCAPE. THEREFORE, THE ANSWER OPTION IS D: [PERSON_1] WILL DEVISE A PLAN TO TUNNEL OUT FROM THE ROOM."
+    },
+    {
+        "video": "causalqa/OBjNwH0Xi5g_000006_000016.mp4",
+        "question": "What would happen if someone taken the harmonica away?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] would cry.",
+            "B": "[person_1] will start singing loudly.",
+            "C": "[person_1] might grab a book and pretend to read.",
+            "D": "[person_1] will begin dancing to the rhythm of the room."
+        },
+        "predict": "THE HARMONICA IN THE VIDEO WOULD CAUSE THE PERSON TO CRY IF IT WERE TAKEN AWAY."
+    },
+    {
+        "video": "causalqa/0oaHKuk1Wjg_000013_000023.mp4",
+        "question": "What will happen if [person_1]'s fingers is hurt ?",
+        "answer": "D",
+        "choices": {
+            "A": "The plants around [person_1] will begin wilting.",
+            "B": "[person_1] will start playing the guitar flawlessly.",
+            "C": "[person_1] will admire the beautiful sky.",
+            "D": "[person_1] will feel uncomfortable."
+        },
+        "predict": "IF PERSON 1'S FINGERS ARE HURT, IT MAY CAUSE THEM TO FEEL UNCOMFORTABLE. SO, THE ANSWER TO THE QUESTION IS D: [PERSON_1] WILL FEEL UNCOMFORTABLE.."
+    },
+    {
+        "video": "causalqa/clvTsEQS8Ms_000000_000010.mp4",
+        "question": "What if [person_1] doesn't know how to open the gift box?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will believe that the gift is already broken and needs replacement.",
+            "B": "[person_1] could think that it is a part of an escape room puzzle.",
+            "C": "[person_2] will have to open the gift for [person_1].",
+            "D": "[person_1] might consider leaving the gift unopened for a surprise later."
+        },
+        "predict": "THE CORRECT ANSWER IS D. [PERSON_1] MIGHT CONSIDER LEAVING THE GIFT UNOPENED FOR A SURPRISE LATER.."
+    },
+    {
+        "video": "causalqa/HHxjwHBDQ6g_000017_000027.mp4",
+        "question": "What will happen if it start to rain",
+        "answer": "B",
+        "choices": {
+            "A": "They will organize a surprise party for [person_2].",
+            "B": "[person_1] will stop smoking.",
+            "C": "[person_1] will bake a cake for everyone.",
+            "D": "[person_1] will adopt a kitten."
+        },
+        "predict": "THE ANSWER IS (A)..."
+    },
+    {
+        "video": "causalqa/P7xPz0Wa3pk_000187_000197.mp4",
+        "question": "What will happen if [person_1] is sad?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will give the guitar to someone else.",
+            "B": "[person_1] will start dancing to cheer up.",
+            "C": "It is possible that [person_1] will continue to play the guitar.",
+            "D": "[person_1] will suddenly start playing a different song."
+        },
+        "predict": "IF [PERSON_1] IS SAD, THEN THEY WILL GIVE THE GUITAR TO SOMEONE ELSE."
+    },
+    {
+        "video": "causalqa/3cwR3H3n3QE_000210_000220.mp4",
+        "question": "What if [person_1] held the hammer with both two hands?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] might drop the hammer on their foot, causing a minor injury.",
+            "B": "[person_1] would start hammering the nails much faster, leading to an unexpected noise disturbance.",
+            "C": "[person_1] will stop [person_1].",
+            "D": "[person_1] may attract the attention of others, causing a small crowd to gather."
+        },
+        "predict": "THE ANSWER IS NOT RELATED TO THE VIDEO. PLEASE PROVIDE THE CORRECT ANSWER RELATED TO THE VIDEO."
+    },
+    {
+        "video": "causalqa/ZcPFcOUquy8_000366_000376.mp4",
+        "question": "what will happen if [book_12] falls?",
+        "answer": "B",
+        "choices": {
+            "A": "The lights in the room will flicker.",
+            "B": "[book_12] will startle [person_1].",
+            "C": "The table will suddenly collapse.",
+            "D": "[person_1] will begin dancing energetically."
+        },
+        "predict": "THE ANSWER IS (D) [PERSON_1] WILL BEGIN DANCING ENERGETICALLY.."
+    },
+    {
+        "video": "causalqa/-DpR1pJJD_I_000063_000073.mp4",
+        "question": "What will happen if the hand of [person_2] hurts a lot?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_2] will start cooking to alleviate the pain.",
+            "B": "[person_2] might go for a jog to distract herself from the hand pain.",
+            "C": "[person_2] can't raise her hand.",
+            "D": "[person_2] could decide to read a book to cope with the discomfort."
+        },
+        "predict": "I'M SORRY, BUT THE ANSWER PROVIDED SEEMS TO BE INAPPROPRIATE AND UNRELATED TO THE VIDEO OR QUESTION. PLEASE PROVIDE A VALID ANSWER OR A MORE SUITABLE QUESTION TO GET AN APPROPRIATE RESPONSE."
+    },
+    {
+        "video": "causalqa/dmWJV9E7xu8_000208_000218.mp4",
+        "question": "What will happen if [person_1] finishes shaving?",
+        "answer": "D",
+        "choices": {
+            "A": "A pet may start barking suddenly.",
+            "B": "A sudden draft will cause papers to scatter.",
+            "C": "The mirror will steam up, revealing a message.",
+            "D": "[person_1] feels more comfortable."
+        },
+        "predict": "THE MIRROR WILL STEAM UP, REVEALING A MESSAGE."
+    },
+    {
+        "video": "causalqa/gf7QkXKOV_k_000009_000019.mp4",
+        "question": "What will happen if [person_1] fails to throw the apple into [bowl_1]?",
+        "answer": "B",
+        "choices": {
+            "A": "If [person_1] does not reach [bowl_1], the floor could get dirty.",
+            "B": "[person_1] has to stand up.",
+            "C": "[person_1] might lose focus and drop the apple.",
+            "D": "The apple could bounce back and hit [person_1]."
+        },
+        "predict": "IF [PERSON_1] FAILS TO THROW THE APPLE INTO [BOWL_1], THE FLOOR COULD GET DIRTY."
+    },
+    {
+        "video": "causalqa/Jg6lbSM7izY_000001_000011.mp4",
+        "question": "What will happen if the power is cut out?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will stop practicing",
+            "B": "[person_1] could start singing to lighten the mood.",
+            "C": "Maybe [person_1] will organize an impromptu dance session.",
+            "D": "The group might decide to have a snack break."
+        },
+        "predict": "THE VIDEO DOESN'T PROVIDE A CLEAR ANSWER TO THIS QUESTION. IT WOULD BE BETTER TO CONSULT WITH A QUALIFIED PROFESSIONAL TO DETERMINE THE CORRECT ANSWER."
+    },
+    {
+        "video": "causalqa/1rx-6BQO8Xk_000177_000187.mp4",
+        "question": "What will happen if the bubble water runs out?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] and [person_2] will find some foam and water.",
+            "B": "A large wave might hit, soaking both [person_1] and [person_2].",
+            "C": "[person_1] will accidentally pop all the remaining bubbles.",
+            "D": "The absence of bubbles will lead [person_2] to start singing."
+        },
+        "predict": "THE CORRECT ANSWER IS D. THE ABSENCE OF BUBBLES WILL LEAD [PERSON_2] TO START SINGING.."
+    },
+    {
+        "video": "causalqa/CQkSxYZRMMM_000011_000021.mp4",
+        "question": "What will happen if [person_1] stops playing?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] will cause the lights to flicker urgently.",
+            "B": "[person_1] will stand up and walk to [chair_1]",
+            "C": "[person_1] will accidentally release a flock of birds into the sky.",
+            "D": "[person_1] will unintentionally start a chain reaction leading to the blimp taking off."
+        },
+        "predict": "THE ANSWER IS D."
+    },
+    {
+        "video": "causalqa/7IVBFYsYDNE_000063_000073.mp4",
+        "question": "What will happen if the power is off?",
+        "answer": "D",
+        "choices": {
+            "A": "The television scene may turn on, showing a pre-recorded video of the room.",
+            "B": "The room will be illuminated by a mysterious light source.",
+            "C": "An emergency light could malfunction and create a disco light effect.",
+            "D": "The room will be dark."
+        },
+        "predict": "BASED ON THE VIDEO, IT SEEMS THAT IF THE POWER IS OFF, THE ROOM WOULD BE ILLUMINATED BY A MYSTERIOUS LIGHT SOURCE."
+    },
+    {
+        "video": "causalqa/gCyEgy_J4TI_000010_000020.mp4",
+        "question": "What will happen if [person_1] still tries to lift heavy weights?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1]'s confidence might improve their posture for a short moment.",
+            "B": "[person_1] will be applauded for their determination despite not lifting the weight.",
+            "C": "[person_1] might suddenly gain extra strength and lift the weights effortlessly.",
+            "D": "[person_1] will be injured."
+        },
+        "predict": "THE OPTION THAT FITS THE CONTEXT OF THE ANSWER IS D. [PERSON_1] WILL BE INJURED."
+    },
+    {
+        "video": "causalqa/kbfPZMS26QY_000000_000010.mp4",
+        "question": "What if the false tooth is broken by prying the beer bottle?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] cannot eat anything.",
+            "B": "[person_1] will stop trying to open beer bottles with teeth forever.",
+            "C": "[person_1] would make a joke to ease the embarrassment.",
+            "D": "[person_1]'s friends will decide to laugh at the mishap."
+        },
+        "predict": "IF THE FALSE TOOTH BREAKS WHILE TRYING TO OPEN A BEER BOTTLE WITH TEETH, THE PERSON WOULD LIKELY MAKE A JOKE TO COPE WITH THE EMBARRASSMENT. SO, THE ANSWER IS D: [PERSON_1]'S FRIENDS WILL DECIDE TO LAUGH AT THE MISHAP.."
+    },
+    {
+        "video": "causalqa/t3k3WAJE9Jc_000036_000046.mp4",
+        "question": "What will happen if the box falls to the ground?",
+        "answer": "C",
+        "choices": {
+            "A": "The box will bounce back up and land on the table.",
+            "B": "The box will start emitting smoke, setting off the fire alarm.",
+            "C": "The box will break.",
+            "D": "It will trigger a hidden projector, displaying an image on the wall."
+        },
+        "predict": "THE ANSWER IS C. THE BOX WILL BREAK."
+    },
+    {
+        "video": "causalqa/EhlSLZgeOTE_000000_000010.mp4",
+        "question": "What will happen if [person_1] leaves?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_2] may not keep raising eyebrows.",
+            "B": "The lights may flicker unexpectedly.",
+            "C": "[person_2] will suddenly start a different dance.",
+            "D": "[person_1] might drop the instruments being held."
+        },
+        "predict": "THE ANSWER IS D. BASED ON THE QUESTION AND THE OPTIONS PROVIDED, IT SEEMS THAT THE PERSON MENTIONED IN OPTION A MIGHT DROP THE INSTRUMENTS BEING HELD, BUT IT HAS NOTHING TO DO WITH THE PERSON LEAVING. THEREFORE, THE ANSWER IS D."
+    },
+    {
+        "video": "causalqa/fnxK9KyZ9Bo_000127_000137.mp4",
+        "question": "What if [person_1] can't concentrate while spinning poi?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] may get burned.",
+            "B": "[person_1] will drop all his poi.",
+            "C": "[person_1] will accidentally create a new dance move.",
+            "D": "[person_1] could fall over due to dizziness."
+        },
+        "predict": "THE OPTION LETTER REPRESENTING THE ANSWER IS D."
+    },
+    {
+        "video": "causalqa/6xhy2QwbkTA_000330_000340.mp4",
+        "question": "What will happen if [person_1] twisted [person_2]'s ankle?",
+        "answer": "D",
+        "choices": {
+            "A": "The shoplights might flicker unpredictably.",
+            "B": "A sudden gust of wind could cause the shop's door to slam shut.",
+            "C": "The shelf nearby might unexpectedly tilt, threatening to topple.",
+            "D": "[person_2] will call the manager of the shop."
+        },
+        "predict": "BASED ON THE GIVEN VIDEO, IT IS NOT CLEAR WHAT WILL HAPPEN IF THE PERSON TWISTS THE OTHER PERSON'S ANKLE. THEREFORE, THE ANSWER OPTION FOR THIS QUESTION SHOULD BE REJECTED."
+    },
+    {
+        "video": "causalqa/kE-QflRcYd4_000018_000028.mp4",
+        "question": "What would happen if [person_1] did not fall from the mechanic bull?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] would start dancing with a cowboy.",
+            "B": "[person_1] would begin to juggle bowling pins.",
+            "C": "[person_1] would suddenly decide to ride a bicycle.",
+            "D": "[person_1] would keep playing."
+        },
+        "predict": "ACCORDING TO THE VIDEO, IF PERSON 1 DID NOT FALL FROM THE MECHANICAL BULL, THEY WOULD START DANCING WITH A COWBOY."
+    },
+    {
+        "video": "causalqa/PXXmZtgHacU_000015_000025.mp4",
+        "question": "What would happen if [person_1] kicked [person_2]?",
+        "answer": "B",
+        "choices": {
+            "A": "The goalpost might fall due to the impact.",
+            "B": "[person_2] might be badly hurt.",
+            "C": "The skates of [person_2] might increase their speed suddenly.",
+            "D": "[person_1]'s soccer skills would be praised by bystanders."
+        },
+        "predict": "IF PERSON 1 WERE TO KICK PERSON 2, THEN THE GOALPOST WOULD COLLAPSE DUE TO THE IMPACT. THEREFORE, THE CORRECT OPTION LETTER TO CHOOSE IS A."
+    },
+    {
+        "video": "causalqa/mh5zOEsU3K0_000012_000022.mp4",
+        "question": "What will happens if [person_1] falls?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will get dirty clothes.",
+            "B": "Maybe [person_1] will break the glasses to cushion the fall.",
+            "C": "Maybe [person_1] will disrupt the crowd, causing a chain reaction.",
+            "D": "[person_1] will toss the ball to stop the fall."
+        },
+        "predict": "THE ANSWER IS NOT RELATED TO THE VIDEO, IT SEEMS LIKE AN UNRELATED ANSWER. PLEASE PROVIDE THE CORRECT QUESTION OR THE RELEVANT VIDEO SO THAT I CAN HELP YOU."
+    },
+    {
+        "video": "causalqa/SaYGiuoBraU_000000_000010.mp4",
+        "question": "What if [person_1] didn't put his head on the ground?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] could remain perfectly balanced on one foot.",
+            "B": "[person_1] might not be able to do somersault.",
+            "C": "The woman might decide to start dancing.",
+            "D": "[person_1] would initiate a spontaneous spin move."
+        },
+        "predict": "IF [PERSON_1] DOESN'T PUT HIS HEAD ON THE GROUND, HE WON'T BE ABLE TO DO SOMERSAULT. THEREFORE, THE CORRECT ANSWER IS D. [PERSON_1] WOULD INITIATE A SPONTANEOUS SPIN MOVE."
+    },
+    {
+        "video": "causalqa/u_pC3TYpmzk_000027_000037.mp4",
+        "question": "What will happen if [person_1] goes to [bed_1]?",
+        "answer": "B",
+        "choices": {
+            "A": "[bed_1] will start playing a lullaby.",
+            "B": "[person_1] will stop playing.",
+            "C": "[person_1] might start dreaming out loud.",
+            "D": "[person_1] will fall asleep immediately."
+        },
+        "predict": "THE ANSWER IS D: [PERSON_1] WILL FALL ASLEEP IMMEDIATELY."
+    },
+    {
+        "video": "causalqa/r60Wmm-n5_w_000054_000064.mp4",
+        "question": "What will happen if the chair is broken?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will fall down.",
+            "B": "Maybe the dog will start to bark seeing [person_1] fall.",
+            "C": "The vase on the table might tip over and spill water everywhere.",
+            "D": "[person_1] may need to quickly grab the table to steady themselves."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] MAY NEED TO QUICKLY GRAB THE TABLE TO STEADY THEMSELVES.."
+    },
+    {
+        "video": "causalqa/X_UkHBf0eMU_000056_000066.mp4",
+        "question": "What will happen if [dining table_1] falls into the floor?",
+        "answer": "A",
+        "choices": {
+            "A": "[dining table_1] will break.",
+            "B": "The floor would crack open, revealing hidden treasure underneath.",
+            "C": "[dining table_1] will cause the chandelier to swing back and forth.",
+            "D": "[dining table_1] will start a small fire from the impact."
+        },
+        "predict": "THE ANSWER IS (D) [DINING TABLE_1] WILL START A SMALL FIRE FROM THE IMPACT.."
+    },
+    {
+        "video": "causalqa/eKUXnelq0k8_000047_000057.mp4",
+        "question": "what would happen if [person_1] was shy about being recorded?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] might start playing the bagpipes backwards to avoid being seen on camera.",
+            "B": "[person_1] would stop acting silly while playing the bagpipes the moment he sees the camera.",
+            "C": "[person_1] may start playing a completely different tune to shift attention.",
+            "D": "[person_1] would quietly put down his bagpipes and walk away from the camera, avoiding eye contact."
+        },
+        "predict": "THE POSSIBLE CONSEQUENCES IF [PERSON_1] FELT SHY ABOUT BEING RECORDED ARE SHOWN IN THE VIDEO. [PERSON_1] MAY START PLAYING THE BAGPIPES BACKWARDS TO AVOID BEING SEEN ON CAMERA."
+    },
+    {
+        "video": "causalqa/_jtAZ_yEd0I_000021_000031.mp4",
+        "question": "What will happen if it becomes dark?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] will begin a dance routine.",
+            "B": "[person_1] can't play.",
+            "C": "[person_1] will start singing loudly.",
+            "D": "[person_1] will attempt to paint the walls."
+        },
+        "predict": "THE ANSWER IS D: [PERSON_1] WILL ATTEMPT TO PAINT THE WALLS.."
+    },
+    {
+        "video": "causalqa/KIdxBwqNWeI_000012_000022.mp4",
+        "question": "What will happen if [person_2] play wrapping paper with [person_1] together?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will trip over the paper and fall.",
+            "B": "[person_2] will suggest turning the wrapping paper into a kite.",
+            "C": "[person_1] will be very amused.",
+            "D": "[person_1] will offer to wrap gifts for everyone in the room."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] WILL OFFER TO WRAP GIFTS FOR EVERYONE IN THE ROOM.."
+    },
+    {
+        "video": "causalqa/0LH6n81tyds_000010_000020.mp4",
+        "question": "what would happen if [person_1] dropped [person_1]'s glasses?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1]'s glasses would be picked up by a helpful passerby who then starts a conversation.",
+            "B": "[person_1] might accidentally step on them, breaking the glasses.",
+            "C": "[person_1] would start talking to a friend about something interesting across the street.",
+            "D": "[person_1] wouldn't read the newspaper anymore."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] WOULDN'T READ THE NEWSPAPER ANYMORE.."
+    },
+    {
+        "video": "causalqa/Sb0bDlhVw34_000141_000151.mp4",
+        "question": "What will happen if [person_1] stacks cups slowly?",
+        "answer": "C",
+        "choices": {
+            "A": "The cups will form a tower that topples over.",
+            "B": "[person_1] will need to start over due to a misalignment.",
+            "C": "[person_1] will be lose.",
+            "D": "[person_1] will drop all the cups."
+        },
+        "predict": "BASED ON THE GIVEN INFORMATION, THE ANSWER IS A: THE CUPS WILL FORM A TOWER THAT TOPPLES OVER."
+    },
+    {
+        "video": "causalqa/m-fiqo5a9bM_000380_000390.mp4",
+        "question": "What will happen if [person_1] receives compliments from her close friends?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] finds a hidden treasure under her chair.",
+            "B": "[person_1] begins drawing an intricate mural spontaneously.",
+            "C": "[person_1] feels satisfied for her effort.",
+            "D": "[person_1] decides to take a sudden break and leave the room."
+        },
+        "predict": "IF PERSON 1 RECEIVES COMPLIMENTS FROM HER CLOSE FRIENDS, IT COULD LEAD TO HER FEELING SATISFIED FOR HER EFFORT, WHICH IS THE CORRECT ANSWER."
+    },
+    {
+        "video": "causalqa/LyPH09f-iEE_000031_000041.mp4",
+        "question": "What will happen if the light is off ?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] will start cooking more dishes.",
+            "B": "[person_1] will cry",
+            "C": "[person_1] will find a hidden door and explore it.",
+            "D": "[person_1] might sing a song to lighten the mood."
+        },
+        "predict": "I'M SORRY, BUT I DON'T HAVE THE CAPABILITY TO PROVIDE THE ANSWER TO THIS QUESTION. COULD YOU PLEASE PROVIDE MORE INFORMATION OR CONTEXT?"
+    },
+    {
+        "video": "causalqa/3XgzWP3pvSY_000007_000017.mp4",
+        "question": "What will happen if [tie_1] drops?",
+        "answer": "D",
+        "choices": {
+            "A": "The temperature in the room might increase slightly.",
+            "B": "[person_1]'s watch will stop working momentarily.",
+            "C": "The lamp might flicker briefly as a result.",
+            "D": "[person_1] may pick [tie_1] up."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] MAY PICK [TIE_1] UP.."
+    },
+    {
+        "video": "causalqa/uv-7y1j_3TE_000060_000070.mp4",
+        "question": "What will happen if [person_1] reads books everyday?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] might accidentally break their reading glasses from overuse.",
+            "B": "[person_1] would eventually forget to water the plants, causing them to wilt.",
+            "C": "[person_1] will gain a lot of new things.",
+            "D": "A sudden summer rain might ruin [person_1]'s reading session outdoors."
+        },
+        "predict": "IF [PERSON_1] READS BOOKS EVERY DAY, IT IS POSSIBLE THAT THEY MIGHT ACCIDENTALLY BREAK THEIR READING GLASSES FROM OVERUSE."
+    },
+    {
+        "video": "causalqa/8dsy4EHblLQ_000039_000049.mp4",
+        "question": "What would happen if it suddenly rained?",
+        "answer": "D",
+        "choices": {
+            "A": "Animals from the nearby forest might seek shelter at the location.",
+            "B": "Then the picnic basket may float away.",
+            "C": "The volleyball match might be postponed.",
+            "D": "[person_1] and [person_2] had to go inside or find a shelter."
+        },
+        "predict": "IF IT SUDDENLY RAINED, THEN THE VOLLEYBALL MATCH WOULD NEED TO BE POSTPONED. THEREFORE, THE ANSWER LETTER IS C."
+    },
+    {
+        "video": "causalqa/MqaC_CUAXEE_000000_000010.mp4",
+        "question": "What will happen if a cat accidentally jumps onto the shelf?",
+        "answer": "C",
+        "choices": {
+            "A": "The vase on the floor will remain untouched.",
+            "B": "The books could topple over and scatter.",
+            "C": "Perhaps the cup will fall.",
+            "D": "The dog might start barking at the cat."
+        },
+        "predict": "IF A CAT JUMPS ONTO THE SHELF, IT MIGHT CAUSE THE ITEMS ON THE SHELF TO COME TUMBLING DOWN."
+    },
+    {
+        "video": "causalqa/sknNTt3KSN8_000057_000067.mp4",
+        "question": "What if the ring doesn't fit [person_2]'s finger?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] may suggest starting a flower business.",
+            "B": "[person_2] will begin planning a skydiving adventure.",
+            "C": "[person_2] and [person_1] will then go to the jewelry store.",
+            "D": "[person_1] might consider buying a house as a next step."
+        },
+        "predict": "THE OPTION LETTER THAT CORRESPONDS TO THE QUESTION IS C."
+    },
+    {
+        "video": "causalqa/eE00JoNnxAY_000000_000010.mp4",
+        "question": "What will happen if the [refrigerator_1] door is suddenly opened?",
+        "answer": "B",
+        "choices": {
+            "A": "Water from the fridge will splash all over [person_1] when the door opens.",
+            "B": "The [person_1] will fall to the ground.",
+            "C": "The [person_1] will scream as a sudden gust of wind shuts the door.",
+            "D": "The [person_1] will accidentally knock over a stack of glasses."
+        },
+        "predict": "THE CORRECT ANSWER IS (A) WATER FROM THE FRIDGE WILL SPLASH ALL OVER [PERSON_1] WHEN THE DOOR OPENS."
+    },
+    {
+        "video": "causalqa/foG0OArJdvY_000000_000010.mp4",
+        "question": "What will happen if [person_2] hits the triple ring?",
+        "answer": "A",
+        "choices": {
+            "A": "The score of [person_2] will be tripled.",
+            "B": "A bird might fly through the open window and cause a disruption.",
+            "C": "[person_2] might accidentally knock over the nearby vase.",
+            "D": "[person_2] might lose focus as the crowd starts cheering loudly."
+        },
+        "predict": "IF PERSON 2 HITS THE TRIPLE RING, THEIR SCORE WILL BE TRIPLED."
+    },
+    {
+        "video": "causalqa/AkqakLhh1fI_000029_000039.mp4",
+        "question": "What would happen if [person_1] did not wear sunglasses?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] may misjudge distances due to unshielded bright light.",
+            "B": "[person_1] might be irritated by the sun.",
+            "C": "[person_1] could accidentally drop their phone due to distraction by the sunlight.",
+            "D": "[person_1] might trip over an unseen step due to glare."
+        },
+        "predict": "THE ANSWER IS (D) [PERSON_1] MIGHT TRIP OVER AN UNSEEN STEP DUE TO GLARE.."
+    },
+    {
+        "video": "causalqa/825cShsot8Y_000091_000101.mp4",
+        "question": "What will happen if [person_1] finishes sharpening the pencil ?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] may accidentally poke the table with the pencil.",
+            "B": "[person_1] will knock over the cup of water next to them.",
+            "C": "[person_1] will draw a picture.",
+            "D": "[person_1] will break the pencil again while drawing."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] WILL BREAK THE PENCIL AGAIN WHILE DRAWING.."
+    },
+    {
+        "video": "causalqa/f3zG7O_BiIw_000014_000024.mp4",
+        "question": "What will happen if the [person_1] does not carry the big accordion?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] may decide to dance across the stage.",
+            "B": "The [person_1] will not meet difficulty in holding accordion balance rightly.",
+            "C": "[person_1] will begin singing a new song spontaneously.",
+            "D": "[person_1] will spontaneously join the juggling performance."
+        },
+        "predict": "THE ANSWER IS C. [PERSON_1] WILL BEGIN SINGING A NEW SONG SPONTANEOUSLY."
+    },
+    {
+        "video": "causalqa/_iJ8-r3Lh3E_000043_000053.mp4",
+        "question": "What if someone gets hurt?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will immediately start a first aid treatment.",
+            "B": "The [person_1] might decide to report it to a supervising adult.",
+            "C": "He would ask their mother to help them.",
+            "D": "Witnesses would assume it was a minor incident involving a small fall."
+        },
+        "predict": "THE ANSWER IS (A, B, C, D)."
+    },
+    {
+        "video": "causalqa/rWpXvlgIn9A_000017_000027.mp4",
+        "question": "What would happen if the snow melted?",
+        "answer": "B",
+        "choices": {
+            "A": "The street would become a bustling water park full of people.",
+            "B": "The kid who is wearing the pink clothes would be wet.",
+            "C": "The tree branches would suddenly bloom with summer flowers.",
+            "D": "The sidewalks would instantly turn into sandy beaches."
+        },
+        "predict": "IF THE SNOW MELTS, IT WOULD MAKE THE GROUND WET. SO, THE ANSWER IS D."
+    },
+    {
+        "video": "causalqa/8Bmu0PKfAmo_000051_000061.mp4",
+        "question": "What will happen if another person comes to play with [person_1] ?",
+        "answer": "B",
+        "choices": {
+            "A": "The visitors will start a dance to attract [person_1].",
+            "B": "[person_1] and that person will play 1 vs 1.",
+            "C": "The sudden competition might cause [person_1] to lose focus.",
+            "D": "Perhaps the new person decides to start a barbecue, surprising [person_1]."
+        },
+        "predict": "THE OPTION THAT IS RELEVANT TO THE GIVEN QUESTION IS C. THE SUDDEN COMPETITION MIGHT CAUSE [PERSON_1] TO LOSE FOCUS."
+    },
+    {
+        "video": "causalqa/gBuH2vD7moc_000000_000010.mp4",
+        "question": "What will happen if power is off?",
+        "answer": "B",
+        "choices": {
+            "A": "The lamp will start flickering wildly on its own.",
+            "B": "[person_1] can't open the [book_1].",
+            "C": "The TV will turn on and start showing random channels.",
+            "D": "The [person_1] would find a hidden compartment in the [book_1]."
+        },
+        "predict": "IF POWER IS OFF, A LAMP WILL START FLICKERING WILDLY ON ITS OWN."
+    },
+    {
+        "video": "causalqa/3SqBKZllvSY_000001_000011.mp4",
+        "question": "What will happen if [person_1] is not in the room?",
+        "answer": "C",
+        "choices": {
+            "A": "The music player would stop on its own.",
+            "B": "The window would suddenly close.",
+            "C": "The bag of the present will not be opened by [person_1].",
+            "D": "The balloons would deflate spontaneously."
+        },
+        "predict": "THE ANSWER IS D. THE BALLOONS WOULD DEFLATE SPONTANEOUSLY."
+    },
+    {
+        "video": "causalqa/P-rszQCrLyI_000044_000054.mp4",
+        "question": "What if [person_1] fell down after standing on two hands?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1]'s fall will cause the nearby objects to levitate temporarily.",
+            "B": "[person_2] probably wouldn't get up and imitate [person_1].",
+            "C": "The shockwave of [person_1]'s fall will adjust the music volume.",
+            "D": "[person_1]'s fall will transform into a successful somersault, surprising everyone."
+        },
+        "predict": "THE CORRECT ANSWER IS D. [PERSON_1]'S FALL WILL TRANSFORM INTO A SUCCESSFUL SOMERSAULT, SURPRISING EVERYONE.."
+    },
+    {
+        "video": "causalqa/R3HVaW71LAw_000038_000048.mp4",
+        "question": "What if [person_2] fell asleep in bed?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_2] will start dreaming about flying.",
+            "B": "[person_1] will prepare breakfast.",
+            "C": "[person_1] will wake him up.",
+            "D": "[person_1] might tidy up the room."
+        },
+        "predict": "IF PERSON 2 FALLS ASLEEP IN BED, OPTION A IS THE CORRECT ANSWER."
+    },
+    {
+        "video": "causalqa/rQXd3AOOtkc_000091_000101.mp4",
+        "question": "What will happen if the lights are off?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] would assume they are in a movie scene and start narrating what happens next.",
+            "B": "[person_1] might decide to start dancing to music imagining it's a party.",
+            "C": "[person_1] will be scared.",
+            "D": "[person_1] might take the opportunity to practice their theatrical voice, pretending it's a stage performance in the dark."
+        },
+        "predict": "BASED ON THE PROVIDED VIDEO, IT SEEMS LIKE THE LIGHTS GOING OFF MIGHT TRIGGER A HORROR MOVIE EXPERIENCE. SO, THE ANSWER IS OPTION C.\n\nACCORDING TO THE CAPTION, THE PERSON IN THE VIDEO MIGHT FEEL SCARED IF THE LIGHTS ARE OFF, AND THIS COULD BE RELATED TO THE MOVIE EXPERIENCE. THE LIGHTS TURNING OFF MIGHT CREATE AN EERIE ENVIRONMENT, WHICH COULD LEAD TO SOME LEVEL OF FEAR OR ANXIETY IN THE PERSON. HENCE, THE ANSWER IS OPTION C."
+    },
+    {
+        "video": "causalqa/qmADnlaYpxk_000041_000051.mp4",
+        "question": "What would happen if [person_1] did not know how to play the clarinet?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] would not be able to be on a stage.",
+            "B": "[person_1] might try to mimic someone else's performance.",
+            "C": "The tune from the clarinet would cause confusion in the orchestra.",
+            "D": "[person_1] would awkwardly hold the clarinet without playing it."
+        },
+        "predict": "THE ANSWER IS D."
+    },
+    {
+        "video": "causalqa/23IaMpOfpGI_000042_000052.mp4",
+        "question": "What will happen if [person_1]'s stomach suddenly has a pain?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] will decide to sing loudly to distract themselves.",
+            "B": "[person_1] will start dancing to relieve the pain.",
+            "C": "[person_1] will call a friend to discuss a movie.",
+            "D": "[person_1] will go to the toilet."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] WILL GO TO THE TOILET.."
+    },
+    {
+        "video": "causalqa/jtXAPtsHXDU_000005_000015.mp4",
+        "question": "What will [person_1] do if [person_1] finishes pouring the dirt wheelbarrow in hands?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will transport the next dirt wheelbarrows.",
+            "B": "The sky will turn cloudy.",
+            "C": "[person_1] will start planting trees.",
+            "D": "[person_1] will build a sandcastle."
+        },
+        "predict": "THE ANSWER IS C. [PERSON_1] WILL START PLANTING TREES."
+    },
+    {
+        "video": "causalqa/N8zVT11nTuo_000002_000012.mp4",
+        "question": "What will occur if the white bucket is tumbled down?",
+        "answer": "C",
+        "choices": {
+            "A": "The floor will become slippery, causing [person_1] to fall.",
+            "B": "A nearby water bottle will tip over and spill.",
+            "C": "The apple skin will be tumble on the floor too.",
+            "D": "Some paint will spill and stain the floor."
+        },
+        "predict": "THE WHITE BUCKET IN THE VIDEO IS LIKELY TO TUMBLE DOWN AND RESULT IN A PAINT SPILL ON THE FLOOR. THEREFORE, THE ANSWER OPTION IS D. SOME PAINT WILL SPILL AND STAIN THE FLOOR."
+    },
+    {
+        "video": "causalqa/lFCWPjrij_Y_000193_000203.mp4",
+        "question": "What will happen if [person_2] breaks a string of the harp?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_2] will not play it.",
+            "B": "[person_2] will dramatically switch to playing a completely different instrument on stage.",
+            "C": "[person_2] will suddenly attract a crowd for a spontaneous concert.",
+            "D": "[person_2] will gain unexpected notoriety as a street performer."
+        },
+        "predict": "BASED ON THE PROVIDED ANSWER, THE CORRECT OPTION LETTER FOR THE GIVEN QUESTION IS A. IF PERSON 2 BREAKS A STRING OF THE HARP, THEY WON'T BE ABLE TO PLAY IT."
+    },
+    {
+        "video": "causalqa/f9bGUCvR8mM_000082_000092.mp4",
+        "question": "What would happen if [person_1] didn't carry the coco tightly?",
+        "answer": "D",
+        "choices": {
+            "A": "The balloon might fly away into the sky.",
+            "B": "[person_1] might drop the coco and hit the piano keys.",
+            "C": "The lights could turn off suddenly.",
+            "D": "The bottle would be struck down."
+        },
+        "predict": "IF THE PERSON DOESN'T CARRY THE COCO TIGHTLY, IT MIGHT DROP AND HIT THE PIANO KEYS."
+    },
+    {
+        "video": "causalqa/KKFHlgwXljM_000011_000021.mp4",
+        "question": "What would happen if there were thunderstorms outside?",
+        "answer": "C",
+        "choices": {
+            "A": "The ceiling fan might start spinning in reverse.",
+            "B": "The wallpaper could start peeling off due to humidity.",
+            "C": "[person_1] would switch off [tv_1].",
+            "D": "[person_1] could decide to start playing an electric guitar."
+        },
+        "predict": "IF THERE WERE THUNDERSTORMS OUTSIDE, THE CEILING FAN MIGHT START SPINNING IN REVERSE. HOWEVER, THE ANSWER CHOICE THAT IS DIRECTLY RELATED TO THE VIDEO AND THE QUESTION IS C. THE PERSON WEARING GLASSES AND HOLDING A TV REMOTE WOULD SWITCH OFF THE TV."
+    },
+    {
+        "video": "causalqa/iCS74YJfREE_000020_000030.mp4",
+        "question": "What would happen if the child of [person_1] who is wearing a cap was not held?",
+        "answer": "A",
+        "choices": {
+            "A": "the child of [person_1] who is wearing a cap would not be able to stand.",
+            "B": "the ball would roll away and [person_1] would chase it.",
+            "C": "the cap would fly off the child's head due to the wind.",
+            "D": "the child would begin to wander off in the garden."
+        },
+        "predict": "THE ANSWER IS D. THE CHILD WOULD BEGIN TO WANDER OFF IN THE GARDEN."
+    },
+    {
+        "video": "causalqa/XS77k9Udu7o_000023_000033.mp4",
+        "question": "What would happen if [person_1] didn't throw the plate straight up in the air?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] might end up spinning in circles trying to catch it.",
+            "B": "The plate could roll away and end up under the table.",
+            "C": "[person_1] couldn't turn the stick over and catch the plate on the other end of the stick.",
+            "D": "The plate might bounce back and land perfectly on the table."
+        },
+        "predict": "THE ANSWER IS D. THE PLATE MIGHT BOUNCE BACK AND LAND PERFECTLY ON THE TABLE.."
+    },
+    {
+        "video": "causalqa/YB62rpaTHGA_000007_000017.mp4",
+        "question": "What if they lose control of the camels?",
+        "answer": "C",
+        "choices": {
+            "A": "The camels might start eating nearby plants.",
+            "B": "The camels could start running in circles.",
+            "C": "They will be frightened.",
+            "D": "Nearby onlookers may attempt to help calm the camels."
+        },
+        "predict": "IF THE CAMELS LOSE CONTROL, THEY MAY START EATING NEARBY PLANTS."
+    },
+    {
+        "video": "causalqa/hq0jetFPA2Y_000000_000010.mp4",
+        "question": "What will happen if the hair bow falls down?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] will drop the pearl necklace she is holding.",
+            "B": "[person_1] will start dancing energetically in the room.",
+            "C": "The window blinds will suddenly close fully.",
+            "D": "[person_1] will stop raising her eyebrows."
+        },
+        "predict": "THE HAIR BOW IN THE VIDEO IS WEARING A HAT, AND IF IT FALLS DOWN, IT WILL LEAD TO THE COLLAPSE OF THE HAT. SO, THE CORRECT ANSWER IS D. THE HAT WILL COLLAPSE."
+    },
+    {
+        "video": "causalqa/2mOFIqAKrCY_000093_000103.mp4",
+        "question": "What will happen if [person_2] gets down the couch?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_2] will jump up and touch the ceiling fan.",
+            "B": "[person_3] will play a prank on [person_2].",
+            "C": "[person_3] would suddenly challenge [person_2] to a race outside.",
+            "D": "[person_2] may want to take the present from [person_3]."
+        },
+        "predict": "THE CORRECT ANSWER IS D. [PERSON_2] MAY WANT TO TAKE THE PRESENT FROM [PERSON_3].."
+    },
+    {
+        "video": "causalqa/uJbi9NWqWtQ_000007_000017.mp4",
+        "question": "What if it rained suddenly?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] will encourage others to embrace getting wet.",
+            "B": "[person_1] will run away.",
+            "C": "[person_1] would decide to start using an umbrella and continue walking.",
+            "D": "[person_1] might end up dancing in the rain to entertain everyone."
+        },
+        "predict": "IF IT RAINS SUDDENLY, WE MIGHT NEED TO DECIDE ON AN UMBRELLA TO CONTINUE WALKING, ACCORDING TO THE GIVEN ANSWER. THEREFORE, THE CORRECT OPTION LETTER IS C."
+    },
+    {
+        "video": "causalqa/8AuTOW5UEvo_000405_000415.mp4",
+        "question": "What if inside that gift was what [person_3] and [person_4] wanted?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_3] might accidentally drop and break the gift.",
+            "B": "[person_4] will start laughing uncontrollably.",
+            "C": "[person_3] will demand a cake suddenly.",
+            "D": "[person_3] and [person_4] may be very happy."
+        },
+        "predict": "THE POSSIBLE OUTCOME OF RECEIVING A GIFT WITHOUT THE CONTENT THEY WANTED IS THAT THEY MIGHT ACCIDENTALLY DROP AND BREAK THE GIFT. THEREFORE, THE CORRECT OPTION LETTER TO CHOOSE IS A."
+    },
+    {
+        "video": "causalqa/43zLgskcs_Q_000076_000086.mp4",
+        "question": "What will happen if [person_1] doesn't rest?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] may start dancing.",
+            "B": "[person_1] will be exhausted.",
+            "C": "[person_1] will begin singing loudly.",
+            "D": "[person_1] might start jumping around."
+        },
+        "predict": "BASED ON THE INFORMATION PROVIDED, THE PERSON IN QUESTION SHOULD REST IN ORDER TO AVOID EXHAUSTION. THUS, THE CORRECT ANSWER IS D."
+    },
+    {
+        "video": "causalqa/BZP4gIL5UO4_000002_000012.mp4",
+        "question": "What will happen if the [person_1] uses potato peeler?",
+        "answer": "D",
+        "choices": {
+            "A": "The [person_1] might accidentally peel the table instead of the potato.",
+            "B": "The [person_1] might end up peeling a banana instead of the potato.",
+            "C": "The potato might become too slippery for the [person_1] to hold.",
+            "D": "The [person_1] will save time when peeling by bare hands."
+        },
+        "predict": "BASED ON THE INFORMATION GIVEN, THE ANSWER OPTION LETTER THAT SEEMS TO BE RELEVANT AND ACCURATE WOULD BE A. THE [PERSON_1] MIGHT ACCIDENTALLY PEEL THE TABLE INSTEAD OF THE POTATO."
+    },
+    {
+        "video": "causalqa/y468f5pVOSo_000010_000020.mp4",
+        "question": "What would happen if [person_1] didn't take orange peel out of the squeezer?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] might injure their hand on the squeezer.",
+            "B": "The kitchen might become a mess from overflowing peel.",
+            "C": "[person_1] might spill juice all over.",
+            "D": "Leftover orange peel might block the squeezer"
+        },
+        "predict": "IF [PERSON_1] DIDN'T REMOVE THE ORANGE PEEL FROM THE SQUEEZER, THEY COULD GET INJURED."
+    },
+    {
+        "video": "causalqa/Ra8hBnbdNlc_000021_000031.mp4",
+        "question": "What will happen if the team whose uniform is blue loses?",
+        "answer": "D",
+        "choices": {
+            "A": "Their fans will decide to switch allegiance to the winning team.",
+            "B": "The team will be unable to participate in any games next season.",
+            "C": "The team will have to change their uniforms to a different color.",
+            "D": "This team will be very sad and disappointed."
+        },
+        "predict": "IF THE TEAM WEARING BLUE UNIFORM LOSES, THEY WILL NOT BE ABLE TO PARTICIPATE IN ANY MORE GAMES. THEREFORE, THE ANSWER TO THE QUESTION IS C. THE TEAM WILL HAVE TO CHANGE THEIR UNIFORMS TO A DIFFERENT COLOR."
+    },
+    {
+        "video": "causalqa/w6V5qVKfnEk_000011_000021.mp4",
+        "question": "What would happen if [person_1] did not receive her treats?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] might start digging to find them.",
+            "B": "[person_1] would look around curiously as if searching.",
+            "C": "[person_1] might decide to climb a tree looking for more.",
+            "D": "[person_1] would be very unhappy."
+        },
+        "predict": "BASED ON THE PROVIDED VIDEO, IT IS NOT ENTIRELY CLEAR WHAT WOULD HAPPEN IF PERSON 1 DID NOT RECEIVE HER TREATS. HOWEVER, AS AN OPTION LETTER, C WOULD PROVIDE AN ANSWER THAT IS IN LINE WITH THE CONTENT OF THE VIDEO. SO, THE ANSWER LETTER COULD BE C."
+    },
+    {
+        "video": "causalqa/m61tIShNZuA_000014_000024.mp4",
+        "question": "What would she do if she had a nose bleed?",
+        "answer": "B",
+        "choices": {
+            "A": "They would need to call an ambulance immediately.",
+            "B": "She will bind up.",
+            "C": "Everyone around would panic and evacuate the area.",
+            "D": "[person_1] would faint immediately."
+        },
+        "predict": "IF SOMEONE HAD A NOSE BLEED, SHE WOULD BIND UP TO STOP THE BLEEDING."
+    },
+    {
+        "video": "causalqa/NcL-BPuwSAs_000011_000021.mp4",
+        "question": "What will happen if the electricity is cut off?",
+        "answer": "B",
+        "choices": {
+            "A": "Maybe [person_1] will suddenly start dancing.",
+            "B": "Maybe [person_1] will feel hot.",
+            "C": "[person_1] may start singing loudly.",
+            "D": "[person_1] will see fireworks outside through the window."
+        },
+        "predict": "THE CORRECT ANSWER IS D. [PERSON_1] WILL SEE FIREWORKS OUTSIDE THROUGH THE WINDOW.."
+    },
+    {
+        "video": "causalqa/H4YeMD-b26M_000018_000028.mp4",
+        "question": "What will happen if [person_1] and [person_2] are not soldiers?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will take [person_2] on a world tour.",
+            "B": "[person_2] and [person_1] will start a business together.",
+            "C": "[person_1] and [person_2] will won't be here.",
+            "D": "[person_1] will probably become a famous dancer."
+        },
+        "predict": "BASED ON THE GIVEN ANSWER, THE CORRECT OPTION LETTER FOR THE ANSWER IS A. IF [PERSON_1] AND [PERSON_2] ARE NOT SOLDIERS, THEY WON'T BE HERE."
+    },
+    {
+        "video": "causalqa/_i3E0CVwD8U_000031_000041.mp4",
+        "question": "What will happen if [person_1] is sitting down on [chair_1]?",
+        "answer": "C",
+        "choices": {
+            "A": "[chair_1] will tilt slightly backwards, causing [person_1] to grab onto the table for balance.",
+            "B": "[person_1] will start to float gently above [chair_1].",
+            "C": "[person_1] would not be able to put her arms down the side.",
+            "D": "[person_1] will drop the book she is holding."
+        },
+        "predict": "THE ANSWER IS C."
+    },
+    {
+        "video": "causalqa/mbn9i9rdY5c_000067_000077.mp4",
+        "question": "What will happen if [person_1] tore the newspaper?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will feel excited.",
+            "B": "[person_1] will accidentally start a fire in the fireplace.",
+            "C": "the book may close by itself.",
+            "D": "[person_1] may see the pet run away."
+        },
+        "predict": "THE ANSWER IS C. THE BOOK MAY CLOSE BY ITSELF."
+    },
+    {
+        "video": "causalqa/LlAgFuhFY8E_000003_000013.mp4",
+        "question": "What if the horse ran fast?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] would fall off his horse.",
+            "B": "[person_1] would start galloping backwards.",
+            "C": "[person_1]'s horse would suddenly stop.",
+            "D": "[person_1] would start singing loudly."
+        },
+        "predict": "IF THE HORSE RUNS FAST, THE PERSON RIDING IT WOULD FALL OFF."
+    },
+    {
+        "video": "causalqa/J4Ohqr3GykU_000000_000010.mp4",
+        "question": "What would happen if [person_1] fell?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] would get hurt.",
+            "B": "The chair might break due to the fall impact.",
+            "C": "[person_1] might accidentally turn off the lights.",
+            "D": "[person_1] may inadvertently start a song."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] MAY INADVERTENTLY START A SONG.."
+    },
+    {
+        "video": "causalqa/yTHCOarnqN8_000140_000150.mp4",
+        "question": "What will happen if [person_1] hits the wrong beat?",
+        "answer": "D",
+        "choices": {
+            "A": "The stage lights will go out.",
+            "B": "The audience will immediately start booing.",
+            "C": "[person_1] will make all the other instruments sound off-tune.",
+            "D": "Maybe [person_1] will replay that beat."
+        },
+        "predict": "THE ANSWER IS D. MAYBE [PERSON_1] WILL REPLAY THAT BEAT.."
+    },
+    {
+        "video": "causalqa/kFVXWZPJtKk_000128_000138.mp4",
+        "question": "What if [person_2] drinks the bubble water?",
+        "answer": "C",
+        "choices": {
+            "A": "The room will fill with bubbles and everyone will dance.",
+            "B": "The bubble water will turn into a sparkling fountain.",
+            "C": "[person_1] will call their mother.",
+            "D": "[person_1] will start laughing uncontrollably."
+        },
+        "predict": "THE CORRECT ANSWER IS A: THE ROOM WILL FILL WITH BUBBLES AND EVERYONE WILL DANCE.."
+    },
+    {
+        "video": "causalqa/N58dTJanSpU_000291_000301.mp4",
+        "question": "What will happen if [person_1] pokes the cello stick in [person_1]'s eyes?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will probably cry very loudly.",
+            "B": "A nearby painting will fall from the wall.",
+            "C": "[person_1] will suddenly find an old hidden key in the cello case.",
+            "D": "The piano strings will snap loudly."
+        },
+        "predict": "IF THE PERSON TOUCHES THE CELLO STICK WITH THEIR EYES, IT MIGHT LEAD TO CRYING LOUDLY. THEREFORE, THE ANSWER IS A."
+    },
+    {
+        "video": "causalqa/XF0o08931Cs_000010_000020.mp4",
+        "question": "What will happen if it\u2019s sunny?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will move into the house.",
+            "B": "[person_1] will be chased by a flock of birds.",
+            "C": "[person_1] will have to dodge falling fruit.",
+            "D": "[person_1] will find a hidden treasure in the garden."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] WILL FIND A HIDDEN TREASURE IN THE GARDEN.."
+    },
+    {
+        "video": "causalqa/U3IQtAps8a4_000003_000013.mp4",
+        "question": "What [person_1] do if without the gong stick?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] might start singing to replace the gong.",
+            "B": "[person_1] will have to get one.",
+            "C": "[person_1] could try clapping hands to make noise.",
+            "D": "[person_1] might use a nearby cookie jar to create sound."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] MIGHT USE A NEARBY COOKIE JAR TO CREATE SOUND."
+    },
+    {
+        "video": "causalqa/RCcEzZQOYBE_000003_000013.mp4",
+        "question": "What will happen if [person_1] slips?",
+        "answer": "A",
+        "choices": {
+            "A": "Maybe [person_1] will go to the hospital.",
+            "B": "[person_1] will then decide to explore the forest nearby.",
+            "C": "Perhaps [person_1] will consider taking a vacation to recover.",
+            "D": "It is possible that [person_1] will have a sudden urge to bake a cake."
+        },
+        "predict": "THE CORRECT ANSWER IS A: MAYBE [PERSON_1] WILL GO TO THE HOSPITAL.."
+    },
+    {
+        "video": "causalqa/T8Q0bgy2BN8_000041_000051.mp4",
+        "question": "What will happen if [person_1] gets a beautiful doll?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] may be very happy.",
+            "B": "The doll might inspire [person_1] to start a puppet show.",
+            "C": "[person_1] could decide to organize a tea party for the doll.",
+            "D": "[person_1] may think the doll can dance on its own."
+        },
+        "predict": "THE CORRECT ANSWER IS D. [PERSON_1] MAY THINK THE DOLL CAN DANCE ON ITS OWN.."
+    },
+    {
+        "video": "causalqa/grpqMh5phDc_000000_000010.mp4",
+        "question": "What will happen if [person_2] jumps and tries to throw the ball into the basket?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will secure the basket to the floor.",
+            "B": "[person_1] will sit down to avoid interfering.",
+            "C": "[person_1] will raise his hands to block the ball.",
+            "D": "[person_1] will congratulate [person_2] on scoring."
+        },
+        "predict": "THE CORRECT ANSWER IS D. [PERSON_1] WILL CONGRATULATE [PERSON_2] ON SCORING.."
+    },
+    {
+        "video": "causalqa/zDjhiD_j3Zc_000109_000119.mp4",
+        "question": "What if [person_1] used [person_1]'s left hand to shave?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] would be sad about it.",
+            "B": "[person_1] might damage the razor blade.",
+            "C": "[person_1] would end up missing an important meeting.",
+            "D": "[person_1] would accidentally break the mirror."
+        },
+        "predict": "THE ANSWER IS C. [PERSON_1] WOULD END UP MISSING AN IMPORTANT MEETING."
+    },
+    {
+        "video": "causalqa/MiTWgyR09vg_000000_000010.mp4",
+        "question": "What would happen if there is a sudden brake?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] and others will start clapping.",
+            "B": "They would be all right.",
+            "C": "The food would fly out the window.",
+            "D": "The music would abruptly stop."
+        },
+        "predict": "THE VIDEO SUGGESTS THAT IF THERE IS A SUDDEN BRAKE, PEOPLE WOULD START CLAPPING."
+    },
+    {
+        "video": "causalqa/OcvSsrs7ono_000000_000010.mp4",
+        "question": "What if the power goes out?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will decide to practice even harder.",
+            "B": "He may find a hidden key to operate the manual system.",
+            "C": "[person_1] cannot continue to practice.",
+            "D": "[person_1] will start teaching an entirely new topic."
+        },
+        "predict": "THE ANSWER IS C. [PERSON_1] CANNOT CONTINUE TO PRACTICE.."
+    },
+    {
+        "video": "causalqa/wJCwZ0KDw6s_000136_000146.mp4",
+        "question": "What would happen if it rained?",
+        "answer": "D",
+        "choices": {
+            "A": "They would suddenly begin singing and continue working.",
+            "B": "[person_1] might decide to swim through the streets instead of walking.",
+            "C": "They would all begin building a shelter on the spot.",
+            "D": "[person_1] would get wet."
+        },
+        "predict": "THE ANSWER IS C. THEY WOULD ALL BEGIN BUILDING A SHELTER ON THE SPOT."
+    },
+    {
+        "video": "causalqa/bKUJvyPccHA_000003_000013.mp4",
+        "question": "What if [person_1] struck at the ground?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] might discover an underground tunnel.",
+            "B": "[person_1] might find buried treasure.",
+            "C": "A hidden door could open beneath [person_1].",
+            "D": "The ground would be broken."
+        },
+        "predict": "THE GROUND WOULD BE BROKEN IF PERSON 1 STRIKES AT IT."
+    },
+    {
+        "video": "causalqa/CWVdxmyysx8_000118_000128.mp4",
+        "question": "What will happen if [person_1] stacks the dice one by one?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1]'s hand might start shaking uncontrollably, causing the dice to fall.",
+            "B": "The stack could turn into a set of building blocks spontaneously creating a tower.",
+            "C": "Perhaps [person_1] will stack the dice successfully.",
+            "D": "The dice could roll away, leading [person_1] to chase them across the room."
+        },
+        "predict": "THE ANSWER IS C. PERHAPS [PERSON_1] WILL STACK THE DICE SUCCESSFULLY."
+    },
+    {
+        "video": "causalqa/x8cwzO6u_7c_000090_000100.mp4",
+        "question": "What will happen if [person_1] is sleepy?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will not to play the guitar any longer.",
+            "B": "[person_1] might accidentally compose a new song.",
+            "C": "[person_1] would become more focused and improve the song.",
+            "D": "[person_1] might enhance their performance by adding extra melodies."
+        },
+        "predict": "THE OPTION LETTER THAT IS RELEVANT TO THE QUESTION IS (A). HENCE, THE ANSWER IS A."
+    },
+    {
+        "video": "causalqa/HoKR4QOaxKM_000194_000204.mp4",
+        "question": "What will happen if [person_1] plays out of tune?",
+        "answer": "D",
+        "choices": {
+            "A": "Then [person_1] may decide to switch instruments.",
+            "B": "The stage lights will change color dramatically.",
+            "C": "Everyone will think it's a new style and applaud.",
+            "D": "[person_1] will sing the wrong music."
+        },
+        "predict": "THE ANSWER IS (D) [PERSON_1] WILL SING THE WRONG MUSIC.."
+    },
+    {
+        "video": "causalqa/9Nbx3XG-g4A_000000_000010.mp4",
+        "question": "What will happen if [person_1] can't push the wheelbarrow?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] will attempt to juggle with items in the wheelbarrow.",
+            "B": "[person_1] will attempt to ride on the wheelbarrow like a skateboard.",
+            "C": "The wheelbarrow will transform into a bicycle for [person_1] to ride.",
+            "D": "Someone else will push the wheelbarrow instead of [person_1]."
+        },
+        "predict": "BASED ON THE GIVEN INFORMATION, THE ANSWER OPTION LETTER FOR THE QUESTION IS D. SOMEONE ELSE WILL PUSH THE WHEELBARROW INSTEAD OF [PERSON_1]."
+    },
+    {
+        "video": "causalqa/FaN1-CyTV2s_000047_000057.mp4",
+        "question": "What will happen if it rains?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will start singing a song.",
+            "B": "[person_1] will grab a paintbrush and start painting.",
+            "C": "[person_1] won't continue skating.",
+            "D": "[person_1] will begin a cooking show."
+        },
+        "predict": "IF IT RAINS, THE GAME WILL BE AFFECTED."
+    },
+    {
+        "video": "causalqa/XoYOZoS9lBA_000001_000011.mp4",
+        "question": "What will happen if it's 12 o'clock at noon?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will go for lunch.",
+            "B": "Everyone will take out their umbrellas thinking it's going to rain.",
+            "C": "[person_1] may choose to start painting in the garden.",
+            "D": "[person_1] might decide to reorganize the desk unexpectedly."
+        },
+        "predict": "THE CORRECT ANSWER IS (A) [PERSON_1] WILL GO FOR LUNCH.."
+    },
+    {
+        "video": "causalqa/2r5gavDlwBw_000001_000011.mp4",
+        "question": "What will happen if [person_1] misses the beat?",
+        "answer": "A",
+        "choices": {
+            "A": "Perhaps [person_1] will stop playing the song.",
+            "B": "Perhaps [person_1] will sing a new verse spontaneously.",
+            "C": "Perhaps [person_1] will start dancing instead.",
+            "D": "The audience might begin clapping and echoing."
+        },
+        "predict": "IF PERSON 1 MISSES THE BEAT, THE AUDIENCE MIGHT BEGIN CLAPPING AND ECHOING."
+    },
+    {
+        "video": "causalqa/wS0ey_5pr_A_000000_000010.mp4",
+        "question": "What will happen if [person_1] drops the book?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] will suddenly start a painting.",
+            "B": "[person_1] may get hurt.",
+            "C": "A gust of wind will blow [person_1] backwards.",
+            "D": "[person_1] will start telling a story about their day."
+        },
+        "predict": "THE ANSWER IS C. A GUST OF WIND WILL BLOW [PERSON_1] BACKWARDS."
+    },
+    {
+        "video": "causalqa/RcrHixilmcI_000053_000063.mp4",
+        "question": "What will happen if [person_1] doesn't know how to weave?",
+        "answer": "A",
+        "choices": {
+            "A": "It is possible that [person_1] will learn to weave.",
+            "B": "Perhaps [person_1] would forget how to cook entirely.",
+            "C": "[person_1] may choose to take a long nap.",
+            "D": "[person_1] may decide to climb a tree instead."
+        },
+        "predict": "IF PERSON 1 DOESN'T KNOW HOW TO WEAVE, THEY MAY FORGET HOW TO WEAVE ENTIRELY. SO, THE ANSWER TO THE QUESTION IS OPTION D."
+    },
+    {
+        "video": "causalqa/cvbyntK1jkI_000243_000253.mp4",
+        "question": "What will happen if the [person_1] is in correct playing position?",
+        "answer": "A",
+        "choices": {
+            "A": "The [person_1] will not meet injury after playing accordion.",
+            "B": "[person_1] might accidentally spill a drink.",
+            "C": "[person_1] might disrupt the lighting setup.",
+            "D": "[person_1] will unintentionally break a window."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] WILL UNINTENTIONALLY BREAK A WINDOW.."
+    },
+    {
+        "video": "causalqa/JiAMTX9z1Wo_000020_000030.mp4",
+        "question": "What would happen if [person_1] did not gain momentum at the start?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] would likely need assistance to continue.",
+            "B": "[person_1] might not reach the top of the slide.",
+            "C": "[person_1] could not slide down.",
+            "D": "[person_1] might slip and fall backwards."
+        },
+        "predict": "IF [PERSON_1] DID NOT GAIN MOMENTUM AT THE START, THEY MIGHT NOT REACH THE TOP OF THE SLIDE."
+    },
+    {
+        "video": "causalqa/oLHasBrddDI_000049_000059.mp4",
+        "question": "What will happen if [person_1] dropped the harmonica?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1]'s harmonica playing will cause a power outage.",
+            "B": "[person_1] will leave the stage abruptly.",
+            "C": "[person_1] would pick the harmonica up and go on playing.",
+            "D": "[person_1] will get a round of applause from the audience."
+        },
+        "predict": "THE CORRECT ANSWER IS D. [PERSON_1] WILL GET A ROUND OF APPLAUSE FROM THE AUDIENCE.."
+    },
+    {
+        "video": "causalqa/ydwrAt1N2z4_000160_000170.mp4",
+        "question": "What will happen if the house of [person_1] suddenly loses power?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] will suddenly start playing the guitar.",
+            "B": "[person_1] might light candles to read a book.",
+            "C": "[person_1]'s pet might get startled and knock over a plant.",
+            "D": "[person_1] won't be able to keep squeezing oranges."
+        },
+        "predict": "BASED ON THE GIVEN ANSWER, THE CORRECT OPTION LETTER SEEMS TO BE D."
+    },
+    {
+        "video": "causalqa/UU1ZgaXIZbw_000012_000022.mp4",
+        "question": "What will happen if [person_1] drops hat?",
+        "answer": "B",
+        "choices": {
+            "A": "The hat will cause [person_1] to mistakenly kick it and slip.",
+            "B": "[person_1] will have to steer clear of high - impact moves.",
+            "C": "[person_1]'s hair will catch fire due to sudden sunlight exposure.",
+            "D": "[person_1] will trip over the hat and fall dramatically."
+        },
+        "predict": "I'M SORRY, BUT THE OPTION LETTER IS INCORRECT. THE ANSWER PROVIDED IS INCORRECT AND NOT RELATED TO THE VIDEO. CAN YOU PLEASE PROVIDE THE CORRECT ANSWER FOR THE QUESTION?"
+    },
+    {
+        "video": "causalqa/RNfT8wHQzTw_000068_000078.mp4",
+        "question": "What will happen if the hand of [person_1] cramps?",
+        "answer": "C",
+        "choices": {
+            "A": "The chessboard could be accidentally overturned by [person_1].",
+            "B": "[person_1] might unintentionally signal to the opponent to make a move.",
+            "C": "[person_1] will break the chessman.",
+            "D": "[person_1] will express surprise and clap enthusiastically."
+        },
+        "predict": "IF THE HAND OF PERSON 1 CRAMPS, THEY MIGHT UNINTENTIONALLY SIGNAL TO THE OPPONENT TO MAKE A MOVE."
+    },
+    {
+        "video": "causalqa/7lnieaf1nHI_000001_000011.mp4",
+        "question": "What will happen if the [person_1] does not hold the mechanical bull's back?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] might successfully perform a backflip.",
+            "B": "[person_1] will fall.",
+            "C": "[person_1] will smoothly dismount and take a bow.",
+            "D": "[person_1] will quickly adapt and control the bull hands-free."
+        },
+        "predict": "BASED ON THE PROVIDED OPTIONS, THE ANSWER IS B. IT IS LIKELY THAT THE PERSON WEARING THE BLACK SHIRT WILL FALL IF THEY DON'T HOLD THE MECHANICAL BULL'S BACK."
+    },
+    {
+        "video": "causalqa/MeXXDRbsb-k_000029_000039.mp4",
+        "question": "What if the dumbbell in [person_1]'s hand fell on its own?",
+        "answer": "B",
+        "choices": {
+            "A": "The noise might startle the dog, causing it to bark loudly.",
+            "B": "It would seriously hurt [person_1]'s leg.",
+            "C": "[person_1] would jump back startled but remain unharmed.",
+            "D": "The dumbbell would roll away harmlessly into the corner."
+        },
+        "predict": "IF THE DUMBBELL IN [PERSON_1]'S HAND FALLS ON ITS OWN, THE CONSEQUENCES MAY BE [C]."
+    },
+    {
+        "video": "causalqa/ZschnP6GJ8w_000470_000480.mp4",
+        "question": "What would happen if [person_3] did not play?",
+        "answer": "A",
+        "choices": {
+            "A": "The band would need other clarinet.",
+            "B": "[person_3] might wander off to find a new instrument.",
+            "C": "[person_3] would accidentally drop the music sheet.",
+            "D": "[person_3] might adjust the music stand instead."
+        },
+        "predict": "THE ANSWER IS (C) [PERSON_3] MIGHT ACCIDENTALLY DROP THE MUSIC SHEET."
+    },
+    {
+        "video": "causalqa/gJui8FzJA40_000023_000033.mp4",
+        "question": "What will happen if it rains?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] will happily jump in puddles instead of playing chess.",
+            "B": "[person_1] will stop playing chess.",
+            "C": "[person_1] will start a rain dance to stop the rain.",
+            "D": "[person_1] will gather everyone for a group photo without the rain."
+        },
+        "predict": "THE VIDEO SUGGESTS THAT IF IT RAINS, THE PLAYERS WILL STOP PLAYING CHESS. THEREFORE, THE ANSWER IS A."
+    },
+    {
+        "video": "causalqa/wkmmZ2FYhQo_000148_000158.mp4",
+        "question": "What would happen if [person_1] and [person_5] had finished the performance?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] and [person_5] would stop playing the instruments.",
+            "B": "The stage would be covered in confetti celebrating the end.",
+            "C": "[person_5] would initiate a rapid encore performance.",
+            "D": "The lights would dim to mark the completion of the show."
+        },
+        "predict": "THE CORRECT ANSWER IS A: [PERSON_1] AND [PERSON_5] WOULD STOP PLAYING THE INSTRUMENTS."
+    },
+    {
+        "video": "causalqa/0juaB_xZmOo_000010_000020.mp4",
+        "question": "What would happen if [person_1] cannot open the gift?",
+        "answer": "B",
+        "choices": {
+            "A": "The gift might contain a loud alarm that will start ringing unexpectedly.",
+            "B": "Water will spill over the floor.",
+            "C": "The gift might explode causing a minor earthquake.",
+            "D": "[person_1] could accidentally break the chair they are sitting on."
+        },
+        "predict": "THE GIFT THAT [PERSON_1] RECEIVED MIGHT CONTAIN A LOUD ALARM THAT WILL START RINGING UNEXPECTEDLY IF THEY CANNOT OPEN IT. THEREFORE, THE ANSWER IS (A) A LOUD ALARM THAT WILL RING."
+    },
+    {
+        "video": "causalqa/zF5P1S393oA_000011_000021.mp4",
+        "question": "What would happen if [person_1] couldn't find her present?",
+        "answer": "C",
+        "choices": {
+            "A": "The lights at the party might flicker unexpectedly.",
+            "B": "[person_1] might start drawing a picture for [person_2] instead.",
+            "C": "[person_2] would share her present with [person_1].",
+            "D": "[person_1] would mistakenly take a nap until the party ends."
+        },
+        "predict": "I'M SORRY, BUT THE GIVEN ANSWER LETTER DOES NOT SEEM TO BE RELEVANT TO THE QUESTION. CAN YOU PLEASE PROVIDE THE CORRECT ANSWER LETTER AND THE CORRESPONDING ANSWER?"
+    },
+    {
+        "video": "causalqa/2H0GzyhYeMo_000017_000027.mp4",
+        "question": "What would happen if [person_1] did not wear a cap?",
+        "answer": "B",
+        "choices": {
+            "A": "The cap falling might startle the animals nearby.",
+            "B": "[person_1] might not be able to play well.",
+            "C": "[person_1] might drop the instrument due to unexpected wind.",
+            "D": "[person_1] might get distracted by the sun and miss a note."
+        },
+        "predict": "BASED ON THE GIVEN INFORMATION, THE ANSWER IS D. [PERSON_1] MIGHT GET DISTRACTED BY THE SUN AND MISS A NOTE.."
+    },
+    {
+        "video": "causalqa/HAKxnozuYVE_000063_000073.mp4",
+        "question": "What will occur if [person_1] wants to sit down?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] might spill a drink on themselves.",
+            "B": "The chair might break, causing [person_1] to fall.",
+            "C": "[person_1] might accidentally drop the bagpipes.",
+            "D": "[person_1] will quit playing the bagpipes."
+        },
+        "predict": "IF PERSON 1 WANTS TO SIT DOWN, IT MIGHT LEAD TO AN ACCIDENT AND A BAGPIPE WILL GET DAMAGED."
+    },
+    {
+        "video": "causalqa/bv0SxN-ryK4_000014_000024.mp4",
+        "question": "What would happen if [person_1] didn't use a towel to dry firstly?",
+        "answer": "B",
+        "choices": {
+            "A": "The wetness might enable [person_1] to juggle unexpectedly.",
+            "B": "There would be many water drops flying anywhere.",
+            "C": "[person_1] could cause water to make the floor slippery, leading to an unexpected dance.",
+            "D": "[person_1] might slip and fall making a loud noise with the gong."
+        },
+        "predict": "BASED ON THE CONTEXT AND THE PROVIDED ANSWER, THE MOST LIKELY OPTION THAT WOULD HAPPEN IF PERSON 1 DOESN'T USE A TOWEL TO DRY FIRST IS THAT THEY MIGHT SLIP AND FALL, MAKING A LOUD NOISE WITH THE GONG."
+    },
+    {
+        "video": "causalqa/DoG-s29yj0M_000043_000053.mp4",
+        "question": "What will happen if [person_1] has been tired?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] might accidentally spill the wine on the floor.",
+            "B": "Someone else might offer [person_1] a glass of water.",
+            "C": "[person_1] will go out.",
+            "D": "[person_1] may ask for an extra chair to sit."
+        },
+        "predict": "THE ANSWER IS C. [PERSON_1] WILL GO OUT."
+    },
+    {
+        "video": "causalqa/Eg-Ke3JoFbU_000000_000010.mp4",
+        "question": "What would happen if [person_1] didn't use this method?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] would have wine to drink.",
+            "B": "The table would be covered in flour by [person_1].",
+            "C": "[person_1] would start humming a song.",
+            "D": "[person_1] would accidentally break the bottle."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] WOULD ACCIDENTALLY BREAK THE BOTTLE."
+    },
+    {
+        "video": "causalqa/NaFdJEo-_l8_000063_000073.mp4",
+        "question": "What will happen if the [doll_1] fall over?",
+        "answer": "B",
+        "choices": {
+            "A": "A toy car will start moving.",
+            "B": "The [person_1] will pick the [doll_1] up.",
+            "C": "The wind will blow stronger.",
+            "D": "A nearby vase will shatter."
+        },
+        "predict": "IF THE [DOLL_1] FALLS OVER, A PICTURE OF THE PERSON ON THE DOLL WILL APPEAR."
+    },
+    {
+        "video": "causalqa/L7TXXSbwkkw_000078_000088.mp4",
+        "question": "What would happen if [person_2] did not sit there?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] might suddenly find a hidden treasure under the chair.",
+            "B": "[person_1] may not talk anything.",
+            "C": "[person_1] may stand still, unsure of what to do next.",
+            "D": "[person_1] might decide to sing loudly."
+        },
+        "predict": "THE PERSON WHO DID NOT SIT THERE IS A LITTLE GIRL AND HER NAME IS C."
+    },
+    {
+        "video": "causalqa/1oA-vfOR6QM_000016_000026.mp4",
+        "question": "What will happen if [person_2] stops playing accordion?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_2] would start an impromptu dance to accompany the music.",
+            "B": "[person_2] would adjust the stage lights for a better mood.",
+            "C": "[person_2] might drop the accordion, leading to a noise incident.",
+            "D": "[person_2] may have a quick tidy - up."
+        },
+        "predict": "THE POSSIBLE CONSEQUENCE OF STOPPING THE ACCORDION PLAY IS THAT THE PERSON MIGHT DROP IT AND CREATE A NOISE INCIDENT. THUS, THE ANSWER IS C."
+    },
+    {
+        "video": "causalqa/KJbZBkwvBKE_000003_000013.mp4",
+        "question": "What will happen if [person_1] falls into the cupboard when [person_1] is snatching weight lifting?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] might discover a hidden door behind the cupboard leading to another room.",
+            "B": "[]person_1] may get hurt",
+            "C": "[person_1] will accidentally start a chain reaction causing the weights to float.",
+            "D": "[person_1] may unexpectedly find themselves on stage performing."
+        },
+        "predict": "THE CORRECT ANSWER IS B: [PERSON_1] MAY GET HURT."
+    },
+    {
+        "video": "causalqa/bYnjy8X11JI_000027_000037.mp4",
+        "question": "What if [person_1] plays outside the mattress?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] could accidentally trigger a sprinkler system.",
+            "B": "A bird might suddenly distract [person_1].",
+            "C": "The ground could unexpectedly give way beneath [person_1].",
+            "D": "[person_1] may not somersault."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] MAY NOT SOMERSAULT.."
+    },
+    {
+        "video": "causalqa/xub06WS0RwU_000008_000018.mp4",
+        "question": "What will happen if the [person_1] cannot drink so much?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will call friends for help.",
+            "B": "[person_1] will decide to bake a cake.",
+            "C": "[person_1] will be upset",
+            "D": "[person_1] will start dancing to the music."
+        },
+        "predict": "THE ANSWER IS C. [PERSON_1] WILL BE UPSET."
+    },
+    {
+        "video": "causalqa/KnhkDygJLnE_000000_000010.mp4",
+        "question": "What will happen if the power is off?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] maybe afraid.",
+            "B": "[person_1] might begin singing loudly.",
+            "C": "[person_1] might light a candle.",
+            "D": "[person_1] might start looking for a flashlight."
+        },
+        "predict": "THE ANSWER IS C. [PERSON_1] MIGHT LIGHT A CANDLE."
+    },
+    {
+        "video": "causalqa/VloTTm8VHF4_000170_000180.mp4",
+        "question": "What will happen if the [person_1] leg has any pimples or open sores?",
+        "answer": "B",
+        "choices": {
+            "A": "The entire group may go out for a celebration dinner.",
+            "B": "The leg of [person_1] may be infected after waxing.",
+            "C": "[person_1] will be advised to avoid wearing socks for a week.",
+            "D": "[person_1] might need to sing a song to calm down."
+        },
+        "predict": "THE CORRECT ANSWER IS B: THE LEG OF [PERSON_1] MAY BE INFECTED AFTER WAXING."
+    },
+    {
+        "video": "causalqa/7Bf2myUcxwI_000005_000015.mp4",
+        "question": "What would they do if the meal is ready?",
+        "answer": "C",
+        "choices": {
+            "A": "The table would be set with fancy cutlery.",
+            "B": "They would call more friends to join the game.",
+            "C": "They would stop playing.",
+            "D": "They would decide to start cleaning the room."
+        },
+        "predict": "THE OPTION THAT WOULD BE APPLICABLE IN THIS SCENARIO IS C. THEY WOULD DECIDE TO START CLEANING THE ROOM."
+    },
+    {
+        "video": "causalqa/FJA6ZOsdqCM_000129_000139.mp4",
+        "question": "What will happen if the doll fall over?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] would start a new game entirely.",
+            "B": "The [person_1] will pick the doll up.",
+            "C": "[person_1] will have to repair the machine.",
+            "D": "The nearby fan may slow down."
+        },
+        "predict": "THE CORRECT ANSWER IS D. THE NEARBY FAN MAY SLOW DOWN.."
+    },
+    {
+        "video": "causalqa/RU1Lf6LKZRE_000001_000011.mp4",
+        "question": "What if she can't do the technique?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will change another driller.",
+            "B": "The floor might become unstable due to her actions.",
+            "C": "[person_1] will accidently damage the equipment.",
+            "D": "She could cause a power outage in the area."
+        },
+        "predict": "THE ANSWER IS (A, B, C, D)."
+    },
+    {
+        "video": "causalqa/w1nDxTwg6VA_000068_000078.mp4",
+        "question": "What will happen if the dices fall down?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] and [person_2] may compete again.",
+            "B": "[person_2] might accidentally trip over the dices.",
+            "C": "The dices could roll into the fire, causing it to extinguish.",
+            "D": "The table might collapse under the weight."
+        },
+        "predict": "THE ANSWER IS D. THE TABLE MIGHT COLLAPSE UNDER THE WEIGHT."
+    },
+    {
+        "video": "causalqa/Dw8BGGcSMC8_000021_000031.mp4",
+        "question": "What would happen if [person_1] didn't stand up?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] will just sit there",
+            "B": "[person_1] might drop the vase on the table.",
+            "C": "[person_1] might knock over a glass of water.",
+            "D": "It is probable that [person_1] will miss the passing ball."
+        },
+        "predict": "THE PERSON IN THE VIDEO WOULD EXPERIENCE THE EFFECTS OF GRAVITY IF THEY DIDN'T STAND UP. SO, THE ANSWER IS A."
+    },
+    {
+        "video": "causalqa/rDRJOL1ngko_000117_000127.mp4",
+        "question": "What will happen if someone takes [cup_1] ?",
+        "answer": "C",
+        "choices": {
+            "A": "It will cause a chain reaction, triggering a small fountain to rise.",
+            "B": "[cup_1] might unlock a hidden compartment under the table.",
+            "C": "The cup tower will fall.",
+            "D": "A proximity alarm will sound loudly, startling everyone nearby."
+        },
+        "predict": "THE ANSWER IS C. THE CUP TOWER WILL FALL."
+    },
+    {
+        "video": "causalqa/vvigBPKWU1w_000029_000039.mp4",
+        "question": "What would happen if [person_1] didn't know the way to play the harmonica?",
+        "answer": "D",
+        "choices": {
+            "A": "The harmonica will play by itself.",
+            "B": "People around [person_1] would suddenly sing in harmony.",
+            "C": "The harmonica would transform into a flute.",
+            "D": "[person_1] would practice more."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] WOULD PRACTICE MORE.."
+    },
+    {
+        "video": "causalqa/OKiHuOUTFHE_000038_000048.mp4",
+        "question": "What would happen if the road were slippery?",
+        "answer": "A",
+        "choices": {
+            "A": "The [person_1] would not walk with the stilts.",
+            "B": "The [person_1] would not walk with the shoes.",
+            "C": "The [person_1] would perform a quick spin to maintain balance.",
+            "D": "[person_1] will likely jump onto a nearby skateboard to travel more safely."
+        },
+        "predict": "THE CORRECT ANSWER IS D. [PERSON_1] WILL LIKELY JUMP ONTO A NEARBY SKATEBOARD TO TRAVEL MORE SAFELY.."
+    },
+    {
+        "video": "causalqa/kpdvbsxH6Fc_000017_000027.mp4",
+        "question": "What would happen if [person_1] could ride unicycle well?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] might get invited to a TV show for talented riders.",
+            "B": "[person_1] would be very happy.",
+            "C": "[person_1] might start juggling while riding.",
+            "D": "[person_1] would join the circus immediately."
+        },
+        "predict": "IF PERSON 1 CAN RIDE THE UNICYCLE WELL, THEY WOULD BE VERY HAPPY."
+    },
+    {
+        "video": "causalqa/CEMZFkshKEk_000014_000024.mp4",
+        "question": "What will happen if the [person_1] uses a peeler?",
+        "answer": "D",
+        "choices": {
+            "A": "The cooking process would come to a halt.",
+            "B": "[person_1] will accidentally start peeling inedible objects.",
+            "C": "The [person_1]'s friend might take over and start slicing instead.",
+            "D": "The [person_1] will peel them faster."
+        },
+        "predict": "THE PERSON USING THE PEELER IS LIKELY TO EXPERIENCE A SLOW COOKING PROCESS."
+    },
+    {
+        "video": "causalqa/xTlJA88gDkU_000039_000049.mp4",
+        "question": "What if the object he slams was a tire?",
+        "answer": "D",
+        "choices": {
+            "A": "The car might suddenly accelerate uncontrollably.",
+            "B": "The loud noise would cause birds nearby to fly away.",
+            "C": "It could bounce back with force, knocking [person_1] off balance.",
+            "D": "The tire would not be broken."
+        },
+        "predict": "IF THE OBJECT HE SLAMS WAS A TIRE, THEN THE CAR WOULD PROBABLY ACCELERATE UNCONTROLLABLY."
+    },
+    {
+        "video": "causalqa/Rna2LgSsPSs_000056_000066.mp4",
+        "question": "What will happen if [person_2] does not wear skating shoes?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_2] could break the ice with a jump.",
+            "B": "[person_2] will use rollerblades instead.",
+            "C": "[person_2] may hurt his feet.",
+            "D": "[person_2] might do a backflip."
+        },
+        "predict": "BASED ON THE INFORMATION PROVIDED, THE ANSWER IS C. [PERSON_2] MAY HURT HIS FEET."
+    },
+    {
+        "video": "causalqa/p7VYlkiPG2U_000094_000104.mp4",
+        "question": "What will happen if [person_1] finds that his car is lost?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] will confront the neighbors for taking his car.",
+            "B": "[person_1] will call the police.",
+            "C": "[person_1] will assume he parked in a completely different area.",
+            "D": "[person_1] will believe his car transformed into something else."
+        },
+        "predict": "THE CORRECT ANSWER IS D. [PERSON_1] WILL BELIEVE HIS CAR TRANSFORMED INTO SOMETHING ELSE.."
+    },
+    {
+        "video": "causalqa/H4UovmxSGl8_000000_000010.mp4",
+        "question": "What would happen if [person_1] were not stepping towards?",
+        "answer": "A",
+        "choices": {
+            "A": "It is probable that [person_1] would step backwards.",
+            "B": "[person_1] might try to catch the falling vase.",
+            "C": "[person_1] could suddenly jump to catch an unexpected balloon.",
+            "D": "[person_1] might decide to pick up a random book on the floor."
+        },
+        "predict": "THE CORRECT OPTION LETTER THAT IS RELATED TO THE GIVEN ANSWER IS D. IN THE VIDEO, WHEN [PERSON_1] WAS NOT STEPPING TOWARDS THE OBJECT, THEY MIGHT HAVE DECIDED TO PICK UP A RANDOM BOOK ON THE FLOOR."
+    },
+    {
+        "video": "causalqa/PWmvRamUeCI_000050_000060.mp4",
+        "question": "What if they accidentally turn over the table?",
+        "answer": "D",
+        "choices": {
+            "A": "Their unexpected performance could earn applause.",
+            "B": "The guests will start a spontaneous dance to distract from the accident.",
+            "C": "The live band might start playing faster tunes to lighten the mood.",
+            "D": "The waiters would come to help with that."
+        },
+        "predict": "THE ANSWER IS (D) THE WAITERS WOULD COME TO HELP WITH THAT.."
+    },
+    {
+        "video": "causalqa/J3uQY6uRPeo_000013_000023.mp4",
+        "question": "What will happen if [person_2] doesn't come to the gym?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_2] would become an expert in salsa dancing.",
+            "B": "[person_2] could start a podcast about marine life.",
+            "C": "[person_2] might decide to travel on a hot air balloon.",
+            "D": "[person_2] will not be strong."
+        },
+        "predict": "THE CORRECT ANSWER IS D. [PERSON_2] WILL NOT BE STRONG.."
+    },
+    {
+        "video": "causalqa/t12yOvRg1mI_000031_000041.mp4",
+        "question": "What if the microphone doesn't work?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_3] will whistle to get attention.",
+            "B": "[person_3] would start clapping for attention.",
+            "C": "[person_3] will speak loud.",
+            "D": "[person_3] will begin signing autographs."
+        },
+        "predict": "IF THE MICROPHONE DOESN'T WORK, IT CAN RESULT IN A SITUATION WHERE SOMEONE SPEAKS LOUDLY. SO, THE OPTION LETTER FOR THE ANSWER IS C, WHICH MEANS THAT SOMEONE MAY SPEAK LOUD."
+    },
+    {
+        "video": "causalqa/7xcU5cP_jm4_000000_000010.mp4",
+        "question": "What will happen if the dog is near [person_1] when [person_1] somersaults?",
+        "answer": "C",
+        "choices": {
+            "A": "Possibly, the dog could try to imitate the somersault.",
+            "B": "The dog might jump away to avoid the tumble.",
+            "C": "[person_1] will lie on top of the dog.",
+            "D": "The dog may bark to warn others."
+        },
+        "predict": "THE CORRECT ANSWER IS B: THE DOG MIGHT JUMP AWAY TO AVOID THE TUMBLE.."
+    },
+    {
+        "video": "causalqa/ce8HdSJE9No_000003_000013.mp4",
+        "question": "What will happen if the room is dark?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] would sense a mysterious aura.",
+            "B": "[person_1] will find a hidden treasure.",
+            "C": "The dog will fall asleep on the watermelon.",
+            "D": "[person_1] will not do exercise."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] WILL NOT DO EXERCISE.."
+    },
+    {
+        "video": "causalqa/PHbhKu9-2T8_000394_000404.mp4",
+        "question": "What will happen if [person_1] has a cramp while he is doing parkour?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_1] may fall.",
+            "B": "[person_1] might suddenly perform a backflip.",
+            "C": "[person_1] might manage to safely land on a nearby ledge.",
+            "D": "[person_1]'s cramp will help him stick a difficult landing."
+        },
+        "predict": "THE POSSIBLE OUTCOME OF A CRAMP EXPERIENCED BY [PERSON_1] WHILE PERFORMING PARKOUR IS THAT THEY WILL FALL."
+    },
+    {
+        "video": "causalqa/69AKLxJ5DFM_000004_000014.mp4",
+        "question": "What will happen if [person_1] drops the cymbal?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] might unintentionally step on the cymbals, causing a fall.",
+            "B": "The cymbals would create a distracting loud noise.",
+            "C": "The cymbal drop might disrupt the rhythm temporarily.",
+            "D": "[person_1] will have to pick up."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] WILL HAVE TO PICK UP.."
+    },
+    {
+        "video": "causalqa/d1hrXY_UbXE_000018_000028.mp4",
+        "question": "What will happen if [person_1] doesn't shake the inhaler?",
+        "answer": "A",
+        "choices": {
+            "A": "The medicine won't work to its fullest effect.",
+            "B": "The symptoms might immediately worsen, causing an unexpected health improvement.",
+            "C": "[person_1] might believe the medicine was replaced with water and panic.",
+            "D": "[person_1] might suddenly develop an immunity to the medication."
+        },
+        "predict": "IF [PERSON_1] DOESN'T SHAKE THE INHALER, IT MAY RESULT IN THE MEDICATION BEING WASTED. HOWEVER, IT IS NOT LIKELY THAT [PERSON_1] WILL SUDDENLY DEVELOP AN IMMUNITY TO THE MEDICATION. THE ANSWER IS C."
+    },
+    {
+        "video": "causalqa/xs71cLZIZkI_000015_000025.mp4",
+        "question": "What will happen if [person_1] feels tired?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will attempt to play the piano while standing on one leg.",
+            "B": "[person_1] will start mimicking bird sounds loudly.",
+            "C": "[person_1] will stop playing piano.",
+            "D": "[person_1] will try to perform a handstand."
+        },
+        "predict": "THE OPTION LETTER THAT IS RELEVANT TO THE GIVEN ANSWER IS D."
+    },
+    {
+        "video": "causalqa/cBb-IIT1dDg_000043_000053.mp4",
+        "question": "What if [person_1] swings the poi into the tree?",
+        "answer": "D",
+        "choices": {
+            "A": "The tree will start producing glowing sap immediately.",
+            "B": "The poi will visually blend into the leaves, making it hard to retrieve.",
+            "C": "The poi will transform the tree bark into rubber instantly.",
+            "D": "The tree will burn."
+        },
+        "predict": "THE POSSIBLE OUTCOME IF [PERSON_1] SWINGS THE POI INTO THE TREE IS THAT IT WILL MAKE THE TREE BURNING."
+    },
+    {
+        "video": "causalqa/Malt6l8jqng_000031_000041.mp4",
+        "question": "What will happen if the power is out?",
+        "answer": "A",
+        "choices": {
+            "A": "[person_2] will stop playing chess.",
+            "B": "[person_2] will start looking for candles to continue playing chess.",
+            "C": "[person_2] will suggest moving the chess game outside.",
+            "D": "[person_2] will turn on the power generator to keep the game going."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_2] WILL TURN ON THE POWER GENERATOR TO KEEP THE GAME GOING.."
+    },
+    {
+        "video": "causalqa/8u9nKvZqvUc_000007_000017.mp4",
+        "question": "What will happen if the power is off?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] might begin painting.",
+            "B": "[person_1] might start to dance.",
+            "C": "[person_1] maybe afraid.",
+            "D": "[person_1] might sing a song."
+        },
+        "predict": "THE POWER GOING OFF WOULD RESULT IN AN INTERRUPTION IN THE GAME BEING PLAYED."
+    },
+    {
+        "video": "causalqa/a0ayV0ST3nc_000004_000014.mp4",
+        "question": "What will happen if [person_1] feels tired ?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] will shout loudly to wake up.",
+            "B": "[person_1] will start playing the harp faster.",
+            "C": "[person_1] will put the harp down.",
+            "D": "[person_1] will sing a happy tune."
+        },
+        "predict": "IF [PERSON_1] IS FEELING TIRED, THEY WILL PUT DOWN THE HARP. SO, THE CORRECT OPTION LETTER IS C."
+    },
+    {
+        "video": "causalqa/H3ruKkjOokw_000445_000455.mp4",
+        "question": "What would happen if the power went out?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] would start a conversation about why the power went out.",
+            "B": "[person_1] would neither keep reading [book_1] nor talk with people.",
+            "C": "[person_1] would light a candle and continue reading.",
+            "D": "[person_1] would decide to take a nap until the power returns."
+        },
+        "predict": "THE ANSWER IS D."
+    },
+    {
+        "video": "causalqa/sVhbUkwlQz4_000007_000017.mp4",
+        "question": "What will happen if [person_1] turn off camera?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] would prepare a dance routine.",
+            "B": "[person_1] may suddenly start tap dancing.",
+            "C": "[person_1] will tune the lute perfectly.",
+            "D": "[person_1] will stop playing lute."
+        },
+        "predict": "THE ANSWER IS (D) [PERSON_1] WILL STOP PLAYING LUTE.."
+    },
+    {
+        "video": "causalqa/2mZHTEOBeBw_000403_000413.mp4",
+        "question": "What will happen if [person_1] gets another present?",
+        "answer": "C",
+        "choices": {
+            "A": "[person_1] might assume they need to perform a dance.",
+            "B": "His friend might insist on opening it immediately.",
+            "C": "[person_1] may open it.",
+            "D": "[person_1] might get overwhelmed and leave the room."
+        },
+        "predict": "THE ANSWER IS D. [PERSON_1] MIGHT GET OVERWHELMED AND LEAVE THE ROOM.."
+    },
+    {
+        "video": "causalqa/egtWg_7ibhA_000017_000027.mp4",
+        "question": "What happens if the string breaks?",
+        "answer": "C",
+        "choices": {
+            "A": "The floor might crack from the sudden impact.",
+            "B": "A sudden rainstorm will start.",
+            "C": "[person_1] will stop playing",
+            "D": "A loud noise might scare nearby birds away."
+        },
+        "predict": "IF THE STRING BREAKS, THE FLOOR MAY CRACK."
+    },
+    {
+        "video": "causalqa/gYBaYYqTrr0_000034_000044.mp4",
+        "question": "What will happen if the road is tough?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] will decide to run alongside the vehicle for faster progress.",
+            "B": "[person_1] will continue walking the horse.",
+            "C": "[person_1] will look for water puddles to splash around.",
+            "D": "[person_1] will take a back route to avoid the rough patch."
+        },
+        "predict": "THE CORRECT ANSWER IS D: [PERSON_1] WILL TAKE A BACK ROUTE TO AVOID THE ROUGH PATCH.."
+    },
+    {
+        "video": "causalqa/OkYH9GKIS_U_000022_000032.mp4",
+        "question": "What will happen if the [person_2] does not cry?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_2] might suddenly know how to paint.",
+            "B": "[person_2] can throw the first ball through the hoop.",
+            "C": "Perhaps they'll decide to build a sandcastle.",
+            "D": "[person_2] might start a rain dance."
+        },
+        "predict": "THE CORRECT ANSWER IS D. [PERSON_2] MIGHT START A RAIN DANCE.."
+    },
+    {
+        "video": "causalqa/2NXASbd3-6w_000040_000050.mp4",
+        "question": "What would happen if [person_1] were slipped ?",
+        "answer": "B",
+        "choices": {
+            "A": "[person_1] might break the vase on the table.",
+            "B": "[person_1] would be hurt.",
+            "C": "A loud noise will attract [person_2]'s attention.",
+            "D": "The lamp will flicker due to the impact."
+        },
+        "predict": "THE ANSWER IS D. THE LAMP WILL FLICKER DUE TO THE IMPACT."
+    },
+    {
+        "video": "causalqa/3jyyDsinG5g_000045_000055.mp4",
+        "question": "What will occur if [person_1] doesn't put his finger on the key buttons?",
+        "answer": "D",
+        "choices": {
+            "A": "[person_1] will start playing the trumpet unexpectedly.",
+            "B": "The accordion might fall apart due to the pressure.",
+            "C": "The crowd will start clapping in rhythm with [person_1]'s movements.",
+            "D": "[person_1] can't play the accordion."
+        },
+        "predict": "IF [PERSON_1] DOESN'T PUT HIS FINGER ON THE KEY BUTTONS, IT MAY CAUSE THE ACCORDION TO FALL APART. SO, THE CORRECT ANSWER IS D. [PERSON_1] CAN'T PLAY THE ACCORDION.."
+    }
+]

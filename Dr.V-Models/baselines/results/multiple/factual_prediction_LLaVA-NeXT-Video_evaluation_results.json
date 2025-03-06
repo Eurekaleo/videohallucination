@@ -1,0 +1,1390 @@
+{
+    "factual_prediction": {
+        "accuracy": 0.4523809523809524,
+        "unmatched_cases": [
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Pick up the remote control.",
+                "expected_text": "Lie on the bed."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The water bottle.",
+                "expected_text": "The shoe."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The shoe.",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "The remote control.",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "The hat.",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Pick up an item.",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The cupboard.",
+                "expected_text": "The refrigerator."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Open a drawer.",
+                "expected_text": "Close the window."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "The closet.",
+                "expected_text": "The window."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Pour a glass of water.",
+                "expected_text": "Sit at the table."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "The cup.",
+                "expected_text": "The phone/camera."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "The water bottle.",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "A ball.",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "The drawer.",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Open the window.",
+                "expected_text": "Throw the box."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The keys.",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Turn on the TV.",
+                "expected_text": "Throw the bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The shoes by the door.",
+                "expected_text": "The closet/cabinet."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Pick up the notebook.",
+                "expected_text": "Take the phone/camera."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Sit on the chair.",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Pick up the newspaper.",
+                "expected_text": "Throw the shoe."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Place the pen on the table.",
+                "expected_text": "Open the book."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "The book.",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Pick up the remote control.",
+                "expected_text": "Take the pillow."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "The paper bag.",
+                "expected_text": "The picture."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The keys.",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "The backpack.",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Take out a drink from the refrigerator.",
+                "expected_text": "Close the refrigerator."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The bag.",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The umbrella.",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "The shoes.",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "The refrigerator.",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The glass.",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The cake.",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "The remote control.",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Walk to the window.",
+                "expected_text": "Put down the bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Turn off the light.",
+                "expected_text": "Take off shoes"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Start watching TV.",
+                "expected_text": "Eat the medicine."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Start sweeping the floor.",
+                "expected_text": "Close the refrigerator."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Sweep.",
+                "expected_text": "Sit on."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Switch off the lights.",
+                "expected_text": "pillow"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Walk towards the door.",
+                "expected_text": "Throw the bag."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Grab a snack from the counter.",
+                "expected_text": "Close the refrigerator."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The keys.",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Turn on the TV.",
+                "expected_text": "Eat the sandwich."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Move it.",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Hang.",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Open the door.",
+                "expected_text": "Take the shoe."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "The napkin.",
+                "expected_text": "The cup/glass/bottle."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "The phone.",
+                "expected_text": "The food."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Turn on the TV.",
+                "expected_text": "Put down the book."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The keys.",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "The remote control.",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Pick up the remote.",
+                "expected_text": "Take the blanket"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "The cup/glass/bottle.",
+                "expected_text": "The clothes"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Hang them up.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Open the book.",
+                "expected_text": "Throw the clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The sunglasses.",
+                "expected_text": "The paper/notebook."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Pack.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Look at their phone.",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Reach for the remote control.",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Start cleaning.",
+                "expected_text": "Sit on."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "The shoes.",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Read a book.",
+                "expected_text": "Close the door."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Turn off the light.",
+                "expected_text": "Pick up the towel"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The hat.",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Move to another room.",
+                "expected_text": "Lie on."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "The book from the shelf.",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Pour a drink from a kettle.",
+                "expected_text": "Sit on the sofa/couch."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Pour a drink.",
+                "expected_text": "Eat the sandwich."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Walk out of the room.",
+                "expected_text": "Open the refrigerator."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Fold neatly.",
+                "expected_text": "Pick up"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "The bag.",
+                "expected_text": "The paper/notebook."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Pick up the phone.",
+                "expected_text": "Put down the pillow."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Arrange the books on the shelf.",
+                "expected_text": "Take the broom."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Pick up the book.",
+                "expected_text": "Open the box."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "The loaf of bread.",
+                "expected_text": "The medicine."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The toy car.",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The kitchen counter.",
+                "expected_text": "The table."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The book.",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The water bottle.",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "The oven.",
+                "expected_text": "The refrigerator."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "The refrigerator door.",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The drawer.",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "The book.",
+                "expected_text": "The shoe."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Sit on the chair.",
+                "expected_text": "Open the closet/cabinet."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Pick up the remote.",
+                "expected_text": "Put down the pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Take out a can of soda.",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The hat.",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The jacket.",
+                "expected_text": "The bag"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The jacket.",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Close the door.",
+                "expected_text": "Open the bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Sit on the bed.",
+                "expected_text": "Close the window."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The fridge.",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The shoe.",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Sit on the chair.",
+                "expected_text": "Take the book."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Hang the towel.",
+                "expected_text": "Throw the towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Sit down on the chair.",
+                "expected_text": "Put down the shoe."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Stand up and stretch.",
+                "expected_text": "Close the laptop."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Put to sleep.",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Start recording.",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Pick up the pen.",
+                "expected_text": "Take the shoes"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Pick up the headphones.",
+                "expected_text": "Open the window"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The book.",
+                "expected_text": "The cup/glass/bottle."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Open a drawer.",
+                "expected_text": "Sit at."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "The bottle.",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "The drawer.",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The towel.",
+                "expected_text": "The clothes"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Check the oven.",
+                "expected_text": "Open the refrigerator."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "The coffee table.",
+                "expected_text": "The table."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Pick up the book.",
+                "expected_text": "Throw the pillow"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Reach for the remote control.",
+                "expected_text": "Sit at the table"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The window.",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "The keys.",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Sweep the floor with the broom.",
+                "expected_text": "Put down the broom."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "The remote control.",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Fold neatly.",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Sit down on the chair.",
+                "expected_text": "Take the book."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Fold neatly.",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Adjust the blinds.",
+                "expected_text": "Open."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The keys.",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Stand up from the chair.",
+                "expected_text": "Take the book"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The book.",
+                "expected_text": "The clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The phone.",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "The remote control.",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "The backpack.",
+                "expected_text": "The laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The remote control.",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "The remote control.",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Start writing a letter.",
+                "expected_text": "Throw the book."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Cover face.",
+                "expected_text": "Throw."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "The keys.",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "The magazine.",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "The hanger.",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Open wider.",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Polish it.",
+                "expected_text": "Wash."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Turn off the light.",
+                "expected_text": "Take the pillow."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Fold.",
+                "expected_text": "Sit on."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The notebook.",
+                "expected_text": "The phone/camera."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Take a sip of water.",
+                "expected_text": "Eat the medicine."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The pen.",
+                "expected_text": "The shoe."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "The shoes.",
+                "expected_text": "The closet/cabinet."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The charger/cables.",
+                "expected_text": "The paper/notebook."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Take a picture.",
+                "expected_text": "Put down the phone/camera."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Close the laptop.",
+                "expected_text": "Take the towel"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The pillow.",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "The remote control.",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Wash the hands.",
+                "expected_text": "Put down the dish."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The key.",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "The oven.",
+                "expected_text": "The refrigerator."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The towel.",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "The laptop.",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "The oven.",
+                "expected_text": "The refrigerator."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "The door.",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Turn on the television.",
+                "expected_text": "Take the food."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Open the drawer.",
+                "expected_text": "Take the book."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The keys.",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Drop.",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Take out a sandwich from the fridge.",
+                "expected_text": "Close the refrigerator."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The suitcase.",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "The cupboard.",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Turn off the light.",
+                "expected_text": "Open the box."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The tablet.",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The keys.",
+                "expected_text": "The phone/camera."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Fold.",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Turn on the television.",
+                "expected_text": "Throw the pillow."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "The closet.",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Start writing in the notebook.",
+                "expected_text": "Take the pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The briefcase.",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The book.",
+                "expected_text": "The broom"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Turn off the lights.",
+                "expected_text": "Take the pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Pick up the remote control.",
+                "expected_text": "Take the paper/notebook."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "The pile of clothes.",
+                "expected_text": "The closet/cabinet."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Take out a jacket.",
+                "expected_text": "Close."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The phone.",
+                "expected_text": "The dish."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The bookshelf.",
+                "expected_text": "The closet/cabinet."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Pick up the phone.",
+                "expected_text": "Take the bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Pour into another container.",
+                "expected_text": "Put down."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Open the fridge.",
+                "expected_text": "Throw the clothes."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "The book.",
+                "expected_text": "The pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Start writing.",
+                "expected_text": "Sit at the table"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "Turn off the light.",
+                "expected_text": "Take the dish."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Push it aside.",
+                "expected_text": "Sit on."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Pick up the remote.",
+                "expected_text": "Lie on the sofa/couch."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The drawer.",
+                "expected_text": "The bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Pick up a book from the shelf.",
+                "expected_text": "Tidy up the closet/cabinet."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "Pick up the remote control.",
+                "expected_text": "Close the window."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Make a phone call.",
+                "expected_text": "Take the clothes"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Wipe the table.",
+                "expected_text": "Throw."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The bag.",
+                "expected_text": "The clothes"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "The pillow.",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "The pencil.",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "The phone.",
+                "expected_text": "The dish."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Throw aside.",
+                "expected_text": "Take"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The cup.",
+                "expected_text": "The paper/notebook."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Respond to a phone call.",
+                "expected_text": "Take the box."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Pick up the towel.",
+                "expected_text": "Wash the mirror."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Move.",
+                "expected_text": "Sit at."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The mug.",
+                "expected_text": "The picture."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "Turn on the TV.",
+                "expected_text": "Throw the clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The sunglasses.",
+                "expected_text": "The sandwich."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Pour a drink.",
+                "expected_text": "Sit at the table."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Fold.",
+                "expected_text": "Throw."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "The book bag.",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "Pick up the pen.",
+                "expected_text": "Take the towel"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Turn off the light.",
+                "expected_text": "Sit on the bed."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "The ball.",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The blanket.",
+                "expected_text": "The phone/camera."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "The laptop.",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Walk out of the room.",
+                "expected_text": "Put down the broom."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Cover the chair with it.",
+                "expected_text": "Take"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Pick up the phone.",
+                "expected_text": "Put down the towel."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "The shoe rack.",
+                "expected_text": "The closet/cabinet."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The refrigerator.",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Pick up a cup of coffee.",
+                "expected_text": "Put down the shoe."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "The keys.",
+                "expected_text": "The book."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "Walk out of the room.",
+                "expected_text": "Take the broom"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Take a glass from the table.",
+                "expected_text": "Open the refrigerator."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Drop.",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "The shoes.",
+                "expected_text": "The blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Push it aside.",
+                "expected_text": "Sit on."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "The book.",
+                "expected_text": "The phone/camera."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Stand up to leave.",
+                "expected_text": "Put down the sandwich."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Start packing it.",
+                "expected_text": "Take."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "The bag.",
+                "expected_text": "The towel."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "Take a small nap.",
+                "expected_text": "Eat the sandwich."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "The newspaper.",
+                "expected_text": "The broom."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Place back in the cabinet.",
+                "expected_text": "Eat."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "Move the chair.",
+                "expected_text": "Throw the towel."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "Their shoes.",
+                "expected_text": "The box."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "Pick up the book.",
+                "expected_text": "Take the bag."
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.4523809523809524
+    }
+}

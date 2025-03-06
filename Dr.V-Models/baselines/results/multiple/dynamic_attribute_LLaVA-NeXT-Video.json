@@ -1,0 +1,2162 @@
+[
+    {
+        "video": "tempcompass/1090578917_concat_2.mp4",
+        "question": "What speed is the man above jumping at?",
+        "answer": "B",
+        "choices": {
+            "A": "Jumping in slow motion compared to the man below",
+            "B": "Faster than the man below",
+            "C": "Appearing to leap backward compared to the man below",
+            "D": "Slower than the man below"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1057447372_reverse.mp4",
+        "question": "What is happening to the sport stadium?",
+        "answer": "A",
+        "choices": {
+            "A": "turning darker",
+            "B": "starting to glow brighter but fading quickly",
+            "C": "turning slowly dimmer",
+            "D": "shifting to a warmer hue"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1075338140_concat_1.mp4",
+        "question": "What is the speed of the ball above?",
+        "answer": "A",
+        "choices": {
+            "A": "slower than the ball below",
+            "B": "decelerating to match the speed of the ball below",
+            "C": "accelerating faster than the ball below",
+            "D": "moving at the same speed as the ball below"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1034736653_reverse.mp4",
+        "question": "In which direction are the woman athletes running?",
+        "answer": "B",
+        "choices": {
+            "A": "starting from left to right, then turning",
+            "B": "from right to left",
+            "C": "first towards the camera, then away",
+            "D": "running in a circle"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1080591311_reverse.mp4",
+        "question": "What direction is the jellyfish moving?",
+        "answer": "B",
+        "choices": {
+            "A": "pulsating upwards",
+            "B": "sinking downwards",
+            "C": "gliding towards the surface",
+            "D": "swinging themselves"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1056433484.mp4",
+        "question": "What is the speed of the earth's rotation compared to the sun?",
+        "answer": "A",
+        "choices": {
+            "A": "Faster than the sun",
+            "B": "Varies dynamically depending on the time of day",
+            "C": "slower than the sun",
+            "D": "rotating in the opposite direction to the sun"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1093139559_reverse.mp4",
+        "question": "What is happening to the light condition on the football players?",
+        "answer": "A",
+        "choices": {
+            "A": "turning darker",
+            "B": "shifting to a warmer hue",
+            "C": "turning dimmer then brighter repeatedly",
+            "D": "starting to glow brighter but fading quickly"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1059632327.mp4",
+        "question": "What is the direction of the tennis ball?",
+        "answer": "B",
+        "choices": {
+            "A": "spinning rapidly forwards",
+            "B": "bouncing up and down",
+            "C": "rolling towards the camera",
+            "D": "bouncing in a spiral pattern"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1099109715.mp4",
+        "question": "What is happening to the number of fruits and vegetables?",
+        "answer": "B",
+        "choices": {
+            "A": "shifting back and forth between more and less",
+            "B": "increasing",
+            "C": "appearing to shrink and vanish",
+            "D": "becoming overripe rapidly"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/15695290_concat_1.mp4",
+        "question": "What is the speed of the person above when drawing a picture?",
+        "answer": "B",
+        "choices": {
+            "A": "starts drawing at the same rapid speed as the person below",
+            "B": "slower than the person below",
+            "C": "suddenly speeds up faster than the person below",
+            "D": "faster than the person below"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/23370985.mp4",
+        "question": "What is happening to the ice crystal?",
+        "answer": "A",
+        "choices": {
+            "A": "freezing",
+            "B": "slowly forming droplets from the edges",
+            "C": "cracking along intricate patterns",
+            "D": "melting"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1099984801.mp4",
+        "question": "What is the speed of the video?",
+        "answer": "B",
+        "choices": {
+            "A": "speeding up quickly",
+            "B": "time-lapse",
+            "C": "gradually slowing down",
+            "D": "reversing"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1034736653.mp4",
+        "question": "What is the speed of the woman closest to the camera?",
+        "answer": "C",
+        "choices": {
+            "A": "Accelerating speed",
+            "B": "Gradually slowing down",
+            "C": "The fastest speed",
+            "D": "The slowest speed"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1093573255.mp4",
+        "question": "What is the speed of the video?",
+        "answer": "B",
+        "choices": {
+            "A": "fast-forward",
+            "B": "time-lapse",
+            "C": "reverse speed",
+            "D": "gradually slowing down"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1080591311.mp4",
+        "question": "What direction is the jellyfish moving?",
+        "answer": "D",
+        "choices": {
+            "A": "fluttering backwards",
+            "B": "drifting in spiral",
+            "C": "gliding diagonally",
+            "D": "floating upwards"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1060403198_concat_0.mp4",
+        "question": "What is the speed of the tree above?",
+        "answer": "A",
+        "choices": {
+            "A": "growing at the same speed as the tree below",
+            "B": "growing in bursts, sometimes faster than the tree below",
+            "C": "appearing to shrink due to speed difference with the tree below",
+            "D": "growing faster than the tree below"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1098153561.mp4",
+        "question": "What is happening to the leaves?",
+        "answer": "A",
+        "choices": {
+            "A": "changing color from green to red",
+            "B": "changing color while moving upwards",
+            "C": "changing shape rapidly",
+            "D": "falling off faster than they grew"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1083845854_reverse.mp4",
+        "question": "What is the direction in which the clock hands are moving?",
+        "answer": "C",
+        "choices": {
+            "A": "oscillating back and forth quickly",
+            "B": "changing directions intermittently",
+            "C": "counterclockwise",
+            "D": "moving in a spiral pattern"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1100117263.mp4",
+        "question": "What is the direction of the little lion's motion?",
+        "answer": "A",
+        "choices": {
+            "A": "downward",
+            "B": "upward and then stops suddenly",
+            "C": "moving side-to-side in a zig-zag motion",
+            "D": "stand on the big lion's back"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1106668103_reverse.mp4",
+        "question": "What is the direction of movement in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "spinning in place",
+            "B": "moving to the side",
+            "C": "moving backward",
+            "D": "moving forward"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1093139559.mp4",
+        "question": "What is happening to the light condition on the football players?",
+        "answer": "B",
+        "choices": {
+            "A": "fluctuating between dim and bright",
+            "B": "turning brighter",
+            "C": "turning into a warm sunset hue",
+            "D": "turning into a cool blue hue"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1098153561_concat_0.mp4",
+        "question": "What is the speed that the forest above changing color?",
+        "answer": "A",
+        "choices": {
+            "A": "at the same speed as the forest below",
+            "B": "slowing down more gradually than the forest below in hue shift",
+            "C": "accelerating faster than the forest below in saturation",
+            "D": "changing color in a different pattern than the forest below"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1059718130_reverse.mp4",
+        "question": "What is happening to the video's brightness?",
+        "answer": "C",
+        "choices": {
+            "A": "flickering between dark and light",
+            "B": "gradually increasing in brightness",
+            "C": "getting darker",
+            "D": "changing in brightness in a pattern"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1017768724_reverse.mp4",
+        "question": "What is the direction of the person's movement?",
+        "answer": "D",
+        "choices": {
+            "A": "turning in place",
+            "B": "moving backwards",
+            "C": "moving in circles",
+            "D": "moving leftwards"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/3411806181_reverse.mp4",
+        "question": "Which direction is the person moving the charging gun?",
+        "answer": "B",
+        "choices": {
+            "A": "Towards the front of the car",
+            "B": "Away from the car",
+            "C": "Lowering it to the ground behind the car",
+            "D": "Raising it to the sky"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1055981522_reverse.mp4",
+        "question": "What is happening to the 3d shapes?",
+        "answer": "C",
+        "choices": {
+            "A": "turning into disappearing shapes",
+            "B": "morphing into expanding spheres",
+            "C": "turning into cubes",
+            "D": "changing into rotating triangular prisms"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1050618460.mp4",
+        "question": "What is the speed of the entire video?",
+        "answer": "A",
+        "choices": {
+            "A": "time-lapse",
+            "B": "gradually speeding up",
+            "C": "intermittent extra slow motion",
+            "D": "constant speed"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1053758117_reverse.mp4",
+        "question": "What is happening in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "The camera zooms rapidly towards and then away from a 3D digital brain",
+            "B": "The camera rotates around the 3D digital brain",
+            "C": "Zoom out from a 3D digital brain",
+            "D": "The camera zooms in and out of a 3D digital brain"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1098785169_reverse.mp4",
+        "question": "What is the direction of the galaxy's spin?",
+        "answer": "D",
+        "choices": {
+            "A": "spinning towards the core",
+            "B": "oscillating up and down without spinning",
+            "C": "clockwise in varying speeds",
+            "D": "counterclockwise"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1056433484.mp4",
+        "question": "What is the direction of the Earth's motion around the Sun?",
+        "answer": "A",
+        "choices": {
+            "A": "Counter-clockwise",
+            "B": "Clockwise during the day, counter-clockwise at night",
+            "C": "Spiraling upwards due to gravitational fluctuations",
+            "D": "Moving in a straight line"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/3411228673.mp4",
+        "question": "What is the direction of the movement in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "circularly around the apex of skyscrapers",
+            "B": "sideways against a backdrop of clouds",
+            "C": "upwards among skyscraper buildings",
+            "D": "downwards into the ground"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1080990179.mp4",
+        "question": "What is happening to the apple?",
+        "answer": "A",
+        "choices": {
+            "A": "shrinking and drying out",
+            "B": "turning red and ripe",
+            "C": "rolling across the table",
+            "D": "rotating in place"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1059462749_concat_2.mp4",
+        "question": "How is the person above climbing compared to the person below?",
+        "answer": "B",
+        "choices": {
+            "A": "Climbing with more agility but at the same speed as the person below",
+            "B": "Climbing faster than the person below",
+            "C": "Climbing steadily but stopping occasionally, making it slower overall than the person below",
+            "D": "Climbing in a different pattern than the person below"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1086820415_concat_0.mp4",
+        "question": "How is the speed of the wave above compared to the wave below?",
+        "answer": "A",
+        "choices": {
+            "A": "Moving at the same speed as the wave below",
+            "B": "Accelerating away from the wave below",
+            "C": "Gradually coming to a stop compared to the wave below",
+            "D": "Moving in a different pattern than the wave below"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1098153561_concat_1.mp4",
+        "question": "What is the speed that the forest above changing color?",
+        "answer": "B",
+        "choices": {
+            "A": "the forest above is turning into winter foliage while the below stays the same",
+            "B": "slower than the forest below",
+            "C": "the color change is accelerating over time",
+            "D": "the forest above is turning into autumn foliage while the below stays the same"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1096238125_concat_0.mp4",
+        "question": "What is the speed of the two people above lifting the kettlebell?",
+        "answer": "A",
+        "choices": {
+            "A": "at the same speed as the two people below",
+            "B": "lifting at an irregular speed, sometimes matching and sometimes exceeding the two people below",
+            "C": "starting slower but then accelerating to faster than the two people below",
+            "D": "lifting at a slower speed than the two people below"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1059815936.mp4",
+        "question": "What is happening to the paper?",
+        "answer": "B",
+        "choices": {
+            "A": "folding itself into an intricate origami shape",
+            "B": "changing from a wrinkled paper ball into a flattened sheet",
+            "C": "changing from a wrinkled paper ball into a pile of paper confetti",
+            "D": "changing from a wrinkled paper ball into a paper airplane"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1050618460_reverse.mp4",
+        "question": "What is happening to the flowers?",
+        "answer": "B",
+        "choices": {
+            "A": "turning further away from full bloom",
+            "B": "turning into buds",
+            "C": "remaining half-bloomed before fully opening",
+            "D": "turning from full bloom back into buds"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1107116885.mp4",
+        "question": "What is the pace of the video?",
+        "answer": "A",
+        "choices": {
+            "A": "normal speed",
+            "B": "gradual speed increase",
+            "C": "reverse motion",
+            "D": "decelerated motion"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1016172301.mp4",
+        "question": "What is happening to the 3D house model?",
+        "answer": "B",
+        "choices": {
+            "A": "being expanded to accommodate more floors",
+            "B": "being constructed",
+            "C": "being rotated slowly to reveal all sides",
+            "D": "being deconstructed"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1092813279_concat_2.mp4",
+        "question": "What is the speed that the woman above doing push ups",
+        "answer": "A",
+        "choices": {
+            "A": "faster than the woman below",
+            "B": "at the same speed as the woman below",
+            "C": "the speed of push ups keeps alternating between both women",
+            "D": "slower than the woman below"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1086820415_reverse.mp4",
+        "question": "What is the direction of motion of the large wave?",
+        "answer": "D",
+        "choices": {
+            "A": "swirling diagonally clockwise",
+            "B": "oscillating back and forth with a sideways drift",
+            "C": "slowly expanding outward while sliding to the right",
+            "D": "moving vertically towards the top of the screen"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1094590221_reverse.mp4",
+        "question": "What direction is the basketball moving?",
+        "answer": "B",
+        "choices": {
+            "A": "diagonally upwards",
+            "B": "in a parabola from left to right",
+            "C": "towards the bottom of the screen",
+            "D": "in a straight line from top to bottom"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1067427023_reverse.mp4",
+        "question": "Which term best describes the transformation happening to the snow particles?",
+        "answer": "B",
+        "choices": {
+            "A": "liquefying",
+            "B": "solidifying",
+            "C": "drifting away",
+            "D": "evaporating"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1106668103.mp4",
+        "question": "What is the direction of movement in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "moving diagonally",
+            "B": "moving in circles",
+            "C": "moving forward",
+            "D": "moving backwards"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1100319395_concat_0.mp4",
+        "question": "What is the speed of the white circle above?",
+        "answer": "B",
+        "choices": {
+            "A": "gradually accelerating compared to the white circle below",
+            "B": "rotating at the same speed as the white circle below",
+            "C": "decelerating slowly compared to the white circle below",
+            "D": "rotating at a faster speed than the white circle below"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1092278063.mp4",
+        "question": "What is the direction of the two rows of duck toy?",
+        "answer": "A",
+        "choices": {
+            "A": "moving in opposite directions on a conveyor belt",
+            "B": "bouncing up and down on a conveyor belt",
+            "C": "rotating in circles on a conveyor belt",
+            "D": "moving in the same direction on a conveyor belt"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1062609286_concat_2.mp4",
+        "question": "What is happening to the battery charge above?",
+        "answer": "A",
+        "choices": {
+            "A": "increasing at a faster speed than the battery charge below",
+            "B": "fluctuating rapidly without any clear direction, unlike the steady charge below",
+            "C": "decreasing rapidly after a slow increase, slower than the battery charge below",
+            "D": "decreasing at a faster speed than the battery charge below"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1056433484_concat_2.mp4",
+        "question": "What is the speed of the earth above?",
+        "answer": "A",
+        "choices": {
+            "A": "faster than the earth below",
+            "B": "seems to be rotating erratically as if speeding up and slowing down, which is incorrect",
+            "C": "appears to be rotating slower due to rotational drag, which is inaccurate",
+            "D": "rotating at the same speed as the earth below"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1099738787_reverse.mp4",
+        "question": "What is happening to the concrete wall?",
+        "answer": "C",
+        "choices": {
+            "A": "moving sideways",
+            "B": "crumbling slowly",
+            "C": "assembling together",
+            "D": "rotating in place"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1108534143_reverse.mp4",
+        "question": "What is the puppy doing in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "hopping out of the wigwam energetically",
+            "B": "walking into a wigwam",
+            "C": "trotting in circles near the wigwam",
+            "D": "running away from the wigwam"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1059718130_concat_1.mp4",
+        "question": "What is the speed of the sun above?",
+        "answer": "B",
+        "choices": {
+            "A": "rising at the same speed as the sun below",
+            "B": "rising slower than the sun below",
+            "C": "rising initially faster but then slows down compared to the sun below",
+            "D": "rising faster than the sun below"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1059718130_reverse.mp4",
+        "question": "What direction is the sun moving in?",
+        "answer": "B",
+        "choices": {
+            "A": "orbiting rapidly around the earth",
+            "B": "setting",
+            "C": "shifting slightly to the right",
+            "D": "rising"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1075338140_concat_2.mp4",
+        "question": "What is the speed of the ball above?",
+        "answer": "B",
+        "choices": {
+            "A": "slowing down and will be slower than the ball below",
+            "B": "faster than the ball below",
+            "C": "gradually speeding up compared to the ball below",
+            "D": "rotating at the same speed as the ball below"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1096612823.mp4",
+        "question": "What is happening to the video?",
+        "answer": "D",
+        "choices": {
+            "A": "smoothly transitioning to the right",
+            "B": "spinning slowly clockwise",
+            "C": "zooming out till it blurs the edges",
+            "D": "zooming in"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1101200293.mp4",
+        "question": "What is the direction of the camera motion relative to the aircraft carrier?",
+        "answer": "D",
+        "choices": {
+            "A": "adjusting to downward spirals",
+            "B": "oscillating upward and backward",
+            "C": "counterclockwise with increasing speed",
+            "D": "clockwise"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1073831006.mp4",
+        "question": "What is the speed of the zebras in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "slow motion",
+            "B": "trotting leisurely",
+            "C": "accelerating rapidly",
+            "D": "galloping at high speed"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1059072773.mp4",
+        "question": "What is happening to the ice cream?",
+        "answer": "D",
+        "choices": {
+            "A": "reversing melting process",
+            "B": "slowly crystallizing",
+            "C": "becoming denser",
+            "D": "melting"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1047368344_concat_0.mp4",
+        "question": "What is the speed of the girl above?",
+        "answer": "C",
+        "choices": {
+            "A": "accelerating past the girl below",
+            "B": "gradually slowing down compared to the girl below",
+            "C": "running at the same speed as the girl below",
+            "D": "running faster than the girl below"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1098710341.mp4",
+        "question": "What is happening to the glass?",
+        "answer": "B",
+        "choices": {
+            "A": "It is being filled with pebbles instead of liquid",
+            "B": "It is going from empty to full of water",
+            "C": "It is being refilled with juice after being emptied",
+            "D": "It is gradually filling with steam"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1072453637_reverse.mp4",
+        "question": "What is the direction of the camera panning in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "panning to the side of the fighter jet, making it appear to move sideways",
+            "B": "panning from above towards the nose of the fighter jet as it ascends",
+            "C": "panning to the front of a fighter jet",
+            "D": "panning around the fighter jet as if it is performing a barrel roll"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1089810425_reverse.mp4",
+        "question": "What is the direction of the panning in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "panning slowly in a zigzag pattern",
+            "B": "left to right",
+            "C": "left to right, then reverses to left",
+            "D": "circular motion increasing speed towards right"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1056433484_concat_0.mp4",
+        "question": "What is the speed of the earth above?",
+        "answer": "B",
+        "choices": {
+            "A": "seems to accelerate past the earth below over time",
+            "B": "rotates at the same speed as the earth below",
+            "C": "appears to slow down gradually compared to the earth below",
+            "D": "rotates faster than the earth below"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1111657885.mp4",
+        "question": "Which direction are the people skating?",
+        "answer": "C",
+        "choices": {
+            "A": "diagonally across the screen",
+            "B": "around in circles",
+            "C": "towards the camera",
+            "D": "away from the camera"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1100397435.mp4",
+        "question": "What direction is the robot vacuum cleaner moving in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "backtracking away from the screen",
+            "B": "zigzagging towards the screen",
+            "C": "to the right side of the screen",
+            "D": "making a circular path on the screen"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1059462749.mp4",
+        "question": "In which direction is the person moving?",
+        "answer": "D",
+        "choices": {
+            "A": "upwards",
+            "B": "stays still",
+            "C": "backwards",
+            "D": "downwards"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1100319395_concat_1.mp4",
+        "question": "What is the speed of the white circle above?",
+        "answer": "A",
+        "choices": {
+            "A": "faster than the white circle below",
+            "B": "decelerating compared to the white circle below",
+            "C": "starting to stop while the white circle below accelerates",
+            "D": "rotating at the same speed as the white circle below"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1096007487.mp4",
+        "question": "From the camera's point of view, in which direction is the 3d cloud moving?",
+        "answer": "C",
+        "choices": {
+            "A": "slowly drifting downward",
+            "B": "upward slowly",
+            "C": "leftward",
+            "D": "rightward quickly"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1094219575.mp4",
+        "question": "What is the speed of the video?",
+        "answer": "B",
+        "choices": {
+            "A": "gradually slowing down to slow motion",
+            "B": "time-lapse",
+            "C": "speed intermittently varying like fast forwarding",
+            "D": "slowly accelerating speed"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1062609286.mp4",
+        "question": "What is happening to the battery charge?",
+        "answer": "C",
+        "choices": {
+            "A": "rapidly fluctuating",
+            "B": "charging then quickly depleting",
+            "C": "increasing",
+            "D": "decreasing"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1099109715_reverse.mp4",
+        "question": "What is happening to the number of fruits and vegetables?",
+        "answer": "D",
+        "choices": {
+            "A": "transforming into juice",
+            "B": "experiencing sudden spikes",
+            "C": "rapidly multiplying",
+            "D": "decreasing"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1083845854.mp4",
+        "question": "What is the direction in which the clock hands are moving?",
+        "answer": "C",
+        "choices": {
+            "A": "reversing direction unpredictably",
+            "B": "accelerating counterclockwise",
+            "C": "clockwise",
+            "D": "staying still"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1059072773_reverse.mp4",
+        "question": "What is happening to the ice cream?",
+        "answer": "D",
+        "choices": {
+            "A": "vanishing into air",
+            "B": "melting into syrup",
+            "C": "shimmering at room temperature",
+            "D": "solidifying"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1100319395.mp4",
+        "question": "What direction is the circular pattern moving?",
+        "answer": "B",
+        "choices": {
+            "A": "rotating inward",
+            "B": "clockwise",
+            "C": "counter-clockwise",
+            "D": "accelerating clockwise"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1070711428.mp4",
+        "question": "What is happening to the glacier?",
+        "answer": "D",
+        "choices": {
+            "A": "shifting and forming a new ice ridge",
+            "B": "expanding and moving towards the shore",
+            "C": "melting and steadily floating upwards",
+            "D": "breaking and falling in water"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1056433484_concat_1.mp4",
+        "question": "What is the speed of the earth above?",
+        "answer": "B",
+        "choices": {
+            "A": "rotates with slight variation in speed compared to the earth below",
+            "B": "slower than the earth below",
+            "C": "spinning swiftly above, compared to the earth below",
+            "D": "rotates at the same speed as the earth below"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1093573255.mp4",
+        "question": "What is happening to the plant?",
+        "answer": "D",
+        "choices": {
+            "A": "blooming into flowers",
+            "B": "turning red and yellow leaves",
+            "C": "growing taller",
+            "D": "reviving"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1086688682.mp4",
+        "question": "What change is happening to the traffic lights?",
+        "answer": "A",
+        "choices": {
+            "A": "From red to green",
+            "B": "From yellow to flashing green",
+            "C": "From green to flashing red",
+            "D": "From red to flashing yellow"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1064645467.mp4",
+        "question": "What is the speed of the video?",
+        "answer": "C",
+        "choices": {
+            "A": "gradual slow motion",
+            "B": "accelerated real-time",
+            "C": "normal speed",
+            "D": "fast forward"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1100329207_reverse.mp4",
+        "question": "What is the direction of the camera view?",
+        "answer": "B",
+        "choices": {
+            "A": "gradually tilting left",
+            "B": "moving backward",
+            "C": "slowly spinning right",
+            "D": "accelerating forward"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1092278063.mp4",
+        "question": "What is the speed of the conveyor belt?",
+        "answer": "D",
+        "choices": {
+            "A": "reversing direction quickly",
+            "B": "slowing down steadily",
+            "C": "speeding up gradually",
+            "D": "normal speed"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1084153195_reverse.mp4",
+        "question": "What is the movement of the dolphins?",
+        "answer": "B",
+        "choices": {
+            "A": "leaping over the waves towards the shore",
+            "B": "swimming away from the shore",
+            "C": "swimming in circles near the shore",
+            "D": "diving into the water"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1086820415_concat_2.mp4",
+        "question": "How is the speed of the wave above compared to the wave below?",
+        "answer": "B",
+        "choices": {
+            "A": "Accelerating faster than the wave below",
+            "B": "Moving slower than the wave below",
+            "C": "Maintaining a constant speed while the wave below accelerates",
+            "D": "Moving faster than the wave below"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1108534143.mp4",
+        "question": "What is the puppy doing in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "walking toward a stream behind the wigwam",
+            "B": "walking out of a wigwam",
+            "C": "running in circles around a wigwam",
+            "D": "digging a hole in front of a wigwam"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1086820415_concat_1.mp4",
+        "question": "How is the speed of the wave above compared to the wave below?",
+        "answer": "C",
+        "choices": {
+            "A": "Gradually slowing down compared to the wave below",
+            "B": "moving at the same speed as the wave below",
+            "C": "Moving faster than the wave below",
+            "D": "Accelerating faster than the wave below"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1088279109.mp4",
+        "question": "What is the speed of the video?",
+        "answer": "C",
+        "choices": {
+            "A": "slightly sped up",
+            "B": "progressively slowing down",
+            "C": "normal speed",
+            "D": "fast forward"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1059718130_concat_0.mp4",
+        "question": "What is the speed of the sun above?",
+        "answer": "B",
+        "choices": {
+            "A": "rising with sudden accelerations unlike the sun below",
+            "B": "rising at the same speed as the sun below",
+            "C": "rising and then setting faster than the sun below",
+            "D": "rising and setting slower than the sun below"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1057163434.mp4",
+        "question": "What is the chef doing with the bread?",
+        "answer": "A",
+        "choices": {
+            "A": "putting it on top of the burger",
+            "B": "placing it beside the burger as a side",
+            "C": "stacking it on top of another bun",
+            "D": "placing it underneath the burger"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1060403198.mp4",
+        "question": "What is happening to the tree?",
+        "answer": "C",
+        "choices": {
+            "A": "leaves are swirling upwards",
+            "B": "trunk is contracting",
+            "C": "increasing height",
+            "D": "swaying gently in the wind"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1100058499_concat_2.mp4",
+        "question": "What is the speed of the man above compared to the man below?",
+        "answer": "A",
+        "choices": {
+            "A": "jumping rope faster",
+            "B": "jumping rope slower but catching up progressively",
+            "C": "speeding up their jumps to match the speed",
+            "D": "jumping rope at the same speed"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1077590324.mp4",
+        "question": "What is the speed of the entire video?",
+        "answer": "C",
+        "choices": {
+            "A": "accelerating gradually",
+            "B": "gradual slow-down",
+            "C": "normal speed",
+            "D": "fast forward"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/3411806181.mp4",
+        "question": "What is the speed of the video?",
+        "answer": "C",
+        "choices": {
+            "A": "slightly faster than normal",
+            "B": "accelerated speed at specific intervals",
+            "C": "slow motion",
+            "D": "fast forward"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1098785169.mp4",
+        "question": "What is the direction of the galaxy's spin?",
+        "answer": "A",
+        "choices": {
+            "A": "clockwise",
+            "B": "angled diagonally",
+            "C": "rotating from bottom to top",
+            "D": "spinning inward in a spiral"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1099984801.mp4",
+        "question": "What is happening to the entire video?",
+        "answer": "B",
+        "choices": {
+            "A": "fading gradually into warm hues",
+            "B": "getting darker",
+            "C": "gaining a blueish tint",
+            "D": "brightening up"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1095939659.mp4",
+        "question": "In which direction is the light growing?",
+        "answer": "C",
+        "choices": {
+            "A": "Rotating counterclockwise",
+            "B": "Fading inwards",
+            "C": "Clockwise",
+            "D": "Spiraling outwards"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1070711428_reverse.mp4",
+        "question": "What is happening to the glacier?",
+        "answer": "D",
+        "choices": {
+            "A": "melting into streams of water",
+            "B": "shifting and drifting away rapidly",
+            "C": "condensing and forming ice crystals",
+            "D": "assembling and rising from water"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/15695290_concat_2.mp4",
+        "question": "What is the speed of the person above when drawing a picture?",
+        "answer": "A",
+        "choices": {
+            "A": "faster than the person below",
+            "B": "starts at the same speed but gradually becomes slower than the person below",
+            "C": "initially slower but then surpasses the speed of the person below",
+            "D": "slower than the person below"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1100468035_reverse.mp4",
+        "question": "What is the direction of the camera in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "zooming upward",
+            "B": "zooming backward",
+            "C": "rotating left",
+            "D": "spiraling downward"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1059718130.mp4",
+        "question": "What is the speed of the video?",
+        "answer": "B",
+        "choices": {
+            "A": "progressively slowing down",
+            "B": "time-lapse",
+            "C": "gradually accelerating speed",
+            "D": "smoothly flowing motion"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1025623079_reverse.mp4",
+        "question": "What is happening to the skyscraper?",
+        "answer": "C",
+        "choices": {
+            "A": "rotating on its base",
+            "B": "sinking into the ground",
+            "C": "growing taller",
+            "D": "changing colors rapidly"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1055194940_reverse.mp4",
+        "question": "What is happening to the insect?",
+        "answer": "C",
+        "choices": {
+            "A": "transforming into a cocoon",
+            "B": "transforming from pupa into butterfly",
+            "C": "transforming from butterfly into pupa",
+            "D": "transforming from butterfly into a larva"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1101200293_reverse.mp4",
+        "question": "What is the direction of the camera motion relative to the aircraft carrier?",
+        "answer": "A",
+        "choices": {
+            "A": "counterclockwise",
+            "B": "moving diagonally while spiraling upward",
+            "C": "rotating to the right as it descends",
+            "D": "clockwise but slowing down over time"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1105233293.mp4",
+        "question": "How would you describe the pace of the video?",
+        "answer": "D",
+        "choices": {
+            "A": "pausing intermittently",
+            "B": "twice the normal speed",
+            "C": "gradually speeding up",
+            "D": "normal speed"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1091143117.mp4",
+        "question": "What is happening to the eye?",
+        "answer": "A",
+        "choices": {
+            "A": "from closed to open",
+            "B": "rapidly blinking",
+            "C": "from open to half-open",
+            "D": "moving from left to right"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1062609286_concat_1.mp4",
+        "question": "What is happening to the battery charge above?",
+        "answer": "A",
+        "choices": {
+            "A": "increasing at a slower speed than the battery charge below",
+            "B": "fluctuating intermittently at the same rate as the battery charge below",
+            "C": "decreasing rapidly compared to the battery charge below",
+            "D": "increasing at a faster rate than the battery charge below"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1111601171.mp4",
+        "question": "What is happening to the sphere building?",
+        "answer": "C",
+        "choices": {
+            "A": "It is glowing brighter as it transitions from green to yellow.",
+            "B": "It is pulsating slowly without changing color.",
+            "C": "It is changing from green to blue.",
+            "D": "It is starting to rotate clockwise."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1060403198_concat_1.mp4",
+        "question": "What is the speed of the tree above?",
+        "answer": "B",
+        "choices": {
+            "A": "growing larger in reverse motion",
+            "B": "growing faster than the tree below",
+            "C": "appearing to shrink",
+            "D": "growing at the same rate as the tree below"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1059718130_concat_2.mp4",
+        "question": "What is the speed of the sun above?",
+        "answer": "B",
+        "choices": {
+            "A": "rising dramatically slower than the sun below",
+            "B": "rising faster than the sun below",
+            "C": "suddenly rising faster than the sun below",
+            "D": "rising at the same rate as the sun below"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1073831006.mp4",
+        "question": "What is the direction of the zebras' movement?",
+        "answer": "B",
+        "choices": {
+            "A": "from right to center",
+            "B": "from left to right",
+            "C": "circling in place",
+            "D": "from center to right"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1059462749.mp4",
+        "question": "What is the speed of the video?",
+        "answer": "C",
+        "choices": {
+            "A": "gradually speeding up",
+            "B": "slowing down gradually",
+            "C": "normal speed",
+            "D": "pausing intermittently"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1093340469.mp4",
+        "question": "What is happening to the room?",
+        "answer": "A",
+        "choices": {
+            "A": "turning darker",
+            "B": "gradually filling with light",
+            "C": "shifting to a dimmer tone",
+            "D": "changing color"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1058985719_reverse.mp4",
+        "question": "What is the direction in which the airplane is flying?",
+        "answer": "D",
+        "choices": {
+            "A": "bottom to top",
+            "B": "ascending diagonally from right to left",
+            "C": "in a circular motion",
+            "D": "top to bottom"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1049965795_reverse.mp4",
+        "question": "What is happening to the light bulb?",
+        "answer": "D",
+        "choices": {
+            "A": "gradually getting brighter",
+            "B": "flickering as it dims",
+            "C": "slowly changing to a warm hue",
+            "D": "turning off"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1093139559.mp4",
+        "question": "What is the type of camera motion in the video? ",
+        "answer": "C",
+        "choices": {
+            "A": "Panning downwards to a sports banner",
+            "B": "Zooming out to reveal the entire stadium crowd",
+            "C": "Zooming into three football players",
+            "D": "Panning upwards over three football players"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1084736389_reverse.mp4",
+        "question": "What is happening to the face?",
+        "answer": "C",
+        "choices": {
+            "A": "Morphing from a human into a lion",
+            "B": "Shifting from a human's smile to a frown",
+            "C": "Morphing from a human into a chimpanzee",
+            "D": "Turning from a human into a younger version of itself"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1099116143.mp4",
+        "question": "What is happening to the pink liquid?",
+        "answer": "A",
+        "choices": {
+            "A": "White foam appears on the surface",
+            "B": "White foam gradually sinks under the surface",
+            "C": "It is slowly changing to a darker shade",
+            "D": "It is rapidly bubbling as steam forms"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/23391142.mp4",
+        "question": "What direction is the video panning?",
+        "answer": "C",
+        "choices": {
+            "A": "To the left",
+            "B": "In a circular motion",
+            "C": "To the right",
+            "D": "Towards the viewer"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1086688682_reverse.mp4",
+        "question": "What change is happening to the traffic lights?",
+        "answer": "C",
+        "choices": {
+            "A": "From red to yellow and then back to red",
+            "B": "From green to yellow, skipping red",
+            "C": "From green to red",
+            "D": "Flashing between yellow and green"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1081684532.mp4",
+        "question": "What is the direction of the asteroids in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "flying in spirals to the left",
+            "B": "flying circling to the right",
+            "C": "flying away from the camera slowly",
+            "D": "flying towards the camera"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1040541401.mp4",
+        "question": "What is the speed of the video?",
+        "answer": "C",
+        "choices": {
+            "A": "gradual slow down",
+            "B": "slightly faster pace",
+            "C": "normal speed",
+            "D": "pausing intermittently"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1059718130.mp4",
+        "question": "What is happening to the video's brightness?",
+        "answer": "B",
+        "choices": {
+            "A": "fading into twilight",
+            "B": "turning brighter",
+            "C": "pulsating between dark and light",
+            "D": "flashing between dark and light"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1061017846.mp4",
+        "question": "What is the speed of the boat on the top of the screen?",
+        "answer": "A",
+        "choices": {
+            "A": "travels at the same speed as the boat on the bottom of the screen",
+            "B": "decelerating compared to the boat on the bottom of the screen",
+            "C": "accelerating faster than the boat on the bottom of the screen",
+            "D": "pausing intermittently"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1067268406.mp4",
+        "question": "What is the speed of the car?",
+        "answer": "A",
+        "choices": {
+            "A": "faster than the camera",
+            "B": "slower than the camera, then suddenly speeding up",
+            "C": "moving at the same speed as the camera, then accelerating backward",
+            "D": "pausing intermittently"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1100058499_concat_0.mp4",
+        "question": "What is the speed of the man above compared to the man below?",
+        "answer": "A",
+        "choices": {
+            "A": "jumping rope at the same speed",
+            "B": "jumping rope with varying speed, sometimes faster, sometimes slower",
+            "C": "jumping rope and gradually increasing speed",
+            "D": "jumping rope and gradually decreasing speed"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1016172301_reverse.mp4",
+        "question": "What is happening to the 3D house model?",
+        "answer": "B",
+        "choices": {
+            "A": "being rotated 180 degrees",
+            "B": "being demolished",
+            "C": "being expanded to double its size",
+            "D": "being shrunk to half its size"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/23391142.mp4",
+        "question": "What is the speed of the video?",
+        "answer": "C",
+        "choices": {
+            "A": "reverse speed",
+            "B": "gradually accelerating",
+            "C": "slow motion",
+            "D": "pausing intermittently"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1057447372.mp4",
+        "question": "What is happening to the sport stadium?",
+        "answer": "B",
+        "choices": {
+            "A": "transitioning to shadows",
+            "B": "turning brighter",
+            "C": "lights flickering on and off",
+            "D": "gradually changing to a warm hue"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1088497853.mp4",
+        "question": "What is the direction of the movement in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "zigzagging leftwards",
+            "B": "upwards",
+            "C": "smooth circles downwards",
+            "D": "diagonally towards the top right"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1076877854_reverse.mp4",
+        "question": "Which direction is the closest robotic arm moving from the camera's point of view?",
+        "answer": "B",
+        "choices": {
+            "A": "Swinging in an arc towards the left edge of the frame",
+            "B": "To the left side of the screen",
+            "C": "Circling counter-clockwise around the camera",
+            "D": "Moving upwards from a rest position on the ground"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1063373449.mp4",
+        "question": "What is happening to the coronavirus?",
+        "answer": "A",
+        "choices": {
+            "A": "dissolving under the attack of antibodies",
+            "B": "mutating at an accelerated rate",
+            "C": "replicating faster than before",
+            "D": "self-assembling rapidly"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1050618460.mp4",
+        "question": "What is happening to the flowers?",
+        "answer": "B",
+        "choices": {
+            "A": "drooping downwards due to wind",
+            "B": "turning into full bloom",
+            "C": "closing up as though at night",
+            "D": "slowly opening into blooms"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1076877854.mp4",
+        "question": "Which direction is the closest robotic arm moving from the camera's point of view?",
+        "answer": "B",
+        "choices": {
+            "A": "Moving downwards",
+            "B": "To the right side of the screen",
+            "C": "Moving in a circular motion",
+            "D": "Moving upwards"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1060403198_reverse.mp4",
+        "question": "What is happening to the tree?",
+        "answer": "B",
+        "choices": {
+            "A": "changing color slowly as the leaves transform throughout the day",
+            "B": "decreasing height",
+            "C": "shedding leaves dramatically as the video plays in reverse",
+            "D": "increasing height rapidly due to sudden growth"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1077575504_concat_0.mp4",
+        "question": "What is the speed of the pile of salt above?",
+        "answer": "B",
+        "choices": {
+            "A": "oscillating its growth speed, sometimes faster and sometimes slower than the pile of salt below",
+            "B": "growing at the same speed as the pile of salt below",
+            "C": "growing initially slower, then suddenly accelerating faster than the pile of salt below",
+            "D": "pausing intermittently"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1060403198_concat_2.mp4",
+        "question": "What is the speed of the tree above?",
+        "answer": "C",
+        "choices": {
+            "A": "growing at a speed initially slower but then accelerating to match the tree below",
+            "B": "growing at a variable speed faster than the tree below",
+            "C": "growing slower than the tree below",
+            "D": "growing at a constant speed"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1059462749_concat_1.mp4",
+        "question": "How is the person above climbing compared to the person below?",
+        "answer": "B",
+        "choices": {
+            "A": "Alternating between climbing faster and slower as if matching different movements of the person below",
+            "B": "Climbing slower than the person below",
+            "C": "Climbing at a constantly changing speed as if adjusting to the terrain faster than the person below",
+            "D": "Climbing at a constant speed"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1054717541.mp4",
+        "question": "How is the video playing?",
+        "answer": "A",
+        "choices": {
+            "A": "in slow motion",
+            "B": "with a sped-up effect",
+            "C": "playing backwards",
+            "D": "pausing intermittently"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1059072773_concat_1.mp4",
+        "question": "What is the speed of the ice cream above?",
+        "answer": "C",
+        "choices": {
+            "A": "melting at an irregular pace, occasionally faster than the ice cream below",
+            "B": "melting at an accelerating rate compared to the ice cream below",
+            "C": "melting slower than the ice cream below",
+            "D": "melting at a constant speed"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1104663381.mp4",
+        "question": "What is the direction in which the pizza dough is rotating?",
+        "answer": "C",
+        "choices": {
+            "A": "clockwise",
+            "B": "it is rotating in a spiral pattern",
+            "C": "counter-clockwise",
+            "D": "it is rotating in a zigzag pattern"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1021488277.mp4",
+        "question": "What is happening in the video? ",
+        "answer": "C",
+        "choices": {
+            "A": "A person lowers the pineapple to the ground",
+            "B": "A person spins the pineapple around quickly",
+            "C": "A person picks up the pineapple",
+            "D": "A person pulls the pineapple backward"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1100329207.mp4",
+        "question": "What is the direction of the camera view?",
+        "answer": "B",
+        "choices": {
+            "A": "reversing direction",
+            "B": "moving forward",
+            "C": "panning upwards",
+            "D": "moving diagonally left"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1090578917_concat_1.mp4",
+        "question": "What speed is the man above jumping at?",
+        "answer": "A",
+        "choices": {
+            "A": "Slower than the man below",
+            "B": "Jumping in slow motion as compared to the fast-paced jump of the man below",
+            "C": "Jumping upwards while the man below jumps downwards",
+            "D": "Jumping at the same speed as the individual below"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1081092839_reverse.mp4",
+        "question": "What is the direction of the sun?",
+        "answer": "C",
+        "choices": {
+            "A": "setting",
+            "B": "moving diagonally",
+            "C": "ascending",
+            "D": "moving horizontally"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1083113449_reverse.mp4",
+        "question": "How would you describe the change in the sky's appearance?",
+        "answer": "B",
+        "choices": {
+            "A": "displaying swirling storm clouds",
+            "B": "lightening up",
+            "C": "gradually shifting to a sunset hue",
+            "D": "darkening"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1025623079.mp4",
+        "question": "What is happening to the skyscraper?",
+        "answer": "C",
+        "choices": {
+            "A": "changing colors gradually",
+            "B": "expanding horizontally",
+            "C": "collapsing",
+            "D": "staying still"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1086286649.mp4",
+        "question": "How are the armored vehicles moving?",
+        "answer": "C",
+        "choices": {
+            "A": "They are reversing smoothly out of the area",
+            "B": "They are accelerating swiftly towards the east",
+            "C": "Slowly",
+            "D": "They are moving at a constant speed"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1093719871.mp4",
+        "question": "What is happening to the pink flowers?",
+        "answer": "D",
+        "choices": {
+            "A": "blooming in slow motion, then shrinking",
+            "B": "slowly moving upwards while wilting",
+            "C": "spinning around as their colors change",
+            "D": "turning from withered to full blossom"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1058985719.mp4",
+        "question": "What is the direction in which the airplane is flying?",
+        "answer": "A",
+        "choices": {
+            "A": "bottom to top",
+            "B": "hovering in place",
+            "C": "circling around in a loop",
+            "D": "ascending diagonally from left to right"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1053758117.mp4",
+        "question": "What is happening in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Zoom into a 3D digital brain",
+            "B": "stay still before a 3D digital brain",
+            "C": "Zoom away sideways from a 3D digital brain",
+            "D": "Zoom away from a 3D digital brain"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1073914229_reverse.mp4",
+        "question": "What direction are the trains moving?",
+        "answer": "B",
+        "choices": {
+            "A": "circling around a central point",
+            "B": "away from each other",
+            "C": "crossing paths perpendicular to each other",
+            "D": "towards each other"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1100329207.mp4",
+        "question": "What is the speed of the video?",
+        "answer": "B",
+        "choices": {
+            "A": "the video appears to be accelerating",
+            "B": "in a slow motion",
+            "C": "normal speed",
+            "D": "extremely slowed down"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1055194940.mp4",
+        "question": "What is happening to the insect?",
+        "answer": "D",
+        "choices": {
+            "A": "transforming from butterfly to egg",
+            "B": "emerging slowly from the chrysalis",
+            "C": "transforming into a cocoon stage",
+            "D": "transforming from pupa into butterfly"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1098982673.mp4",
+        "question": "What is the speed of the video?",
+        "answer": "A",
+        "choices": {
+            "A": "normal speed",
+            "B": "gradual slowdown",
+            "C": "dynamic reverse effect",
+            "D": "accelerating speed"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1059072773_concat_2.mp4",
+        "question": "What is the speed of the ice cream above?",
+        "answer": "A",
+        "choices": {
+            "A": "melting faster than the ice cream below",
+            "B": "melting at a variable speed, occasionally slower than the ice cream below",
+            "C": "melting at alternating speeds with the ice cream below",
+            "D": "melting at a slower pace than the ice cream below"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1089201973.mp4",
+        "question": "What is the direction of the football in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "stationary, then bouncing up and down",
+            "B": "appearing to move towards the camera and then backwards",
+            "C": "moving from left to right",
+            "D": "moving from right to left"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1093737353.mp4",
+        "question": "What type of motion is the camera performing in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "panning up",
+            "B": "slowly zooming out",
+            "C": "panning to the right",
+            "D": "tilting down"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1093139559_reverse.mp4",
+        "question": "What is the type of camera motion in the video? ",
+        "answer": "B",
+        "choices": {
+            "A": "Zooming rapidly towards the football players as if highlighting action",
+            "B": "Zooming out from three football palyers",
+            "C": "Tracking smoothly in a circular motion around the players",
+            "D": "Tilting down to focus on the football players' feet"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1086820415.mp4",
+        "question": "What is the direction of motion of the large wave?",
+        "answer": "A",
+        "choices": {
+            "A": "moving vertically towards the bottom of the screen",
+            "B": "moving diagonally towards the top-right corner",
+            "C": "moving in a swirling motion towards the left",
+            "D": "spiraling clockwise before spreading right"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/3411806181.mp4",
+        "question": "Which direction is the person moving the charging gun?",
+        "answer": "B",
+        "choices": {
+            "A": "Towards the camera at a slight angle",
+            "B": "Towards the car",
+            "C": "Towards another car nearby",
+            "D": "Towards the sky"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1075338140_concat_0.mp4",
+        "question": "What is the speed of the ball above?",
+        "answer": "B",
+        "choices": {
+            "A": "gradually accelerating compared to the ball below",
+            "B": "moving at the same speed as the ball below",
+            "C": "decelerating to the point of stopping, unlike the ball below",
+            "D": "moving in a pulsing pattern that contrasts with the steady movement of the ball below"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1059072773_concat_0.mp4",
+        "question": "What is the speed of the ice cream above?",
+        "answer": "C",
+        "choices": {
+            "A": "melting at an accelerating pace compared to the ice cream below",
+            "B": "melting in a pulsing pattern that contrasts with the steady melt of the ice cream below",
+            "C": "melting at the same speed as the ice cream below",
+            "D": "melting at a slower pace than the ice cream below"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1059815936_reverse.mp4",
+        "question": "What is happening to the paper?",
+        "answer": "C",
+        "choices": {
+            "A": "transforming into a fluttering shredded pile from a smooth sheet",
+            "B": "curling up into a tight spiral from a flattened position",
+            "C": "changing from a flattened sheet into a wrinkled paper ball",
+            "D": "folding into a paper airplane"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1100468035_reverse.mp4",
+        "question": "What is happening to the door?",
+        "answer": "C",
+        "choices": {
+            "A": "swinging wide open quickly",
+            "B": "opening slowly and then closing halfway",
+            "C": "closing",
+            "D": "opening and then closing quickly"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1090578917.mp4",
+        "question": "What direction is the man leaping?",
+        "answer": "B",
+        "choices": {
+            "A": "to the camera's right",
+            "B": "to his right",
+            "C": "upwards",
+            "D": "spinning in place"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1075484900_reverse.mp4",
+        "question": "Which way is the child facing in relation to the man?",
+        "answer": "A",
+        "choices": {
+            "A": "Turning towards the man",
+            "B": "Walking away swiftly",
+            "C": "Slowly sidestepping from the man",
+            "D": "Facing the man but rotating"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1047368344_concat_2.mp4",
+        "question": "What is the speed of the girl above?",
+        "answer": "C",
+        "choices": {
+            "A": "running at a sprint while the girl below is jogging",
+            "B": "running at a leisurely pace, unlike the girl below who is sprinting",
+            "C": "running faster than the girl below",
+            "D": "running at the same speed as the girl below"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1055413730.mp4",
+        "question": "In which direction is the planet Earth spinning?",
+        "answer": "A",
+        "choices": {
+            "A": "Rightwards",
+            "B": "Slowly reversing direction leftwards",
+            "C": "Downwards into a spiral",
+            "D": "Upwards in a diagonal slant"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1067268403_reverse.mp4",
+        "question": "What is the movement direction of the wind turbines?",
+        "answer": "A",
+        "choices": {
+            "A": "Rotating counterclockwise",
+            "B": "Slowly accelerating clockwise",
+            "C": "Reversing direction to clockwise",
+            "D": "Halting movement"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/3406618583.mp4",
+        "question": "What is the direction of the camera movement in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "panning up and down around the girl",
+            "B": "smoothly zooming in and out rapidly around the girl",
+            "C": "panning diagonally up and towards the girl",
+            "D": "rotating counter-clockwise around the girl quickly"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1089810425.mp4",
+        "question": "What is the speed of the video?",
+        "answer": "A",
+        "choices": {
+            "A": "normal speed",
+            "B": "progressively decelerating",
+            "C": "gradually accelerating",
+            "D": "reversing direction"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1077575504_concat_2.mp4",
+        "question": "What is the speed of the pile of salt above?",
+        "answer": "B",
+        "choices": {
+            "A": "growing in an erratic pattern, faster then slower, compared to the pile of salt below",
+            "B": "growing at a faster speed than the pile of salt below",
+            "C": "growing steadily only when the video slows down, unlike the pile of salt below",
+            "D": "growing at a slower pace than the pile of salt below"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1073914229.mp4",
+        "question": "What direction are the trains moving?",
+        "answer": "A",
+        "choices": {
+            "A": "towards each other",
+            "B": "zigzagging in opposite directions",
+            "C": "circling around each other",
+            "D": "moving in parallel"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/23370985_reverse.mp4",
+        "question": "What is happening to the ice crystal?",
+        "answer": "B",
+        "choices": {
+            "A": "solidifying into a stronger form",
+            "B": "melting",
+            "C": "cracking and rearranging into a new pattern",
+            "D": "growing in size"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1092813279_concat_0.mp4",
+        "question": "Which woman is doing push ups slower?",
+        "answer": "A",
+        "choices": {
+            "A": "two women doing push ups at the same speed",
+            "B": "the woman above starting slower but finishing faster",
+            "C": "the woman below taking frequent breaks in between push-ups",
+            "D": "the woman above starting faster but finishing slower"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1067427023.mp4",
+        "question": "What is the speed of the video?",
+        "answer": "B",
+        "choices": {
+            "A": "gradually increasing speed",
+            "B": "time-lapse",
+            "C": "starting slow then suddenly speeds up",
+            "D": "reversing direction"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "tempcompass/1089810425.mp4",
+        "question": "What is the direction of the panning in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "downwards in a rapid motion",
+            "B": "left to right in an accelerating motion",
+            "C": "right to left",
+            "D": "in a sweeping, continuous loop"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "tempcompass/1099811331_reverse.mp4",
+        "question": "What is happening to the 3d heart?",
+        "answer": "D",
+        "choices": {
+            "A": "changing color slowly",
+            "B": "rotating rapidly",
+            "C": "pulsating faster",
+            "D": "gradually disappearing"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1111657885.mp4",
+        "question": "What is the tempo of the video?",
+        "answer": "C",
+        "choices": {
+            "A": "gradual build-up in speed",
+            "B": "quickening pace",
+            "C": "slow motion",
+            "D": "reversing direction"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "tempcompass/1077146132.mp4",
+        "question": "What is happening to the video?",
+        "answer": "B",
+        "choices": {
+            "A": "pulsing between bright and dark",
+            "B": "turning brighter",
+            "C": "fading to darkness",
+            "D": "reversing direction"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "tempcompass/1059462749_concat_0.mp4",
+        "question": "How is the person above climbing compared to the person below?",
+        "answer": "B",
+        "choices": {
+            "A": "Climbing smoothly and gradually overtaking the person below",
+            "B": "Climbing at the same speed as the person below",
+            "C": "Climbing in a zigzag pattern away from the person below",
+            "D": "Climbing faster than the person below"
+        },
+        "predict": "A"
+    }
+]

@@ -1,0 +1,2188 @@
+{
+    "object": {
+        "accuracy": 0.49583333333333335,
+        "unmatched_cases": [
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "shoes",
+                "expected_text": "sandwich."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "clothes",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "door",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "table",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "pizza slice.",
+                "expected_text": "sandwich."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "refrigerator.",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "window",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "clothes",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "helmet.",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "book",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "clothes",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "laptop",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "clothes",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "table.",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "towel",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "clothes",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "door",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "sofa",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "stack of books.",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "guitar.",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "laptop",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "clothes",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "clothes",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "clothes",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "box",
+                "expected_text": "cup/glass/bottle."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "camera.",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "hat",
+                "expected_text": "sandwich."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "violin.",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "oven door.",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "chair",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "textbook.",
+                "expected_text": "medicine."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "box",
+                "expected_text": "clothes"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "clothes",
+                "expected_text": "sandwich"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "clothes",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "basket",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "broom",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "table",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "clothes",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "table",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "clothes",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "chair",
+                "expected_text": "floor."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "clothes",
+                "expected_text": "broom"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "clothes",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "basket.",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "table",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "cabinet",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "chair",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "toy",
+                "expected_text": "picture."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "headphones/earbuds.",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "clothes",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "table",
+                "expected_text": "shoe"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "clothes.",
+                "expected_text": "sandwich"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "basketball.",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "camera.",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "pillow",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "smartphone.",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "map.",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "chair",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "laptop",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "clothes",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "box",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "mirror",
+                "expected_text": "floor."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "chair",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "clothes",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "book",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "phone/camera.",
+                "expected_text": "coffee mug."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "laptop",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "window",
+                "expected_text": "door."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "door",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "clothes",
+                "expected_text": "picture."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "sofa",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "hat",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "bed",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "shoew",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "clothes",
+                "expected_text": "bag"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "clothes",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "shoe.",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "table",
+                "expected_text": "carpet"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "shoew",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "clothes",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "clothes",
+                "expected_text": "picture."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "clothes",
+                "expected_text": "floor."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "sofa",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "laptop",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "floor",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "dish",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "table",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "book",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "table",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "chair",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "table.",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "clothes",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "clothes",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "bag",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "basket",
+                "expected_text": "food."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "picture frame.",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "clothes",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "door",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "clothes",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "laptop.",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "clothes",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "table",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "picture",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "pillow",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "door",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "book",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "clothes",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "camera.",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "refrigerator",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "towel",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "teapot.",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "table.",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "laptop",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "clothes",
+                "expected_text": "pillow"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "sofa",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "cup",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "clothes",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "box",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "clothes",
+                "expected_text": "towel"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "laptop.",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "camera.",
+                "expected_text": "sandwich."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "painting.",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "bed",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "box",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "microwave door.",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "camera.",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "cup",
+                "expected_text": "picture."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "bed",
+                "expected_text": "food."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "table",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "clothes",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "laptop",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "clothes",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "shoe",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "chair",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "box",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "chair",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "sofa",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "laptop.",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "laptop",
+                "expected_text": "book"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "clothes",
+                "expected_text": "picture"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "clothes",
+                "expected_text": "blanket"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "refrigerator.",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "table",
+                "expected_text": "dish"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "refrigerator",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "bed",
+                "expected_text": "clothes"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "door",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "laptop",
+                "expected_text": "food."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "clothes",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "clothes",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "cabinet",
+                "expected_text": "sandwich."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "towel",
+                "expected_text": "phone"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "broom",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "bicycle helmet.",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "bed",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "laptop",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "clothes",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "dining chair.",
+                "expected_text": "box"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "table",
+                "expected_text": "picture."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "basket",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "door",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "chair",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "pillow",
+                "expected_text": "cup/glass/bottle."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "chair",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "refrigerator",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "bag",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "camera.",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "gitar",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "sandwich",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "sofa",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "bed",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "broom",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "bag",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "sofa",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "table",
+                "expected_text": "blanket"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "cat",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "ice cream cone.",
+                "expected_text": "sandwich."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "chair",
+                "expected_text": "bed."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "window blinds.",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "sofa",
+                "expected_text": "window."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "chair",
+                "expected_text": "medicine."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "clothes",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "broom",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "laptop.",
+                "expected_text": "pillow"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "towel",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "door",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "box",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "clothes",
+                "expected_text": "snack"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "table",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "clothes",
+                "expected_text": "sandwich."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "headphones.",
+                "expected_text": "orange"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "basket",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "camera.",
+                "expected_text": "pillow"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "clothes",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "window",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "laptop",
+                "expected_text": "cup/glass/bottle."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "door",
+                "expected_text": "towel"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "table",
+                "expected_text": "door."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "bed",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "towel",
+                "expected_text": "cup/glass/bottle."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "clothes",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "chair",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "basketball.",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "broom",
+                "expected_text": "table."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "dish",
+                "expected_text": "cup/glass/bottle."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "refrigerator.",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "cabinet",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "umbrella.",
+                "expected_text": "phone/camera."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "door",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "dish",
+                "expected_text": "sandwich"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "table",
+                "expected_text": "bag"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "clothes",
+                "expected_text": "sandwich."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "table",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "chair",
+                "expected_text": "picture"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "door",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "chair",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "bed",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "cabinet",
+                "expected_text": "book"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "chair",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "clothes",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "cabinet",
+                "expected_text": "box"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "chair",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "chair",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "fridge.",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "cabinet",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "sofa",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "dish",
+                "expected_text": "broom"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "pillow",
+                "expected_text": "towel"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "cabinet",
+                "expected_text": "box"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "sofa",
+                "expected_text": "book"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "dish",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "table",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "book.",
+                "expected_text": "mirror"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "sofa",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "broom",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "table",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "chair",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "cabinet",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "blanket",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "bed",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "door",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "refrigerator.",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "blanket",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "bed",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "sofa",
+                "expected_text": "bag"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "laptop",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "laptop",
+                "expected_text": "towel"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "refrigerator.",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "table",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "chair",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "picture",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "laptop",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "suitcase.",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "bed",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "clothes",
+                "expected_text": "door."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "phone",
+                "expected_text": "medicine."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "laptop",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "sofa",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "chair",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "chair",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "birdcage.",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "table",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "lamp.",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "sofa",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "door",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "bed",
+                "expected_text": "picture."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "clothes",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "clothes",
+                "expected_text": "phone/camera."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "table",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "clothes",
+                "expected_text": "phone/camera."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "laptop",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "table",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "remote control.",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "laptop.",
+                "expected_text": "cabinet"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "picture",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "laptop.",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "refrigerator",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "table",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "towel",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "table",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "pan",
+                "expected_text": "food."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "chair",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "towel",
+                "expected_text": "mirror."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "clothes",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "table",
+                "expected_text": "picture."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "phone/camera.",
+                "expected_text": "briefcase."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "blanket",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "bed",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "cabinet",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "table",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "clothes",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "chair",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "refrigerator",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "chair",
+                "expected_text": "bag"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "gitar",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "clothes",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "cabinet",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "cookie jar.",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "violin.",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "shoe",
+                "expected_text": "door."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "shoe",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "cabinet",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "door",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "pan",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "cabinet",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "sandwich",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "table",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "notebook",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "door",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "window.",
+                "expected_text": "clothes"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "clothes",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "door",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "clothes",
+                "expected_text": "window."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "dish",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "box",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "shoe",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "violin.",
+                "expected_text": "pillow"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "bag.",
+                "expected_text": "box"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "jewelry box.",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "towel",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "refrigerator",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "broom",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "laptop",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "blanket",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "laptop",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "table.",
+                "expected_text": "sofa"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "clothes",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "gitar",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "window",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "sofa",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "laptop",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "bed",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "basketball.",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "camera.",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "chair",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "cabinet",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "chair",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "skateboard.",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "laptop",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "bookshelf.",
+                "expected_text": "floor."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "window",
+                "expected_text": "suitcase"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "door",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "laptop.",
+                "expected_text": "door"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "dish.",
+                "expected_text": "shoe"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "dish",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "clothes",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "dish",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "dish",
+                "expected_text": "book"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "table",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "shoe",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "shoe.",
+                "expected_text": "clothes"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "box",
+                "expected_text": "clothes"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "violin case.",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "laptop",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "guitar.",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "blanket",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "chair",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "camera.",
+                "expected_text": "blanket"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "paper",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "pillow",
+                "expected_text": "picture."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "bag",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "bicycle helmet.",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "closet/cabinet.",
+                "expected_text": "clothes"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "bag",
+                "expected_text": "refrigerator."
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.49583333333333335
+    }
+}

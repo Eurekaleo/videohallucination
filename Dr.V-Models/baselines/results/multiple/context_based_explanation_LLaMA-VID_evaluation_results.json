@@ -1,0 +1,1336 @@
+{
+    "context_based_explanation": {
+        "accuracy": 0.6316666666666667,
+        "unmatched_cases": [
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "mimics walking with hand gestures",
+                "expected_text": "talking while moving backwards"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "indicate it's safe to proceed",
+                "expected_text": "guide boy"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "use a fashionable clip to secure it",
+                "expected_text": "tie her hair"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "winning a costume competition",
+                "expected_text": "back support"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "to indicate a photo opportunity",
+                "expected_text": "carry her"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "to moisturize hands with the dough's texture",
+                "expected_text": "making food"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "involved in a social experiment",
+                "expected_text": "queuing for their turn"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "smiling as the camera approaches",
+                "expected_text": "playing with baby"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "using it to reduce stress",
+                "expected_text": "unwrapping presents"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "to make the baby laugh",
+                "expected_text": "to play"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "to tell him about the event schedule",
+                "expected_text": "her turn"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "noticed the shadow length on the ground",
+                "expected_text": "look at his watch"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "adjust the sail to stay still",
+                "expected_text": "holds his boat"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "to demonstrate how to build a paddle",
+                "expected_text": "to kayak"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "to express his delight with its performance",
+                "expected_text": "try to make it move"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "checking his GPS for directions",
+                "expected_text": "stopped by policeman"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "show it off to get everyone\u2019s attention",
+                "expected_text": "hit the girl in white"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "to position it for a photo",
+                "expected_text": "easier to blow"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "avoiding a blinding light",
+                "expected_text": "watching television"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "signal to the boat captain",
+                "expected_text": "support herself"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "hoping to meet a favorite character in a book",
+                "expected_text": "to find something"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "wave to a friend",
+                "expected_text": "pick up the pipe"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "to acknowledge",
+                "expected_text": "dancing to music"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "admiring the decorations behind her",
+                "expected_text": "distracted"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "to match a painting in the background",
+                "expected_text": "part of outfit"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "feeling for air currents",
+                "expected_text": "trying to reach wheel"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "to reach the echoes that intrigued him",
+                "expected_text": "more space"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "tries to grab the toy ahead of him",
+                "expected_text": "loses balance"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "drawing attention for food sharing",
+                "expected_text": "enjoying themselve"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "to signal the end of a tribal story",
+                "expected_text": "gesture to look scarier and stronger"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "to retrieve a hidden toy",
+                "expected_text": "fun"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "prepare to shake hands with someone off-screen",
+                "expected_text": "want someone else to carry"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "heard a sound from the other room",
+                "expected_text": "found another toy to play with"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "stood perfectly still showing respect",
+                "expected_text": "walked towards her"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "to inspect its texture closely",
+                "expected_text": "to pick the food up"
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "adjusting shoelaces repeatedly",
+                "expected_text": "hold the bicycle"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "signal for help",
+                "expected_text": "playing with ball"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "trying to tie his shoelace",
+                "expected_text": "slow reaction"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "showing a new dance move",
+                "expected_text": "eating meal"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "prevent slipping",
+                "expected_text": "let baby sit"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "gestures to his assistant",
+                "expected_text": "turn the stand"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "check if someone was calling his name",
+                "expected_text": "play guitar with man playing keytar"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "rock them to sleep",
+                "expected_text": "snuggle with boys"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "practice driving skills",
+                "expected_text": "for fun"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "points towards a toy to play",
+                "expected_text": "move hands"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "avoid hitting camera lights",
+                "expected_text": "act cool"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "to enhance stability during spinning",
+                "expected_text": "experiment"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "to balance it on his head",
+                "expected_text": "play with it"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "they hopped onto a conveyor belt that carried them up",
+                "expected_text": "walked up"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "announce dinner is ready",
+                "expected_text": "change to bigger sparkler"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "recalls a funny memory",
+                "expected_text": "smiles a lot"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "adjust the toy's position",
+                "expected_text": "to play with the baby"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "extend his play time",
+                "expected_text": "try to stand up"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "gently pull on a hidden brake handle",
+                "expected_text": "put feet on the ground"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "to demonstrate a dance move",
+                "expected_text": "hand gestures to make his point"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "to check the time",
+                "expected_text": "guide dog"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "planting seeds for a garden",
+                "expected_text": "set off firework"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "to inspect his shoes closely",
+                "expected_text": "make funny expressions"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "checking for loose fence boards",
+                "expected_text": "wants to go near dog"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "to show it as a prop for storytelling",
+                "expected_text": "take notes"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "ensure the ball is still in play",
+                "expected_text": "check for recognition"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "tying shoelaces",
+                "expected_text": "washing something"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "testing the pumpkin's ripeness",
+                "expected_text": "carving pumpkin"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "check the baby's reflexes",
+                "expected_text": "playing with the baby"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "prepare a surprise for the man with gloves",
+                "expected_text": "talking to man with gloves"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "cross her arms tightly",
+                "expected_text": "spread her hands out"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "climbs down carefully using the cushion",
+                "expected_text": "jumps down"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "waiting for the signal to start singing",
+                "expected_text": "guiding the boy"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "jump after a brief run-up",
+                "expected_text": "climb"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "waiting for his turn to speak",
+                "expected_text": "thinking"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "to show excitement for the music playing",
+                "expected_text": "hit toys"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "testing material strength",
+                "expected_text": "brick is brought down"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "to simulate a washing machine cycle",
+                "expected_text": "trying to dance together"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "demonstrate it can fly back",
+                "expected_text": "show to the camera"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "knock it against the wall to make a sound",
+                "expected_text": "bite it"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "tried to reach as if pointing at something interesting",
+                "expected_text": "lean forward to grab camera"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "it's part of a rescue mission",
+                "expected_text": "waiting for something"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "rest from playing",
+                "expected_text": "lose balance"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "admiring the leaves due to their unusual color",
+                "expected_text": "look at man doing flying fox"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "performs a roll to stand up",
+                "expected_text": "hold chair for support"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "act as if she forgot something important",
+                "expected_text": "smell his ribbon"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "prevent slipping on ice",
+                "expected_text": "skiing"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "to lead the way to an exit",
+                "expected_text": "to push another man"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "the baby feeds himself after being encouraged to be independent",
+                "expected_text": "spoon"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "disapproving of something funny",
+                "expected_text": "nodding head"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "guided by instinct to explore more",
+                "expected_text": "to play in the grass"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "waiting for a signal",
+                "expected_text": "look at scenery"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "monitoring the technical issues with microphones",
+                "expected_text": "focus on adjusting the music"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "pretending to be an animal as part of a game",
+                "expected_text": "dancing"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "to pick up the present",
+                "expected_text": "to dance on the floor"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "waiting for a signal from a boat",
+                "expected_text": "enjoy the scenery"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "thought of a joke she heard earlier",
+                "expected_text": "look good in camera"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "hold its head to imagine it talking",
+                "expected_text": "hold its neck"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "to prevent it from spilling while drinking",
+                "expected_text": "act to perform magic"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "as they find their audience's reaction amusing",
+                "expected_text": "happy"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "imitate what adults were doing",
+                "expected_text": "get up"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "the wind blew it open",
+                "expected_text": "man loading things"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "moved her arms to create space",
+                "expected_text": "lie on pillow"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "to prevent it from tipping over",
+                "expected_text": "playing with baby"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "to make a loud noise",
+                "expected_text": "prevent child from biting"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "to mimic the sounds of animals",
+                "expected_text": "trying to crush fishes"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "preparing a gift for a surprise",
+                "expected_text": "to eat"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "to mimic a superhero pose",
+                "expected_text": "to hold toy"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "because he heard a loud noise",
+                "expected_text": "to come near the lady"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "push it with his hands",
+                "expected_text": "reach out using hands"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "they received a signal to move back from someone off-screen",
+                "expected_text": "scared by monkey"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "imitate a skill he saw on TV",
+                "expected_text": "failed to slide well"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "following instructions from the voice overhead",
+                "expected_text": "want to play"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "to check if the baby is awake",
+                "expected_text": "playing with the baby"
+            },
+            {
+                "predicted": "D",
+                "expected": "C",
+                "predicted_text": "to ensure cleanliness",
+                "expected_text": "return it to the baby"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "use the swords to carve initials in the sand",
+                "expected_text": "swing the swords"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "because she heard a noise",
+                "expected_text": "go kitchen take thing"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "waiting for its rider's command",
+                "expected_text": "guide is walking slowly"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "it's part of a traditional greeting",
+                "expected_text": "playing"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "cleaning its paws",
+                "expected_text": "hit dog"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "testing how fast it can be pressed",
+                "expected_text": "wants to listen to it"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "to signal it's story time soon",
+                "expected_text": "let the baby imitate"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "to reach for a nearby toy",
+                "expected_text": "excited"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "preparing for a surprise act",
+                "expected_text": "dancing"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "carefully examines each slice for evenness",
+                "expected_text": "put force to push knife down"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "waited for the right moment in the performance piece",
+                "expected_text": "walk"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "to signal a change in topic",
+                "expected_text": "excited"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "to check the tuning of the banjo",
+                "expected_text": "moving with rhythm"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "to indicate the completion of the scene",
+                "expected_text": "stabilize the swing"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "searching for their owner",
+                "expected_text": "want to get up"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "indicating it's safe to reverse",
+                "expected_text": "excited and say goodbye"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "hold card with instructions",
+                "expected_text": "carry dog through hoop"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "maintain his balancing act",
+                "expected_text": "teach him swimming"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "recalled a funny memory related to his pants",
+                "expected_text": "feel something in pocket"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "in order to grab attention, she dances around",
+                "expected_text": "shake around"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "celebrate a special occasion",
+                "expected_text": "fun"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "to rearrange the grass for a better look",
+                "expected_text": "to see if there is anything"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "to practice a new dance move",
+                "expected_text": "to get comfortable"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "pretends to trip to draw attention",
+                "expected_text": "touch her"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "to mark personal space boundaries",
+                "expected_text": "hold score for them to refer"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "to simulate an escape drill",
+                "expected_text": "show the outside"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "believed the camera was a friend",
+                "expected_text": "say hi"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "assumed it was rehearsed humor",
+                "expected_text": "to lighten the mood"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "to steady her for a dance move",
+                "expected_text": "to hug her"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "adjust the phone settings",
+                "expected_text": "tap screen"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "waves a soft toy",
+                "expected_text": "shakes her head"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "signal with hands",
+                "expected_text": "move handles"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "to encourage the swing movement",
+                "expected_text": "pretend to get hit"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "look for a lost item under the cushions",
+                "expected_text": "rest"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "imitate the man\u2019s dancing",
+                "expected_text": "man shake the toy"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "distracted by a bird's shadow",
+                "expected_text": "excited"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "waiting for their turn to ride",
+                "expected_text": "interested in horse"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "to understand the recipe he's describing",
+                "expected_text": "listen attentively to him"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "trying to listen to a story from a book",
+                "expected_text": "resting"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "to measure the wingspan",
+                "expected_text": "holding the wing"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "adjust lighting to match their mood",
+                "expected_text": "move heads up and down"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "nodding to the rhythm of a nearby song",
+                "expected_text": "acknowledging what lady said"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "to thank her for a previous favor",
+                "expected_text": "her gift"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "assess the quality of the fabric",
+                "expected_text": "unbutton jacket"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "joining a superhero team",
+                "expected_text": "micmic superman"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "moves to a cooler spot",
+                "expected_text": "roll around"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "to check if the baby can recognize familiar faces",
+                "expected_text": "playing with the baby"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "gently rock the baby and hum a tune",
+                "expected_text": "tickle the baby"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "make a rhythm for the game",
+                "expected_text": "distribute the water"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "to adjust the stage lights",
+                "expected_text": "pick up drinks"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "responding to a cue for a magic trick",
+                "expected_text": "dancing for fun"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "as a traditional gesture after consuming beverages",
+                "expected_text": "show is end product"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "stretch to relieve tension",
+                "expected_text": "ask for help"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "waving to a friend",
+                "expected_text": "posing for camera"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "create space for each other by standing far apart",
+                "expected_text": "hold hands"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "practicing facial expressions",
+                "expected_text": "playing with it"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "checking for a loose shoelace",
+                "expected_text": "distracted by something"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "following the ski track left by others",
+                "expected_text": "poke stick down"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "to show the parrot her bracelet",
+                "expected_text": "asking parrot to go there"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "measure the bike's distance to the ground",
+                "expected_text": "stop his bike"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "to demonstrate how hot the soup is",
+                "expected_text": "passed to the old lady"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "adjust her balance for a quick pose",
+                "expected_text": "happy"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "tidying up to clear the space",
+                "expected_text": "pick up the food"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "using it as a flashlight",
+                "expected_text": "talking over the phone"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "to avoid causing a scene",
+                "expected_text": "careful"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "celebrate the spring festival",
+                "expected_text": "traditional costume"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "direct attention to surroundings",
+                "expected_text": "ask baby to walk"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "to teach the dog patience by delayed feeding",
+                "expected_text": "to feed many times"
+            },
+            {
+                "predicted": "D",
+                "expected": "A",
+                "predicted_text": "map, thinking he was lost",
+                "expected_text": "bottle"
+            },
+            {
+                "predicted": "B",
+                "expected": "C",
+                "predicted_text": "signal the end of the music",
+                "expected_text": "shake the toy"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "reach for a toy under the table",
+                "expected_text": "learn dancing"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "express surprise at unexpected noise",
+                "expected_text": "demonstrate movement"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "initiate a playful interaction",
+                "expected_text": "let the adult see her work"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "exploring the new environment",
+                "expected_text": "playing"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "signaling to each other secretly",
+                "expected_text": "dancing"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "pretending to be a librarian",
+                "expected_text": "search for pictures"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "to fix the girl's hat before it falls",
+                "expected_text": "waves getting bigger"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "adjust the baby's blanket",
+                "expected_text": "to kiss her"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "noticing a familiar tune being played",
+                "expected_text": "check out a shop"
+            },
+            {
+                "predicted": "D",
+                "expected": "B",
+                "predicted_text": "anticipating a surprise",
+                "expected_text": "watching performance"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "trying to reach for the sound source",
+                "expected_text": "lie on his side"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "signal that she likes the color pink",
+                "expected_text": "sleigh"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "mimicking a famous pianist's emotional expressions",
+                "expected_text": "singing"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "because he is watching an amusing performance",
+                "expected_text": "playing with her"
+            },
+            {
+                "predicted": "C",
+                "expected": "B",
+                "predicted_text": "conserve water for later",
+                "expected_text": "speak"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "believed it would fix his car's imbalance",
+                "expected_text": "get the toy driver that fell"
+            },
+            {
+                "predicted": "C",
+                "expected": "D",
+                "predicted_text": "to mimic an adult's actions",
+                "expected_text": "for fun"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "to greet an important guest",
+                "expected_text": "leaving room for the next one"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "calibrate the camera angle",
+                "expected_text": "take video"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "she tied them to a toy and pulled",
+                "expected_text": "pull the sock hard"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "ensure it matches with his outfit",
+                "expected_text": "look cool"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "discuss the upcoming party",
+                "expected_text": "coaching the girl"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "engage the drill's safety latch system",
+                "expected_text": "hold it with both hands"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "careful of the rocks",
+                "expected_text": "enjoy the walk"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "taking a call about dinner reservations",
+                "expected_text": "recording video"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "escort a special guest through the room",
+                "expected_text": "show certain body language"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "practicing mindfulness and focusing",
+                "expected_text": "waiting for train from that direction"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "maintenance workers were cleaning the sky light",
+                "expected_text": "the cruise sails under the clouds"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "showing off a winning hand",
+                "expected_text": "smiling"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "to guide the birds into their cage",
+                "expected_text": "support"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "heard their name",
+                "expected_text": "distracted"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "call for silence in the crowd",
+                "expected_text": "gesture and make points"
+            },
+            {
+                "predicted": "C",
+                "expected": "A",
+                "predicted_text": "demonstrate how to open the bottle",
+                "expected_text": "drink"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "signaling someone to fetch the ball",
+                "expected_text": "estimate strength to hit"
+            },
+            {
+                "predicted": "B",
+                "expected": "D",
+                "predicted_text": "to avoid the crowd pushing forward",
+                "expected_text": "short"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "waiting to receive a toy from him",
+                "expected_text": "observing his reaction"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "wash her hands after painting",
+                "expected_text": "take out vegetables"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "felt like a dance",
+                "expected_text": "foot slipped"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "wanted a better view of the dance",
+                "expected_text": "does not want to dance"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "trying to calm the baby with a gentle tap",
+                "expected_text": "sitting"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "imitate a scene from a movie",
+                "expected_text": "tap it"
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.6316666666666667
+    }
+}

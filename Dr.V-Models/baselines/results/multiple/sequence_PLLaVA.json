@@ -1,0 +1,1442 @@
+[
+    {
+        "video": "Youcook2/R4vDqlKMbrk.mp4",
+        "question": "What did the woman do before pouring the egg mixture into the pan?",
+        "answer": "A",
+        "choices": {
+            "A": "Crack eggs into a clear bowl and mixing them.",
+            "B": "Shake the pan slightly to ensure even cooking.",
+            "C": "Use a spatula to flip the eggs.",
+            "D": "Hold various ingredients in her hands."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/we_JQ2Vt-XA.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "Egg in a bowl -> Egg in a pan -> Stir -> Pour into pan -> Put on plate -> Eat",
+            "B": "Egg in a bowl -> Stir -> Egg in a pan -> Put on plate -> Pour into pan -> Eat",
+            "C": "Egg in a bowl -> Stir -> Egg in a pan -> Pour into pan -> Put on plate -> Eat",
+            "D": "Egg in a bowl -> Stir -> Put on plate -> Pour into pan -> Egg in a pan -> Eat"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/zLLh104pkeg.mp4",
+        "question": "What is the sequence of events involving the bacon and the plates?",
+        "answer": "D",
+        "choices": {
+            "A": "Bacon is cooked on a grill, then a plate with a piece of bread is shown.",
+            "B": "Plates are shown with a piece of bread before bacon is cooked on a grill.",
+            "C": "Plates are shown with a piece of bread after bacon is cooked on a grill.",
+            "D": "Plates are shown with a piece of bread while bacon is cooking on a grill."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/J0LH8awwg-Y.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Dipping \u2192 Breading \u2192 Cooking \u2192 Plating",
+            "B": "Dipping \u2192 Cooking \u2192 Plating \u2192 Breading",
+            "C": "Cooking \u2192 Dipping \u2192 Breading \u2192 Plating ",
+            "D": "Plating \u2192 Dipping \u2192 Breading \u2192 Cooking"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/OyG4y7y5BCY.mp4",
+        "question": "What is the correct order of events depicted in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "The man shows the raw meat, then mixes it with other ingredients to make hamburger patties. He then cooks them and serves them on a bun with toppings.",
+            "B": "The man shows the raw meat, then makes hamburger patties and cooks them before serving them on a bun with toppings.",
+            "C": "The man shows the raw meat, then mixes it with other ingredients to make hamburger patties before cooking them.",
+            "D": "The man shows the raw meat, then mixes it with other ingredients to make hamburger patties before cooking them and serving them on a bun with toppings."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/fFMrBHC_P0I.mp4",
+        "question": "What is the order of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "The woman pours the soup into the black pot first, then adds the other ingredients.",
+            "B": "The woman adds the soup to the black pot after mixing it with the other ingredients.",
+            "C": "The woman mixes the soup with the other ingredients before pouring them into the black pot.",
+            "D": "The woman pours the soup into the black pot without mixing it with the other ingredients."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/CfU3pssoU4U.webm",
+        "question": "What is the sequence of events that occurs after the man puts the onions into the bowl?",
+        "answer": "A",
+        "choices": {
+            "A": "He mixes the onions with crumbs in the bowl",
+            "B": "He shows the final product of the food he cooked.",
+            "C": "He puts the ingredients into the mixing bowl.",
+            "D": "He takes out the cooked food from the oven."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/LkGmAy4Mlz4.webm",
+        "question": "What happens first in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The man adds the ingredients needed to make fried chicken",
+            "B": "The person adds the chicken wings into the bowl with flour mixture.",
+            "C": "The person pours the flour mixture into a bag.",
+            "D": "The person puts the chicken wings into a bowl."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/lOyg36PAzNg.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "Asian woman standing in front of a kitchen counter, mixing ingredients in a bowl, and cooking meat in a pot.",
+            "B": "Asian woman standing in front of a kitchen counter, cooking meat in a pot, and mixing ingredients in a bowl.",
+            "C": "Asian woman standing in front of a kitchen counter, mixing ingredients in a bowl, and then cooking meat in a pot.",
+            "D": "Asian woman standing in front of a kitchen counter, cooking meat in a pot, and then mixing ingredients in a bowl."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/-rJ5CI0hXHA.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Food pictures -> Marinating meat -> Cooking on grill",
+            "B": "Marinating meat -> Food pictures -> Cooking on grill",
+            "C": "Cooking on grill -> Marinating meat -> Food pictures",
+            "D": "Food pictures -> Cooking on grill -> Marinating meat"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/qaoXYML2DaE.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Mixing ingredients -> marinating meat -> cooking food -> serving",
+            "B": "Mixing ingredients -> cooking food -> marinating meat -> serving",
+            "C": "Cooking food -> mixing ingredients -> marinating meat -> serving",
+            "D": "Marinating meat -> mixing ingredients -> cooking food -> serving"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/BSlbgFn8l2Q.mp4",
+        "question": "What is the order of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Mixing ingredients -> Grilling meat -> Assembling sandwich",
+            "B": "Mixing ingredients -> Assembling sandwich -> Grilling meat",
+            "C": "Grilling meat -> Mixing ingredients -> Assembling sandwich",
+            "D": "ssembling sandwich -> Mixing ingredients -> Grilling meat"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "Youcook2/8ZRVhcJNm1c.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "A close-up of the finished dish, then a person cutting up food, followed by a woman and a man standing behind a counter.",
+            "B": "A person cutting up food, then a woman and a man standing behind a counter, followed by a close-up of the finished dish.",
+            "C": "A woman and a man standing behind a counter, then a close-up of the finished dish, followed by a person cutting up food.",
+            "D": "A woman and a man standing behind a counter, then a person cutting up food, and put the it in a cup"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/RLcdmNUBuWk.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "Bread crumbs are added to a bowl, meat is mixed with other ingredients, oil is poured into a pan, onions are cooked, ketchup is poured over the meatloaf.",
+            "B": "Onions are cooked in oil, bread crumbs are added to a bowl, meat is mixed with other ingredients, ketchup is poured over the meatloaf, oil is poured into a pan.",
+            "C": "Oil is poured into a pan, onions are cooked, bread crumbs are added to a bowl, meat is mixed with other ingredients, ketchup is poured over the meatloaf.",
+            "D": "Oil is poured into a pan, onions are cooked, ketchup is poured over the meatloaf, bread crumbs are added to a bowl, meat is mixed with other ingredients."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/SCHyRZDyR8c.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "Taking the pizza out of the oven - Making a pizza - Placing the pizza in the oven",
+            "B": "Making a pizza - Taking the pizza out of the oven - Placing the pizza in the oven",
+            "C": "Placing the pizza in the oven - Making a pizza - Taking the pizza out of the oven",
+            "D": "Making a pizza - Placing the pizza in the oven - Taking the pizza out of the oven"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/LoBjzA2z2Ls.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "Mixing ingredients -> Making croutons -> Mixing salad",
+            "B": "Mixing ingredients -> Mixing salad -> Making croutons",
+            "C": "Making croutons -> Mixing ingredients -> Mixing salad",
+            "D": "Mixing salad -> Making croutons -> Mixing ingredients"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "Youcook2/ta62syygWO8.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "The chef introduces himself, shows the ingredients, and then proceeds to make the salad.",
+            "B": "The chef makes the salad by showing the ingredients, mixing them together, and then presenting it.",
+            "C": "The chef starts by cutting up vegetables, then shows the ingredients, and finally presents the finished salad.",
+            "D": "The chef shows the ingredients, cuts up vegetables, and then presents the finished salad."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/VJykAdxvQYk.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The man shows the ingredients, chops the vegetables, and then cooks them on the grill.",
+            "B": "The man shows the ingredients, mixes them in a blender, and then cooks them on the grill.",
+            "C": "The man shows the ingredients, chops the vegetables, and then eats them raw.",
+            "D": "The man shows the ingredients, mixes them in a blender, and then eats them raw."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/0Q2k-EJCriQ.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "A woman shows ingredients for a dish, then cooks it, then eats it.",
+            "B": "A woman sits on a couch, then shows ingredients for a dish, then shows how to cook it, and finally eats it.",
+            "C": "A woman sits on a couch, then shows how to cook a dish, then shows the finished product.",
+            "D": "A woman shows the finished product of a dish, then shows how to cook it, and then shows the ingredients."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/wSGwQJQKR5Y.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "The woman points at the ingredients, mixes them in a bowl, and then cooks the mixture.",
+            "B": "The woman points at the ingredients, mixes them in a bowl, and then puts the mixture into a oven",
+            "C": "The woman points at the ingredients, pours water into a pot, and then mixes the ingredients in the pot.",
+            "D": "The woman points at the ingredients, pours water into a pot, and then pours the mixture into a bowl."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/IGNX4gYlyFo.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "The man shows the ingredients, chops vegetables, and cooks them with meat. Then he adds butter and spices before baking the pie.",
+            "B": "The man shows the ingredients, and cooks them with meat. Then he adds butter and spices.",
+            "C": "The man shows the ingredients, chops vegetables, and cooks them with meat. Then he adds butter and spices before showing off the finished pie and his dog.",
+            "D": "The man shows the ingredients, chops vegetables, and cooks them with meat. Then he adds butter and spices before showing off the finished pie and his dog, who is also shown eating the pie."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/y9SGo52knhU.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "A woman prepares a meal by mixing ingredients in a bowl, slicing tomatoes, and placing them in a pan. She then blends the mixture in a pot.",
+            "B": "A woman prepares a meal by slicing tomatoes, placing them in a pan, mixing ingredients in a bowl, and blending the mixture in a pot.",
+            "C": "A woman prepares a meal by slicing tomatoes, mixing ingredients in a bowl, and placing them in a pan. She then blends the mixture in a pot.",
+            "D": "A woman prepares a meal by mixing ingredients in a bowl, slicing tomatoes, blending the mixture in a pot, and placing them in a pan."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/AKyiF0kWEFc.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "The man talks about the recipe, shows the ingredients, and then demonstrates the cooking process.",
+            "B": "The man demonstrates the cooking process, shows the ingredients, and then talks about the recipe.",
+            "C": "The man shows the ingredients, talks about the recipe, and then demonstrates the cooking process.",
+            "D": "The man demonstrates the cooking process, talks about the recipe, and then shows the ingredients."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/IGtGx2fWz4Y.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "Beans soaked -> Water with salt and baking soda -> Beans cooked",
+            "B": "Water with salt and baking soda -> Beans soaked -> Beans cooked",
+            "C": "Beans soaked -> Beans cooked -> Water with salt and baking soda",
+            "D": "Beans cooked -> Water with salt and baking soda -> Beans soaked"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/6biDSDHlfjo.mp4",
+        "question": "What is the order of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The man adds ingredients to the pot, then cuts onions and peppers on a cutting board, and finally pours the mixture into the pot.",
+            "B": "The man adds ingredients to the pot, pours the mixture into the pot, and then cuts onions and peppers on a cutting board.",
+            "C": "The man cuts onions and peppers on a cutting board, adds ingredients to the pot, and then pours the mixture into the pot.",
+            "D": "The man pours the mixture into the pot, adds ingredients to the pot, and then cuts onions and peppers on a cutting board."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/pDWfDUi108U.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "The man talks to the camera, adds ingredients to the pot, and stirs the mixture.",
+            "B": "The man talks to the camera, shows the ingredients, and then pours oil into the pot.",
+            "C": "The man talks to the camera, shows the ingredients, and then pours oil into the pot before adding the spices.",
+            "D": "The man talks to the camera, shows the ingredients, and then pours oil into the pot before stirring the mixtur."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/tjIVUPZIv9U.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "Mixing ingredients -> Cooking pancakes -> Eating pancakes",
+            "B": "Making cookies -> Rolling up pancakes -> Eating pancakes",
+            "C": "Mixing ingredients -> Cooking pancakes -> Making cookies",
+            "D": "Making cookies -> Eating cookies -> Making pancakes"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/qZgpcME4NlU.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "The woman pours ingredients into a bowl, mixes them together, and then cooks pancakes.",
+            "B": "The woman talks to the camera, shows off her ingredients, mixes them together, and then cooks pancakes.",
+            "C": "The woman shows off her ingredients, talks to the camera, and then cooks pancakes.",
+            "D": "The woman mixes ingredients together, talks to the camera, and then cooks pancakes."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/ejq2ZsHgwFk.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "Cooking pancakes - stacking pancakes - mixing ingredients - water bottle",
+            "B": "Water bottle - mixing ingredients - cooking pancakes - stacking pancakes",
+            "C": "Stacking pancakes - mixing ingredients - cooking pancakes - water bottle",
+            "D": "Mixing ingredients - cooking pancakes - stacking pancakes - water bottle"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/soByLvI6SSY.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "Mixing ingredients -> cooking pancakes -> cleaning up",
+            "B": "Mixing ingredients -> flipping pancakes -> cleaning up",
+            "C": "Preparing batter -> cooking pancakes -> flipping pancakes",
+            "D": "Preparing batter -> flipping pancakes -> cleaning up"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/wL5n8Z-2BnE.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "The man puts ingredients on the pizza, then shows it to the camera and cuts it.",
+            "B": "The man shows the ingredients, puts them on the pizza, and then shows it to the camera.",
+            "C": "The man shows the ingredients, puts them on the pizza, and then eats it.",
+            "D": "The man shows the ingredients, puts them on the pizza, and then eats a slice in front of a child."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/I-OrPVMNjHM.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "Making pizza dough - Mixing ingredients - Rolling out dough - Putting toppings on pizza",
+            "B": "Mixing ingredients - Making pizza dough - Putting toppings on pizza - Rolling out dough",
+            "C": "Mixing ingredients - Making pizza dough - Rolling out dough - Putting toppings on pizza",
+            "D": "Mixing ingredients - Putting toppings on pizza - Making pizza dough - Rolling out dough"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/Qj2lqpdJ3uk.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The woman pours ingredients into a bowl, mixes them together, rolls up dough, and puts it on a pizza.",
+            "B": "The woman pours ingredients into a bowl, rolls up dough, puts it on a pizza, and then mixes more ingredients.",
+            "C": "The woman pours ingredients into a bowl, mixes them together, puts it on a pizza, and then rolls up dough.",
+            "D": "The woman pours ingredients into a bowl, rolls up dough, mixes more ingredients, and puts it on a pizza."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/NnmOAwitI-k.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "Mixing ingredients -> Placing pizza -> Cutting and serving pizza",
+            "B": "Mixing ingredients -> Placing pizza -> Making pizza dough",
+            "C": "Mixing ingredients -> Making pizza dough -> Placing pizza",
+            "D": "Making pizza dough -> Mixing ingredients -> Placing pizza"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/GjrwyShFGCI.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "The woman first mixes the ingredients, then shows the final product, and finally cooks the food.",
+            "B": "The woman first shows the ingredients, then mixes them together, and finally cooks the food.",
+            "C": "The woman first shows the ingredients, then cooks the food, and finally mixes the ingredients.",
+            "D": "The woman first mixes the ingredients, then shows the final product, and finally eats the food."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/x2YHHZl7Wh0.mp4",
+        "question": "What are the two women doing in the kitchen, and what is the sequence of events?",
+        "answer": "A",
+        "choices": {
+            "A": "They are preparing food together. The first woman shows the ingredients, then mixes them in a bowl, and finally rolls out dough.",
+            "B": "They are making a cake. The first woman shows the ingredients, then mixes them in a bowl, and finally rolls out dough.",
+            "C": "They are making a cake. The first woman shows the ingredients, then rolls out dough, and finally mixes them in a bowl.",
+            "D": "They are preparing food together. The first woman shows the ingredients, then rolls out dough, and finally mixes them in a bowl."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/zovHfzdn568.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "The man talks to the camera, shows the ingredients, mixes them together, and then shows a dog.",
+            "B": "The man talks to the camera, shows a dog, and then shows the ingredients.",
+            "C": "The man talks to the camera, shows the ingredients, mixes them together, and then cooks onion rings.",
+            "D": "The man talks to the camera, shows a dog, mixes the ingredients, and then cooks onion rings."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/J0LH8awwg-Y.mp4",
+        "question": "What is the order of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Cutting onions, soaking them, coating with flour, and frying",
+            "B": "Soaking onions, cutting them, coating with flour, and frying",
+            "C": "Coating onions with flour, soaking them, cutting them, and frying",
+            "D": "Cutting onions, coating with flour, soaking them, and frying"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/g5Vx319pJFc.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "The man shows the nutrition facts, mixes the ingredients in a bowl, and then fries the onion rings.",
+            "B": "The man mixes the ingredients in a bowl, fries the onion rings, and then shows the nutrition facts.",
+            "C": "The man shows the ingredients, then mixes them in a bowl, and finally fries the onion rings.",
+            "D": "The man fries the onion rings, shows the ingredients, and then mixes them in a bowl."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/ewy22Ds53uw.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "Egg -> Peas -> Rice",
+            "B": "Peas -> Rice -> Egg",
+            "C": "Egg -> Rice -> Peas",
+            "D": "Peas -> Egg -> Rice"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/06Nl8pAF2mo.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The person adds soy sauce to the pot, then cooks the meat and vegetables in a pan, and finally mixes everything together.",
+            "B": "The person first cooks the meat and vegetables in a pan, then adds soy sauce to the pot, and finally mixes everything together.",
+            "C": "The person first adds soy sauce to the pot, then cooks the meat and vegetables in a pan, and finally mixes everything together.",
+            "D": "The person first mixes everything together, then cooks the meat and vegetables in a pan, and finally adds soy sauce to the pot."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/hppIaJ0wY7Q.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "The person puts ingredients into a bowl, then mixes them. Next, they put oil in a pan and fry the ingredients.",
+            "B": "The person puts ingredients into a bowl, then mixes them. Next, they put oil in a pan and fry the ingredients, followed by adding more ingredients to the pan.",
+            "C": "The person puts ingredients into a bowl, then mixes them. Next, they put oil in a pan and fry the ingredients, followed by adding more ingredients to the pan and stirring them together.",
+            "D": "The person puts ingredients into a bowl, then mixes them. Next, they put oil in a pan and fry the ingredients, followed by adding more ingredients to the pan and stirring them together, and finally, they add more ingredients to the pan."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/wh7ROCfIMQc.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The woman talks about the salad, then shows the ingredients and prepares it.",
+            "B": "The woman shows the ingredients, then talks about the salad and prepares it.",
+            "C": "The woman prepares the salad, then shows the ingredients and talks about it.",
+            "D": "The woman talks about the salad, then and prepares it without ingredients."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/Q9pmAH2CTUw.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "The woman shows off the finished salad, puts the ingredients into a bowl, and then mixes them together.",
+            "B": "The woman puts the ingredients into a bowl, shows off the finished salad, and then mixes them together.",
+            "C": "The woman shows off the finished salad, mixes the ingredients together, and then puts them into a bowl.",
+            "D": "The woman puts the ingredients into a bowl, mixes them together, and then shows off the finished salad."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/WN3STcY1c7w.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "The chef demonstrates how to make a sauce, then shows how to cook vegetables, and finally assembles the spring rolls.",
+            "B": "The chef prepares the ingredients, cooks the vegetables, and then assembles the spring rolls.",
+            "C": "The chef starts by frying the spring rolls, then shows how to prepare the vegetables, and finally demonstrates how to make the sauce.",
+            "D": "The chef shows how to make the sauce, then demonstrates how to cook the vegetables, and finally shows how to assemble the spring rolls."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/2vXdU19ouac.mp4",
+        "question": " What is the order of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "The chef puts ingredients into the pot, then adds water and closes it. Next, he shows the ingredients in the pot.",
+            "B": "The chef shows the ingredients in the pot, then adds water and closes it. Next, he puts ingredients into the pot.",
+            "C": "The chef puts ingredients into the pot, then shows the ingredients in the pot. Next, he adds water and closes it.",
+            "D": "The chef adds water and closes the pot, then shows the ingredients in it. Next, he puts ingredients into the pot."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/n0Sk4UobaII.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "Mixing ingredients in a pot -> Pouring soup into a bowl -> Water boiling",
+            "B": "Mixing ingredients in a pot -> Water boiling -> Pouring soup into a bowl",
+            "C": "Pouring soup into a bowl -> Mixing ingredients in a pot -> Water boiling",
+            "D": "Water boiling -> Mixing ingredients in a pot -> Pouring soup into a bowl"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/pFGjdIKR9b0.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "The chef talks to the camera, shows the ingredients, and then prepares the meat.",
+            "B": "The chef talks to the camera, prepares the meat, and cooks it.",
+            "C": "The chef shows how to prepare the meat, then talks to the camera.",
+            "D": "The chef demonstrates how to cook the meat, then serves it."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "Youcook2/bfFoYb0PRnE.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "A man is seen cooking in a kitchen, followed by him mixing ingredients and finally, a woman cutting meat.",
+            "B": "The Daily Collegian logo appears, followed by a man cutting meat and mixing ingredients, and then a woman cutting meat.",
+            "C": "A man is seen cooking in a kitchen, followed by him mixing ingredients and finally, a woman eating.",
+            "D": "The Daily Collegian logo appears, followed by a man cutting meat and mixing ingredients, and then a woman eating."
+        },
+        "predict": "B"
+    },
+    {
+        "video": "Youcook2/-w0WRDmDoG8.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The person puts meat in flour, then dips it in egg, and finally fries it.",
+            "B": "The person puts meat in flour, then fries it, and finally dips it in egg.",
+            "C": "The person puts meat in egg, then dips it in flour, and finally fries it.",
+            "D": "The person puts meat in flour, then fries it, and finally dips it in flour."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/f7ZNJqE3_WQ.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "The man talks about the recipe, then shows the ingredients, mixes them together, and finally cooks the dish.",
+            "B": "The man talks about the recipe, shows the ingredients, mixes them together, and then talks about the cooking process.",
+            "C": "The man talks about the recipe, mixes ingredients together, shows the ingredients, and then talks about the cooking process while holding a plate with the finished dish.",
+            "D": "The man talks about the recipe, shows the ingredients, mixes them together, and then talks about the cooking process while holding a plate with the finished dish."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/THVNcZGR7yY.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "Breading meat -> Mixing ingredients -> Cutting meat -> Frying meat",
+            "B": "Mixing ingredients -> Breading meat -> Cutting meat -> Frying meat",
+            "C": "Mixing ingredients -> Cutting meat -> Breading meat -> Frying meat",
+            "D": "utting meat -> Mixing ingredients -> Breading meat -> Frying meat"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "Youcook2/L9ygy11tYKA.mp4",
+        "question": "What is the order of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Mixing ingredients -> Breading the corn dogs -> Frying the corn dogs -> Serving with dipping sauce",
+            "B": "Mixing ingredients -> Frying the corn dogs -> Breading the corn dogs -> Serving with dipping sauce",
+            "C": "Breading the corn dogs -> Mixing ingredients -> Frying the corn dogs -> Serving with dipping sauce",
+            "D": "Frying the corn dogs -> Breading the corn dogs -> Mixing ingredients -> Serving with dipping sauce"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/DoIHH_ZIXmU.mp4",
+        "question": "What is the correct order of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "The man prepares the sushi rice, then wraps it in seaweed and avocado, followed by cutting it into pieces and placing it on a plate.",
+            "B": "The man first cuts the sushi roll into pieces, then adds the toppings and presents it on a plate.",
+            "C": "The man starts by preparing the sushi rice, then wraps it in seaweed and avocado, and finally adds the toppings before presenting it on a plate.",
+            "D": "The man first adds the toppings to the sushi roll, then cuts it into pieces and presents it on a plate."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/t7NvMFuAHVA.mp4",
+        "question": "What is the order of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The man and women are standing around a table talking, then they prepare sushi rolls, then they cut the rolls.",
+            "B": "The man and women are standing around a table talking, then they cut the sushi rolls, then they prepare sushi rolls.",
+            "C": "The man and women prepare sushi rolls, then they cut the rolls, then they stand around a table talking.",
+            "D": "The man and women cut the sushi rolls, then they prepare sushi rolls, then they stand around a table talking."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/xqFL4Qn4ANw.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "The women make sushi rolls, then they talk about their ingredients and show how to make them.",
+            "B": "The women talk about their ingredients, then they make sushi rolls and show how to make them.",
+            "C": "The women make sushi rolls, then they talk about their ingredients and walk away.",
+            "D": "The women talk about their ingredients, then they show how to make sushi rolls and make them."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/VA8dDbX4FIk.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The chef talks to the camera, pours oil into a pan, adds ingredients, and cooks the dish.",
+            "B": "The chef talks to the camera, adds ingredients to a pot, pours oil into a pan, and cooks the dish.",
+            "C": "The chef talks to the camera, adds ingredients to a pot, pours oil into a pan, and cuts up meat.",
+            "D": "The chef talks to the camera, pours oil into a pan, adds ingredients, and cuts up meat."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/skIQ-2whnI4.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The woman talks to the camera, then shows various ingredients, followed by her cooking pasta and mixing it with other ingredients.",
+            "B": "The woman shows various ingredients, then talks to the camera, and finally cooks pasta and mixes it with other ingredients.",
+            "C": "The woman talks to the camera, shows various ingredients, and then only shows the final dish without any cooking process.",
+            "D": "The woman shows the final dish, then talks to the camera, and finally shows various ingredients."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/FpULaE8m7JI.mp4",
+        "question": "What are the sequences of events in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "The man is shown cooking pasta, and then he is seen talking to the camera.",
+            "B": "The man is shown talking to the camera, and then he is seen cooking pasta.",
+            "C": "The man is shown cooking pasta, and then he is seen talking to the camera about his restaurant.",
+            "D": "The man is shown talking to the camera about his restaurant, and then he is seen cooking pasta."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/gZehfvLniNM.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "A woman demonstrates how to cook a dish, talks about her favorite recipes and shows ingredients.",
+            "B": "A woman demonstrates how to cook a dish while showing ingredients and talking about her favorite recipes.",
+            "C": "A woman shows ingredients, demonstrates how to cook a dish, and talks about her favorite recipes.",
+            "D": "A woman talks about her favorite recipes, demonstrates how to cook a dish, and shows ingredients."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/kwBIH4hsa4Y.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The woman introduces herself, shows the ingredients, and then proceeds to cook the dish.",
+            "B": "The woman starts cooking the dish without any introduction or showing the ingredients.",
+            "C": "The woman shows the ingredients, then introduces herself, and finally starts cooking the dish.",
+            "D": "The woman talks about the dish she will be cooking, but does not show the ingredients."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/Vy5ypC9_cOs.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Rice cooking, mixing ingredients, frying eggs, and eating",
+            "B": "Mixing ingredients, rice cooking, frying eggs, and eating",
+            "C": "Frying eggs, mixing ingredients, rice cooking, and eating",
+            "D": "Eating, mixing ingredients, rice cooking, and frying eggs"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "Youcook2/u19kaQSWfG8.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "Car driving, woman touching plants, cooking mushrooms, eating noodles",
+            "B": "Car driving, woman touching plants, preparing food, eating noodles",
+            "C": "Car driving, preparing food, cooking mushrooms, eating noodles",
+            "D": "Car driving, preparing food, woman touching plants, eating noodles"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/qZg0ANIXrLc.mp4",
+        "question": "What is the order of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The person cuts vegetables on a cutting board, then cooks them in a pot, and finally serves the dish.",
+            "B": "The person cooks vegetables in a pot, then cuts them on a cutting board, and finally serves the dish.",
+            "C": "The person serves the dish, then cuts vegetables on a cutting board, and finally cooks them in a pot.",
+            "D": "The person cuts vegetables on a cutting board, then serves the dish, and finally cooks them in a pot."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/BlTCkNkfmRY.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Shredded cheese is added to the bread, then the sandwich is cooked in a pan, and finally, it is cut in half.",
+            "B": "The sandwich is cut in half, then shredded cheese is added to the bread, and finally, it is cooked in a pan.",
+            "C": "The sandwich is cooked in a pan, then shredded cheese is added to the bread, and finally, it is cut in half.",
+            "D": "Shredded cheese is added to the bread, then the sandwich is cut in half, and finally, it is cooked in a pan."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/pNt1ckxD198.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The man talks to the camera, then shows how to make a grilled cheese sandwich, and finally eats it.",
+            "B": "The man shows how to make a grilled cheese sandwich, then talks to the camera, and finally eats it.",
+            "C": "The man eats a grilled cheese sandwich, then talks to the camera, and finally shows how to make it.",
+            "D": "The man talks to the camera, shows how to make a grilled cheese sandwich, and then eats it while talking."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/vBFI_pW8z9g.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The man shows the ingredients, then prepares the hot dogs and buns, and finally assembles the hot dogs.",
+            "B": "The man shows the ingredients, then assembles the hot dogs and buns, and finally prepares the hot dogs.",
+            "C": "The man shows the ingredients, then prepares the hot dogs and buns, and finally shows how to assemble the hot dogs.",
+            "D": "The man shows the ingredients, then shows how to assemble the hot dogs, and finally prepares the hot dogs and buns."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/XEEgW01z2sE.mp4",
+        "question": "What is the order of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The man introduces himself, shows the fish, mixes the ingredients, and then fries the fish.",
+            "B": "The man introduces himself, mixes the ingredients, shows the fish, and then fries the fish.",
+            "C": "The man introduces himself, shows the fish, mixes the ingredients, and then eats the fish.",
+            "D": "The man introduces himself, mixes the ingredients, shows the fish, and then eats the fish."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/O1fpAGOJI4Y.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Mixing ingredients -> Adding flour to batter -> Breading fish and frying it",
+            "B": "Mixing ingredients -> Breading fish and frying it -> Adding flour to batter",
+            "C": "Breading fish and frying it -> Mixing ingredients -> Adding flour to batter",
+            "D": "Adding flour to batter -> Mixing ingredients -> Breading fish and frying it"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/D6Ib8SnoVMs.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Water boiling -> Adding mushrooms and green onions -> Straining soup into a bowl",
+            "B": "Water boiling -> Straining soup into a bowl -> Adding mushrooms and green onions",
+            "C": "Adding mushrooms and green onions -> Water boiling -> Straining soup into a bowl",
+            "D": "Straining soup into a bowl -> Water boiling -> Adding mushrooms and green onions"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/FEChNrCOpYY.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "The woman shows off her ingredients, chops up vegetables, and cooks them.",
+            "B": "The woman talks about her ingredients, shows them to the camera, and then starts cooking.",
+            "C": "The woman demonstrates how to prepare a dish by showing the ingredients, chopping them up, and cooking them.",
+            "D": "The woman displays her ingredients, talks about them, and then proceeds to cook them."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/7oc9K6OJEbU.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Water boiling -> Cheese cutting and chopping -> Soup preparation",
+            "B": "Cheese cutting and chopping -> Soup preparation -> Water boiling",
+            "C": "Soup preparation -> Water boiling -> Cheese cutting and chopping",
+            "D": "Water boiling -> Soup preparation -> Cheese cutting and chopping"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/c9ZOrhDUORs.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The man talks, then shows a bowl of peanuts, then demonstrates cooking ingredients.",
+            "B": "The man talks, then shows a bowl of peanuts, then shows a person stirring a pot.",
+            "C": "The man talks, then shows a person stirring a pot, then shows a bowl of peanuts.",
+            "D": "The man talks, then shows a person stirring a pot, then shows a bowl of peanuts."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/bhxa4RKXt7U.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Two women prepare and cook a meal together, then eat it at a table.",
+            "B": "A person cuts up vegetables and puts them in a bowl.",
+            "C": "A woman is seen cooking food on a stove top and then eating it.",
+            "D": "A person is shown preparing a meal with chopsticks and then eating it."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/YhgVLz0MVwg.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Potatoes are sliced, then boiled, and then mixed with butter and milk.",
+            "B": "Potatoes are boiled, then sliced, and then mixed with butter and milk.",
+            "C": "Potatoes are sliced, then mixed with butter and milk, and then boiled.",
+            "D": "Potatoes are mixed with butter and milk, then boiled, and then sliced."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/G7JqsOY1Ygo.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "The man puts oil in a pan, then mixes ingredients in a bowl, and finally cooks dumplings.",
+            "B": "The man puts oil in a pan, mixes ingredients in a bowl, and then eats food from a plate.",
+            "C": "The man puts oil in a pan, mixes ingredients in a bowl, and then cooks food in a pot.",
+            "D": "The man puts oil in a pan, mixes ingredients in a bowl, and then eats food from a plate."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/LQ7RMh09o5U.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The man and woman are shown preparing food together, followed by a shot of a dog on the floor. Then, they are seen mixing ingredients in a bowl.",
+            "B": "The man and woman are shown mixing ingredients in a bowl, followed by a shot of a dog on the floor. Then, they are seen preparing food together.",
+            "C": "The man and woman are shown preparing food together, followed by a shot of a dog on the floor. Then, they are seen mixing ingredients in a bowl.",
+            "D": "The man and woman are shown mixing ingredients in a bowl, followed by a shot of a dog on the floor. Then, they are seen preparing food together."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/nLQrYCOrI24.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "The woman prepares the dough, cooks the mushrooms, and makes dumplings.",
+            "B": "The woman shows the ingredients, cooks the mushrooms, and makes dumplings.",
+            "C": "The woman shows the ingredients, makes dumplings, and cooks the mushrooms.",
+            "D": "The woman makes dumplings, shows the ingredients, and cooks the mushrooms."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/ERCFc2AWC9E.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "The woman prepares the beef Bourguignon by first mixing the ingredients, then cooking it on the stove.",
+            "B": "The woman shows the steps to prepare the beef Bourguignon, including mixing the ingredients and cooking it on the stove.",
+            "C": "The woman demonstrates how to make a cake by mixing the ingredients and baking it in the oven.",
+            "D": "The woman shows how to make a salad by mixing the ingredients and serving it on a plate."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/cjl8qneiUkw.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Mixing ingredients, preparing dumplings, frying them",
+            "B": "Mixing ingredients, frying them, preparing dumplings",
+            "C": "Preparing dumplings, mixing ingredients, frying them",
+            "D": "Frying them, mixing ingredients, preparing dumplings"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/Ewb3FfR5gOY.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "A woman speaks to the camera, a man shows off his cooking skills, and then they both speak again.",
+            "B": "A man speaks to the camera, a woman shows off her cooking skills, and then they both speak again.",
+            "C": "A woman speaks to the camera, a man shows off his cooking skills, and then a woman speaks to the camera again.",
+            "D": "A man speaks to the camera, a woman shows off her cooking skills, and then a man speaks to the camera again."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/r5DLZkV_Pi4.mp4",
+        "question": "What is the order of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The person mixes the ingredients, cooks the potato pancake, and serves it on a plate.",
+            "B": "The person cooks the potato pancake, mixes the ingredients, and serves it on a plate.",
+            "C": "The person serves the potato pancake on a plate, mixes the ingredients, and cooks it.",
+            "D": "The person mixes the ingredients, serves the potato pancake on a plate, and then cooks it."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/OR7iG0oT9r4.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "The man talks to the camera, adds ingredients to a pot, and boils it.",
+            "B": "The man talks to the camera, boils water in a pot, and then pours ingredients into it.",
+            "C": "The man talks to the camera, adds ingredients to a pot, and then pours it into another pot.",
+            "D": "The man talks to the camera, boils water in a pot, and then pours it into a casserole dish."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/zXYs_tPYAvc.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "Stir-fry noodles, prepare sauce, add shrimp and vegetables",
+            "B": "Prepare sauce, stir-fry noodles, add shrimp and vegetables",
+            "C": "Add shrimp and vegetables, stir-fry noodles, prepare sauce",
+            "D": "Stir-fry noodles, add shrimp and vegetables, prepare sauce"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/im0X-I8iUh4.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "Mixing ingredients, chopping vegetables, adding salt and oil",
+            "B": "Chopping vegetables, mixing ingredients, adding salt and oil",
+            "C": "Adding salt and oil, chopping vegetables, mixing ingredients",
+            "D": "Mixing ingredients, adding salt and oil, chopping vegetables"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/mctLpHZDsWU.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Water boiling -> person stirring -> person cooking food",
+            "B": "Person stirring -> water boiling -> person cooking food",
+            "C": "Person cooking food -> water boiling -> person stirring",
+            "D": "Water boiling -> person cooking food -> person stirring"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/MI451I_tdyE.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Ingredients are laid out, meat is marinated, and then it is cooked with other ingredients.",
+            "B": "A person is shown cutting onions, mixing them with spices, and then cooking the mixture.",
+            "C": "A person is shown preparing a dish by mixing various ingredients together and then cooking them.",
+            "D": "A person is shown mixing meat with spices, cooking it in a pot, and then adding more ingredients."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/gl7XFOmcq0k.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Mixing ingredients -> Placing chicken in a pot -> Cooking curry",
+            "B": "Placing chicken in a pot -> Mixing ingredients -> Cooking curry",
+            "C": "Mixing ingredients -> Cooking curry -> Placing chicken in a pot",
+            "D": "Placing chicken in a pot -> Cooking curry -> Mixing ingredients"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/gO1AS9ARf1U.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Cutting vegetables, cooking tofu, mixing ingredients",
+            "B": "Mixing ingredients, cutting vegetables, cooking tofu",
+            "C": "Cooking tofu, cutting vegetables, mixing ingredients",
+            "D": "Mixing ingredients, cooking tofu, cutting vegetables"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/0LNyj8V_R1k.mp4",
+        "question": "What is the order of events in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "Mixing ingredients -> Boiling water -> Cooking food",
+            "B": "Boiling water -> Mixing ingredients -> Cooking food",
+            "C": "Mixing ingredients -> Cooking food -> Boiling water",
+            "D": "Boiling water -> Cooking food -> Mixing ingredients"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/QFb95r3q3tQ.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "Raw ingredients are shown, then they are cooked together in a pot.",
+            "B": "A person cooks food in a pot, then shows off the ingredients.",
+            "C": "A person shows off the ingredients, then cooks them in a pot.",
+            "D": "The video starts with a close-up of a pot, then shows raw ingredients."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/Rews4cTyZ_U.mp4",
+        "question": "What is the correct sequence of events in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "The man puts the potatoes into cold water, then cooks them on the stove. He then cooks the sausages and onions in a pan.",
+            "B": "The man cooks the sausages and onions in a pan, then puts the potatoes into cold water and cooks them on the stove.",
+            "C": "The man puts the potatoes into cold water, then cooks the sausages and onions in a pan. He then puts the potatoes into a pot and adds butter.",
+            "D": "The man puts the potatoes into cold water, then cooks them on the stove. He then puts the potatoes into a pot and adds butter."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/qQtch33dbrM.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Chop the green onions, slice the beef, mix the sauce, cook the beef and vegetables",
+            "B": "Mix the sauce, chop the green onions, slice the beef, cook the beef and vegetables",
+            "C": "Slice the beef, chop the green onions, mix the sauce, cook the beef and vegetables",
+            "D": "Chop the green onions, slice the beef, cook the beef and vegetables, mix the sauce"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/rk3ffKSGmYA.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The woman talks about the recipe, shows the ingredients, mixes them together, and then cooks the dish.",
+            "B": "The woman talks about the recipe, shows the ingredients, cooks the dish, and then talks about it again.",
+            "C": "The woman shows the ingredients, talks about the recipe, and then cooks the dish.",
+            "D": "The woman shows the ingredients, mixes them together, and then talks about the recipe."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/bfvxKbxARzM.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Sausage preparation, seasoning, and cooking",
+            "B": "Sausage cooking, seasoning, and preparation",
+            "C": "Seasoning, sausage preparation, and cooking",
+            "D": "Cooking, seasoning, and sausage preparation"
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/opY0SreshVA.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "Making dumplings, boiling noodles, preparing ingredients",
+            "B": "Boiling noodles, making dumplings, preparing ingredients",
+            "C": "Preparing ingredients, making dumplings, boiling noodles",
+            "D": "Boiling noodles, preparing ingredients, making dumplings"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/qf01maLQTVg.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "The woman prepares the ingredients, mixes them together, and then cooks the dish.",
+            "B": "The woman talks about the recipe, shows the ingredients, and then starts cooking.",
+            "C": "The woman demonstrates how to make a dish by showing the ingredients, mixing them together, and then cooking it.",
+            "D": "The woman talks about the recipe, shows the ingredients, and then eats the dish."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/wgMqKUqaW_w.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The person shows the ingredients, mixes them together, and then cooks the meat.",
+            "B": "The person shows the ingredients, cooks the meat, and then mixes them together.",
+            "C": "The person cooks the meat, shows the ingredients, and then mixes them together.",
+            "D": "The person mixes the ingredients together, shows the meat, and then cooks it."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/4e4T8xaQsw0.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "The man and woman are shown preparing food together, then they hug.",
+            "B": "The man and woman are shown preparing food together, then they eat the food.",
+            "C": "The man and woman are shown preparing food together, then they dance.",
+            "D": "The man and woman are shown preparing food together, then they kiss."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/v6P7KH7bxks.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "The man talks about sushi, shows ingredients, and then demonstrates how to make it.",
+            "B": "The man shows ingredients, talks about sushi, and then demonstrates how to make it.",
+            "C": "The man demonstrates how to make sushi, talks about sushi, and then shows ingredients.",
+            "D": "The man shows ingredients, demonstrates how to make sushi, and then talks about sushi."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/pDrk2MNTepY.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "The men are shown in the kitchen, followed by them cooking and mixing ingredients, and then they present the dish to the camera.",
+            "B": "The men are shown in the kitchen, followed by them presenting the dish to the camera, and then they cook and mix ingredients.",
+            "C": "The men are shown in the kitchen, followed by them mixing ingredients, and then they present the dish to the camera.",
+            "D": "The men are shown in the kitchen, followed by them cooking and mixing ingredients, and then they present the dish to the camera."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/VAZ0KhGVfSE.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "The chef prepares the meat, puts it in the oven, and then pours sauce over the pasta.",
+            "B": "The chef puts the meat in the oven, prepares the pasta, and then pours sauce over the pasta.",
+            "C": "The chef prepares the meat, puts it in the oven, and then pours sauce over the pasta.",
+            "D": "The chef puts the meat in the oven, prepares the pasta, and then pours sauce over the pasta."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/pN8lvtXLdQQ.mp4",
+        "question": "What is the order of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Flour mixing -> Dough making -> Baking bread",
+            "B": "Dough making -> Flour mixing -> Baking bread",
+            "C": "Baking bread -> Flour mixing -> Dough making",
+            "D": "Flour mixing -> Baking bread -> Dough making"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/LlJNyUTuwmg.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Mixing ingredients -> kneading dough -> rolling out dough -> cooking tortillas",
+            "B": "Kneading dough -> mixing ingredients -> rolling out dough -> cooking tortillas",
+            "C": "Rolling out dough -> kneading dough -> mixing ingredients -> cooking tortillas",
+            "D": "Mixing ingredients -> cooking tortillas -> kneading dough -> rolling out dough"
+        },
+        "predict": "B"
+    },
+    {
+        "video": "Youcook2/jD4o_Lmy6bU.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Mixing ingredients -> rolling dough -> cooking tortillas",
+            "B": "Cooking tortillas -> mixing ingredients -> rolling dough",
+            "C": "Rolling dough -> cooking tortillas -> mixing ingredients",
+            "D": "Mixing ingredients -> cooking tortillas -> rolling dough"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/Jm437M8lFfQ.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "The woman talks, then shows the ingredients for soup, then pours oil into a pan.",
+            "B": "The woman talks, then shows the ingredients for soup, then pours water into a pot.",
+            "C": "The woman talks, then shows the ingredients for soup, then pours oil into a pan and water into a pot.",
+            "D": "The woman talks, then shows the ingredients for soup, then pours oil into a pan and water into a pot."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/TGyb7uBXe9E.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The man talks to the camera, then shows how to make eggs, and finally adds cheese to the dish.",
+            "B": "The man shows how to make eggs, then talks to the camera, and finally adds cheese to the dish.",
+            "C": "The man talks to the camera, then shows how to make eggs, and finally adds cheese to the dish.",
+            "D": "The man shows how to make eggs, then adds cheese to the dish, and finally talks to the camera."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/R4vDqlKMbrk.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "The woman talks about eggs, shows a bowl of eggs, and then demonstrates how to make them.",
+            "B": "The woman talks about eggs, shows a bowl of eggs, and then shows a pan with oil.",
+            "C": "The woman talks about eggs, shows a pan with oil, and then demonstrates how to make them.",
+            "D": "The woman talks about eggs, shows a pan with oil, and then shows a bowl of eggs."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/PUP7U5vTMM0.mkv",
+        "question": "What is the order of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "The man cuts the bread, then adds butter and eggs to the pan.",
+            "B": "The man adds butter and eggs to the pan, then cuts the bread.",
+            "C": "The man adds butter to the pan, then cuts the bread and adds eggs.",
+            "D": "The man cuts the bread, then adds eggs to the pan and finally adds butter."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/CLicrRJa-D8.mp4",
+        "question": "What is the order of events in the video?",
+        "answer": "B",
+        "choices": {
+            "A": "The chef pours wine into the pot, adds ingredients, and cooks mussels.",
+            "B": "The chef adds ingredients, pours wine into the pot, and cooks mussels.",
+            "C": "The chef cooks mussels, pours wine into the pot, and adds ingredients.",
+            "D": "The chef adds ingredients, cooks mussels, and pours wine into the pot."
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/FcDejZ2stbw.mp4",
+        "question": "What is the order of events in the video?",
+        "answer": "D",
+        "choices": {
+            "A": "Mixing eggs, boiling water, cooking toast, adding hollandaise sauce",
+            "B": "Boiling water, mixing eggs, cooking toast, adding hollandaise sauce",
+            "C": "Mixing eggs, boiling water, adding hollandaise sauce, cooking toast",
+            "D": "Boiling water, mixing eggs, adding hollandaise sauce, cooking toast"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/5bEeGMQOyBg.mp4",
+        "question": "What is the order of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Pasta being cooked, vegetables being added to the bowl, pasta being mixed with vegetables",
+            "B": "Vegetables being added to the bowl, pasta being cooked, pasta being mixed with vegetables",
+            "C": "Pasta being mixed with vegetables, pasta being cooked, vegetables being added to the bowl",
+            "D": "Pasta being cooked, pasta being mixed with vegetables, vegetables being added to the bowl"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/zLLh104pkeg.mp4",
+        "question": "What is the order of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "Bacon cooking, bread grilling, pizza making",
+            "B": "Bread grilling, bacon cooking, pizza making",
+            "C": "Pizza making, bacon cooking, bread grilling",
+            "D": "Bacon cooking, pizza making, bread grilling"
+        },
+        "predict": "D"
+    },
+    {
+        "video": "Youcook2/YyxPrq7KdqM.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The chef talks about the recipe, mixes the ingredients, and then shows the finished product.",
+            "B": "The chef shows the finished product, talks about the recipe, and then mixes the ingredients.",
+            "C": "The chef mixes the ingredients, talks about the recipe, and then shows the finished product.",
+            "D": "The chef talks about the recipe, shows the finished product, and then mixes the ingredients."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/psXv6tX1GnA.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The woman pours chocolate syrup over a bundt cake, then shows how to make potato salad with bacon and cabbage.",
+            "B": "The woman shows how to make potato salad with bacon and cabbage, then pours chocolate syrup over a bundt cake.",
+            "C": "The woman shows how to make a cake, then demonstrates how to make potato salad with bacon and cabbage.",
+            "D": "The woman shows how to make a cake, then pours chocolate syrup over a bundt cake."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/2LpLnqtj5EE.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "A",
+        "choices": {
+            "A": "The chef introduces himself, shows the ingredients, and then proceeds to cook the dish.",
+            "B": "The chef shows the ingredients, introduces himself, and then proceeds to cook the dish.",
+            "C": "The chef shows the ingredients, proceeds to cook the dish, and then introduces himself.",
+            "D": "The chef introduces himself, shows the ingredients, and then only talks about the recipe."
+        },
+        "predict": "A"
+    },
+    {
+        "video": "Youcook2/SNQRF3DFckk.mp4",
+        "question": "What is the sequence of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "Rice -> Lemon juice -> Stir-fry",
+            "B": "Stir-fry -> Rice -> Lemon juice",
+            "C": "Rice -> Stir-fry -> Lemon juice",
+            "D": "Lemon juice -> Stir-fry -> Rice"
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/BQTrJCPpluk.mkv",
+        "question": "What is the sequence of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "A man prepares food, then eats it while sitting on a bench.",
+            "B": "A man cooks food in a wok, then serves it on a plate.",
+            "C": "A man walks through ruins, then cooks and eats food.",
+            "D": "A man reads a book, then prepares and eats food."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/NiRUkNo56Vs.mkv",
+        "question": "What are the sequences of events in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "The chef is seen preparing food, then presenting it to the camera.",
+            "B": "The chef is seen cooking and then cleaning up the kitchen.",
+            "C": "The chef is seen cooking and then presenting the dish to the camera.",
+            "D": "The chef is seen cooking and then talking to the camera."
+        },
+        "predict": "C"
+    },
+    {
+        "video": "Youcook2/feIz4ENg77Q.mkv",
+        "question": "What is the man doing in the kitchen?",
+        "answer": "C",
+        "choices": {
+            "A": "Cooking",
+            "B": "Cleaning",
+            "C": "Preparing food",
+            "D": "Eating"
+        },
+        "predict": "C"
+    }
+]

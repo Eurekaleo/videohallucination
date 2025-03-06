@@ -1,0 +1,406 @@
+{
+    "sequence": {
+        "accuracy": 0.45,
+        "unmatched_cases": [
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Egg in a bowl -> Egg in a pan -> Stir -> Pour into pan -> Put on plate -> Eat",
+                "expected_text": "Egg in a bowl -> Stir -> Egg in a pan -> Pour into pan -> Put on plate -> Eat"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Bacon is cooked on a grill, then a plate with a piece of bread is shown.",
+                "expected_text": "Plates are shown with a piece of bread while bacon is cooking on a grill."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The man shows the raw meat, then mixes it with other ingredients to make hamburger patties. He then cooks them and serves them on a bun with toppings.",
+                "expected_text": "The man shows the raw meat, then mixes it with other ingredients to make hamburger patties before cooking them and serving them on a bun with toppings."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The woman pours the soup into the black pot first, then adds the other ingredients.",
+                "expected_text": "The woman mixes the soup with the other ingredients before pouring them into the black pot."
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "He shows the final product of the food he cooked.",
+                "expected_text": "He mixes the onions with crumbs in the bowl"
+            },
+            {
+                "predicted": "B",
+                "expected": "A",
+                "predicted_text": "The person adds the chicken wings into the bowl with flour mixture.",
+                "expected_text": "The man adds the ingredients needed to make fried chicken"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Asian woman standing in front of a kitchen counter, mixing ingredients in a bowl, and cooking meat in a pot.",
+                "expected_text": "Asian woman standing in front of a kitchen counter, mixing ingredients in a bowl, and then cooking meat in a pot."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "A close-up of the finished dish, then a person cutting up food, followed by a woman and a man standing behind a counter.",
+                "expected_text": "A woman and a man standing behind a counter, then a person cutting up food, and put the it in a cup"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Bread crumbs are added to a bowl, meat is mixed with other ingredients, oil is poured into a pan, onions are cooked, ketchup is poured over the meatloaf.",
+                "expected_text": "Oil is poured into a pan, onions are cooked, bread crumbs are added to a bowl, meat is mixed with other ingredients, ketchup is poured over the meatloaf."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Taking the pizza out of the oven - Making a pizza - Placing the pizza in the oven",
+                "expected_text": "Making a pizza - Placing the pizza in the oven - Taking the pizza out of the oven"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Mixing ingredients -> Making croutons -> Mixing salad",
+                "expected_text": "Making croutons -> Mixing ingredients -> Mixing salad"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The chef introduces himself, shows the ingredients, and then proceeds to make the salad.",
+                "expected_text": "The chef makes the salad by showing the ingredients, mixing them together, and then presenting it."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "A woman shows ingredients for a dish, then cooks it, then eats it.",
+                "expected_text": "A woman sits on a couch, then shows ingredients for a dish, then shows how to cook it, and finally eats it."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The woman points at the ingredients, mixes them in a bowl, and then cooks the mixture.",
+                "expected_text": "The woman points at the ingredients, mixes them in a bowl, and then puts the mixture into a oven"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The man shows the ingredients, chops vegetables, and cooks them with meat. Then he adds butter and spices before baking the pie.",
+                "expected_text": "The man shows the ingredients, and cooks them with meat. Then he adds butter and spices."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "A woman prepares a meal by mixing ingredients in a bowl, slicing tomatoes, and placing them in a pan. She then blends the mixture in a pot.",
+                "expected_text": "A woman prepares a meal by slicing tomatoes, mixing ingredients in a bowl, and placing them in a pan. She then blends the mixture in a pot."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The man talks about the recipe, shows the ingredients, and then demonstrates the cooking process.",
+                "expected_text": "The man shows the ingredients, talks about the recipe, and then demonstrates the cooking process."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Beans soaked -> Water with salt and baking soda -> Beans cooked",
+                "expected_text": "Water with salt and baking soda -> Beans soaked -> Beans cooked"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The man talks to the camera, adds ingredients to the pot, and stirs the mixture.",
+                "expected_text": "The man talks to the camera, shows the ingredients, and then pours oil into the pot before adding the spices."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Mixing ingredients -> Cooking pancakes -> Eating pancakes",
+                "expected_text": "Mixing ingredients -> Cooking pancakes -> Making cookies"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The woman pours ingredients into a bowl, mixes them together, and then cooks pancakes.",
+                "expected_text": "The woman talks to the camera, shows off her ingredients, mixes them together, and then cooks pancakes."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Cooking pancakes - stacking pancakes - mixing ingredients - water bottle",
+                "expected_text": "Water bottle - mixing ingredients - cooking pancakes - stacking pancakes"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The man puts ingredients on the pizza, then shows it to the camera and cuts it.",
+                "expected_text": "The man shows the ingredients, puts them on the pizza, and then eats a slice in front of a child."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Making pizza dough - Mixing ingredients - Rolling out dough - Putting toppings on pizza",
+                "expected_text": "Mixing ingredients - Making pizza dough - Rolling out dough - Putting toppings on pizza"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Mixing ingredients -> Placing pizza -> Cutting and serving pizza",
+                "expected_text": "Mixing ingredients -> Making pizza dough -> Placing pizza"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The woman first mixes the ingredients, then shows the final product, and finally cooks the food.",
+                "expected_text": "The woman first shows the ingredients, then mixes them together, and finally cooks the food."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The man talks to the camera, shows the ingredients, mixes them together, and then shows a dog.",
+                "expected_text": "The man talks to the camera, shows the ingredients, mixes them together, and then cooks onion rings."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The man shows the nutrition facts, mixes the ingredients in a bowl, and then fries the onion rings.",
+                "expected_text": "The man shows the ingredients, then mixes them in a bowl, and finally fries the onion rings."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Egg -> Peas -> Rice",
+                "expected_text": "Egg -> Rice -> Peas"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The person puts ingredients into a bowl, then mixes them. Next, they put oil in a pan and fry the ingredients.",
+                "expected_text": "The person puts ingredients into a bowl, then mixes them. Next, they put oil in a pan and fry the ingredients, followed by adding more ingredients to the pan and stirring them together."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The woman shows off the finished salad, puts the ingredients into a bowl, and then mixes them together.",
+                "expected_text": "The woman puts the ingredients into a bowl, mixes them together, and then shows off the finished salad."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The chef demonstrates how to make a sauce, then shows how to cook vegetables, and finally assembles the spring rolls.",
+                "expected_text": "The chef prepares the ingredients, cooks the vegetables, and then assembles the spring rolls."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The chef puts ingredients into the pot, then adds water and closes it. Next, he shows the ingredients in the pot.",
+                "expected_text": "The chef puts ingredients into the pot, then shows the ingredients in the pot. Next, he adds water and closes it."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Mixing ingredients in a pot -> Pouring soup into a bowl -> Water boiling",
+                "expected_text": "Water boiling -> Mixing ingredients in a pot -> Pouring soup into a bowl"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The chef talks to the camera, shows the ingredients, and then prepares the meat.",
+                "expected_text": "The chef talks to the camera, prepares the meat, and cooks it."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "A man is seen cooking in a kitchen, followed by him mixing ingredients and finally, a woman cutting meat.",
+                "expected_text": "The Daily Collegian logo appears, followed by a man cutting meat and mixing ingredients, and then a woman eating."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The man talks about the recipe, then shows the ingredients, mixes them together, and finally cooks the dish.",
+                "expected_text": "The man talks about the recipe, shows the ingredients, mixes them together, and then talks about the cooking process while holding a plate with the finished dish."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Breading meat -> Mixing ingredients -> Cutting meat -> Frying meat",
+                "expected_text": "Mixing ingredients -> Cutting meat -> Breading meat -> Frying meat"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The man prepares the sushi rice, then wraps it in seaweed and avocado, followed by cutting it into pieces and placing it on a plate.",
+                "expected_text": "The man starts by preparing the sushi rice, then wraps it in seaweed and avocado, and finally adds the toppings before presenting it on a plate."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The women make sushi rolls, then they talk about their ingredients and show how to make them.",
+                "expected_text": "The women talk about their ingredients, then they make sushi rolls and show how to make them."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The man is shown cooking pasta, and then he is seen talking to the camera.",
+                "expected_text": "The man is shown talking to the camera about his restaurant, and then he is seen cooking pasta."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "A woman demonstrates how to cook a dish, talks about her favorite recipes and shows ingredients.",
+                "expected_text": "A woman talks about her favorite recipes, demonstrates how to cook a dish, and shows ingredients."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Car driving, woman touching plants, cooking mushrooms, eating noodles",
+                "expected_text": "Car driving, woman touching plants, preparing food, eating noodles"
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The woman shows off her ingredients, chops up vegetables, and cooks them.",
+                "expected_text": "The woman displays her ingredients, talks about them, and then proceeds to cook them."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The man puts oil in a pan, then mixes ingredients in a bowl, and finally cooks dumplings.",
+                "expected_text": "The man puts oil in a pan, mixes ingredients in a bowl, and then eats food from a plate."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The woman prepares the dough, cooks the mushrooms, and makes dumplings.",
+                "expected_text": "The woman shows the ingredients, cooks the mushrooms, and makes dumplings."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The woman prepares the beef Bourguignon by first mixing the ingredients, then cooking it on the stove.",
+                "expected_text": "The woman shows the steps to prepare the beef Bourguignon, including mixing the ingredients and cooking it on the stove."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The man talks to the camera, adds ingredients to a pot, and boils it.",
+                "expected_text": "The man talks to the camera, boils water in a pot, and then pours it into a casserole dish."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Stir-fry noodles, prepare sauce, add shrimp and vegetables",
+                "expected_text": "Prepare sauce, stir-fry noodles, add shrimp and vegetables"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Mixing ingredients, chopping vegetables, adding salt and oil",
+                "expected_text": "Chopping vegetables, mixing ingredients, adding salt and oil"
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "Mixing ingredients -> Boiling water -> Cooking food",
+                "expected_text": "Boiling water -> Mixing ingredients -> Cooking food"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Raw ingredients are shown, then they are cooked together in a pot.",
+                "expected_text": "A person shows off the ingredients, then cooks them in a pot."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The man puts the potatoes into cold water, then cooks them on the stove. He then cooks the sausages and onions in a pan.",
+                "expected_text": "The man puts the potatoes into cold water, then cooks them on the stove. He then puts the potatoes into a pot and adds butter."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Making dumplings, boiling noodles, preparing ingredients",
+                "expected_text": "Preparing ingredients, making dumplings, boiling noodles"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The woman prepares the ingredients, mixes them together, and then cooks the dish.",
+                "expected_text": "The woman demonstrates how to make a dish by showing the ingredients, mixing them together, and then cooking it."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The man and woman are shown preparing food together, then they hug.",
+                "expected_text": "The man and woman are shown preparing food together, then they eat the food."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The man talks about sushi, shows ingredients, and then demonstrates how to make it.",
+                "expected_text": "The man shows ingredients, talks about sushi, and then demonstrates how to make it."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "The chef prepares the meat, puts it in the oven, and then pours sauce over the pasta.",
+                "expected_text": "The chef puts the meat in the oven, prepares the pasta, and then pours sauce over the pasta."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The woman talks, then shows the ingredients for soup, then pours oil into a pan.",
+                "expected_text": "The woman talks, then shows the ingredients for soup, then pours oil into a pan and water into a pot."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The woman talks about eggs, shows a bowl of eggs, and then demonstrates how to make them.",
+                "expected_text": "The woman talks about eggs, shows a pan with oil, and then demonstrates how to make them."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The man cuts the bread, then adds butter and eggs to the pan.",
+                "expected_text": "The man adds butter to the pan, then cuts the bread and adds eggs."
+            },
+            {
+                "predicted": "A",
+                "expected": "B",
+                "predicted_text": "The chef pours wine into the pot, adds ingredients, and cooks mussels.",
+                "expected_text": "The chef adds ingredients, pours wine into the pot, and cooks mussels."
+            },
+            {
+                "predicted": "A",
+                "expected": "D",
+                "predicted_text": "Mixing eggs, boiling water, cooking toast, adding hollandaise sauce",
+                "expected_text": "Boiling water, mixing eggs, adding hollandaise sauce, cooking toast"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "Rice -> Lemon juice -> Stir-fry",
+                "expected_text": "Rice -> Stir-fry -> Lemon juice"
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "A man prepares food, then eats it while sitting on a bench.",
+                "expected_text": "A man walks through ruins, then cooks and eats food."
+            },
+            {
+                "predicted": "A",
+                "expected": "C",
+                "predicted_text": "The chef is seen preparing food, then presenting it to the camera.",
+                "expected_text": "The chef is seen cooking and then presenting the dish to the camera."
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.45
+    }
+}

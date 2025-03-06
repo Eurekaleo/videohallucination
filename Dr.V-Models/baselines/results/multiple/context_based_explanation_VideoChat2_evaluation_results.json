@@ -1,0 +1,3610 @@
+{
+    "context_based_explanation": {
+        "accuracy": 0.0,
+        "unmatched_cases": [
+            {
+                "predicted": "THE MAN IN THE YELLOW HAT GIVES THE BOY IN BLUE THE INSTRUCTION TO WALK TOWARDS HIM WHILE HE IS MOVING BACKWARDS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "talking while moving backwards"
+            },
+            {
+                "predicted": "THE BABIES LOOKED AT THE BLONDE BOY WHEN HE WALKED TOWARDS THE MAN BECAUSE THEY WERE CURIOUS. THE ANSWER IS B.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "curious"
+            },
+            {
+                "predicted": "THE REASON THE KID IS LYING UPSIDE DOWN ON THE MAT IS BECAUSE THEY FELL ON THEIR BACK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "falling on his back"
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, THE ANSWER SEEMS TO BE RELATED TO A DANCE ROUTINE. THEREFORE, I BELIEVE THE CORRECT OPTION LETTER WOULD BE D, AS IT RELATES TO THE DIRECTION OF THE DANCE. HOWEVER, I'M UNABLE TO PROVIDE A CLEAR ANSWER TO THE QUESTION WITHOUT MORE CONTEXT. CAN YOU PLEASE PROVIDE MORE DETAILS OR CONTEXT?",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "looking at someone"
+            },
+            {
+                "predicted": "THE MAN WEARING THE BLACK AND GREEN HELMET TURNED TO HIS RIGHT BEFORE DRIVING ONTO THE ROAD TO AVOID HITTING A PEBBLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "check for cars"
+            },
+            {
+                "predicted": "THE MAN IN WHITE TURNED BACK AFTER RUNNING IN THE MIDDLE OF THE VIDEO BECAUSE HE WAS LOOKING FOR SOMEONE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "done with drill"
+            },
+            {
+                "predicted": "THE LADY IN WHITE POINTS TOWARDS THE MAN IN RED WHEN SHE PUSHES THE BOY TO WALK FORWARD. THEREFORE, THE CORRECT ANSWER IS C. SIGNAL TO FORM A LINE BEHIND THE MAN IN RED.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "guide boy"
+            },
+            {
+                "predicted": "THE BABY IN THE VIDEO WAS LOOKING AT THE ITEM IN HIS HAND BEFORE PUTTING IT IN HIS MOUTH BECAUSE HE WAS TRYING TO MIMIC A PARENT'S ACTION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "check it out"
+            },
+            {
+                "predicted": "THE BOY REALIZED THAT THE MOP COULD NOT FIT INTO THE AREA UNDER THE CUPBOARD AND HE LEANED DOWN TO CHECK THE CUPBOARD SPACE CLOSER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "turn around to ask for help"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO IS USING A FASHIONABLE CLIP TO KEEP HER HAIR TIDY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "tie her hair"
+            },
+            {
+                "predicted": "THE GIRL IN BLACK IS WEARING A PINK FLOAT AS SHE PARTICIPATES IN A COSTUME COMPETITION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "back support"
+            },
+            {
+                "predicted": "THE LADY REACHED OUT TO TOUCH THE GIRL'S SHOULDER NEAR THE MIDDLE BECAUSE SHE WAS SIGNALLING THE START OF A GAME.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "carry her"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS RUBBING THEIR HAND TOGETHER WITH THE DOUGH TO DEMONSTRATE A CULINARY MAGIC TRICK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "making food"
+            },
+            {
+                "predicted": "THE MAN WITH PLAIN BLACK SHIRT WAS MOVING HIS HANDS IN FRONT OF HIM TO EMPHASIZE POINTS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "emphasise points"
+            },
+            {
+                "predicted": "THE BAREFOOT GIRL BENDS AFTER STRETCHING AND BEFORE DANCING TO WARM UP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "warm up action"
+            },
+            {
+                "predicted": "THE LADY IN THE VIDEO IS SHOWN HAPPILY CLAPPING HER HANDS, SO THE ANSWER TO THE QUESTION WOULD BE C: TAPS HER FOOT RHYTHMICALLY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "smile"
+            },
+            {
+                "predicted": "THE REASON FOR MANY PEOPLE STANDING BY THE WALL IS TO BREAK A WORLD RECORD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "queuing for their turn"
+            },
+            {
+                "predicted": "THE MAN IN RED IS SMILING BECAUSE HE IS ANTICIPATING A SURPRISE PARTY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "playing with baby"
+            },
+            {
+                "predicted": "THE CHILD IN GREEN IS HOLDING THE YELLOW BUCKET BECAUSE THEY ARE PLAYING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "collect treats"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO IS TOUCHING THE BUBBLE WRAP BECAUSE SHE IS CURIOUS ABOUT IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "unwrapping presents"
+            },
+            {
+                "predicted": "THE MAN PASSED A SPADE OF SOIL TO THE GIRL BECAUSE HE WANTED HER TO BALANCE IT. HE GAVE HER THE SPADE TO ENSURE THAT THE SOIL DISTRIBUTION WAS BALANCED AND EVENLY SPREAD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "let girl pour the soil"
+            },
+            {
+                "predicted": "THE MAN IN THE BLACK SHIRT THROWS THE MATERIAL TO CREATE A RHYTHMIC SOUND.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "test if it flies"
+            },
+            {
+                "predicted": "THE LADY IN THE WHITE CAP WAS RAISING HER HAND UP TO SHIELD FROM THE BRIGHT LIGHTS IN THE BEGINNING. SO, THE ANSWER IS (D) SHIELD FROM BRIGHT LIGHTS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "holding the bottle"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO COVERS THE BABY UNDER THE TOWEL IN THE MIDDLE OF THE VIDEO TO MAKE THE BABY LAUGH. THEREFORE, THE CORRECT OPTION LETTER TO SELECT IS B.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "to play"
+            },
+            {
+                "predicted": "THE LADY IN BLONDE HAIR APPROACHED THE POPE NEXT TO ASK FOR HIS BLESSING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "her turn"
+            },
+            {
+                "predicted": "THE MAN WEARING A GREY JACKET WITH GLOVES KNEW THE TIME BY LOOKING AT HIS WATCH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "look at his watch"
+            },
+            {
+                "predicted": "THE BABY PUT HIS THUMB INTO HIS MOUTH AFTER THE WOMAN FEED HIM BECAUSE HE WAS IMITATING HER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "sucking his thumb"
+            },
+            {
+                "predicted": "I'M SORRY, BUT I COULDN'T UNDERSTAND THE ANSWER. CAN YOU PLEASE PROVIDE THE CORRECT OPTION LETTER OR REPHRASE THE QUESTION?",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sit on it"
+            },
+            {
+                "predicted": "THE TWO PEOPLE AT THE SIDE ENSURE THAT THE BOAT IN THE MIDDLE DOES NOT MOVE BY ADJUSTING THE SAIL TO STAY STILL. THEREFORE, THE CORRECT ANSWER IS A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "holds his boat"
+            },
+            {
+                "predicted": "THE MAN IN WHITE IN THE VIDEO IS HOLDING A PADDLE IN HIS HAND TO DEMONSTRATE HOW TO BUILD A PADDLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "to kayak"
+            },
+            {
+                "predicted": "THE REASON WHY THE BOY KICKS THE RED AUTOMOBILE AFTER IT STOPS IS BECAUSE HE IS A SMALL BOY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "try to make it move"
+            },
+            {
+                "predicted": "THE MAN IN BLUE AND BLACK SHIRT RAN IN TO HOLD ON TO THE LONG BLOCK BECAUSE HE WANTED TO DEMONSTRATE HIS STRENGTH TO THE TWO MEN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "help them split the weight"
+            },
+            {
+                "predicted": "THE LADY IN WHITE SUDDENLY SQUATTED DOWN TO THE FLOOR AND LOOKED DOWN BECAUSE SHE WAS TYING HER SHOELACES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "get close to audience"
+            },
+            {
+                "predicted": "THE MAN WEARING A BLACK AND GREEN HELMET STOPPED HIS MOTORCYCLE AT THE ROADSIDE BECAUSE HE WAS WAITING FOR A FRIEND TO CATCH UP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "stopped by policeman"
+            },
+            {
+                "predicted": "THE GIRL IN PINK HOLDS UP THE GREEN SOFT TOY WHEN SHE REACHES THE SOFA TO SHOW IT OFF AND GET ATTENTION FROM OTHERS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "hit the girl in white"
+            },
+            {
+                "predicted": "THE MAN IN NAVY GAVE THE MAN IN BLUE A COCONUT AFTER HE PASSED HIM, POSSIBLY AS A GESTURE OF GOODWILL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "hungry"
+            },
+            {
+                "predicted": "THE REASON WHY THE DOG IS NOT WALKING BY ITSELF IS BECAUSE IT IS BEING CARRIED BY A MAN. THEREFORE, THE CORRECT ANSWER IS (B) CARRIED BY MAN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "carried by man"
+            },
+            {
+                "predicted": "THE WOMAN HELPS THE BOY GET ON THE SOFA BY HOLDING HIS HAND IN OPTION C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "hold his hand"
+            },
+            {
+                "predicted": "THE MAN STOOD IN FRONT OF THE PLANE FOR THE PURPOSE OF DIRECTING IT. THEREFORE, THE ANSWER IS (D) DIRECTING THE PLANE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "directing the plane"
+            },
+            {
+                "predicted": "THE LADY BENT OVER THE TABLE AT THE END TO BLOW OUT THE CANDLES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "blow candles"
+            },
+            {
+                "predicted": "THE REASON FOR THE BOY REACHING NEAR THE GIRL IS TO GET THE PAINT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "get the paint"
+            },
+            {
+                "predicted": "THE CATS INTERACT WITH THE SQUIRREL IN A PLAYFUL MANNER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "to play with it"
+            },
+            {
+                "predicted": "THE LADY IN THE VIDEO PULLED THE CAKE CLOSER TO THE GIRL BEFORE BLOWING THE CANDLE BECAUSE SHE WANTED TO ENSURE THAT THE GIRL COULD BLOW OUT THE CANDLES PROPERLY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "easier to blow"
+            },
+            {
+                "predicted": "THE MAN IN BLACK IS TILTING HIS HEAD TO THE RIGHT BECAUSE HE IS WATCHING TELEVISION.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "watching television"
+            },
+            {
+                "predicted": "THE PEOPLE STANDING OUTSIDE THE FENCE ARE WAITING FOR THE HORSE SHOW TO BEGIN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "spectators"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO IS HOLDING THE WALL TO SUPPORT HERSELF BEFORE THE BOAT MOVES FORWARD. THE ANSWER IS D. SUPPORT HERSELF.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "support herself"
+            },
+            {
+                "predicted": "THE BALD MAN REACHED OUT HIS HANDS WHILE TALKING TO THE PEOPLE BESIDE TO INDICATE HE WANTED TO JOIN THEM. SO, THE ANSWER IS (A): ATTEMPTING TO LEAVE A CONVERSATION.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "discussing about the scenery"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE WEARING FANCY CLOTHING BECAUSE THEY ARE TAKING PART IN A CULTURAL EVENT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "dancing attire"
+            },
+            {
+                "predicted": "THE LADY IN WHITE IS HOLDING THE BABY TO DEMONSTRATE BALANCING SKILLS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to support the baby"
+            },
+            {
+                "predicted": "THE DOGS ARE LYING ON THE PILLOW BECAUSE THEY ARE PRACTICING OBEDIENCE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "resting"
+            },
+            {
+                "predicted": "THE REASON FOR THE WOMEN'S SMILE IS BECAUSE THEY ARE TALKING TO THE CAMERA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "happy"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO PUTS HER LEG DOWN NEAR THE END TO STOP THE BIKE. THE ANSWER LETTER IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "to stop the bike"
+            },
+            {
+                "predicted": "THE GIRL LEANED FORWARD OVER THE TABLE BECAUSE SHE WAS BLOWING OUT THE CANDLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "to blow candle"
+            },
+            {
+                "predicted": "THE BABY WALKED TOWARDS THE BOOK SHELF AT THE END BECAUSE THEY LOVED THE SOUND THE BOOKS MADE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "to find something"
+            },
+            {
+                "predicted": "IT SEEMS LIKE THE BOY WAS RUNNING NEAR THE BENCH BECAUSE HE NEEDED TO TIE HIS SHOES, AS SEEN IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pick up the pipe"
+            },
+            {
+                "predicted": "THE WOMAN NODDED HER HEAD TO STAY FOCUSED WHILE STRUMMING THE GUITAR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "dancing to music"
+            },
+            {
+                "predicted": "THE LITTLE BOY IN THE VIDEO LOOKS EAGERLY AT THE CAKE AS THE MAN IN WHITE PREPARES TO CUT IT BECAUSE HE KNOWS THAT THEY ARE GOING TO BLOW OUT THE CANDLES. THEREFORE, THE CORRECT ANSWER IS A: WANTS TO EAT THE CAKE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "wants to eat the cake"
+            },
+            {
+                "predicted": "THE GIRL IN RED IS TURNING HER HEAD BACK REPEATEDLY BECAUSE SHE IS DISTRACTED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "distracted"
+            },
+            {
+                "predicted": "THE BOY IN GREEN PLAYED THE PIANO BY PRESSING KEYS WITH HIS HANDS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "pressing keys with his hands"
+            },
+            {
+                "predicted": "THE WOMAN IS CARRYING FLOWERS AS A PART OF HER OUTFIT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "part of outfit"
+            },
+            {
+                "predicted": "THE REASON FOR THE BABY STRETCHING HIS HANDS OUT TO THE SIDE WHILE CRAWLING COULD BE THAT HE WAS FEELING FOR AIR CURRENTS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "trying to reach wheel"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO STRETCHED HIS HANDS OUT IN THE MIDDLE TO CATCH A SNAKE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to release the snake"
+            },
+            {
+                "predicted": "THE BOY RODE INTO THE CORRIDOR OF DARKNESS DUE TO HIS CURIOSITY ABOUT THE DARKNESS. SO, THE CORRECT ANSWER IS B: FOLLOWING THE SHADOWS OF OTHER CHILDREN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "more space"
+            },
+            {
+                "predicted": "THE BABY IN THE VIDEO IS LEANING FORWARD BECAUSE IT'S ATTEMPTING TO FOLLOW A CRAWLING SIBLING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "loses balance"
+            },
+            {
+                "predicted": "THE WOMAN WHO IS TALLER IN THE VIDEO IS CARRYING THE BABY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "carry baby"
+            },
+            {
+                "predicted": "THE REASON FOR THE BOY DIGGING AWAY THE SAND FROM HIS LEG WAS TO GET HIS LEG OUT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "try to get his leg out"
+            },
+            {
+                "predicted": "THE WOMEN IN THE VIDEO ARE DOING YOGA AND APPEAR TO BE FOCUSED ON THEIR BREATHING EXERCISES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "doing yoga"
+            },
+            {
+                "predicted": "THE PENGUIN IS HOPPING TO ATTRACT THE ATTENTION OF ITS FELLOW PENGUINS. SO, THE CORRECT ANSWER IS D. ENJOYING THEMSELVES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "enjoying themselve"
+            },
+            {
+                "predicted": "I'M SORRY, BUT THE ANSWER OPTION LETTER IS INCORRECT. THE ANSWER IS C. GESTURE TO LOOK SCARIER AND STRONGER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "gesture to look scarier and stronger"
+            },
+            {
+                "predicted": "THE REASON THE BOYS CRAWLED ON THE FLOOR AT THE BEGINNING OF THE VIDEO IS TO CHALLENGE EACH OTHER FOR BALANCE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "fun"
+            },
+            {
+                "predicted": "THE LADY IN BLACK IS HOLDING A PAPER TO SIGNAL OTHERS, ACCORDING TO THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "reading her speech"
+            },
+            {
+                "predicted": "THE WOMAN IN BLACK COVERED HER EYES FROM THE SUN BY WEARING SUNGLASSES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "wear sunglasses"
+            },
+            {
+                "predicted": "I'M SORRY, BUT THE ANSWER PROVIDED DOES NOT SEEM TO BE RELATED TO THE VIDEO. CAN YOU PLEASE PROVIDE THE CORRECT ANSWER OR ASK ANOTHER QUESTION RELATED TO THE VIDEO?",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "want someone else to carry"
+            },
+            {
+                "predicted": "THE REASON THE BABY PUT AWAY THE GUITAR AT THE END OF THE VIDEO WAS BECAUSE THEY FOUND ANOTHER TOY TO PLAY WITH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "found another toy to play with"
+            },
+            {
+                "predicted": "THE DOG IN THE VIDEO GREETED THE LADY BY STANDING UP AND SHOWING RESPECT. THEREFORE, THE ANSWER LETTER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "walked towards her"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO RAISES THE CLOTH UP BY PULLING IT UP WITH A STRING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pull a string"
+            },
+            {
+                "predicted": "THE BABY IN THE VIDEO SUPPORTED HIMSELF BY GRASPING THE RAILINGS FOR MORE STABILITY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "hold the stairs"
+            },
+            {
+                "predicted": "THE WOMAN IN BLUE IS SITTING IN FRONT OF A LAPTOP BECAUSE SHE IS ATTENDING A VIRTUAL COOKING WORKSHOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "typing on the laptop"
+            },
+            {
+                "predicted": "THE REASON PEOPLE WEAR PROTECTIVE HELMETS IN FENCING IS TO PROTECT THEMSELVES FROM POTENTIAL INJURIES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "fencing"
+            },
+            {
+                "predicted": "THE PUMPKIN FROM THE SECOND ELEPHANT ENDED UP ON THE FLOOR DUE TO IT BEING DROPPED FROM THE ELEPHANT'S MOUTH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "dropped from elephant s mouth"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO SUPPORTED THE CHILDREN BY HOLDING THEM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "hold them with his hands"
+            },
+            {
+                "predicted": "THE REASON THE WOMAN IS HOLDING THE BABY FROM THE BACK IS TO SUPPORT THE BABY'S HEAD WHILE SHE IS FEEDING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "providing support"
+            },
+            {
+                "predicted": "THE BOY IN RED TOUCHES THE FOOD WITH HIS BARE LEFT HAND WHILE EATING TO INSPECT ITS TEXTURE CLOSELY. THEREFORE, THE CORRECT ANSWER IS C.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to pick the food up"
+            },
+            {
+                "predicted": "THE CANDLES WERE BLOWN OUT USING THE METHOD OF BLOWING. SO, THE ANSWER IS (C) LADY BLEW THE CANDLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "lady blew the candle"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING WINTER CLOTHING BECAUSE IT IS COLD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "cold"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS BENDING DOWN REPEATEDLY BECAUSE HE IS TRYING TO HELP A LITTLE GIRL LEARN TO RIDE A BIKE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "hold the bicycle"
+            },
+            {
+                "predicted": "THE CHILDREN IN THE VIDEO ENTERED THE SWIMMING POOL BY SLIDING DOWN A LADDER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "jump"
+            },
+            {
+                "predicted": "THE MAN IN BLUE SHORTS IS THROWING A BALL OUT OF THE POOL. THE OPTION LETTER FOR THE CORRECT ANSWER IS D, WHICH MEANS THAT THE MAN IN BLUE SHORTS IS PLAYING WITH A BALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "playing with ball"
+            },
+            {
+                "predicted": "THE BOY IN RED IS NOT WEARING SHOES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "slow reaction"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO DEMONSTRATES THE INFORMATION ON THE SCREEN BY POINTING TO IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pointing"
+            },
+            {
+                "predicted": "THE ANSWER IS D. GRAB THE OTHER SIDE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "grab the other side"
+            },
+            {
+                "predicted": "THE WOMAN MOVED THE SPOON IN A CIRCULAR MOTION TO CAPTURE THE BABY'S ATTENTION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "capture baby attention"
+            },
+            {
+                "predicted": "THE MAN IS LIFTING ONE OF HIS LEGS BECAUSE HE NEEDS TO BALANCE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "try to kick her"
+            },
+            {
+                "predicted": "THE REASON THE PERSON IN GREEN LOOKED OVER AT THE PERSON IN DARK BLUE IS BECAUSE THEY WERE PERFORMING AN EXPERIMENT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "looking at him to perform experiment"
+            },
+            {
+                "predicted": "BASED ON THE CONTEXT OF THE QUESTION, THE ANSWER SEEMS TO BE RELATED TO A TELEVISION PROGRAM RATHER THAN A STAGE PERFORMANCE. THEREFORE, THE ANSWER SHOULD BE C (INDICATE THE START OF THE NEXT PERFORMANCE).",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "ensure quality of audio"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO IS SITTING DOWN ON A CHAIR WHILE WATCHING TV.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "eating meal"
+            },
+            {
+                "predicted": "THE BLUE TOWEL PLACED ON THE GROUND IS TO KEEP THE FLOOR WARM, ACCORDING TO THE OPTIONS PROVIDED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "let baby sit"
+            },
+            {
+                "predicted": "THE BABY IS CLOSING HIS EYES NEAR THE END BECAUSE HE IS TIRED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "sleepy"
+            },
+            {
+                "predicted": "THE MAN IN BLUE ADJUSTS THE FILMING ANGLE OF THE CAMERA IN THE MIDDLE OF THE VIDEO USING VOICE CONTROL. THEREFORE, THE CORRECT ANSWER IS A: ADJUSTS THE CAMERA THROUGH VOICE CONTROL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "turn the stand"
+            },
+            {
+                "predicted": "THE MAN WITH A HAT TURNED BACK AT THE BEGINNING OF THE VIDEO BECAUSE HE WAS CHECKING IF SOMEONE WAS CALLING HIS NAME.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "play guitar with man playing keytar"
+            },
+            {
+                "predicted": "THE MAN IN BLUE LEANED BACK AND FORTH WHILE SITTING ON THE BOYS TO ROCK THEM TO SLEEP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "snuggle with boys"
+            },
+            {
+                "predicted": "THE DOGS ARE ROLLING ON THE GROUND TO COOL DOWN. (C) IS THE CORRECT OPTION LETTER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "playing"
+            },
+            {
+                "predicted": "THE MAN PUSHES THE DOG AWAY FROM HIM TO PREVENT THE DOG FROM EATING SOMETHING HARMFUL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "prompt dog"
+            },
+            {
+                "predicted": "I'M SORRY, BUT THE OPTION LETTER PROVIDED DOES NOT SEEM TO BE RELATED TO THE GIVEN ANSWER. CAN YOU PLEASE PROVIDE THE CORRECT OPTION LETTER OR EXPLAIN THE RELATION BETWEEN THE GIVEN ANSWER AND THE PROVIDED OPTION LETTER?",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "for fun"
+            },
+            {
+                "predicted": "THE MAN WEARING WHITE IS SEEN IN THE VIDEO AND HE IS WEARING SUNGLASSES. HE KEEPS IT IN HIS POCKET WHEN HE IS NOT USING IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "put on his head"
+            },
+            {
+                "predicted": "BASED ON THE AVAILABLE OPTIONS, THE ANSWER OPTION SEEMS TO BE RELATED TO BIRTHDAY, AS THE VIDEO SUGGESTS THAT THE BOY IN STRIPES IS CELEBRATING HIS BIRTHDAY. HOWEVER, IT WOULD BE HELPFUL TO KNOW IF THERE IS ANY OTHER CONTEXT OR INFORMATION IN THE VIDEO THAT MIGHT CONTRADICT THIS OPTION. PLEASE PROVIDE MORE INFORMATION IF POSSIBLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "his birthday"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO IS HOLDING ON TO THE MAN BECAUSE SHE CAN'T SWIM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "she can not swim"
+            },
+            {
+                "predicted": "THE BABY IN THE VIDEO INTERACTS WITH THE MAN BY MOVING ITS HANDS AND IT IS CHEERING HIM UP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "move hands"
+            },
+            {
+                "predicted": "THE MAN IN WHITE IS REMOVING THE CHOCOLATES FROM THE CAKE TO PREVENT THEM FROM MELTING UNDER THE LIGHTS. THEREFORE, THE ANSWER IS (C) PREVENT CHOCOLATES FROM MELTING UNDER THE LIGHTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "easier to cut"
+            },
+            {
+                "predicted": "THE MAN SLOWED DOWN AS HE APPROACHED THE GIRL CYCLING BECAUSE HE NOTICED A PEDESTRIAN CROSSING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "keep a distance"
+            },
+            {
+                "predicted": "THE REASON FOR SOMEONE COMING CLOSE AND THROWING SOMETHING ONTO THE COUNTER TOP WAS TO DEMONSTRATE CATCHING PRACTICE USING THE CEILING FAN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "feed chicken"
+            },
+            {
+                "predicted": "THE MAN WEARING A CAP IN RED IS WEARING IT INDOORS TO AVOID HITTING THE CAMERA LIGHTS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "act cool"
+            },
+            {
+                "predicted": "THE REASON FOR THE CUP BEING ATTACHED TO THE SPINNING DISC IS TO CREATE A CALMING RHYTHMIC SOUND.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "experiment"
+            },
+            {
+                "predicted": "THE MAN WEARING A WHITE WATCH WAS SEEN PUTTING DOWN HIS CAMERA AFTER TAKING A PICTURE. THEREFORE, THE ANSWER OPTION THAT CORRESPONDS TO THIS QUESTION IS \"A: TO WIPE THE CAMERA LENS\".",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "was done taking photographs"
+            },
+            {
+                "predicted": "BASED ON THE VIDEO, IT SEEMS THAT THE MAN WITH THE BROWN SCARF WALKED TO THE BACK OF THE STAGE TO RETRIEVE A FORGOTTEN SCRIPT. THEREFORE, THE CORRECT ANSWER IS (B): RETRIEVE A FORGOTTEN SCRIPT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "take chair"
+            },
+            {
+                "predicted": "THE ANSWER IS C.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "play with it"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE MOSTLY WEARING TEAM JERSEY, WHICH IS THE MAJORITY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "team jersey"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO PUT HER HANDS ON THE FLOOR AS A SIGNAL TO HER FRIENDS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "support herself"
+            },
+            {
+                "predicted": "THE DOG IN THE VIDEO APPEARED TO BE INTERESTED IN THE FOOD BY SHOWING ITS INTEREST BY SNIFFING AT IT AND THEN LICKING IT. THE OPTION LETTER IS (D).",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "look towards the food"
+            },
+            {
+                "predicted": "BASED ON THE GIVEN INFORMATION, THE REASON WHY THE KID MOVED HIS HAND ACROSS HIS FEET BEFORE WEARING THE SHOE IS TO ENSURE GOOD LUCK BEFORE THE GAME.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "clean dirt from foot"
+            },
+            {
+                "predicted": "THE LADY IN THE VIDEO IS ROTATING HER RIGHT FOOT AS SHE HITS THE BALL, LIKELY TO CORRECT THE BALL'S PATH. SO, THE ANSWER IS (C) TWIST BODY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "twist body"
+            },
+            {
+                "predicted": "THE MAN IN GREY IS CARRYING THE THING FROM THE LAKE AFTER STANDING UP TO CAST A NEW BAIT. THEREFORE, THE CORRECT ANSWER IS A: A: TO CAST NEW BAIT, B: TO WEIGH HIMSELF DOWN, C: BECAUSE HE LIKES THE VIEW, D: TO SIGNAL FOR HELP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "to cast new bait"
+            },
+            {
+                "predicted": "THE MEN IN THE VIDEO TRAVELED UP THE SLOPE USING A CONVEYOR BELT THAT CARRIED THEM UP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "walked up"
+            },
+            {
+                "predicted": "THE ANSWER IS (C) MAN PUT PLUSH ON HER NOSE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "man put plush on her nose"
+            },
+            {
+                "predicted": "THE CHILD IN STRIPES IS RUNNING TOWARDS THE MAN IN RED BECAUSE HE HAS A BURNING FIRE IN HIS HAND.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "change to bigger sparkler"
+            },
+            {
+                "predicted": "THE SHIRTLESS MAN GETS THE GREEN FOOD BY PICKING IT UP WITH HIS HAND.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pick it with hand"
+            },
+            {
+                "predicted": "THE GIRL IN THE MIDDLE LEANED FORWARD AFTER SINGING THE BIRTHDAY SONG TO ADJUST HER SEAT TO FEEL MORE COMFORTABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "blow the cake"
+            },
+            {
+                "predicted": "THE WOMAN IN GREY CARESSES THE DOG LYING ON THE FLOOR TO SHOW AFFECTION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "show affection"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO EXPRESSES HER HAPPINESS BY SMILING A LOT DURING THE INTERVIEW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "smiles a lot"
+            },
+            {
+                "predicted": "THE GIRLS ARE DRESSED UP LIKE A BRIDE AND GROOM AS A SURPRISE FOR THEIR TEACHER. THEIR INSPIRATION FOR THE COSTUMES IS A ROMANTIC MOVIE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "reanacting a wedding scene"
+            },
+            {
+                "predicted": "THE HAND THAT CAME OUT TO TOUCH THE TOY WAS FROM THE PERSON IN THE VIDEO. HOWEVER, THE REASON FOR THE HAND'S MOVEMENT IS NOT EXPLICITLY MENTIONED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "to play with the baby"
+            },
+            {
+                "predicted": "THE BOY IN THE VIDEO POINTED IN THE MIDDLE OF THE SCREEN TO SHOW THE DIRECTION OF THE MOVIE THEATER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "interested in balloon"
+            },
+            {
+                "predicted": "BASED ON THE VIDEO, THE BOY IN BLUE REACHED FOR THE BACK OF THE SWING AFTER KICKING THE BOY IN WHITE TO ESCAPE FROM THE SWING. THEREFORE, THE ANSWER OPTION IS D. FIND A BETTER BALANCE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "try to stand up"
+            },
+            {
+                "predicted": "THE WOMAN LIFTED HER LEG UP AT THE START TO AVOID STEPPING INTO A PUDDLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "to climb up"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO USED A VOICE COMMAND TO STOP THE TOY BICYCLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "put feet on the ground"
+            },
+            {
+                "predicted": "THE PERSON RIDING THE CAMEL AT THE START OF THE VIDEO IS HOLDING THE ROPE TO SIGNAL TO THE OTHER TRAVELERS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "control the camel"
+            },
+            {
+                "predicted": "THE YOUNGER BOY IN THE VIDEO STRETCHED OUT HIS HANDS AT THE END AS A DANCE MOVE TO SHOW HIS RHYTHM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "hand gestures to make his point"
+            },
+            {
+                "predicted": "THE BOY SAT DOWN NEAR THE END OF THE VIDEO TO MAKE WAY FOR THE BABY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "stop playing with baby"
+            },
+            {
+                "predicted": "THE CHILD IN THE VIDEO MOVED FORWARD BY SKIPPING PAST INVISIBLE HURDLES OF CANDY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "walk"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO IS SITTING DOWN BECAUSE SHE IS WASHING THE BOY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "wash the boy"
+            },
+            {
+                "predicted": "THE LADY IN WHITE ON THE SOFA WAS HOLDING HER HANDS IN FRONT OF HER BECAUSE SHE WAS PREPARING FOR A PRESENTATION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "recording"
+            },
+            {
+                "predicted": "IT'S HARD TO DETERMINE THE REASON FOR THE BABY'S HAND MOVEMENT AS THE QUESTION DOESN'T PROVIDE ANY CONTEXT OR INFORMATION. THE OPTIONS LISTED SEEM IRRELEVANT TO THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "gesturing"
+            },
+            {
+                "predicted": "THE REASON FOR THE PERSON REACHING OUT HIS HAND TOWARDS THE KID IN THE VIDEO IS TO INVITE HIM TO PLAY A GAME. THE ANSWER IS (D) INVITING TO PLAY A GAME.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "wants to hold kid"
+            },
+            {
+                "predicted": "THE BOY IS SITTING ON THE COUCH WHILE PLAYING WITH HIS FLYING HELICOPTER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "flying helicopter"
+            },
+            {
+                "predicted": "THE REASON FOR PUSHING THE LADY TOWARDS THE WATERS WAS TO START A PLAYFUL WATER GAME. THEREFORE, THE CORRECT OPTION LETTER TO CHOOSE IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "try to get her into water"
+            },
+            {
+                "predicted": "THE BABY ON THE PINK SEAT BENT DOWN TOWARDS THE END OF THE VIDEO TO PICK UP A TOY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "looking at ground"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS PUTTING HIS HAND ACROSS THE HOOP AT THE START TO PREVENT THE OTHER DOG FROM GOING THROUGH. THEREFORE, THE ANSWER IS \"B: GUIDE DOG\".",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "guide dog"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO TOUCHED THE SWING THAT THE BABY WAS ON TO ADJUST THE BABY'S CLOTHES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "push the baby"
+            },
+            {
+                "predicted": "THE MOVEMENT OF THE LADY'S HAIR IN THE VIDEO IS DUE TO THE WIND.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "wind"
+            },
+            {
+                "predicted": "THE REASON FOR THE BUBBLES COMING OUT FROM THE DIVERS IS THAT THEY ARE BREATHING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "they are breathing"
+            },
+            {
+                "predicted": "THE REASON FOR WEARING FORMAL WEAR IS FOR A WEDDING CEREMONY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "wedding event"
+            },
+            {
+                "predicted": "THE LADY HELPED THE GIRL UP BY PULLING HER IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pull"
+            },
+            {
+                "predicted": "THE DOG IS STAYING STILL BECAUSE IT LEARNED TO DO TRICKS WHILE STAYING STILL. THEREFORE, THE ANSWER IS D: BECAUSE IT LEARNED TO DO TRICKS WHEN STAYING STILL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "comfortable"
+            },
+            {
+                "predicted": "THE MAN AND THE BOY IN THE VIDEO ARE SQUATTING DOWN BY THE GRASS BECAUSE THEY ARE SETTING OFF FIREWORKS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "set off firework"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO OCCASIONALLY LEANS FORWARD VIGOROUSLY BECAUSE HE IS PLAYING WITH HIS CHILD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "make funny expressions"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO IS RAISING HER ARMS CONTINUOUSLY AS SHE MOVES ON THE BOAT. THE ANSWER IS B.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "row the boat"
+            },
+            {
+                "predicted": "THE MAN IN BROWN IS SITTING DOWN WITH THE DOG IN HIS LAP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "to play with dog"
+            },
+            {
+                "predicted": "THE LADY IN THE VIDEO PULLS DOWN THE GIRL'S SHIRT TO ADJUST IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "adjust"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO WAS CARRYING A BACKPACK AS HE WAS PRETENDING TO BE A STUDENT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "carry dog"
+            },
+            {
+                "predicted": "THE CHILD IN THE VIDEO IS WALKING TOWARDS THE FENCE BECAUSE THEY WANT TO CHECK IF THERE ARE LOOSE FENCE BOARDS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "wants to go near dog"
+            },
+            {
+                "predicted": "THE REASON THE BABY IS WEARING LOOSE CLOTHES IS THAT THEY ARE COMFORTABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "more comfortable"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO IS USING A LOT OF HAND GESTURES AND MOVEMENTS BECAUSE SHE IS EMPHASIZING HER POINTS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "emphasize her points"
+            },
+            {
+                "predicted": "THE LADY IN BLACK TOP CAME NEAR THE TABLE AT THE END TO ADJUST THE LIGHTING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "ordered by customer"
+            },
+            {
+                "predicted": "THE MAN IN WHITE RAISED HIS CUP TO SIGNAL THE START OF A FRIENDLY DUEL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "make a toast"
+            },
+            {
+                "predicted": "THE MAN IN BLACK STOPPED HALFWAY AND HELD HIS STOMACH BECAUSE HE WAS FEELING DIZZY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "take a break"
+            },
+            {
+                "predicted": "THE REASON WHY THE MAN IS HOLDING A CLIPBOARD IN THE VIDEO IS THAT HE IS USING IT TO TAKE NOTES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "take notes"
+            },
+            {
+                "predicted": "THE LADY IS LOOKING AROUND AFTER HITTING THE BALL TO CHECK FOR RECOGNITION. SO, THE CORRECT OPTION LETTER IS A.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "check for recognition"
+            },
+            {
+                "predicted": "THE MAN WITH BROWN HAIR PICKS UP THE MAGAZINE NEAR THE END OF THE VIDEO TO SHOW HIS FRIENDS. HENCE, THE CORRECT ANSWER IS D. BECAUSE IT'S PART OF A MAGIC TRICK HE'S PERFORMING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "get closer look at magazine"
+            },
+            {
+                "predicted": "THE PERSON IN GREY IS KNEELING DOWN AT THE END OF THE VIDEO TO TIE THEIR SHOELACES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "washing something"
+            },
+            {
+                "predicted": "THE ADULT WAS POKING THE PUMPKIN WITH A TOOL BESIDE THE BABY TO SHOW THE BABY HOW TO USE A TOOL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "carving pumpkin"
+            },
+            {
+                "predicted": "THE SHIRTLESS MAN HELPS THE MAN IN WHITE MOVE OFF IN THE GREEN BOAT BY PUSHING THE BOAT AWAY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "push boat away"
+            },
+            {
+                "predicted": "THE LADIES IN THE VIDEO STOOD UP TO LOOK AT THE FIREWORKS OVERHEAD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "completed sliding down"
+            },
+            {
+                "predicted": "THE WOMAN POKED THE BABY'S CHECK AT THE END TO ENSURE THAT THE BABY IS FAMILIAR WITH TEXTURES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "playing with the baby"
+            },
+            {
+                "predicted": "THE REASON FOR THE GREY JACKET MAN RUNNING TOWARDS THE MAN WITH GLOVES HOLDING CONES IN HIS HAND WAS PROBABLY TO PREPARE A SURPRISE FOR HIM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "talking to man with gloves"
+            },
+            {
+                "predicted": "THE GROUP OF PEOPLE GATHERED IN THE LIVING ROOM AND SAT IN A CIRCLE FOR A REASON. THEIR INTENTION WAS TO LISTEN TO A WOMAN WHO HAS A BUN. THEY WERE EITHER DISCUSSING WALLPAPER COLORS, PLANNING A GROUP NAP, OR WAITING FOR A SURPRISE VISIT, BUT THE MAIN FOCUS WAS ON THE WOMAN WITH A BUN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "listening to woman with bun"
+            },
+            {
+                "predicted": "THE LADY IN THE VIDEO IS SEEN OFFERING A COMFORTING SMILE TO THE LITTLE GIRL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "kiss girl"
+            },
+            {
+                "predicted": "THE LADY IN THE VIDEO BALANCES HERSELF BY CROSSING HER ARMS TIGHTLY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "spread her hands out"
+            },
+            {
+                "predicted": "THE MAN HELPED STABILIZE THE PLANE BY HOLDING THE WINGS, WHICH IS THE ANSWER OPTION C.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "by holding the wings"
+            },
+            {
+                "predicted": "THE MAN IN RED IS HOLDING TWO STICKS IN HIS HAND TO ACT AS A MAGICIAN'S ASSISTANT FOR A TRICK. THUS, THE ANSWER IS B.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "playing drums"
+            },
+            {
+                "predicted": "THE ANSWER IS D. (JUMPS DOWN.)",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "jumps down"
+            },
+            {
+                "predicted": "THE WOMAN WEARING WHITE IS KEEPING HER HAIR TIDY BY BRUSHING IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "wear headscarf"
+            },
+            {
+                "predicted": "I'M SORRY, BUT THE GIVEN ANSWER LETTER DOES NOT MATCH THE GIVEN OPTION. PLEASE PROVIDE THE CORRECT ANSWER LETTER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "lost balance"
+            },
+            {
+                "predicted": "THE MAN IN THE NAVY BLUE SHIRT BENT DOWN AT THE END OF THE VIDEO BECAUSE HE WAS MOVING THE BRICK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "moving the brick"
+            },
+            {
+                "predicted": "THE LADIES AND THE MAN SHOWED THEIR PASSION FOR SINGING AND PLAYING THE INSTRUMENT BY SWAYING THEIR BODIES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "swaying their bodies"
+            },
+            {
+                "predicted": "THE BOY IN ORANGE IS MOVING AROUND THE ROOM BY HOPPING WHILE WAVING HIS ARMS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "jump around"
+            },
+            {
+                "predicted": "THE BOYS IN THE VIDEO KNOW WHEN TO SIT AND STAND BY FOLLOWING THE MOVEMENTS OF EACH OTHER. THEREFORE, THE ANSWER OPTION LETTER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "copy each other"
+            },
+            {
+                "predicted": "THE REASON THE CARS OUTSIDE THE GLASS DOOR ARE NOT MOVING IS THAT THEY ARE PARKED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "parked"
+            },
+            {
+                "predicted": "THE LADY HELD THE MICROPHONE TO SING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "to sing"
+            },
+            {
+                "predicted": "THE LADY IN STRIPES SHOWED HER AFFECTION TO THE BABY BY KISSING IT IN THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "kiss the baby"
+            },
+            {
+                "predicted": "THE LADY WEARING BLACK BOOTS WAS STANDING BEHIND THE BOY IN THE VIDEO BECAUSE SHE WAS PREPARING FOR A DANCE MOVE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "guiding the boy"
+            },
+            {
+                "predicted": "THE MAN IS SMILING BECAUSE HE JUST REMEMBERED A JOKE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "pose for the video"
+            },
+            {
+                "predicted": "THE BOY SUDDENLY SAT BACKWARDS ON THE STAIRS AFTER THE VACUUM CLEANER STARTED MOVING AND HITTING HIS FOOT BECAUSE HE WAS PRETENDING TO BE INVISIBLE. THEREFORE, THE ANSWER IS B: WAS PRETENDING TO BE INVISIBLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "tripped"
+            },
+            {
+                "predicted": "THE REASON FOR THE LADY LOOKING BACK AT THE BEGINNING OF THE VIDEO WAS TO ENSURE SHE WASN'T BLOCKING THE LIGHT FOR A PERFECT SHOT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "looking at camera"
+            },
+            {
+                "predicted": "THE BLACK DOG IN THE VIDEO MANAGED TO AVOID GETTING CAUGHT BY THE OTHER DOGS BY RUNNING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "run"
+            },
+            {
+                "predicted": "THE BOY IN THE VIDEO USES HIS HANDS TO GET ON THE CHAIR, NOT HIS FEET OR ANY OTHER OBJECT. SO THE ANSWER IS C: BALANCE USING A STICK AND CLIMB.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "climb"
+            },
+            {
+                "predicted": "THE MAN IN THE BLACK SWEATER PUT HIS HANDS ON HIS CHIN WHEN THE REST OF THE PEOPLE WERE TALKING BECAUSE HE WAS TRYING TO STAY WARM IN A COLD ROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "thinking"
+            },
+            {
+                "predicted": "THE GIRL IN BLUE THREW THE VEGETABLES TO FEED THE ANIMALS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "someone asked her to do it"
+            },
+            {
+                "predicted": "THE MAN COVERED HIS HEAD TO PROTECT HIMSELF FROM THE HOT SUN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "protect from hot sun"
+            },
+            {
+                "predicted": "THE MAN HOLDING THE LEATHER JACKET IS STANDING THERE BECAUSE HE IS WAITING TO BE SHOWN AROUND THE EXHIBITION. SO, THE ANSWER SHOULD BE OPTION A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "listening to man in black"
+            },
+            {
+                "predicted": "THE BABY IN THE VIDEO IS MOVING HIS ARMS VIGOROUSLY AS THE BOY PLAYS WITH THE TOY AT THE END OF THE VIDEO TO MIMIC THE BOY'S MOVEMENTS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "hit toys"
+            },
+            {
+                "predicted": "THE REASON THE MAN IN YELLOW STOPPED TOUCHING THE LONG BLOCK AFTER THE MAN IN BLUE-BLACK SHIRT WENT NEARER TO HIM IS THAT HE WAS TESTING THE MATERIAL STRENGTH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "brick is brought down"
+            },
+            {
+                "predicted": "THE FALLEN TOY BLOCK PLUSH GOT BACK UP TO THE BABY'S TABLE BY ITSELF, AS PER THE GIVEN ANSWER LETTER (D).",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "father put it back"
+            },
+            {
+                "predicted": "THE ANSWER IS C: TECHNICAL STAFF TESTING EQUIPMENT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "add effects"
+            },
+            {
+                "predicted": "THE BOY IN THE VIDEO PUT HIS HANDS UNDER THE WATER BECAUSE HE WAS CURIOUS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "curious"
+            },
+            {
+                "predicted": "THE REASON FOR THE MEN HOLDING MICROPHONES IN FRONT OF THEM IS THAT THEY ARE PERFORMING ON STAGE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "singing"
+            },
+            {
+                "predicted": "THE REASON FOR THE GIRLS SPINNING AROUND WAS TO SHOWCASE THEIR NEW SHOES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "trying to dance together"
+            },
+            {
+                "predicted": "THE MAN PICKS UP THE BALLOON AGAIN AFTER IT REACHES THE OTHER SIDE BECAUSE HE WANTS TO DEMONSTRATE IT CAN FLY BACK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "show to the camera"
+            },
+            {
+                "predicted": "THE BABY IN THE VIDEO IS USING THE BLUE TOY ON HIS HAND TO BITE IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bite it"
+            },
+            {
+                "predicted": "THE BABY IS HOLDING THE RED BALL UNDERNEATH HIM AS A MEANS OF SUPPORT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "play with"
+            },
+            {
+                "predicted": "THE BABY TRIED TO REACH OUT AND GRAB THE CAMERA IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "lean forward to grab camera"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO IS HOLDING ON TO THE MICROPHONE THROUGHOUT THE ENTIRE DURATION. THEREFORE, THE CORRECT ANSWER OPTION IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "project her voice"
+            },
+            {
+                "predicted": "THE ANSWER IS C. WAITING FOR SOMETHING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "waiting for something"
+            },
+            {
+                "predicted": "THE BABY MOVED HIS BODY UP AND DOWN WHEN THE MAN MOVED PAST HIM FROM BEHIND BECAUSE HE WAS DISTRACTED BY THE MAN. THUS, THE ANSWER IS D: MAN DISTRACTED THE BABY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "excited"
+            },
+            {
+                "predicted": "THE GIRL IN BLACK WAS SITTING ON THE STOOL IN FRONT OF THE MICROPHONE TO ADJUST THE MICROPHONE'S HEIGHT BY SITTING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "giving a speech"
+            },
+            {
+                "predicted": "THE LADY SINGING IS ENJOYING HERSELF BY ADJUSTING THE MICROPHONE STAND.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "dancing while performing"
+            },
+            {
+                "predicted": "THE BABY PUT BOTH HIS HANDS ON THE BOX TO CHECK THE TEMPERATURE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "push box"
+            },
+            {
+                "predicted": "THE LADY IN THE VIDEO TRIES TO GET THE BABY'S ATTENTION BY TAPPING RHYTHMICALLY ON THE TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pick up toy"
+            },
+            {
+                "predicted": "I'M SORRY, BUT THE PROVIDED ANSWER LETTER DOES NOT MATCH THE CONTENT OF THE VIDEO. THE ANSWER LETTER SHOULD BE THE APPROPRIATE OPTION LETTER RELATED TO THE VIDEO. PLEASE PROVIDE THE ANSWER LETTER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "spraying water"
+            },
+            {
+                "predicted": "THE REASON WHY THE GIRL TURNED AROUND HERSELF A FEW TIMES IN THE VIDEO WAS TO ADJUST HER DRESS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to dance"
+            },
+            {
+                "predicted": "THE PERSON RAISES HIS LEFT ARM AFTER WALKING FORWARD A LITTLE NEAR THE START BECAUSE HE WANTS TO ADJUST HIS HELMET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "adjust helmet"
+            },
+            {
+                "predicted": "THE GIRL WEARING WHITE IN THE MIDDLE IS LOOKING AROUND TO AVOID GETTING HIT BY THE STRAY BALLOONS. SO, THE ANSWER IS D: AVOIDING STRAY BALLOONS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "excited"
+            },
+            {
+                "predicted": "THE THREE PEOPLE STEPPED FORWARD TOWARDS THE GLASS PANEL TO ADJUST THE THERMOSTAT NEARBY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "see closer"
+            },
+            {
+                "predicted": "THE MAN IN WHITE IS SITTING DOWN ON THE BED TO REST.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "relaxing"
+            },
+            {
+                "predicted": "THE BABY IN THE VIDEO SITS DOWN IMMEDIATELY AFTER LETTING GO OF THE TABLE BECAUSE IT SEEMS LIKE IT IS LOSING BALANCE AND NEEDS TO STEADY ITSELF.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "lose balance"
+            },
+            {
+                "predicted": "THE BABY IN THE VIDEO IS CRAWLING AROUND THE ROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "crawling"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO RELEASED THE SNAKE BY SIMPLY HOLDING IT OPEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "by opening his hands"
+            },
+            {
+                "predicted": "THE MAN WEARING A RED HELMET IN THE VIDEO IS STARING INTO THE TREES IN THE MIDDLE. IT SEEMS LIKE HE'S CHECKING FOR HIDDEN CAMERAS FOR A SURPRISE EVENT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "look at man doing flying fox"
+            },
+            {
+                "predicted": "THE BOY WAS HOLDING THE CUP FOR A WHILE, BUT THE WOMAN WAS SPOONING ICE CREAM INTO IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to eat the ice cream"
+            },
+            {
+                "predicted": "THE KID IN THE VIDEO USES THE CHAIR TO GET UP AFTER FALLING TO THE GROUND. SO, THE ANSWER IS A. HOLD CHAIR FOR SUPPORT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "hold chair for support"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO USED A HANDKERCHIEF TO CONTROL THE MOVEMENT OF THE HORSE. SO, THE ANSWER IS (C): SHE WAVES A HANDKERCHIEF.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pulling onto rope"
+            },
+            {
+                "predicted": "THE REASON FOR THE WOMAN HOLDING ON TO THE HANDLE OF THE BICYCLE THAT THE CHILD IS RIDING ON IS THAT SHE WANTS TO STAY CLOSE TO THE BOY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "stay close to the boy"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO IS PUTTING HER HAND ON HER HEAD WHILE LOOKING AT HER PHONE BECAUSE SHE MIGHT BE TRYING TO SHIELD HER EYES FROM THE SUN GLOWING FROM THE SCREEN. THEREFORE, THE CORRECT ANSWER IS D: TO IMPROVE PHONE RECEPTION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "thinking"
+            },
+            {
+                "predicted": "THE MAN IN THE WHITE SHIRT IS WEARING SPECTACLES TO IMPROVE HIS VISION, WHICH IS NOT RELATED TO ANY DANCE ROUTINE. THUS, THE ANSWER IS B: POOR EYESIGHT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "poor eyesight"
+            },
+            {
+                "predicted": "THE LADY IN WHITE POINTED AT THE FLOWER FOR SO LONG AFTER THE LADY TALKED ABOUT IT BECAUSE SHE WANTED TO ASK A QUESTION ABOUT IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "ask questions about the flower"
+            },
+            {
+                "predicted": "THE REASON FOR THE MAN MOVING HIS FINGERS AT THE END IS LIKELY TO SIGNAL FOR SOMEONE TO BRING COFFEE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "point to direct baby s attention"
+            },
+            {
+                "predicted": "THE REASON WHY THE SECOND KID WAS NOT ABLE TO GRAB THE BAR WAS BECAUSE HE WAS TALKING TO HIS FRIEND NEARBY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "does nt jump properly"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO PICKED UP SOMETHING GREEN AND STUCK IT IN THE BABY'S MOUTH WHEN IT OPENED ITS MOUTH, WHICH SEEMS TO BE AN ATTEMPT TO SOOTHE OR CLEAN THE BABY. THEREFORE, THE CORRECT ANSWER IS (A) TO ENCOURAGE BABY'S ARTISTIC EXPRESSION.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "allow baby to suck"
+            },
+            {
+                "predicted": "THE BABY IN THE PINK CHAIR PUT HER HAND ON HER FACE IN THE MIDDLE OF THE VIDEO BECAUSE SHE WAS ACTING AS IF SHE FORGOT SOMETHING IMPORTANT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "smell his ribbon"
+            },
+            {
+                "predicted": "THE BALD MAN IN BLACK IS STARING INTENTLY AT THE GIRL IN RED WHILE SHE IS SINGING. THEREFORE, THE CORRECT ANSWER IS A. WAITING FOR HER TO ASK HIM A QUESTION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "watching the girl sing"
+            },
+            {
+                "predicted": "THE GIRL IS WEARING BOARDS ATTACHED TO HER FEET FOR SKIING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "skiing"
+            },
+            {
+                "predicted": "THE MAN IN WHITE WALKED AWAY AFTER PUSHING THE MAN IN BLACK BECAUSE HE FELT RELIEVED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "to push another man"
+            },
+            {
+                "predicted": "I'M SORRY, BUT THE GIVEN ANSWER LETTER IS NOT THE CORRECT OPTION. CAN YOU PLEASE PROVIDE THE CORRECT ANSWER LETTER FOR ME TO ASSIST YOU BETTER?",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "put cones along running track"
+            },
+            {
+                "predicted": "THE REASON WHY THE WOMAN IN BLACK IS WATCHING THE TWO MEN IS TO SUPERVISE THEM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "supervise"
+            },
+            {
+                "predicted": "THE MAN PASSES THE GIRL TO THE LADY SO THAT THE LADY CAN FIX HER HAT. THEREFORE, THE ANSWER IS (B): SO THE LADY CAN FIX HER HAT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "let the lady play with her"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE LOOKING INTO THE BARREN LAND BELOW THEM BECAUSE THEY ARE TRYING TO FIND HIDDEN TREASURE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "discussing about it"
+            },
+            {
+                "predicted": "THE BOY IN THE VIDEO IS LOOKING IN FRONT AT THE BOOKS ON THE TABLE BECAUSE HE IS CURIOUS ABOUT THE PAPER TEXTURE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "reading the notes"
+            },
+            {
+                "predicted": "THE LADY IN ORANGE IS HELPING THE CHILD BY MAKING A SNACK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "watching her"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO HELPS THE BOY IN BLUE BY HOLDING HIS HAND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "holds hand"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS TALKING WHILE MOVING HIS HANDS BECAUSE HE IS DEMONSTRATING WITH ACTIONS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "demonstrating with actions"
+            },
+            {
+                "predicted": "THE BABY IS BEING FED USING A SPOON.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "spoon"
+            },
+            {
+                "predicted": "THE LADY IN BLUE WALKED AWAY FROM THE SOFA AFTER PICKING UP THE BLACK ITEM BECAUSE SHE WAS CARRYING IT. SO, THE ANSWER OPTION IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "already get her stuff"
+            },
+            {
+                "predicted": "THE LADY WITH BROWN HAIR NODS HER HEAD IN THE MIDDLE OF THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "nodding head"
+            },
+            {
+                "predicted": "THE MAN IN WHITE IS KEEPING THE PEEL ON THE PLATE NEXT TO HIM TO AVOID IT BEING MIXED WITH FOOD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "prepare food"
+            },
+            {
+                "predicted": "THE REASON FOR THE CLAPPING IN THE VIDEO IS TO CELEBRATE THE WEDDING OF THE COUPLE, SO THE ANSWER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "happy for the couple"
+            },
+            {
+                "predicted": "THE BABY WALKED AWAY FROM THE CAMERA BECAUSE IT WANTED TO SEE IF ANYONE FOLLOWED.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to play in the grass"
+            },
+            {
+                "predicted": "THE GIRL IN RED TURNS TO HER LEFT TO STARE WHILE DANCING AS SHE OCCASIONALLY CHECKS THE TIME. HENCE, THE CORRECT OPTION LETTER FOR THE ANSWER IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "to see the moves"
+            },
+            {
+                "predicted": "THE MAN IN THE WHITE SHIRT IS LOOKING FORWARD IN THE MIDDLE BECAUSE HE IS WAITING FOR A SIGNAL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "look at scenery"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO WAS KEEPING AN EYE ON THE COMPUTER AND PANEL TO AVOID DISTRACTIONS. THEREFORE, THE CORRECT OPTION LETTER IS A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "focus on adjusting the music"
+            },
+            {
+                "predicted": "THE BOY IN THE VIDEO IS PRACTICING A MARTIAL ARTS ROUTINE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "dancing"
+            },
+            {
+                "predicted": "THE LADY IS FIDDLING WITH THE TOY IN HER HANDS BECAUSE SHE IS DISTRACTING HERSELF WHILE WAITING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "looking for something"
+            },
+            {
+                "predicted": "THE BOY IN THE VIDEO BENT DOWN TO BUMP INTO THE CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "to dance on the floor"
+            },
+            {
+                "predicted": "THE LADY IS LOOKING INTO THE SEA BECAUSE SHE IS WAITING FOR A SIGNAL FROM A BOAT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "enjoy the scenery"
+            },
+            {
+                "predicted": "THE WOMEN IN THE VIDEO ARE WRESTLING USING THEIR ARMS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "put hands together and push"
+            },
+            {
+                "predicted": "THE MAN IN GREY IS CRAWLING THROUGH A HOLE BECAUSE HE IS DOING A FUN ACTIVITY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "fun activity"
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, THE GIRL'S SMILE MAY HAVE BEEN TRIGGERED BY THE CAMERA TURNING TOWARDS HER. HOWEVER, IT'S NOT ENTIRELY CLEAR WHAT THE EXACT REASON FOR THE SMILE WAS. THE OPTIONS OF A, B, C, AND D DO NOT SEEM TO DIRECTLY CORRESPOND TO THE GIVEN ANSWER. HENCE, I CANNOT PROVIDE THE CORRECT OPTION LETTER WITHOUT FURTHER CONTEXT OR CLARIFICATION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "look good in camera"
+            },
+            {
+                "predicted": "THE BOY IN THE VIDEO HOLDS THE MICKEY TOY BY ITS LEGS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "hold its neck"
+            },
+            {
+                "predicted": "THE REASON THE MAN CARESSED THE DOG NEAR THE END OF THE VIDEO IS TO SHOW AFFECTION.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "show affection"
+            },
+            {
+                "predicted": "THE WOMAN IN THE WEDDING GOWN PASSED A DRINK TO THE MAN IN BLACK TO CELEBRATE THE START OF THE SPEECHES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "make a toast to celebrate"
+            },
+            {
+                "predicted": "THE WOMAN IN THE RED AND WHITE CHECKED SHIRT IS PLUCKING OUT THE PETALS OF THE FLOWER TO SEE WHICH PETAL FALLS DOWN FIRST. THEREFORE, THE CORRECT ANSWER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "show inside of a flower"
+            },
+            {
+                "predicted": "THE MAN IN BROWN RAISED HIS EYEBROWS BECAUSE HE SAW THE CAMERA TURN TOWARDS HIM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pose for camera"
+            },
+            {
+                "predicted": "THE PERSON IN WHITE COVERS THE GLASS BEFORE DRINKING THE BEVERAGE TO PREVENT IT FROM SPILLING WHILE DRINKING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "act to perform magic"
+            },
+            {
+                "predicted": "THE FOUR MEN IN THE VIDEO ARE SMILING BECAUSE THEY FIND THEIR AUDIENCE'S REACTION AMUSING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "happy"
+            },
+            {
+                "predicted": "THE BABY ROLLED OVER AFTER FALLING ON ITS FACE IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "get up"
+            },
+            {
+                "predicted": "THE TRUNK DOOR OF THE BLUE CAR IS OPENED AT THE END OF THE VIDEO BECAUSE IT WAS BLOWN OPEN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "man loading things"
+            },
+            {
+                "predicted": "THE GIRL IN PURPLE ADJUSTED HER POSITION BY STRETCHING HER LEGS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "lie on pillow"
+            },
+            {
+                "predicted": "THE MAN WITH THE RAZOR IS MOVING HIS HANDS CAREFULLY BECAUSE HE IS CUTTING HAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "cutting hair"
+            },
+            {
+                "predicted": "THE MAN GRABBED THE LADY'S ARM TO PREVENT HER FROM TRIPPING OVER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "to demonstrate something"
+            },
+            {
+                "predicted": "THE BABY IN THE VIDEO IS CHEWING ON A PACIFIER BECAUSE IT IS EXPERIENCING ANXIETY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "teething"
+            },
+            {
+                "predicted": "THE BABY CLAPS HIS HANDS WHILE SWIMMING ON THE FLOAT BECAUSE HE IS EXCITED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "excited"
+            },
+            {
+                "predicted": "THE GIRL IN PINK IS SWINGING HER LEGS WHILE SITTING ON THE CHAIR TO KEEP WARM IN A COLD ROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "to move the chair"
+            },
+            {
+                "predicted": "THE OLDER BOY IN THE VIDEO IS PLAYING WITH THE BABY BY PUNCHING AND MOVING VIGOROUSLY. THE REASON BEHIND THIS ACTION IS TO CHARGE A TOY. THEREFORE, THE CORRECT ANSWER OPTION LETTER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "play with the baby"
+            },
+            {
+                "predicted": "THE REASON WHY THE CAT WALKS ACROSS THE SOFA AFTER BEING STROKED IS BECAUSE IT WAS NUDGED TO MOVE FORWARD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "cat was nudged to move forward"
+            },
+            {
+                "predicted": "THE GIRL IN ORANGE WAS MOVING THE ROCKING CHAIR TO PREVENT IT FROM TIPPING OVER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "playing with baby"
+            },
+            {
+                "predicted": "THE PERSON IN RED PUSHES THE TOY TO THE FLOOR BECAUSE SHE IS TRYING TO MAKE A LOUD NOISE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "prevent child from biting"
+            },
+            {
+                "predicted": "THE WOMAN IN THE BUN IS STANDING BEHIND THE COUPLE TO MANAGE THE TIMING OF MUSIC.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bridesmade"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO SQUATS DOWN AND STRETCHES OUT BOTH HANDS TOWARDS THE BABY WHO IS PUSHING THE TOY CAR. THE REASON FOR THIS ACTION IS UNCLEAR. THEREFORE, THE ANSWER PROVIDED IS THE ONE THAT MATCHES THE MOST LIKELY ACTION BEING PERFORMED, BUT THE ACTUAL ANSWER IS NOT KNOWN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "lure baby to walk"
+            },
+            {
+                "predicted": "THE TALLER BOY IN THE WHITE SHIRT TURNED TO THE LADY IN THE MIDDLE OF THE VIDEO BECAUSE SHE ASKED HIM A QUESTION ABOUT THE TIME.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "talk to lady"
+            },
+            {
+                "predicted": "THE REASON WHY THE BOY IN THE BLUE JACKET HAD DIFFICULTY STANDING UP ON HIS OWN AT THE START OF THE VIDEO IS THAT HE WAS STUCK IN THE SNOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "stuck in the snow"
+            },
+            {
+                "predicted": "THE LADY PREVENTED INJURING HER HEAD BY WEARING A HELMET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "wear helmet"
+            },
+            {
+                "predicted": "THE WOMAN IS CARRYING THE BABY AND SMILING BECAUSE SHE IS HAPPY. (D) IS THE CORRECT OPTION LETTER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "happy"
+            },
+            {
+                "predicted": "THE BOY IN BLUE STARTS WALKING BECAUSE OF AN OBSTACLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "trying to crush fishes"
+            },
+            {
+                "predicted": "THE MAN IN RED IS SITTING ON THE SOFA AND TAKING SOMETHING OUT OF THE PLASTIC BAG. HOWEVER, THERE'S NO INDICATION IN THE VIDEO THAT HE IS PREPARING A GIFT FOR A SURPRISE, SEARCHING FOR A LOST ITEM, OR FIXING THE PLASTIC BAG FOR FUTURE USE. HENCE, THE CORRECT OPTION IS C: TO EAT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "to eat"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS LIFTING BOTH HANDS UP TO SHIELD THEIR EYES FROM THE SUN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "to hold toy"
+            },
+            {
+                "predicted": "THE BOY IN THE VIDEO INITIALLY RUNS BECAUSE HE HEARD A LOUD NOISE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to come near the lady"
+            },
+            {
+                "predicted": "THE MAN IN BROWN IS HOLDING ONTO A DRINK AT THE BACK OF THE BAND BECAUSE HE IS WAITING FOR THE RIGHT MOMENT TO TOAST WITH THE BAND.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "drinking"
+            },
+            {
+                "predicted": "THE BABY TOUCHES THE BALL USING HIS HANDS IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "reach out using hands"
+            },
+            {
+                "predicted": "THE LADY PUT A PLATE OF CAKE IN FRONT OF THE BOY IN RED TO CELEBRATE HIS BIRTHDAY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "celebrate the boy s birthday"
+            },
+            {
+                "predicted": "THE CAT IN THE VIDEO JUMPED UP TO THE SINK BECAUSE IT WANTED TO DRINK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to drink"
+            },
+            {
+                "predicted": "THE TOY CAR MOVES FORWARD BY BEING PUSHED BY CHILDREN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "children pushed it"
+            },
+            {
+                "predicted": "THE ANSWER IS D. THEY RECEIVED A SIGNAL TO MOVE BACK FROM SOMEONE OFF-SCREEN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "scared by monkey"
+            },
+            {
+                "predicted": "THE ANSWER IS D. IMITATE A SKILL HE SAW ON TV.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "failed to slide well"
+            },
+            {
+                "predicted": "THE MAN IN THE GREY SHIRT IS POINTING THE TOOL TOWARDS THE STRIPPED CLOTH AFTER SPREADING IT OUT TO SHOW A DANCE ROUTINE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "arrange cloth"
+            },
+            {
+                "predicted": "BASED ON THE GIVEN ANSWER, THE MOST LIKELY REASON FOR THE BOY LOOKING AT THE DOG AFTER IT PICKED UP THE BALL FROM THE GROUND IS THAT HE WAS SURPRISED BY THE DOG'S ACTION. THEREFORE, THE ANSWER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "distracted"
+            },
+            {
+                "predicted": "THE REASON FOR THE BOY HOLDING THE BLACK ITEM IN HIS HANDS IS BECAUSE HE IS FOLLOWING THE INSTRUCTIONS FROM THE VOICE OVERHEAD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "want to play"
+            },
+            {
+                "predicted": "THE BOY KEEPS HIS HAND ON THE BABY TO CHECK IF THE BABY IS AWAKE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "playing with the baby"
+            },
+            {
+                "predicted": "THE BABY IN THE VIDEO IS LYING UPSIDE DOWN AND HOLDING A BOTTLE BECAUSE THEY ARE FASCINATED BY IT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "fasicnated by bottle"
+            },
+            {
+                "predicted": "THE MAN IN BLUE JEANS MOVED AND PICKED UP THE FOOD ON THE FLOOR BECAUSE HE WAS INTERESTED IN ITS PACKAGING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "return it to the baby"
+            },
+            {
+                "predicted": "THE BARBER COVERED THE MAN'S EAR TO SIGNAL THAT IT'S TIME FOR A HAIRCUT. THEREFORE, THE CORRECT OPTION LETTER IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "protect the ear"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE USING THE SWORDS TO CARVE INITIALS IN THE SAND. SO, THE ANSWER TO THE QUESTION IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "swing the swords"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO THROWS THE BALL ONTO THE MAT NEAR THE BEGINNING AS A GESTURE OF LOVE TOWARDS HIS CHILD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "play with kid"
+            },
+            {
+                "predicted": "THE MAN IN RED STOPPED WALKING FOR A MOMENT TO CHECK IF THE GIRLS WERE PLAYING NICELY WITH EACH OTHER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "watching them"
+            },
+            {
+                "predicted": "THE LADY IN BLACK IS GESTURING TO THE LADY IN PINK IN FRONT OF HER BY MOVING HER ARMS UP. IT SEEMS LIKE A VIDEO ABOUT DRINKING. SO, THE CORRECT ANSWER WOULD BE \"D\" AS IN DEMONSTRATING HOW TO DRINK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "demonstrate how to drink"
+            },
+            {
+                "predicted": "THE MAN HOLDING UP THE SILVER CUP AFTER UNWRAPPING IT IS LIKELY DOING SO TO SHOWCASE THE BOX CONTAINING THE CUP TO THE AUDIENCE. THEREFORE, THE ANSWER IS C, INDICATE HE HAS COMPLETED A DIFFICULT TASK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "show it to the audience"
+            },
+            {
+                "predicted": "THE CHILD IN WHITE KNOWS THE MOVES OF THE DANCE BY FOLLOWING SOMETHING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "follow something"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO STANDS UP BECAUSE SHE HEARD A NOISE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "go kitchen take thing"
+            },
+            {
+                "predicted": "THE BABY IS SITTING ON A TOY CAR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "playing and riding with it"
+            },
+            {
+                "predicted": "THE REASON FOR THE BABY AND THE WOMAN SQUINTING THEIR EYES IS TO SEE THE CLOCK CLEARLY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sunny outside"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS WEARING A BIG BAG DUE TO HIS PARACHUTE. THE OPTION LETTER THAT CORRESPONDS TO THE ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "carry equipments"
+            },
+            {
+                "predicted": "THE REASON FOR THE MAN'S GESTURE TOWARDS THE PEOPLE IS TO CHECK THEIR WORK. THEREFORE, THE CORRECT OPTION LETTER IS A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "counting something"
+            },
+            {
+                "predicted": "THE GIRL IN BLUE IS ATTRACTING THE ATTENTION OF THE LADY IN PINK AND THE GIRL IN PINK BY PLAYING THE PIANO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "by playing the piano"
+            },
+            {
+                "predicted": "THE REASON WHY THE LADY IS ALWAYS KEEPING HER HANDS NEAR THE BACK OF THE BABY IS BECAUSE SHE IS SUPPORTING THE BABY FROM FALLING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "support baby from falling"
+            },
+            {
+                "predicted": "THE MAN IN BLUE SHORTS BENDS BEHIND THE MAN IN RED SHORTS BEFORE PASSING THE BALL IN ORDER TO CHECK THE GROUND FOR OBSTACLES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "ready to catch the ball"
+            },
+            {
+                "predicted": "THE BABY IS WEARING A RED JUMPER AND SITTING ON A BABY CHAIR BECAUSE HE IS CELEBRATING HIS BIRTHDAY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "too young to sit himself"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO IS HOLDING ONTO A PAPER FOR BALANCE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "speech script"
+            },
+            {
+                "predicted": "THE BOY WAS SHIFTED FORWARD IN THE MIDDLE BECAUSE HE WAS BEING PULLED FORWARD BY THE MAN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "man pull him forward"
+            },
+            {
+                "predicted": "THE HORSE IS WAITING FOR ITS RIDER'S COMMAND, AND THE RIDER IS WALKING SLOWLY. SO, THE ANSWER IS A. WAITING FOR ITS RIDER'S COMMAND.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "guide is walking slowly"
+            },
+            {
+                "predicted": "THE GIRL WEARING A RED HEADSCARF TOUCHES EVERYBODY'S HANDS TOWARDS THE END AS A GREETING. SO, THE CORRECT ANSWER IS A. A: TO REMIND THEM TO WEAR GLOVES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "playing"
+            },
+            {
+                "predicted": "THE ADULT IN THE VIDEO SLOWS DOWN HIS JOGGING PACE AS HE REACHES THE CAR BECAUSE HE IS ACCOMPANYING A LITTLE GIRL ON A BICYCLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "the girl stops the bicycle"
+            },
+            {
+                "predicted": "I'M SORRY, BUT I'M NOT ABLE TO UNDERSTAND THE ANSWER LETTER. COULD YOU PLEASE PROVIDE THE CORRECT ANSWER LETTER?",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "hit dog"
+            },
+            {
+                "predicted": "THE BABY IN THE VIDEO IS SEEN CLAPPING AS SHE SEES THE BOYS JUMPING AROUND HAPPILY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "laugh"
+            },
+            {
+                "predicted": "THE LADY MOVED AROUND THE TILES BY JUMPING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "jumping"
+            },
+            {
+                "predicted": "THE MAN IN PINK SWAYED HIS BODY AT THE BEGINNING OF THE VIDEO, BUT I'M NOT SURE WHAT WAS HIS REASON FOR DOING SO. CAN YOU PLEASE PROVIDE MORE INFORMATION?",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "part of game"
+            },
+            {
+                "predicted": "THE MAN WEARING SUNGLASSES STUCK OUT HIS FACE BECAUSE THE GIRL IN BLACK HAIR REACHED OUT. THE ANSWER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "let girl put cream on face"
+            },
+            {
+                "predicted": "THE BABY IN THE VIDEO IS PRESSING THE BUTTONS ON THE ITEM TO SEE HOW FAST IT CAN BE PRESSED. THE OPTION LETTER FOR THE ANSWER IS A.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "wants to listen to it"
+            },
+            {
+                "predicted": "THE GIRL IN PINK IS LOOKING AT THE GIRL IN BLUE BECAUSE SHE IS CHECKING IF HER HAIR IS STYLED CORRECTLY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "listening to her"
+            },
+            {
+                "predicted": "THE WOMAN OPENED HER MOUTH BEFORE PUTTING THE SPOON INTO THE BABY'S MOUTH, AND SHE DID IT BECAUSE SHE WAS PRETENDING TO BE A CAT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "let the baby imitate"
+            },
+            {
+                "predicted": "THE REASON THE BABY LIFTED HER HANDS IS BECAUSE SHE IS EXCITED. (B) IS THE CORRECT ANSWER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "excited"
+            },
+            {
+                "predicted": "THE BABY SAT DOWN TO CHANGE THE DIRECTION OF THE BALL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "lost his balance"
+            },
+            {
+                "predicted": "THE REASON FOR THE PLANE SPINNING ROUNDS DURING ITS FIRST TAKEOFF IS THAT THE BOY LOST CONTROL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "the boy lost control"
+            },
+            {
+                "predicted": "THE REASON FOR THE CHILDREN MOVING BELOW THE STAGE IS TO IMITATE ACTORS FROM A PLAY, AS PER THE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "dancing"
+            },
+            {
+                "predicted": "THE BABY SHAKES THE TOY AFTER HOLDING IT AS IT LOOKS AT IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "playing with it"
+            },
+            {
+                "predicted": "THE CHILD IS SMILING BECAUSE SHE IS THINKING ABOUT HER FAVORITE CARTOON.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "happy"
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED, THE ANSWER SEEMS TO BE (C) TO PICK UP THE BOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "to go towards the man"
+            },
+            {
+                "predicted": "THE MAN IN WHITE SHIRT IS PLACING THE CAMERA UP TO HIS FACE TO RECORD A VIDEO. SO, THE CORRECT ANSWER IS A: CHECKING HIS REFLECTION.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "taking video"
+            },
+            {
+                "predicted": "THE MAN DRESSED IN A SUIT IN THE VIDEO IS PERFORMING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "perform"
+            },
+            {
+                "predicted": "THE LADY IN BLUE HELPS THE GIRL RIDE THE BICYCLE UP THE SLOPE BY PUSHING HER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "push girl bicycle up"
+            },
+            {
+                "predicted": "THE REASON FOR THE CHILDREN RAISING THEIR HANDS TOWARDS THE END OF THE VIDEO IS THAT THEY ARE PARTICIPATING IN A GROUP ACTIVITY. SO, THE ANSWER IS C: BECAUSE THEY ARE PARTICIPATING IN A GROUP ACTIVITY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "want cake"
+            },
+            {
+                "predicted": "THE LADY WITH GLASSES IS USING HER HAND TO CUT THE VEGETABLES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "put force to push knife down"
+            },
+            {
+                "predicted": "THE LADY IN THE VIDEO MOVED TO THE CENTER OF THE STAGE BY WAITING FOR THE RIGHT MOMENT IN THE PERFORMANCE PIECE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "walk"
+            },
+            {
+                "predicted": "THE MAN IN BLACK IS STANDING BEHIND THE MAN IN ORANGE PANTS WHILE HE PLAYS BECAUSE HE IS A PARTICIPANT. THEREFORE, THE ANSWER IS NOT CORRECT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "watch him play"
+            },
+            {
+                "predicted": "THE GIRL WITH THE PINK CONTROLLER TIED HER HAIR IN A PONYTAIL INDOORS AS SHE WAS PRACTICING A NEW KARATE MOVE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "cooling"
+            },
+            {
+                "predicted": "THE MAN IN GREEN GESTURES A LOT WHILE TALKING AFTER POINTING AT THE MAGAZINE, LIKELY BECAUSE HE IS EXCITED. THEREFORE, THE ANSWER IS D: EXCITED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "excited"
+            },
+            {
+                "predicted": "THE MAN MOVES HIS LEGS BEFORE HITTING THE BALL TO REPOSITION HIMSELF FOR THE SHOT. THEREFORE, THE ANSWER IS D. ADJUST TO COMFORTABLE POSITION TO HIT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "adjust to comfortable position to hit"
+            },
+            {
+                "predicted": "THE MAN PLAYING THE BANJO IS MOVING HIS HEAD TOWARDS THE END BECAUSE HE IS CHECKING THE TUNING OF THE BANJO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "moving with rhythm"
+            },
+            {
+                "predicted": "ACCORDING TO THE VIDEO, WHEN THE BIG DOG BITES THE SMALL DOG, THE SMALL DOG REACTS BY ROLLING AROUND ON THE FLOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "roll around the floor"
+            },
+            {
+                "predicted": "I'M SORRY, BUT I COULDN'T UNDERSTAND THE ANSWER. CAN YOU PLEASE PROVIDE ME WITH THE CORRECT OPTION LETTER FOR THE QUESTION?",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "stabilize the swing"
+            },
+            {
+                "predicted": "THE DOGS ARE PUTTING THEIR NOSES EVERYWHERE ON THE VAN BECAUSE THEY WANT TO GET UP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "want to get up"
+            },
+            {
+                "predicted": "THE WOMEN IN THE VIDEO ARE WAVING THEIR HANDS AFTER THE BOAT STARTS GOING BACKWARDS. THE REASON FOR THIS GESTURE IS TO INDICATE THAT THEY ARE EXCITED AND SAY GOODBYE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "excited and say goodbye"
+            },
+            {
+                "predicted": "THE MAN IN RED IS GIVING THE CHILD IN STRIPES THE STICK IN HIS HAND BECAUSE THE BOY WANTED IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "the boy wanted it"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO GUIDES THE DOG BY USING A WHISTLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "carry dog through hoop"
+            },
+            {
+                "predicted": "THE REASON WHY THE MAN IS MOVING SLOWLY IN FRONT OF THE CAMERA IS BECAUSE OF THE SNOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "snow hard to move"
+            },
+            {
+                "predicted": "THE CANDLES GET BLOWN OUT BY A BLOWER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blown"
+            },
+            {
+                "predicted": "THE MAN HOLDS HIS HAND UNDER THE BOY'S BODY TO PREVENT HIM FROM FLOATING AWAY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "teach him swimming"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS STANDING IN FRONT OF THE PLATFORM BECAUSE HE IS LECTURING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "lecturing"
+            },
+            {
+                "predicted": "THE MAN USED A SIGN TO GET THE BICYCLE BACK ON THE PATH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pull it back onto path"
+            },
+            {
+                "predicted": "THE CAT IN THE VIDEO KEEPS BENDING DOWN INTO THE SINK BECAUSE IT IS ENJOYING THE WATER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "drink water"
+            },
+            {
+                "predicted": "THE REASON FOR THE MAN WEARING LONG PANTS LOOKING DOWN AT HIS PANTS AT THE START COULD BE DUE TO A RECALL OF A FUNNY MEMORY RELATED TO HIS PANTS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "feel something in pocket"
+            },
+            {
+                "predicted": "THE MAN IN WHITE IS WEARING SUNGLASSES TO PROTECT HIS EYES FROM PAINT SPLATTERS. THEREFORE, THE CORRECT ANSWER LETTER IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "stylish"
+            },
+            {
+                "predicted": "THE MAN MADE SURE THAT THE BABY FACED THE CAMERA BY TURNING THE BABY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "turned the baby"
+            },
+            {
+                "predicted": "THE WOMAN IN WHITE MOVED HER HANDS UP AND AROUND NEAR THE END OF THE VIDEO TO ADJUST HER SCARF FOR COLD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "to call for people"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) SHAKE AROUND.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "shake around"
+            },
+            {
+                "predicted": "THE MAN WITH THE BLACK HAT PLAYED HIS INSTRUMENT BY STRUMMING THE GUITAR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "strumming guitar"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS STANDING ON A CRATE TO SHOW THE PRODUCT. THE OPTIONS ARE A, B, C, AND D, BUT THE ANSWER THAT MATCHES THE VIDEO IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "speak to the public"
+            },
+            {
+                "predicted": "THE BOY IN THE BLUE JACKET IS WEARING GLOVES TO KEEP HIS HANDS WARM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "keep hands warm"
+            },
+            {
+                "predicted": "THE TWO MEN PLAYED THE GUITARS AND SANG TOGETHER TO CELEBRATE A SPECIAL OCCASION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "fun"
+            },
+            {
+                "predicted": "THE MAN WITH THE RED BEANIE IS SMILING BECAUSE HE SAW A OLD FRIEND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "for the video"
+            },
+            {
+                "predicted": "THE WOMAN IN GREY SQUATTING OVER THE GRASS NEAR THE START WAS PROBABLY EXAMINING THE SOIL TEXTURE FOR GARDENING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "spreading jacket on grass"
+            },
+            {
+                "predicted": "THE LADY IN BLACK AMPLIFIED HER VOICE BY SPEAKING IN THE MICROPHONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "speaking in the microphone"
+            },
+            {
+                "predicted": "THE LADY IN BLACK JACKET NODS HER HEAD NEAR THE END BECAUSE SHE IS LISTENING TO MUSIC.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "agree with what being said"
+            },
+            {
+                "predicted": "THE MAN IN RED PUT HIS HAND IN THE GRASS AFTER PULLING HIS LEG OUT OF IT, WHICH SUGGESTS THAT HE MIGHT HAVE FOUND SOMETHING. IT'S HARD TO SAY FOR SURE WITHOUT MORE CONTEXT. SO, THE CORRECT OPTION LETTER FOR THE ANSWER IS A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to see if there is anything"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE HOLDING ON TO CANES AND STICKS BECAUSE THEY ARE HIKING. THEREFORE, THE CORRECT ANSWER IS D: HIKING TOOLS TO HELP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "hiking tools to help"
+            },
+            {
+                "predicted": "THE LADY IN WHITE SUPPORTED THE BABY SHE WAS HOLDING BY PUTTING HAND BEHIND BABY'S NECK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "puts hand behind baby s neck"
+            },
+            {
+                "predicted": "THE LADY IN BLUE IS HOLDING UP HER PHONE TO RECORD A VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "record for memory"
+            },
+            {
+                "predicted": "THE BOY IN THE VIDEO STRETCHES OUT HIS LEGS SOMETIMES IN THE MIDDLE OF THE VIDEO. THEREFORE, THE ANSWER TO THE QUESTION IS \"A\".",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "to get comfortable"
+            },
+            {
+                "predicted": "THE REASON FOR THE CHILDREN WEARING COSTUMES IN THE VIDEO IS RELATED TO HALLOWEEN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "celebrate halloween"
+            },
+            {
+                "predicted": "THE MAN GOT THE GIRL'S ATTENTION AT THE END OF THE VIDEO BY PRETENDING TO TRIP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "touch her"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS HOLDING A CAMERA WHILE PREPARING TO RECORD A BOY. THE REASON BEHIND IT IS TO DOCUMENT HIS BIRTHDAY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "filming the boy"
+            },
+            {
+                "predicted": "THE BLACK JACKET MAN POINTED AROUND THE ROOM TO SHOWCASE THE FURNITURE AND THE ARCHITECTURE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "introduce his stuff"
+            },
+            {
+                "predicted": "THE TWO MEN IN WHITE SITTING NEXT TO THE BLACK CAR PARKED IN THE MIDDLE OF THE VIDEO ARE LIKELY RESTING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "resting"
+            },
+            {
+                "predicted": "THE REASON FOR HAVING A MUSIC RACK IN FRONT OF THE LADIES IS TO SIGNIFY WHERE THE LEAD PERFORMER SHOULD STAND.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "hold score for them to refer"
+            },
+            {
+                "predicted": "THE REASON FOR THE PERSON HOLDING THE CAMERA TO MOVE TO THE EXTERIOR OF THE ROOM IS TO SIMULATE AN ESCAPE DRILL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "show the outside"
+            },
+            {
+                "predicted": "THE BABY IN GREY WAVED TO THE CAMERA AFTER SWINGING FOR A PERIOD OF TIME TO ATTRACT ATTENTION FOR A TOY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "say hi"
+            },
+            {
+                "predicted": "THE TALLEST MAN IN THE GROUP POINTED HIS FINGER AND LAUGHED AFTER THE MAN BESIDE HIM TOUCHED HIS NOSE. THIS COULD BE DUE TO THE COMEDIC NATURE OF THEIR ACTIONS OR A MISCHIEVOUS JOKE. THE MAN NEXT TO HIM TOUCHED HIS NOSE, AND THE TALLEST MAN FOLLOWED BY POINTING HIS FINGER AND LAUGHING. THEREFORE, THE OPTION LETTER FOR THE CORRECT ANSWER IS B.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "to lighten the mood"
+            },
+            {
+                "predicted": "THE MAN ON THE GUITAR HELD A GLASS ON THE TABLE NEAR HIM IN THE END, POSSIBLY TO DRINK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "drink"
+            },
+            {
+                "predicted": "THE MAN IN BLUE IS HUGGING THE WOMAN IN BLACK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "to hug her"
+            },
+            {
+                "predicted": "THE BOY TOUCHED THE PHONE AGAIN NEAR THE END OF THE VIDEO BECAUSE HE WANTED TO CLAP. SO, THE CORRECT ANSWER IS C. HE CLAPS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "tap screen"
+            },
+            {
+                "predicted": "I'M SORRY, BUT THE GIVEN ANSWER LETTER \"A\" IS INCORRECT. THE CORRECT ANSWER LETTER FOR THE QUESTION IS \"B.\"",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "tease her"
+            },
+            {
+                "predicted": "THE GIRL IN WHITE IS PICKING UP THE CHOCOLATE FROM THE CAKE USING HER FINGERS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pick up using fingers"
+            },
+            {
+                "predicted": "THE GIRL AT THE LEFT END OF THE LINE IS LOOKING BACK TO CHECK ON OTHERS AT THE BEGINNING. THEREFORE, THE ANSWER THAT BEST DESCRIBES HER REASON FOR TURNING HER HEAD IS (D) AFRAID OF MISSING OUT ON SOMETHING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "check on others"
+            },
+            {
+                "predicted": "THE LADIES IN THE VIDEO MOVE AROUND WHILE PERFORMING, WITH THE OPTION LETTER BEING C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "sway slightly"
+            },
+            {
+                "predicted": "THE LADY IN THE VIDEO IS ENTERTAINING THE BABY BY SHAKING HER HEAD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "shakes her head"
+            },
+            {
+                "predicted": "THE REASON FOR THE MAN TALKING TO THE WOMAN IS THAT HE IS ASKING HER ABOUT THE WEATHER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "direct her"
+            },
+            {
+                "predicted": "THE MAN WEARING A PLAIN SHIRT IS DIRECTED TOWARDS THE PICTURES ON THE WALLS NEAR THE END BY POINTING HIS FINGER AT THEM. SO, THE ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "look at wall"
+            },
+            {
+                "predicted": "THE BABY CHANGES THE DIRECTION OF THE BICYCLE IN THE MIDDLE OF THE VIDEO BY SHAKING THE FRAME.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "move handles"
+            },
+            {
+                "predicted": "THE BABY MOVED HIS HANDS UP AND DOWN AT THE START BECAUSE HE WAS EXCITED TO EAT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "excited to eat"
+            },
+            {
+                "predicted": "THE MAN STOOD IN FRONT OF THE SWING TO DEMONSTRATE BALANCE TECHNIQUES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pretend to get hit"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO LIES SIDEWAYS ON THE SOFA, POSSIBLY FOR REST OR COMFORT. HOWEVER, THE QUESTION IS NOT RELATED TO THE ANSWER OPTION C. THEREFORE, THE CORRECT ANSWER OPTION IS A: A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "rest"
+            },
+            {
+                "predicted": "THE BOY IN THE VIDEO USED A HANDLE TO SUPPORT HIMSELF WHILE CLIMBING UP THE SECOND CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "hold onto handle"
+            },
+            {
+                "predicted": "THE TWO GIRLS KISS EACH OTHER IN THE MIDDLE TO SIGNAL THE START OF A GAME.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "showing affection"
+            },
+            {
+                "predicted": "THE BABY IN THE VIDEO IS MOVING UP AND DOWN AT THE START BECAUSE IT IS IMITATING THE MAN'S DANCING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "man shake the toy"
+            },
+            {
+                "predicted": "THE MAN WEARING BLACK TRUNKS IS FOLLOWING BEHIND THE BABY WHILE HE SWIMS, SO HE IS DOING IT TO ENSURE SAFETY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "ensure safety"
+            },
+            {
+                "predicted": "THE WOMAN WEARING WHITE DRESS SIGNALS THE MAN WEARING SUIT AND THE WOMAN WEARING BLUE DRESS TO STOP KISSING BY DROPPING A GLASS TO THE FLOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "raise her hands"
+            },
+            {
+                "predicted": "THE BABY GIRL IN GREEN STARTED JUMPING BECAUSE SHE WAS EXCITED.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "excited"
+            },
+            {
+                "predicted": "I'M SORRY, IT SEEMS LIKE THE OPTION LETTER YOU HAVE PROVIDED IS NOT CORRECT. CAN YOU PLEASE PROVIDE THE CORRECT OPTION LETTER?",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "interested in horse"
+            },
+            {
+                "predicted": "THE CHILD IN THE VIDEO IS PLAYING WITH A SPOON BY USING IT TO TAP A RHYTHM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "moves the spoon in cup and mouth"
+            },
+            {
+                "predicted": "THE BABY IN THE VIDEO GRABS THE TOY BECAUSE IT WAS RECOMMENDED BY A PARENT NEARBY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "to bite it"
+            },
+            {
+                "predicted": "THE SPECIAL CHAIR HELPS THE BABY TO SLEEP BETTER BY SWINGING BACK AND FORTH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "swing back and forth"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE VIDEO ARE WEARING WARM CLOTHING BECAUSE THEY ARE OUTDOORS. SO, THE ANSWER IS C. KEEP WARM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "keep warm"
+            },
+            {
+                "predicted": "THE LADIES KEPT THEIR SUNGLASSES ON THE GROUND WHEN THEY WERE NOT USING IT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "put on head"
+            },
+            {
+                "predicted": "THE LADY IN PINK IS LOOKING DOWN, MOST LIKELY DUE TO READING THE BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "reading book"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS WEARING GLOVES FOR SAFETY REASONS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "safety"
+            },
+            {
+                "predicted": "THE LADIES IN THE VIDEO LOOKED AT THE MAN WITH GLASSES WHILE HE WAS SPEAKING IN FRONT OF THE CROWD, POSSIBLY BECAUSE HE DEMONSTRATED A NEW DANCE MOVE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "listen attentively to him"
+            },
+            {
+                "predicted": "THE LADY IN THE VIDEO PETTED THE CAT NEAR THE END, WHICH IS THE CORRECT ANSWER. THEREFORE, THE ANSWER LETTER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pat the cat"
+            },
+            {
+                "predicted": "THE WOMAN TOUCHED THE BABY'S NOSE AT THE END TO SHOW THE BABY A SECRET MAGIC TRICK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "clean food on nose"
+            },
+            {
+                "predicted": "THE REASON THEY ARE WEARING SIMILAR ATTIRE IS THAT THEY ARE SIBLINGS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "siblings"
+            },
+            {
+                "predicted": "THE MAN RAISES THE GLASS HIGHER TOWARDS THE END BECAUSE HE WANTED TO FINISH HIS DRINK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "cheers before drink"
+            },
+            {
+                "predicted": "THE MAN IN BLUE HELPS THE BABY GIRL SLIDE DOWN BY HOLDING HER AND ENCOURAGING HER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "hold the baby on slide"
+            },
+            {
+                "predicted": "THE MAN AND THE WOMAN TURNED AROUND AND WALKED IN THE OPPOSITE DIRECTION BECAUSE THEY SPOTTED A CELEBRITY BEHIND THEM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "to kiss"
+            },
+            {
+                "predicted": "THE MAN IN WHITE PICKED UP THE CUP FROM THE TABLE AND PUT IT NEAR HIS MOUTH WHILE SITTING ON THE BED BECAUSE HE WANTED TO DRINK FROM IT. SO, THE ANSWER IS D. INITIATE A CONVERSATION ABOUT THE CUP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "drink"
+            },
+            {
+                "predicted": "THE MAN STANDING IN THE BACKGROUND RAISES HIS HAND AT THE END BECAUSE HE IS HAPPY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "he is happy"
+            },
+            {
+                "predicted": "THE MAN BENDS DOWN NEAR THE END OF THE VIDEO TO RETRIEVE SOMETHING HE DROPPED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "adjusting music"
+            },
+            {
+                "predicted": "THE BABY IS LYING DOWN ON THE BED BECAUSE IT IS RESTING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "resting"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS CARRYING GREY CONTAINERS FOR COLLECTING DONATIONS FOR A LOCAL EVENT. THEREFORE, THE ANSWER IS A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "carrying food in it"
+            },
+            {
+                "predicted": "THE REASON WHY THE BOY IS HOLDING ONTO THE ROD IN FRONT IS TO SUPPORT HIMSELF WHILE BIKING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "support"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO IS LOOKING AT THE COW BECAUSE SHE IS INTERESTED IN IT. THE OPTION LETTER CORRESPONDS TO THE ANSWER CHOICE \"A\".",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "interested"
+            },
+            {
+                "predicted": "THE REASON WHY THE MEN ARE WEARING HATS IN THE VIDEO IS BECAUSE THEY ARE WALKING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sunny"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO MOVED WHILE SPEAKING AND PLAYING WITH THE MAN AT THE LAKE BY SPINNING AROUND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "turning 360 degrees with camera"
+            },
+            {
+                "predicted": "THE FLOOR IS COVERED WITH MATS TO PROTECT THE BABY FROM FALLING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "protect baby when falling"
+            },
+            {
+                "predicted": "THE REASON FOR PEOPLE STANDING ON THE SIDES IS TO WATCH THE RACE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "watching"
+            },
+            {
+                "predicted": "THE REASON WHY THE MAN IS STANDING NEXT TO THE PLANE IS THAT HE IS OBSERVING HOW THE ENGINE STARTS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "holding the wing"
+            },
+            {
+                "predicted": "THE KID RUNS AWAY TO THE OTHER END TO AVOID BEING SEEN BY THE MAN, WHICH SUGGESTS THAT THE MAN MIGHT BE CHASING HIM. BASED ON THIS INFORMATION, THE ANSWER OPTION THAT MAKES THE MOST SENSE IS C. THE BOY MIGHT HAVE THOUGHT HE SAW HIS FRIEND AND RAN AWAY TO AVOID BEING SEEN BY THE MAN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "want to play slide"
+            },
+            {
+                "predicted": "THE PERFORMERS CONVEY THEIR PASSION THROUGH THEIR MUSIC.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "move heads up and down"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO NODS HIS HEAD IN THE MIDDLE, WHICH COULD BE RELATED TO THE ONGOING DIALOGUE BETWEEN HIM AND THE WOMAN. IT IS UNCLEAR WHAT PROMPTED HIM TO NOD HIS HEAD AT THAT PARTICULAR MOMENT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "acknowledging what lady said"
+            },
+            {
+                "predicted": "THE LADY IN THE VIDEO IS SMILING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "speaking"
+            },
+            {
+                "predicted": "THE LADY IN THE VIDEO IS BENDING FORWARD TO FOCUS ON A SMALL DETAIL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "holding girl"
+            },
+            {
+                "predicted": "THE MAN IN GREEN PASSES THE BOUQUET TO THE WOMAN IN BLUE NEAR THE END OF THE VIDEO AS A SIGN OF SURRENDER. THEREFORE, THE CORRECT ANSWER IS C.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "her gift"
+            },
+            {
+                "predicted": "THE REASON WHY THE PERSON PUT HIS HAND ON THE BOY'S JACKET WHILE HE WAS CLIMBING DOWN IS TO PREVENT THE JACKET FROM GETTING DIRTY. SO, THE ANSWER TO THE QUESTION IS B.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "unbutton jacket"
+            },
+            {
+                "predicted": "THE REASON FOR THE GIRL IN PINK WEARING A GREEN COAT IS THAT SHE WANTS TO SHOW OFF HER HAIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "micmic superman"
+            },
+            {
+                "predicted": "THE HUSKY IN THE VIDEO ROLLS AROUND WHEN THE BABY RESTS OVER IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "roll around"
+            },
+            {
+                "predicted": "BASED ON THE INFORMATION PROVIDED IN THE VIDEO, THE BABY IS BLINKING HER EYES WHEN GETTING HER HAIR CUT BECAUSE SHE MIGHT BE REACTING TO THE BRIGHT LIGHTS. THEREFORE, THE ANSWER IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "prevent hair getting into eyes"
+            },
+            {
+                "predicted": "THE WOMAN IN BLUE SEEMS TO BE HAPPY IN THE VIDEO. THE OPTION LETTER THAT CORRESPONDS TO THIS ANSWER IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "smiling in the camera"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO IS TOUCHING THE BABY TO CHECK IF THE BABY CAN RECOGNIZE FAMILIAR FACES. SO, THE CORRECT ANSWER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "playing with the baby"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS USING A WHISTLE TO INDICATE TURNS AND TO STEER THE BOAT IN THE RIGHT DIRECTION. SO, THE ANSWER TO THE QUESTION IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "steer wheel"
+            },
+            {
+                "predicted": "THE PERSON RUNNING BEHIND THE GIRL RIDING THE BICYCLE APPEARS TO BE ADMIRING THE SCENERY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "look after girl"
+            },
+            {
+                "predicted": "THE ANSWER IS D. (D) BASED ON THE OPTIONS GIVEN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "hold the legs"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO POINTED TO HIS CHIN WHILE SQUATTING TO DEMONSTRATE POSTURE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "demonstrating posture"
+            },
+            {
+                "predicted": "THE LADY IN RED WAS TURNING AROUND HER FINGERS TO MAINTAIN BALANCE WHILE WALKING. SO, THE CORRECT OPTION LETTER TO CHOOSE WOULD BE D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "to stuff the soil in"
+            },
+            {
+                "predicted": "THE REASON THE BLONDE WOMAN IS WEARING SUNGLASSES IN THE VIDEO IS TO PROTECT HER EYES FROM THE SUN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "hot sun"
+            },
+            {
+                "predicted": "THE BOY IN THE VIDEO IS NOT EATING HIS FOOD BECAUSE HE IS BUSY PLAYING WITH HIS BABY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "busy playing with baby"
+            },
+            {
+                "predicted": "THE LADY IN THE VIDEO IS ROCKING THE BABY GENTLY AND HUMMING A TUNE TO SHOW AFFECTION. THE ANSWER IS C.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "tickle the baby"
+            },
+            {
+                "predicted": "THE BOY IN THE VIDEO IS SWINGING THE PIPE LEFT AND RIGHT AS HE HOLDS ON TO IT WHILE MAKING A GESTURE. THEREFORE, THE OPTION LETTER THAT IS RELATED TO THE ACTION HE IS PERFORMING IS \"C\".",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "distribute the water"
+            },
+            {
+                "predicted": "THE WOMAN BENT DOWN AFTER STOPPING HER GUITAR PLAYING BECAUSE SHE NEEDED TO ADJUST THE STAGE LIGHTS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pick up drinks"
+            },
+            {
+                "predicted": "THE CHILDREN ARE DRESSED IN SIMILAR UNIFORMS DUE TO THE MATCHING OUTFITS FOR ART CLASS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "scholl uniform"
+            },
+            {
+                "predicted": "THE PEOPLE IN THE MALL ARE USING CONVEYOR BELTS TO MOVE AROUND.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "walking"
+            },
+            {
+                "predicted": "THE GIRL BELOW THE STAGE TURNED AROUND AT THE START BECAUSE SHE WAS DANCING FOR FUN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "dancing for fun"
+            },
+            {
+                "predicted": "THE REASON FOR HOLDING ONTO THE BUOY WHILE MOVING IS TO KEEP STABILITY AND SAFETY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "stability and safety"
+            },
+            {
+                "predicted": "THE PERSON IN WHITE SLAMS THE GLASS ON THE TABLE AFTER DRINKING THE BEVERAGE TO SIGNAL THAT THE PRESENTATION HAS ENDED. THEREFORE, THE CORRECT OPTION LETTER TO RETURN IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "show is end product"
+            },
+            {
+                "predicted": "THE BOY IN THE BLUE JACKET RAISES HIS LEFT ARM NEAR THE MIDDLE OF THE VIDEO BECAUSE HE WANTS TO WAVE TO SOMEONE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "ask for help"
+            },
+            {
+                "predicted": "THE HAND STICKING OUT OF THE WINDOW IS LIKELY WAVING TO A FRIEND, AS PER THE GIVEN OPTION LETTER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "posing for camera"
+            },
+            {
+                "predicted": "THE COUPLE DANCES TOGETHER WITH HOLDING HANDS, AS SEEN IN THE VIDEO.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "hold hands"
+            },
+            {
+                "predicted": "THE BABY IN THE VIDEO IS PLAYING WITH A RED TOY WHILE LYING ON THE GROUND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "playing with it"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO PUSHED SOMETHING UP THE SLOPE TO SET UP A CAMPFIRE AT THE TOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "to go down with scooter"
+            },
+            {
+                "predicted": "THE MAN IN NAVY MADE SURE THAT EVERYONE GOT A COCONUT BY REMINDING THEM TO SAVE FOR LATER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pass to those who do nt have"
+            },
+            {
+                "predicted": "THE REASON FOR THE MAN WALKING OVER TO THE WOMAN AT THE START WAS TO HAVE A CEREMONY TOGETHER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "having ceremony together"
+            },
+            {
+                "predicted": "THE WOMAN PUT HER HAND BEHIND HER WHILE SHE WAS IN THE MIDDLE. THE REASON FOR THIS ACTION CAN BE DEDUCED FROM THE VIDEO. THE OPTIONS ARE:\n\n* TO SIGNAL TO A FRIEND BEHIND HER (C).\n* TO ADJUST HER BALANCE FOR A DANCE MOVE (D).\n* TO REACH FOR SOMETHING IN BACK POCKET (B).\n* TO SHIELD HER EYES FROM THE SUN (B).",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "reach for something in back pocket"
+            },
+            {
+                "predicted": "THE MAN IN WHITE RETRIEVED HIS PADDLE AT THE START BY USING A MAGNET TO ATTRACT IT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "bend down to pick up"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO LOOKED DOWN AT HER FOOT IN THE MIDDLE OF THE DANCE BECAUSE SHE WAS DISTRACTED BY SOMETHING. THE ANSWER IS C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "distracted by something"
+            },
+            {
+                "predicted": "THE PERSON SKIING DOWN MAINTAINS HER BALANCE BY USING A POKE STICK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "poke stick down"
+            },
+            {
+                "predicted": "THE REASON FOR SWINGING THEIR HANDS FROM ONE SIDE TO ANOTHER IS DANCING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "dancing"
+            },
+            {
+                "predicted": "THE BOY MANAGED TO GET THE TRICYCLE MOVING STRAIGHT BY TURNING THE HANDLEBARS. THEREFORE, THE ANSWER IS D: TURNED THE HANDLEBARS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "turned the handlebars"
+            },
+            {
+                "predicted": "THE YOUNGER LADY HELD HER RIGHT ARM OUT IN FRONT OF THE PARROT AFTER THE PARROT STOPPED BOUNCING. THE REASON FOR THIS ACTION WAS TO SHOW THE PARROT HER BRACELET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "asking parrot to go there"
+            },
+            {
+                "predicted": "THE WOMAN MOVES HER BODY TO HIT THE BALL, WHICH IS THE REASON BEHIND HER MOVEMENT. SO, THE CORRECT ANSWER IS A: TO SHOW OFF TO THE CROWD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "gain momentum to hit the ball"
+            },
+            {
+                "predicted": "THE COUPLE IN THE VIDEO ARE SHOWING THEIR AFFECTION TOWARDS EACH OTHER THROUGH A KISS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "kiss each other"
+            },
+            {
+                "predicted": "THE MAN'S FEET HIT THE GROUND AFTER HE COMPLETED THE CYCLING RACE. THEREFORE, THE CORRECT ANSWER IS A. MEASURE THE BIKE'S DISTANCE TO THE GROUND.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "stop his bike"
+            },
+            {
+                "predicted": "THE BOY WITH THE GRAY STRIPES CAKE EXTINGUISHED ONE OF HIS CANDLES BY BLOWING THEM OUT HIMSELF.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "boy blows out"
+            },
+            {
+                "predicted": "THE MAN LEARNED THE LYRICS OF THE SONG BY FOLLOWING A TRAIL OF RHYTHMIC FOOTSTEPS. SO, THE ANSWER IS (B): FOLLOWED A TRAIL OF RHYTHMIC FOOTSTEPS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "reading from television"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO PUSHED THE BOWL OF SOUP AWAY FROM THE LITTLE BOY TO DEMONSTRATE HOW HOT THE SOUP IS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "passed to the old lady"
+            },
+            {
+                "predicted": "THE BOY PICKED UP A PILLOW IN THE MIDDLE OF THE VIDEO TO DEMONSTRATE BALANCING ON ONE FOOT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to play"
+            },
+            {
+                "predicted": "THE GIRL MOVED HER LEGS UP TO ADJUST HER BALANCE FOR A QUICK POSE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "happy"
+            },
+            {
+                "predicted": "THE TOYS HANGING IN THE PRAM ARE FOR ENTERTAINING THE BABY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "entertain baby"
+            },
+            {
+                "predicted": "THE DOG IN THE VIDEO REACHES FOR THE FOOD USING ITS PAW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "lean forward"
+            },
+            {
+                "predicted": "THE REASON FOR THE BOY FIDDLING WITH THE MOTORBIKE BEFORE RIDING IT AT THE BEGINNING WAS TO ENSURE SAFETY BY CHECKING THE BRAKES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "playing"
+            },
+            {
+                "predicted": "THE MAN IN BLACK SQUATTED DOWN ON THE FLOOR AFTER WALKING OFF FOR A WHILE. THEREFORE, THE ANSWER IS A. TIDYING UP TO CLEAR THE SPACE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pick up the food"
+            },
+            {
+                "predicted": "THE MAN IN BLUE IS HOLDING ONTO A PHONE AS HE WALKS, WHICH SUGGESTS THAT HE MAY BE USING IT TO TAKE A SELFIE. HOWEVER, THE OTHER OPTIONS, SUCH AS DARING SOMEONE TO DO SOMETHING OR USING A PHONE AS A FLASHLIGHT, DO NOT SEEM TO BE RELATED TO HIS ACTIONS IN THE VIDEO. THEREFORE, THE CORRECT ANSWER SEEMS TO BE D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "talking over the phone"
+            },
+            {
+                "predicted": "THE REASON THE MAN WEARING A BLACK SHIRT HOLDING A CAMERA IS BECAUSE HE IS FILMING THE SCENE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "film the scene"
+            },
+            {
+                "predicted": "THE BOY IN THE VIDEO PUTS HIS HANDS ON THE DOUGH TO MAKE SURE IT DOESN'T DRY OUT. SO, THE CORRECT ANSWER IS (C) ROLLING THE DOUGH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "rolling the dough"
+            },
+            {
+                "predicted": "THE REASON PEOPLE ARE STANDING BESIDE THE POPE TO PERFORM THE CEREMONY IS THAT THEY ARE COORDINATING THE LIGHTING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "watching"
+            },
+            {
+                "predicted": "THE MAN IN RED TAPS HIS FEET AS HE PLAYS THE INSTRUMENT TO KEEP THE BEAT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "keep the beat"
+            },
+            {
+                "predicted": "THE MAN IN BROWN KEPT HIS HEAD DOWN THROUGHOUT THE VIDEO BECAUSE HE WAS SEARCHING FOR A DROPPED CONTACT LENS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "playing the guitar"
+            },
+            {
+                "predicted": "THE MUSICIANS ARE SWAYING TO THE MUSIC BECAUSE THEY ARE ENJOYING THE RHYTHM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "enjoying the rhythm"
+            },
+            {
+                "predicted": "THE MAN WALKING AWAY FROM THE END OF THE TREE COULD BE DOING SO BECAUSE HE IS CONCERNED ABOUT CAUSING A SCENE. THIS IS THE REASON MENTIONED IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "careful"
+            },
+            {
+                "predicted": "THE MALE PERFORMERS ARE HALF-NAKED AND WEAR RED SKIRTS AS PART OF THEIR TRADITIONAL COSTUME DURING THEIR PERFORMANCE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "traditional costume"
+            },
+            {
+                "predicted": "THE SHORTER GIRL LEARNED THE MOVES TO DANCE INITIALLY BY WATCHING A FAMOUS DANCE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "copies her sister"
+            },
+            {
+                "predicted": "THE WOMAN IN PINK POINTS HER FINGER AND TURNS HER HEAD TO THE WOMAN IN GREY SINGLET AT THE START OF THE VIDEO. SO, THE CORRECT ANSWER IS D. SUGGEST A SINGING PRACTICE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "ask baby to walk"
+            },
+            {
+                "predicted": "THE REASON WHY THE BABY IS FEEDING THE DOG FOOD ONE BY ONE IS TO TEACH THE DOG PATIENCE BY DELAYED FEEDING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "to feed many times"
+            },
+            {
+                "predicted": "THE BIRD IN THE VIDEO MOVES AROUND THE FIELD BY WALKING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "walks"
+            },
+            {
+                "predicted": "THE BLACK DOG WAS WALKING AROUND THE OTHER TWO DOGS WHILE THEY WERE INTERACTING. THEREFORE, THE ANSWER IS (A) WANT TO PLAY WITH ONE ANOTHER.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "observing"
+            },
+            {
+                "predicted": "THE BOY USES HIS LEGS TO MAKE THE CHAIR MOVE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "shake body"
+            },
+            {
+                "predicted": "THE LADY IN THE VIDEO USES A DEVICE TO SIGNAL TO MAGICAL CREATURES TO HELP HER GET THE VEHICLE TO MOVE. THE ANSWER IS C: PUSH WITH LEGS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "push with legs"
+            },
+            {
+                "predicted": "THE MAN IN RED SHORTS HELD A CAMERA IN HIS RIGHT HAND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bottle"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO WAS MOVING HIS ARMS AT THE START BECAUSE HE WAS SIGNALING THE END OF THE MUSIC.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "shake the toy"
+            },
+            {
+                "predicted": "THE WOMAN IS HOLDING A NAPKIN TO PREVENT THE SUN FROM GLARING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "clean baby"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO IS KNEELING ON THE FLOOR. HOWEVER, IT IS NOT CLEAR WHY SHE IS DOING SO. THE OPTIONS GIVEN IN THE QUESTION DO NOT SEEM TO BE RELATED TO HER KNEELING ON THE FLOOR. THEREFORE, I AM NOT SURE WHICH OPTION TO PROVIDE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "learn dancing"
+            },
+            {
+                "predicted": "THE MAN IN WHITE IN THE VIDEO IS SWINGING HIS HANDS TO DEMONSTRATE MOVEMENT. THEREFORE, THE CORRECT OPTION LETTER TO SELECT IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "demonstrate movement"
+            },
+            {
+                "predicted": "THE MAN IS HOLDING A STRING IN THE BEGINNING TO INITIATE A DANCE ROUTINE WITH THE TOY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "stabilise cloth and lever cloth up"
+            },
+            {
+                "predicted": "THE BABY LOOKED FAR TO CHECK ON THE CAMERAMAN WHO WAS FOLLOWING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "check the cameraman followed"
+            },
+            {
+                "predicted": "THE WOMAN HOLDING THE MICROPHONE IN THE MIDDLE OF THE VIDEO IS THE BLONDE ONE. SHE SEEMS TO BE ANNOUNCING A SPECIAL GUEST.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "interview"
+            },
+            {
+                "predicted": "THE LADY IN BLUE CHECKED THAT THE GIRL IN BLUE WAS PLAYING CORRECTLY BY PLACING A FLOWER ON THE PIANO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "sit next to her"
+            },
+            {
+                "predicted": "THE REASON FOR THE GIRL PASSING THE PLUSH TO THE SITTING ADULT IS TO SHOW HER SKILLS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "let the adult see her work"
+            },
+            {
+                "predicted": "I'M SORRY, BUT THE PROVIDED ANSWER LETTER \"B\" DOESN'T HAVE ANY CONTEXT OR RELATION TO THE GIVEN QUESTION. COULD YOU PLEASE PROVIDE THE CORRECT ANSWER LETTER ALONG WITH ITS EXPLANATION?",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "mimic an animal"
+            },
+            {
+                "predicted": "THE CHILDREN ARE WALKING AROUND THE ROOM FOR THE PURPOSE OF REHEARSING A DANCE ROUTINE. SO, THE ANSWER IS (B) REHEARSING A DANCE ROUTINE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "playing"
+            },
+            {
+                "predicted": "THE REASON FOR THE BOYS MOVING THEIR BODIES IS BECAUSE THEY ARE DANCING.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "dancing"
+            },
+            {
+                "predicted": "THE REASON FOR THE KID TURNING THE PAGES OF THE BOOK ON THE TABLE IS TO READ IT. THEREFORE, THE CORRECT ANSWER IS D. PRACTICE FOR A MAGIC TRICK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "search for pictures"
+            },
+            {
+                "predicted": "THE DOG RAN TO OTHER PLACES IN THE HOUSE DUE TO THE PRESENCE OF THE BALL. SO, THE CORRECT OPTION LETTER TO CHOOSE IS B.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to fetch the ball"
+            },
+            {
+                "predicted": "THE WOMAN IN PINK PICKS UP THE GIRL AT THE END OF THE VIDEO BECAUSE THE GIRL WANTED TO REACH FOR A TOY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "waves getting bigger"
+            },
+            {
+                "predicted": "THE MAN IN NAVY USED A STICK TO CRACK THE COCONUTS OPEN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "use stick hit open"
+            },
+            {
+                "predicted": "THE REASON BEHIND THE GROUP OF PEOPLE SITTING ON STOOLS BEHIND THE GIRL IN BLACK IN FRONT IS THAT THEY ARE FILMING A DOCUMENTARY SCENE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "waiting for their turn to perform"
+            },
+            {
+                "predicted": "THE BOY PLACED THE HELICOPTER ON THE TABLE BECAUSE HE WANTED A BREAK FROM FLYING IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "to fly helicopter"
+            },
+            {
+                "predicted": "THE REASON FOR WEARING PAJAMAS IS FOR SLEEPING. SO, THE ANSWER IS D. FOR PARTICIPATION IN A COSTUME EVENT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "at home"
+            },
+            {
+                "predicted": "THE WOMAN CAME CLOSE TO THE BABY IN THE MIDDLE OF THE VIDEO BECAUSE SHE WAS WAVING AT THE PEOPLE ACROSS THE ROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "to kiss her"
+            },
+            {
+                "predicted": "THE LADY IN WHITE LOOKED TO HER RIGHT IN THE MIDDLE OF THE VIDEO, POSSIBLY TO CHECK OUT A SHOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "check out a shop"
+            },
+            {
+                "predicted": "THE MAN IN BROWN WAS CAUTIOUS OF THE CAR WHILE WALKING PAST IT. THUS, THE OPTION LETTER TO CHOOSE IS D.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "cautious of car"
+            },
+            {
+                "predicted": "THE REASON FOR THE PEOPLE LOOKING FORWARD WAS THAT THEY WERE READY FOR AN ANNOUNCEMENT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "watching performance"
+            },
+            {
+                "predicted": "THE INTERACTION BETWEEN THE BOY AND GIRL IN THE VIDEO IS RELATED TO PLAYING WITH A CAR. SO, THE ANSWER IS (C) COMING CLOSE TO EACH OTHER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "coming close to each other"
+            },
+            {
+                "predicted": "BASED ON THE GIVEN OPTIONS, THE MAN IN THE VIDEO IS HOLDING A KNIFE TO PREPARE FOOD. THEREFORE, THE ANSWER IS A.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "prepare food"
+            },
+            {
+                "predicted": "THE CHILDREN PACK THE THINGS ON THE SOFA BY COLORING THEM WITH CRAYONS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "put into big bag"
+            },
+            {
+                "predicted": "THE BABY MOVES TO THE SIDE DUE TO THE SOUND.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "lie on his side"
+            },
+            {
+                "predicted": "THE HORSE IN THE VIDEO IS BEING GUIDED BY THE GIRL WEARING GREEN, AS SHE PULLS IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "girl in green pulls it"
+            },
+            {
+                "predicted": "THE REASON FOR THE BOY HOLDING TWO STICKS IN HIS HANDS IS TO PLAY DRUMS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "to play drums"
+            },
+            {
+                "predicted": "THE GIRL IN PINK HOLDING ON TO THE PINK COLOR BOARD IS LIKELY DOING IT TO SIGNAL THAT SHE LIKES THE COLOR PINK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "sleigh"
+            },
+            {
+                "predicted": "THE REASON THE BOY IS MOVING HIS LIPS WHILE PLAYING THE PIANO IS BECAUSE HE IS TRYING TO KEEP PACE WITH THE WHISPERING INSTRUCTOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "singing"
+            },
+            {
+                "predicted": "THE TOY BLOCK PLUSH FELL FROM THE BABY'S TABLE BECAUSE THE BABY GOT DISTRACTED BY A COLORFUL BIRD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "baby pushed it"
+            },
+            {
+                "predicted": "THE MAN IS SMILING AT THE GIRL BECAUSE HE IS DAYDREAMING ABOUT A VACATION.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "playing with her"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO DEMONSTRATED HIS AFFECTION TOWARDS THE BOY IN BLUE BY PICKING HIM UP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pick him up"
+            },
+            {
+                "predicted": "THE LADY IN BLACK HELD A CUP OF WATER BUT DIDN'T DRINK IT TOWARDS THE END OF THE VIDEO. THE REASON BEHIND THIS COULD BE THAT SHE WAS PREPARING FOR A RITUAL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "speak"
+            },
+            {
+                "predicted": "THE OLDER GIRL PATTED THE BEAM WHILE HOLDING THE LITTLE GIRL TO SIGNAL THE START OF THE GAME.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "suggest girl to hold it"
+            },
+            {
+                "predicted": "THE BOY HOLDING THE YELLOW CAR MOVED TO THE LEFT WITH HIS CAR AFTER THE FIRST COLLISION BECAUSE HE WAS CHECKING THE ROOM'S SYMMETRY WITH HIS CAR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "get the toy driver that fell"
+            },
+            {
+                "predicted": "THE REASON THE MAN TOUCHED THE WING OF THE PLANE WAS TO CHECK IF IT WAS WARM ENOUGH FOR TAKEOFF.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "to help stabilize it"
+            },
+            {
+                "predicted": "THE REASON FOR THE MAN STAYING BEHIND AND WALKING SLOWLY TOWARDS THE BABY IS TO CHECK THE TEXTURE OF THE FLOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "look out for baby"
+            },
+            {
+                "predicted": "THE LADY BENT OVER THE STAGE AT THE END TO GET A KEYBOARD. SO, THE ANSWER IS B.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "put keyboard on stage"
+            },
+            {
+                "predicted": "THE BOY PUT HIS LEFT LEG UP THE CHAIR BEFORE CLIMBING ONTO THE SECOND CHAIR TO DEMONSTRATE STABILITY ON ONE LEG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "lift himself up"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO IS MOVING THE TROLLEY BACK AND FORTH IN THE MIDDLE OF THE VIDEO TO DEMONSTRATE A NEW DANCE MOVE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "for fun"
+            },
+            {
+                "predicted": "THE REASON THE PEOPLE AT THE BACK ARE WATCHING THE TRUCKS AT THE START IS TO ENSURE SAFETY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "ensure safety"
+            },
+            {
+                "predicted": "THE REASON WHY THE WOMAN WITH SHORT HAIR STOOD UP AFTER THE CEREMONY WAS TO GREET AN IMPORTANT GUEST.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "leaving room for the next one"
+            },
+            {
+                "predicted": "THE MAN IN BLUE HELD UP A CAMERA TO TAKE A VIDEO OF THE GIRL IN GREEN PASSING BY. SO, THE CORRECT OPTION LETTER WOULD BE C, TAKE VIDEO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "take video"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO TOOK OFF HER SOCKS BY CLAPPING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pull the sock hard"
+            },
+            {
+                "predicted": "THE MAN IN STRIPES PUT ON HIS JACKET AT THE DOOR TO ENSURE THAT IT MATCHED WITH HIS OUTFIT. SO, THE CORRECT ANSWER IS C.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "look cool"
+            },
+            {
+                "predicted": "THE LADY RAN INTO THE SHORE TO JOIN THE TWO GUYS. SO, THE CORRECT OPTION LETTER THAT COULD BE SELECTED IS D.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "join them to play in waters"
+            },
+            {
+                "predicted": "THE POLES ON THE SNOW MOVED DUE TO THE SKIER PASSING BY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "swiped by the person"
+            },
+            {
+                "predicted": "THE REASON WHY THE LADY IN PINK IS SITTING NEXT TO THE GIRL IN THE BLUE DRESS IS THAT THEY ARE ATTENDING A PIANO CLASS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "coaching the girl"
+            },
+            {
+                "predicted": "THE LADY IN THE VIDEO TOUCHED HER BEANIE AND HAIR AT THE BEGINNING OF THE VIDEO TO SIGNAL A FRIEND TO START THE MUSIC.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "adjust beanie and hair"
+            },
+            {
+                "predicted": "THE BABY IN THE VIDEO IS USING THE BLANKET TO MIMIC MAKING A TENT OUT OF IT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "grab it"
+            },
+            {
+                "predicted": "THE MAN IN THE BROWN JACKET IS HOLDING ONTO A BLUE STICK TO DEMONSTRATE A NEW MARTIAL ARTS MOVE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "try to catch snake"
+            },
+            {
+                "predicted": "THE BOY IN PINK DRIES HIMSELF USING A TOWEL IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "put towel around"
+            },
+            {
+                "predicted": "THE ANSWER IS (D) HOLD IT WITH BOTH HANDS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "hold it with both hands"
+            },
+            {
+                "predicted": "THE ANSWER IS B: SIGNALING BLUE TRAIN TO MOVE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "signaling blue train to move"
+            },
+            {
+                "predicted": "THE MAN IN ORANGE CLAPPED HIS HANDS TO SIGNAL FOR THE LIGHTS TO BE DIMMED AND TO ENCOURAGE THE MAN IN WHITE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "encourage him"
+            },
+            {
+                "predicted": "THE MEN IN THE VIDEO ARE WALKING SLOWLY BECAUSE THEY ARE IMITATING FAMOUS EXPLORERS THEY ADMIRE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "enjoy the walk"
+            },
+            {
+                "predicted": "THE MAN WEARING BLUE AND BLACK ATTIRE IS HOLDING A PHONE AT THE END OF THE VIDEO. HE COULD BE USING IT FOR RECORDING A VIDEO, GUIDING A LOST CHILD, OR MAKING A CALL ABOUT DINNER RESERVATIONS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "recording video"
+            },
+            {
+                "predicted": "THE GIRL STOOD UP FROM THE CHAIR TO SHOW PROPER BODY LANGUAGE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "show certain body language"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS MOVING WITH THE HELP OF POLES WHILE SKIING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "walking and skiing with poles"
+            },
+            {
+                "predicted": "THE WOMAN WITH A RED BACKPACK IS LOOKING CONSTANTLY IN THE SAME DIRECTION DUE TO HER WAITING FOR A TRAIN FROM THAT DIRECTION. THEREFORE, THE CORRECT OPTION LETTER TO ANSWER THE QUESTION IS A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "waiting for train from that direction"
+            },
+            {
+                "predicted": "THE BABY IN THE VIDEO IS CRAWLING TOWARDS THE DOG AFTER THE MAN MOVES HIS LEG FURTHER AWAY BECAUSE THE BABY IS INTERESTED IN THE SOUND OF THE TOY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "follow direction of man s leg"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO GRABS THE DOG'S PAW AND MOVES IT AROUND TO CHECK IF THE DOG OBEYS OR NOT. SO THE CORRECT OPTION LETTER IS D.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "play with it"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO LOOKS UP AND SMILES BECAUSE SHE IS BEING APPROACHED BY A RABBIT. THEREFORE, THE ANSWER LETTER IS C.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "likes the rabbit"
+            },
+            {
+                "predicted": "THE ANSWER IS D: THE CRUISE SAILS UNDER THE CLOUDS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "the cruise sails under the clouds"
+            },
+            {
+                "predicted": "THE MAN IN THE GREEN SWEATER IS POSING WITH HIS CARDS IN FRONT OF THE CAMERA BECAUSE HE HAS JUST WON THE GAME.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "smiling"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS HOLDING THE ROD TO SUPPORT HIMSELF WHILE RIDING THE BICYCLE. THEREFORE, THE ANSWER OPTION THAT IS RELATED TO THE QUESTION IS D.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "support"
+            },
+            {
+                "predicted": "THE MEN ARE STANDING ON THE BOAT TO BALANCE THEMSELVES AGAINST STRONG WINDS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "rowing boat"
+            },
+            {
+                "predicted": "THE BOY ENDED UP LYING DOWN AT THE END OF THE VIDEO BY ROLLING AFTER JUMPING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "rolled after jumping"
+            },
+            {
+                "predicted": "THE PERSON IN BLUE HELD HIS THUMB UP NEAR THE END OF THE VIDEO BECAUSE HE WAS READY TO LIFT SOMETHING. THE ANSWER IS A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "happy"
+            },
+            {
+                "predicted": "THE BABY LOOKED UP AFTER TOUCHING THE ADULT'S SHOELACES BECAUSE THEY NOTICED A COLORFUL TOY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "distracted"
+            },
+            {
+                "predicted": "THE MAN WITH THE PLAIN BLACK SHIRT RAISED HIS HANDS AFTER THE MAN BESIDE HIM TOUCHED HIS NOSE. THE REASON FOR THIS ACTION COULD BE RELATED TO SIGNALING FOR THE START OF A RACE, AS INDICATED BY THE OPTION C IN THE ANSWER. HOWEVER, THE OTHER OPTIONS (A, B, AND D) ARE NOT RELEVANT IN THIS CONTEXT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "gesture and make points"
+            },
+            {
+                "predicted": "THE REASON WHY THE LADY OPENED A GLASS BOTTLE BEVERAGE DURING HER PRESENTATION WAS TO DEMONSTRATE HOW TO OPEN THE BOTTLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "drink"
+            },
+            {
+                "predicted": "THE MEN PLACED THE CONES ON THE GROUND BY FOLLOWING THE MAN WEARING THE WATCH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "follow the man with the watch"
+            },
+            {
+                "predicted": "THE MAN SWINGS THE GOLF CLUB BEFORE HITTING THE BALL TO SEE IF THE GROUND IS LEVEL. THUS, THE ANSWER TO THE QUESTION IS \"TO CHECK IF THE GROUND IS LEVEL\".",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "estimate strength to hit"
+            },
+            {
+                "predicted": "THE BOY WEARING WHITE STANDS ON A HIGHER GROUND TO WATCH THE SHOW. THE ANSWER IS C.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "short"
+            },
+            {
+                "predicted": "THE DOG IN THE VIDEO IS RESTING ON THE LAPTOP BECAUSE IT SEEMS TO BE COMFORTABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "comfortable"
+            },
+            {
+                "predicted": "THE TODDLER IN THE VIDEO IS LOOKING AT THE MAN ON THE SOFA BECAUSE HE IS CURIOUS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "observing his reaction"
+            },
+            {
+                "predicted": "THE REASON WHY THE GIRL REACHES FOR THE BLUE BUCKET IS TO POUR WATER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "take out vegetables"
+            },
+            {
+                "predicted": "THE BOY PUT HIS HANDS ON THE GROUND IN THE MIDDLE TO SUPPORT HIMSELF.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "support himself"
+            },
+            {
+                "predicted": "THE REASON WHY THE CHICKEN SUDDENLY FLAPPED ITS WINGS WHILE IT WAS NEAR THE WASHING BAY IS THAT IT WAS DISTRACTED BY A NOISE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "foot slipped"
+            },
+            {
+                "predicted": "THE GIRL MOVED AWAY FROM THE MIDDLE OF THE DANCE BECAUSE SHE WAS OVERWHELMED BY EMOTIONS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "does not want to dance"
+            },
+            {
+                "predicted": "THE TIGER IS STANDING ON A PLATFORM BECAUSE IT IS PRACTICING BALANCING FOR A PERFORMANCE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "eat food"
+            },
+            {
+                "predicted": "THE LADY IN PINK IS SITTING AND RESTING BESIDE THE BABY. SO, THE ANSWER IS C.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sitting"
+            },
+            {
+                "predicted": "THE ANSWER IS C. LADY HOLDS THE CUP TO DOG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "lady holds the cup to dog"
+            },
+            {
+                "predicted": "THE REASON BEHIND THE BOY RAISING THE PHONE ON THE TELEVISION TOWARDS THE END OF THE VIDEO IS TO IMITATE A SCENE FROM A MOVIE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "tap it"
+            },
+            {
+                "predicted": "THE MAN IN BLACK AND RED DEMONSTRATED WHAT HE WAS TALKING ABOUT BY TAKING ACTIONS TO EMPHASIZE HIS SKILL. THE OPTION THAT CORRESPONDS TO THIS IS D, AS HE DEMONSTRATED HIS SKILL TO THE AUDIENCE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "teach the team how to do"
+            },
+            {
+                "predicted": "THE PERSON IS WEARING A HELMET BECAUSE THEY ARE PLAYING A GAME.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "role play"
+            },
+            {
+                "predicted": "THE LADY IN THE VIDEO IS SHOWN TO BE KISSING THE BABY. SO, THE ANSWER IS \"KISSING THE BABY\".",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "talking to the baby"
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.0
+    }
+}

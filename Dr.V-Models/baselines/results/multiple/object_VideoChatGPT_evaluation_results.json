@@ -1,0 +1,4330 @@
+{
+    "object": {
+        "accuracy": 0.0,
+        "unmatched_cases": [
+            {
+                "predicted": "THE PERSON LIED ON A BED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bed."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BICYCLE HELMET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sandwich."
+            },
+            {
+                "predicted": "THE PERSON TIDIED UP THE GLOBE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A PILLOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON OPENED A DRAWER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A GUITAR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "phone/camera."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BLANKET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A VIOLIN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON OPENED A BOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON SAT ON A ROCKING CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON OPENED A LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON TOOK OFF A PAINTING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON OPENED A REFRIGERATOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON TOOK A PAN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pan"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO ATE A PIZZA SLICE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sandwich."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BASEBALL CAP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "phone/camera."
+            },
+            {
+                "predicted": "THE PERSON THREW A VASE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON TOOK A TELESCOPE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON OPENED A BOOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON SAT ON A PIANO BENCH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON OPENED A SUITCASE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A VASE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BICYCLE HELMET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "THE PERSON LIED ON THE BED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "bed."
+            },
+            {
+                "predicted": "A BLANKET WAS PUT DOWN BY THE PERSON.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "book"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A HELMET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "THE PERSON TIDIED UP THE CLOTHES IN THE ROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON TOOK A LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON SAT AT A TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON THREW A BASKETBALL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON TOOK A DISH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A LOAF OF BREAD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "phone/camera."
+            },
+            {
+                "predicted": "THE PERSON SAT AT A TABLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON OPENED A SUITCASE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON OPENED A SUITCASE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "window."
+            },
+            {
+                "predicted": "THE PERSON THREW A BOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON SAT ON A SOFA OR COUCH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A GUITAR IN THE KITCHEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "THE PERSON TOOK A VIOLIN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A PAPER/NOTEBOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "B: BASKET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON TIDIED UP THE BICYCLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON THREW A FRISBEE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TOOK A CUP OR GLASS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "cup/glass/bottle."
+            },
+            {
+                "predicted": "THE PERSON TOOK A CAMERA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BICYCLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "sandwich."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO TIDIED UP THE SKATEBOARD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "door"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A VIOLIN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE OVEN DOOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON TOOK A LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON SAT ON A SOFA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON TOOK A LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON OPENED A JEWELRY BOX.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "A: PHONE WAS PUT DOWN BY THE PERSON.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "clothes"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A LANTERN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "food."
+            },
+            {
+                "predicted": "THE PERSON OPENED THE REFRIGERATOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BASKETBALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "THE PERSON TOOK A TROPHY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A CHAIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A CUP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "THE PERSON ATE A PILLOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "medicine."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "clothes"
+            },
+            {
+                "predicted": "THE PERSON WAS SITTING AT A CHAIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A CUP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "THE PERSON SAT ON A SOFA OR COUCH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON ATE A SANDWICH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "sandwich"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A SANDWICH ON THE TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sandwich."
+            },
+            {
+                "predicted": "THE PERSON THREW A FRISBEE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "clothes"
+            },
+            {
+                "predicted": "THE PERSON OPENED A TREASURE CHEST.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "window."
+            },
+            {
+                "predicted": "THE PERSON TOOK A VIOLIN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "cleaner"
+            },
+            {
+                "predicted": "THE PERSON OPENED A SUITCASE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON TIDIED UP THE CLOSET/CABINET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "clothes"
+            },
+            {
+                "predicted": "THE PERSON TOOK A TOWEL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A COFFEE MUG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BICYCLE IN THE KITCHEN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BOX.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO ATE A SNACK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "snack"
+            },
+            {
+                "predicted": "THE PERSON TOOK A BOX.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A TENNIS RACKET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "THE PERSON THREW A BOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON THREW A LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON SAT ON A CHAIR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "floor."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A CUP/GLASS/BOTTLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "cup/glass/bottle."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A TOWEL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A TENNIS RACKET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "broom"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A TOWEL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "laptop"
+            },
+            {
+                "predicted": "THE PERSON OPENED A BRIEFCASE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "cabinet"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A HAT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "THE PERSON THREW A BASKETBALL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A PILLOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON OPENED A TOOLBOX.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BOX.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BOWLING BALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A GUITAR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON TOOK A GLASS SLIPPER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "clothes"
+            },
+            {
+                "predicted": "THE PERSON OPENED A BOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON OPENED A CABINET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "cabinet"
+            },
+            {
+                "predicted": "THE PERSON TOOK A GUITAR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "books"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A TROPHY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "picture."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A PAPER OR NOTEBOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON TOOK A PAPER OR NOTEBOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SHOE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "shoe"
+            },
+            {
+                "predicted": "THE PERSON ATE A SANDWICH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sandwich"
+            },
+            {
+                "predicted": "THE PERSON TOOK A TOWEL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON TOOK A CAMERA.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "clothes"
+            },
+            {
+                "predicted": "THE PERSON TOOK A BASKETBALL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "dish"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A TOWEL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON TOOK A CUP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "THE PERSON TIDIED UP THE BICYCLE HELMET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A CUP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A LANTERN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON TOOK A GUITAR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SHOE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON THREW A BASKETBALL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON ATE A MAGAZINE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "sandwich."
+            },
+            {
+                "predicted": "THE PERSON THREW A FRISBEE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE REFRIGERATOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON TOOK A VIOLIN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON OPENED A CABINET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON SAT ON A PIANO BENCH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "floor."
+            },
+            {
+                "predicted": "THE PERSON TOOK A PILLOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SKATEBOARD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BOX.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A CUP OR GLASS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "cup/glass/bottle."
+            },
+            {
+                "predicted": "THE PERSON LIED ON A BED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bed"
+            },
+            {
+                "predicted": "A: BOOK WAS PUT DOWN BY THE PERSON.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A COFFEE MUG.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "coffee mug."
+            },
+            {
+                "predicted": "THE PERSON THREW A LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON OPENED THE WINDOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "door."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BLANKET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A TOWEL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A HAT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "picture."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A HELMET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "THE PERSON TOOK A VIOLIN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BASKETBALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A HEADPHONE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "food."
+            },
+            {
+                "predicted": "THE PERSON TOOK A LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "towel"
+            },
+            {
+                "predicted": "THE PERSON TOOK A TELESCOPE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BOX.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON TOOK A GUITAR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON THREW A SKATEBOARD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON OPENED A TOOLBOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON TOOK A TELESCOPE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bag"
+            },
+            {
+                "predicted": "THE PERSON TOOK A LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A NOTEBOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "THE PERSON SAT AT A TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "carpet"
+            },
+            {
+                "predicted": "THE PERSON SAT ON A COUCH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON TOOK A LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON TOOK A PAINTING.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "clothes"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BOX.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON TOOK A PAINTING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON OPENED A SUITCASE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "door"
+            },
+            {
+                "predicted": "THE PERSON OPENED A SKATEBOARD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "door"
+            },
+            {
+                "predicted": "B: GLOBE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "picture."
+            },
+            {
+                "predicted": "THE PERSON TOOK A CHESSBOARD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON SAT ON A LARGE CUSHION.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "floor."
+            },
+            {
+                "predicted": "THE PERSON WAS SITTING AT A TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A GUITAR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SOCCER BALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A CUP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "THE PERSON TOOK A HELMET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "THE PERSON SAT ON A HAMMOCK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BICYCLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "THE PERSON THREW A BAG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "THE PERSON TOOK A TOWEL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON TOOK A CHESSBOARD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BACKPACK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A VIOLIN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON THREW A TOWEL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON WAS SITTING AT A TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON WAS SITTING AT A TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON TOOK A PICTURE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "picture."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SOCCER BALL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE AQUARIUM COVER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON THREW A LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A TENNIS RACKET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BASKET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "food."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BASKET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON TOOK A GUITAR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE UMBRELLA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A SNOW GLOBE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON OPENED A LANTERN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "door"
+            },
+            {
+                "predicted": "THE PERSON THREW A LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "A. CLOTHES WERE TIDIED UP BY THE PERSON.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON TOOK A TOWEL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON THREW A LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE BOOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON THREW A LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "THE PERSON OPENED THE OVEN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "door."
+            },
+            {
+                "predicted": "THE PERSON CLOSED A LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE REFRIGERATOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A SHOE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON SAT AT A TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A SHOE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON TOOK A CAMERA.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A VIOLIN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BINOCULARS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE REFRIGERATOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A FLOWER VASE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A VASE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON SAT AT A TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON OPENED THE REFRIGERATOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "refrigerator"
+            },
+            {
+                "predicted": "THE PERSON TIDIED UP THE CHANDELIER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pillow"
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE CURTAIN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON TOOK A GUITAR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON OPENED A LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON THREW A BASKETBALL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BASEBALL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A POTTED PLANT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE JEWELRY BOX.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "window."
+            },
+            {
+                "predicted": "THE PERSON TOOK A TOWEL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "towel"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A TOWEL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON ATE A SANDWICH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sandwich."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A LAPTOP ON THE FLOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A PILLOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "A.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "THE PERSON TOOK A LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON TIDIED UP THE CLOTHES IN THE ROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE MICROWAVE DOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON THREW A TENNIS RACKET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON TOOK A CAMERA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON SAT AT A TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE AQUARIUM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "door"
+            },
+            {
+                "predicted": "THE PERSON OPENED THE REFRIGERATOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "window."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A CUP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "picture."
+            },
+            {
+                "predicted": "THE PERSON TOOK A MAGAZINE OR NEWSPAPER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "food."
+            },
+            {
+                "predicted": "B: TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BASKETBALL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "phone/camera."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BASKETBALL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "clothes"
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE REFRIGERATOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON TOOK A TELESCOPE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "THE PERSON TOOK A LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON TOOK A PILLOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON TOOK A TENNIS RACKET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "phone/camera."
+            },
+            {
+                "predicted": "THE PERSON OPENED A TREASURE CHEST.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "A.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON OPENED A REFRIGERATOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON CLOSED A BOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE BLENDER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "window."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A LAPTOP ON THE COUCH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BOOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A CUP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "THE PERSON TOOK A BROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "broom"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BAG.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SKATEBOARD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON TOOK A CAMERA.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON TOOK A LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "book"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A PICTURE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "picture"
+            },
+            {
+                "predicted": "THE PERSON OPENED THE REFRIGERATOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON TOOK A VIOLIN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "blanket"
+            },
+            {
+                "predicted": "THE PERSON LIED ON A BED.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "bed."
+            },
+            {
+                "predicted": "THE PERSON OPENED A LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON CLOSED A JEWELRY BOX.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A GLOBE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON OPENED THE REFRIGERATOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SKATEBOARD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "dish"
+            },
+            {
+                "predicted": "THE PERSON TOOK A TOWEL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON TOOK A LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON TOOK A TABLET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A COFFEE MUG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "clothes"
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE PIANO LID.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON THREW A LANTERN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "food."
+            },
+            {
+                "predicted": "THE PERSON TOOK A TENNIS RACKET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BOOK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A SANDWICH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BAG.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "THE PERSON SAT ON A COUCH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A FLOWER POT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BINOCULARS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "food"
+            },
+            {
+                "predicted": "THE PERSON TOOK A VIOLIN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "sandwich."
+            },
+            {
+                "predicted": "THE PERSON TOOK A VASE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "phone"
+            },
+            {
+                "predicted": "THE PERSON OPENED A BOX.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON TOOK A TENNIS RACKET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON THREW A BASKETBALL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BAG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A GUITAR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "THE PERSON CLOSED A LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "A: SANDWICH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "sandwich."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BAG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "THE PERSON TOOK A TENNIS RACKET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON TOOK A GUITAR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BOX.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "box"
+            },
+            {
+                "predicted": "THE PERSON SAT ON A BED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "bed."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BASKETBALL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "picture."
+            },
+            {
+                "predicted": "THE PERSON THREW A LAPTOP IN THE VIDEO.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON CLOSED A LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE PIANO LID.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON LIED ON A BED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bed."
+            },
+            {
+                "predicted": "THE PERSON TOOK A DISH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "THE PERSON TOOK A CUP/GLASS/BOTTLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "cup/glass/bottle."
+            },
+            {
+                "predicted": "THE PERSON THREW A LAMP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "THE PERSON WAS SITTING AT A TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "table."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A CUP/GLASS/BOTTLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "cup/glass/bottle."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BASKETBALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON THREW A FRISBEE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON SAT ON A SHOE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bed."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BAG.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "B: SWING.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "floor."
+            },
+            {
+                "predicted": "THE PERSON TIDIED UP THE FISHING ROD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON TOOK A TRUMPET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "phone/camera."
+            },
+            {
+                "predicted": "THE PERSON THREW A LAMP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A LAPTOP ON THE TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON THREW A SHOE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON TIDIED UP THE BOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "book"
+            },
+            {
+                "predicted": "THE PERSON TOOK A CUP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "THE PERSON TIDIED UP THE BICYCLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A CUP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "THE PERSON SAT AT A CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON SAT ON A BICYCLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "blanket"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "THE PERSON TOOK A GUITAR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "THE PERSON ATE A PIECE OF CHOCOLATE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "sandwich."
+            },
+            {
+                "predicted": "THE PERSON CLOSED A LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON CLOSED A BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON SAT ON A BED.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "bed."
+            },
+            {
+                "predicted": "C: WINDOW BLINDS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON THREW A PAINTBRUSH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON SAT AT A CHAIR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON TIDIED UP THE VASE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE CAR DOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "window."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "book"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A TENNIS RACKET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON TOOK A NOTEBOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "medicine."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A SAXOPHONE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "THE PERSON LIED ON THE BED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bed."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BROOM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON TOOK A LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "pillow"
+            },
+            {
+                "predicted": "THE PERSON OPENED THE REFRIGERATOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON WAS SITTING AT A COUCH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "sofa"
+            },
+            {
+                "predicted": "THE PERSON THREW A FRISBEE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON THREW A GLOBE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON TOOK A LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SNACK FROM THE BAG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "snack"
+            },
+            {
+                "predicted": "A: TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON TOOK A GUITAR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "sandwich."
+            },
+            {
+                "predicted": "THE PERSON ATE A SANDWICH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "sandwich."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A CHAIR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "orange"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A MUG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON THREW A MAGAZINE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON LIED ON THE FLOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bed."
+            },
+            {
+                "predicted": "THE PERSON OPENED THE AQUARIUM.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON SAT ON A HAMMOCK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON TOOK A CAMERA.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pillow"
+            },
+            {
+                "predicted": "THE PERSON TOOK A BICYCLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON TOOK A GUITAR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON OPENED A DRAWER.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON TOOK A FRISBEE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "cup/glass/bottle."
+            },
+            {
+                "predicted": "THE PERSON TOOK A LADLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "ladle"
+            },
+            {
+                "predicted": "THE PERSON TIDIED UP THE BICYCLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "towel"
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE REFRIGERATOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "door."
+            },
+            {
+                "predicted": "THE PERSON SAT AT A CHAIR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON TOOK A CUP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "cup/glass/bottle."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BOUQUET OF FLOWERS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "phone/camera."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BAG.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A TOWEL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON TOOK A CELL PHONE OR CAMERA.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "phone/camera."
+            },
+            {
+                "predicted": "THE PERSON LIED ON A BED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bed"
+            },
+            {
+                "predicted": "THE PERSON TOOK A CHARI.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON TOOK A TENNIS RACKET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON OPENED A SUITCASE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON THREW A BASKETBALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON WASHED A BICYCLE IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "table."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SOCCER BALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "cup/glass/bottle."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE REFRIGERATOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON TOOK A GUITAR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "shoe"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A LANTERN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SKATEBOARD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "phone/camera."
+            },
+            {
+                "predicted": "THE PERSON TOOK A TOWEL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BOX.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "phone/camera."
+            },
+            {
+                "predicted": "A: TABLE WAS PUT DOWN BY THE PERSON.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "food."
+            },
+            {
+                "predicted": "THE PERSON OPENED THE REFRIGERATOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON ATE A SANDWICH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "sandwich"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A SUITCASE ON THE FLOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "bag"
+            },
+            {
+                "predicted": "THE PERSON TOOK A TROPHY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "sandwich."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SKATEBOARD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "THE PERSON THREW A TOWEL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A VIOLIN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "picture"
+            },
+            {
+                "predicted": "THE PERSON TOOK A TELESCOPE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON TOOK A VASE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SKATEBOARD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "THE PERSON THREW A PILLOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BOUQUET OF FLOWERS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A GLOBE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "book"
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON WASHED A BICYCLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE REFRIGERATOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON TOOK A VASE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SUITCASE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE REFRIGERATOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON OPENED A BOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "box"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BAG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "THE PERSON THREW A TENNIS RACKET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON OPENED A TREASURE CHEST.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON LIED ON THE FLOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO ATE A SANDWICH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "sandwich."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE SUITCASE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON TOOK A GUITAR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE SHOE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON OPENED THE PLANT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "refrigerator"
+            },
+            {
+                "predicted": "THE PERSON TOOK A BLANKET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BROOM.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "broom"
+            },
+            {
+                "predicted": "THE PERSON WASHED A TOWEL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "towel"
+            },
+            {
+                "predicted": "THE PERSON TOOK A CUP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A VIOLIN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pan"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "box"
+            },
+            {
+                "predicted": "THE PERSON TOOK A PICTURE FRAME.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "book"
+            },
+            {
+                "predicted": "THE PERSON LIED ON A BED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bed."
+            },
+            {
+                "predicted": "THE PERSON OPENED A SUITCASE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE TOOL DRAWER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON TOOK A TELESCOPE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A LANTERN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON SAT ON A COUCH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON WASHED A BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "mirror"
+            },
+            {
+                "predicted": "THE PERSON OPENED A BOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "book"
+            },
+            {
+                "predicted": "THE PERSON THREW A BASKETBALL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON SAT AT A CHAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON WASHED A BICYCLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON THREW A GUITAR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "THE PERSON TOOK A TELESCOPE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON LIED ON A COUCH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A CUP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "THE PERSON THREW A LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON TOOK A TENNIS RACKET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BICYCLE HELMET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON OPENED A BOX.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "box"
+            },
+            {
+                "predicted": "THE PERSON CLOSED A BOX.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON TOOK A LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON OPENED A BRIEFCASE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON OPENED A BOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BAG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A CUP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE PIANO LID.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BOTTLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "phone/camera."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE AQUARIUM COVER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON THREW A FRISBEE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON THREW A GUITAR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BAG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "bag"
+            },
+            {
+                "predicted": "THE PERSON OPENED A LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "towel"
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE REFRIGERATOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON OPENED A REFRIGERATOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON TOOK A PAINTING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A PAN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pan"
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE REFRIGERATOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON ATE A SNACK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "snack"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BLANKET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON TOOK A PICTURE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON TOOK A GUITAR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON OPENED A SUITCASE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON TIDIED UP A GUITAR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "clothes"
+            },
+            {
+                "predicted": "THE PERSON CLOSED A BOX.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON TOOK A TROPHY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON TIDIED UP THE BICYCLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON OPENED THE CABINET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "cabinet"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A CUP OR GLASS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "cup/glass/bottle."
+            },
+            {
+                "predicted": "THE PERSON SAT ON A SOFA/COUCH.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON OPENED A CUP OR GLASS BOTTLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blanket"
+            },
+            {
+                "predicted": "THE PERSON OPENED THE REFRIGERATOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "refrigerator"
+            },
+            {
+                "predicted": "THE PERSON OPENED THE DOOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "door."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING A PAIR OF SHOES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "shoes"
+            },
+            {
+                "predicted": "THE PERSON ATE A REMOTE CONTROL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "medicine."
+            },
+            {
+                "predicted": "THE PERSON CLOSED A REFRIGERATOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SUITCASE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON OPENED THE REFRIGERATOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "refrigerator"
+            },
+            {
+                "predicted": "THE PERSON OPENED THE OVEN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BEACH BALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON ATE A SANDWICH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "sandwich."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A MAGAZINE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BICYCLE HELMET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "THE PERSON SAT ON A SOFA OR COUCH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON OPENED A MUSICAL INSTRUMENT CASE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON THREW A FLOWER VASE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON OPENED A CABINET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "cabinet"
+            },
+            {
+                "predicted": "THE PERSON OPENED A DOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "door"
+            },
+            {
+                "predicted": "THE PERSON WASHED A BICYCLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON TOOK A CUP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "THE PERSON OPENED A BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "cabinet"
+            },
+            {
+                "predicted": "THE PERSON CARRIED A BAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bag"
+            },
+            {
+                "predicted": "THE PERSON THREW A LAMP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON THREW A BOOK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SKATEBOARD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON ATE A PENCIL CASE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sandwich."
+            },
+            {
+                "predicted": "THE PERSON TOOK A GUITAR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "picture."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A SHOE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SUITCASE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "towel"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING A SAXOPHONE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "phone/camera."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE WINDOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SOCCER BALL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "phone/camera."
+            },
+            {
+                "predicted": "THE PERSON TOOK A LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON TOOK OUT A LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A SKATEBOARD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON OPENED A TREASURE CHEST.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BICYCLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "paper"
+            },
+            {
+                "predicted": "THE PERSON CARRIED A BAG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "THE PERSON TIDIED UP THE BICYCLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "table."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE SUITCASE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BLANKET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON TOOK A VASE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON WAS SAT ON A BED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bed."
+            },
+            {
+                "predicted": "THE PERSON OPENED A CABINET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "cabinet"
+            },
+            {
+                "predicted": "THE PERSON OPENED A LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "cabinet"
+            },
+            {
+                "predicted": "THE PERSON TOOK A PICTURE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BICYCLE HELMET.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "phone/camera."
+            },
+            {
+                "predicted": "THE PERSON TOOK A TOWEL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON LIED ON A SOFA/COUCH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON OPENED THE CABINET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "cabinet"
+            },
+            {
+                "predicted": "THE PERSON CLOSED A BRIEFCASE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON THREW A SKATEBOARD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A CUP ON THE TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "THE PERSON TOOK A PAN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "food."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE REFRIGERATOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bag"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON WASHED AN AQUARIUM CASTLE DECORATION.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "mirror."
+            },
+            {
+                "predicted": "THE PERSON SAT AT A TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON OPENED A CLOSET OR CABINET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE GUITAR CASE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON TOOK OFF A TENNIS RACKET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A SKATEBOARD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "picture."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE MICROWAVE DOOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON OPENED A TENNIS RACKET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "briefcase."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SKATEBOARD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON OPENED A TREASURE CHEST.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON OPENED A REFRIGERATOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON TOOK A GUITAR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON POURED A BAG OF JUICE INTO THE WASHING MACHINE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "juice"
+            },
+            {
+                "predicted": "THE PERSON SAT ON A CABINET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "floor."
+            },
+            {
+                "predicted": "THE PERSON OPENED A REFRIGERATOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE PIANO LID.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON LIED ON A SOFA/COUCH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON OPENED A TREASURE CHEST.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON THREW A FRISBEE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A TENNIS RACKET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BANANA.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON TOOK A VIOLIN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO ATE A CALCULATOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "medicine."
+            },
+            {
+                "predicted": "THE PERSON THREW A PILLOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON WASHED THE RADIO.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "THE PERSON THREW A BAG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bag"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A PAN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pan"
+            },
+            {
+                "predicted": "THE PERSON THREW A PILLOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON SAT ON A BICYCLE SEAT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON SAT AT A CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON TOOK A PUPPY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "THE PERSON THREW A TOWEL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BOX.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON OPENED THE COOKIE JAR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A HIKING BACKPACK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A VIOLIN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON MADE A LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "food"
+            },
+            {
+                "predicted": "THE PERSON OPENED THE PIANO LID.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "door."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SKATEBOARD.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON TOOK A TEDDY BEAR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "remote"
+            },
+            {
+                "predicted": "THE PERSON OPENED THE REFRIGERATOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "refrigerator"
+            },
+            {
+                "predicted": "THE PERSON SAT ON A BICYCLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE PIANO LID.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BOWLING BALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON OPENED A BOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON SAT AT A TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON SAT AT A TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "table."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE REFRIGERATOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON SAT ON A SOFA OR COUCH.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON THREW A SOCCER BALL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON SAT AT A TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON WASHED A GUITAR IN THE VIDEO.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE REFRIGERATOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "refrigerator"
+            },
+            {
+                "predicted": "THE PERSON OPENED A BAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "door"
+            },
+            {
+                "predicted": "THE PERSON OPENED THE CAR TRUNK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "window."
+            },
+            {
+                "predicted": "THE PERSON THREW A FRISBEE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A SHOE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A PLANT POT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON TOOK A WINDOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "clothes"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO ATE A NOVEL.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "burger"
+            },
+            {
+                "predicted": "THE PERSON TOOK A SKATEBOARD.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON TOOK A TENNIS RACQUET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON WASHED A LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "window."
+            },
+            {
+                "predicted": "THE PERSON OPENED A BOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON OPENED A SUITCASE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON TOOK OUT A SNACK FROM THE TABLE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "snack"
+            },
+            {
+                "predicted": "THE PERSON OPENED A BOX.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON CLEANED A CLOSET/CABINET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A SOCCER BALL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A CHESS SET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "pillow"
+            },
+            {
+                "predicted": "THE PERSON OPENED A BAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "box"
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE BED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "window."
+            },
+            {
+                "predicted": "THE PERSON TIDIED UP THE BICYCLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "table."
+            },
+            {
+                "predicted": "THE PERSON OPENED A CABINET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "cabinet"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO ATE A DISH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "food."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A CUP ON THE DESK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "THE PERSON LIED ON A BED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bed."
+            },
+            {
+                "predicted": "THE PERSON OPENED A JEWELRY BOX.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON WASHED A CUP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "cup"
+            },
+            {
+                "predicted": "THE PERSON OPENED A CABINET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "cabinet"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WAS WEARING A RED SHIRT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON THREW A BAG.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BROOM.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "A.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON WASHED A CLOCK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "dish."
+            },
+            {
+                "predicted": "THE PERSON TOOK A PILLOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "pillow."
+            },
+            {
+                "predicted": "THE PERSON WASHED A BICYCLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blanket"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A VASE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE PIANO LID.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON TIDIED THE BOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "book"
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE SUITCASE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "door."
+            },
+            {
+                "predicted": "THE PERSON WAS WEARING A SKATEBOARD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BAG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "THE PERSON WAS SITTING AT A TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "sofa"
+            },
+            {
+                "predicted": "THE PERSON LIED ON THE FLOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "floor"
+            },
+            {
+                "predicted": "THE PERSON SAT AT A TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE CAR TRUNK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE TOWEL.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON TOOK A PAPER/NOTEBOOK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "paper/notebook."
+            },
+            {
+                "predicted": "THE PERSON THREW A TENNIS RACKET.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON TIDIED UP THE CUP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "table."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A HELMET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "picture."
+            },
+            {
+                "predicted": "THE PERSON THREW A WINDOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON TOOK A VASE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BASEBALL MITT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pan"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON LIED ON THE BED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bed"
+            },
+            {
+                "predicted": "THE PERSON OPENED A BOX.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BASKETBALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "THE PERSON CLEANED THE UMBRELLA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A VIOLIN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "clothes"
+            },
+            {
+                "predicted": "THE PERSON TOOK A CAMERA.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON TOOK A SKATEBOARD.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "blanket"
+            },
+            {
+                "predicted": "THE PERSON TOOK A CAMERA.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON OPENED A LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON WAS SITTING AT A TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON TOOK A BROOM.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "broom"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A PAINTING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "broom."
+            },
+            {
+                "predicted": "THE PERSON THREW A BASKETBALL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE SUITCASE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON OPENED THE REFRIGERATOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON CLOSED A BOX.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A LAPTOP ON THE TABLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "phone/camera."
+            },
+            {
+                "predicted": "THE PERSON OPENED THE REFRIGERATOR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "refrigerator"
+            },
+            {
+                "predicted": "THE PERSON THREW A BOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON THREW A GUITAR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "clothes"
+            },
+            {
+                "predicted": "THE PERSON OPENED A LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE VASE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "box"
+            },
+            {
+                "predicted": "THE PERSON LIED ON THE FLOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "floor."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE LAPTOP.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "book"
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE CLOSET/CABINET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON OPENED THE SUITCASE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "suitcase"
+            },
+            {
+                "predicted": "THE PERSON OPENED A BOX.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "book"
+            },
+            {
+                "predicted": "THE PERSON LIED ON BY THE PERSON IS A PILE OF AUTUMN LEAVES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blanket"
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE DOOR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON OPENED A LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "door"
+            },
+            {
+                "predicted": "THE PERSON OPENED A MAILBOX.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A DISH ON THE DESK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "shoe"
+            },
+            {
+                "predicted": "THE PERSON TOOK A TENNIS RACKET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blanket."
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING A SHOE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON TOOK A PILLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "shoe."
+            },
+            {
+                "predicted": "THE PERSON THREW A TOWEL.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON ATE A SANDWICH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "sandwich"
+            },
+            {
+                "predicted": "THE PERSON LIED ON WAS A BED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "bed."
+            },
+            {
+                "predicted": "THE PERSON LIED ON A COUCH.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON OPENED A BOUQUET OF FLOWERS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "book"
+            },
+            {
+                "predicted": "THE PERSON LIED ON A YOGA MAT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON THREW A SHOE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON TOOK A BASKETBALL.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON THREW A SHOE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "clothes"
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE SHOE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON WASHED A SKATEBOARD.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON TOOK A LAPTOP.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "laptop"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A CUP/GLASS/BOTTLE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "cup/glass/bottle."
+            },
+            {
+                "predicted": "THE PERSON LIED ON THE FLOOR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "floor."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON THREW A PILLOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "towel."
+            },
+            {
+                "predicted": "THE PERSON TIDIED UP THE BOX.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "clothes"
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON SAT ON A PIANO BENCH.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "sofa/couch."
+            },
+            {
+                "predicted": "THE PERSON THREW A TOY CAR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A GUITAR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A TENNIS RACKET.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "clothes"
+            },
+            {
+                "predicted": "THE PERSON TOOK A LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "phone/camera."
+            },
+            {
+                "predicted": "THE PERSON SAT AT A CHAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A GUITAR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "clothes."
+            },
+            {
+                "predicted": "THE PERSON THREW A HAT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "box."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A LAPTOP.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "phone/camera."
+            },
+            {
+                "predicted": "THE PERSON CLOSED THE REFRIGERATOR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            },
+            {
+                "predicted": "THE PERSON CLOSED A BOX.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "closet/cabinet."
+            },
+            {
+                "predicted": "THE PERSON TOOK A LAPTOP.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON FIRST TOOK THE YELLOW BAG.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "bag"
+            },
+            {
+                "predicted": "THE PERSON SAT AT A TABLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blanket"
+            },
+            {
+                "predicted": "THE PERSON OPENED A VINTAGE SUITCASE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "door."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BAG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "bag."
+            },
+            {
+                "predicted": "THE PERSON WAS SITTING AT A TABLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "chair"
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A CUP/GLASS/BOTTLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "cup/glass/bottle."
+            },
+            {
+                "predicted": "THE PERSON TOOK A PICTURE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "picture."
+            },
+            {
+                "predicted": "THE PERSON TOOK A PAINTING.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "laptop."
+            },
+            {
+                "predicted": "THE PERSON PUT DOWN A BICYCLE HELMET.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "book."
+            },
+            {
+                "predicted": "THE PERSON TIDIED UP THE GARDEN HOSE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "clothes"
+            },
+            {
+                "predicted": "THE PERSON CLOSED A BAG.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "refrigerator."
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.0
+    }
+}

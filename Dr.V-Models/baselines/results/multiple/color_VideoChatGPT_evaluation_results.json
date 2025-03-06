@@ -1,0 +1,1804 @@
+{
+    "color": {
+        "accuracy": 0.0,
+        "unmatched_cases": [
+            {
+                "predicted": "THE ATHLETE WEARS GREEN CLOTHES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "THE DOG IN THE VIDEO IS BLACK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE MEN IN BLACK COATS ARE WEARING WHITE TROUSERS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "beige"
+            },
+            {
+                "predicted": "THE LADY WITH SHORT CURLS IS WEARING A BLUE DRESS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE CAR IN THE VIDEO IS BLUE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "THE COLOR OF THE PANTS OF THE STREET DANCERS IN THE VIDEO IS BLUE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE PEOPLE ON THE STAGE ARE WEARING PINK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pink"
+            },
+            {
+                "predicted": "THE CAR DRIVING IN THE VIDEO IS YELLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE BAG IN FRONT OF THE FERTILIZER IS GREEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE PERSON IN BLACK CLOTHES IS WEARING DARK BLUE PANTS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "dark blue"
+            },
+            {
+                "predicted": "THE FIRST DANCER IS WHITE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE PERSON IN GREEN CLOTHES IS WEARING DARK GRAY PANTS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE COLOR OF THE BASIN IN WHICH THE PERSON WASHES CLOTHES IS BLUE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING BROWN CLOTHES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "purple"
+            },
+            {
+                "predicted": "THE REFEREE IS WEARING A BLUE SHIRT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "black and white"
+            },
+            {
+                "predicted": "THE DOG UNDER THE TABLE IS BLACK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE WRIST GUARD ON THE HANDS OF A MAN IN BLUE PANTS IS YELLOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE COLOR OF THE TABLE IS RED.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "purple"
+            },
+            {
+                "predicted": "THE PERSON IN THE GRAY TSHIRT IS WEARING CHARCOAL GRAY PANTS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "navy blue"
+            },
+            {
+                "predicted": "THE GLASSES OF THE MAN WITH A BEARD ARE GREEN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pink"
+            },
+            {
+                "predicted": "THE LINE OF THE KITE IS BLUE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE MAN IS WEARING PURPLE PANTS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE PERSON IN YELLOW CLOTHES IS WEARING DARK GREY PANTS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "navy blue"
+            },
+            {
+                "predicted": "THE COLOR OF THE SPRINGBOARD IS BLUE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "cyan"
+            },
+            {
+                "predicted": "THE PERSON IN WHITE CLOTHES HAS CHESTNUT HAIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "golden"
+            },
+            {
+                "predicted": "THE PERSON WEARING BLUE CLOTHES IS WEARING DARK BLUE CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE BEATEN DOG IS GREY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE FEMALE ATHLETE'S CLOTHES ARE GREEN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE COLOR OF THE ATHLETE'S CLOTHES IS DARK GREEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "charcoal grey"
+            },
+            {
+                "predicted": "THE GUY WHO STARTED HITTING WEARS YELLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE QUILT IN THE VIDEO IS WHITE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE PERSON THROWING THE JAVELIN HAS RED HAIR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE PERSON IN THE BLACK COAT HAS GOLDEN HAIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "golden"
+            },
+            {
+                "predicted": "THE COLOR OF THE BASKET IS BLUE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE FIRST PERSON IN THE VIDEO IS WEARING A RED DRESS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE GLOVES OF THE WOMAN WITH LONG HAIR ARE PINK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING BLUE CLOTHES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE MAN'S HAT IS GREEN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "THE DIVING MAN IS WEARING BLUE TROUSERS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE ATHLETE IS WEARING BLUE CLOTHES WITH LONG POLES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE FAT PERSON IS WEARING ORANGE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "orange"
+            },
+            {
+                "predicted": "THE SHOES OF THE PERSON IN THE FIELD WITH SUNGLASSES ARE BROWN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "brown"
+            },
+            {
+                "predicted": "THE PERSON IN BLUE IS WEARING BLUE SHOES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE MAN IN THE WHITE SWIMMING TRUNKS HAS BLUE HAIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE PERSON IN THE GRAY VEST HAS BLONDE HAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE DOG IN THE VIDEO IS BLACK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE MAN IS WEARING BEIGE PANTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "beige"
+            },
+            {
+                "predicted": "THE PERSON IS WEARING WHITE CLOTHES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE WOMAN'S HAIR COLOR IN THE VIDEO IS BLUE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE MAN IS WEARING A BLUE HAT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE PERSON SITTING IN THE CHAIR IS WEARING BLUE PANTS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "purple"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO IS WEARING BLACK CLOTHES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE MAN IN THE BLACK COAT IS WEARING A RED HAT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE COLOR OF THE HAT OF THE FIRST KAYAKING PERSON IS YELLOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING RED CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE BOYS IN GREY WEAR LIGHT GREY CLOTHES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE DANCER'S CLOTHES ARE BRIGHT BLUE AND WHITE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black and white"
+            },
+            {
+                "predicted": "THE FIELD FOR CROSS-COUNTRY BIKING IS GREEN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "THE TREE IN THE VIDEO IS YELLOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "THE POOL IS BLUE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE PERSON WEARING A DOG IS WEARING A YELLOW SHIRT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE ROOF OF THE HOUSE IN THE VIDEO IS BLUE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE STICK OF THE PERSON WEARING BLACK GLOVES IS GREEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE COLOR OF THE HORIZONTAL BAR IS BLUE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE PANTS OF THE PERSON IN THE BLACK TSHIRT ARE RED.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE PERSON IN WHITE CLOTHES HAS BLONDE HAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE COLOR OF THE CREAM IS WHITE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE HANDLE IN THE VIDEO IS BLUE AND RED.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "blue and red"
+            },
+            {
+                "predicted": "THE OTHER SIDE OF THE PINK CLOTH IS YELLOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS WEARING WHITE CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE PERSON IN THE BLACK VEST HAS BLONDE HAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE FLIPPER IN THE VIDEO IS BLUE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE PERSON WITH THE RED HAT IS WEARING A YELLOW SHIRT.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE CORRECT ANSWER IS B. PEOPLE WEARING WHITE CLOTHES ARE WEARING BLACK PANTS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE KNIFE IS BLACK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE WATCH OF THE BLOND PERSON IS SILVER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE TABLE IS RED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE PERSON WEARING BLACK SHORTS HAS CHESTNUT HAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "golden"
+            },
+            {
+                "predicted": "THE PERSON IN WHITE CLOTHES IS WEARING BLACK PANTS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE LIFE JACKET WORN BY THE PERSON IN WHITE CLOTHES IS YELLOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE COLOR OF THE SHOES OF THE PERSON WEARING A TIE IS BLACK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE LIFT TRUCK IS YELLOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "orange"
+            },
+            {
+                "predicted": "THE PERSON STANDING ON THE PLATFORM IS WEARING YELLOW CLOTHES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "THE PERSON IN RED IS WEARING DARK BROWN TROUSERS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE DOG IS BLACK AND WHITE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "black and white"
+            },
+            {
+                "predicted": "THE WOMAN IS MAKING CLOTHES USING A CROCHET HOOK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "black and white"
+            },
+            {
+                "predicted": "THE PERSON IN BLUE RIDES A GRAY HORSE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE DOG HAS GREY AND ORANGE HAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black and white"
+            },
+            {
+                "predicted": "THE MOTORCYCLE IN THE VIDEO IS WHITE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE WOOD CUTTER IS WEARING BLUE PANTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE MOST OF THE CUPS ON THE TABLE ARE BLUE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE PERSON RIDING THE ELECTRIC CAR IS WEARING RED CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "THE PERSON IN THE BLACK COAT HAS RED HAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE HAT OF THE PERSON IN BLACK CLOTHES IS BLUE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE COLOR OF THE WALL IS LIGHT GREY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE GIRL'S CLOTHES ARE BLACK AND PURPLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black and purple"
+            },
+            {
+                "predicted": "THE COLOR OF THE GYM MAT IS BLUE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE CARPET IN THE VIDEO IS GREEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "gray"
+            },
+            {
+                "predicted": "THE WOMAN WITH BLOND HAIR IS WEARING BLACK AND WHITE SHOES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "black and white"
+            },
+            {
+                "predicted": "THE WOMEN IN THE VIDEO ARE WEARING RED DRESSES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE HUMAN NAIL IN THE VIDEO IS PINK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "pink"
+            },
+            {
+                "predicted": "THE FLOWER ON THE TABLE IS YELLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE MAN IS WEARING A GREEN COAT WHILE HOLDING THE WINE IN HIS HAND.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE TABLE IS YELLOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE BALD PERSON IS WEARING WHITE CLOTHES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE COLOR OF THE WOMEN'S CLOTHES IN THE VIDEO IS LAVENDER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING CHARCOAL CLOTHES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE KID'S CLOTHES ARE LIGHT BLUE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE DECORATION ON THE WALL IN THE VIDEO IS YELLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE PERSON IN ORANGE IS WEARING PURPLE PANTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "gray"
+            },
+            {
+                "predicted": "THE WOMAN'S NAILS ARE PAINTED IN LAVENDER.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "pink"
+            },
+            {
+                "predicted": "THE COLOR OF THE PEOPLE WEARING GLASSES IS BLUE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE FLOWER IN THE BOTTLE IS PINK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pink"
+            },
+            {
+                "predicted": "THE COLOR OF THE PERSON WEARING A PLAID JACKET IS GREEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE PERSON WHO TOOK THE PHOTO ON HIS MOBILE PHONE IS WEARING BLUE CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE ATHLETE WEARS BLUE CLOTHES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "orange"
+            },
+            {
+                "predicted": "THE COLOR OF THE BICYCLE SEAT IS RED.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE HOSTESS HAS GOLDEN HAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "golden"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO WEARS BLACK CLOTHES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE COLLAR OF THE PERSON IN WHITE IS YELLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE PERSON BEING TAUGHT WEARS GREEN CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE PERSON'S PANTS ARE YELLOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE LADY IS WEARING A PURPLE COAT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "purple"
+            },
+            {
+                "predicted": "THE MAN WEARS DARK GREEN SWIMMING TRUNKS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE COLOR OF THE POT IS BLACK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE CURTAINS IN THE ROOM ARE LIGHT BLUE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "cream"
+            },
+            {
+                "predicted": "THE PANTS OF THE PERSON IN RED CLOTHES ARE DARK BLUE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE MAN IN THE PURPLE PAINT IS PAINTING THE FENCE GREEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "THE WOMAN'S HAIR IS YELLOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE COLOR OF THE WEEDING MACHINE IS RED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE COLOR OF THE MICROPHONE IS WHITE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE PERSON WHO STARTED THE BLUE PANTS IS WEARING YELLOW CLOTHES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE WOMAN IN WHITE CLOTHES IS WEARING BLACK PANTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING A YELLOW SHIRT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING RED CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE COLOR OF THE MEN'S CLOTHES IN THE VIDEO IS DARK GREEN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "gray"
+            },
+            {
+                "predicted": "THE DOG IS YELLOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE PERSON IN WHITE CLOTHES HAS RED HAIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE COLOR OF THE BALL IS GREEN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE PERSON HAS BLONDE HAIR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO IS WEARING BLACK PANTS.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE FLAG ON THE FLAGPOLE IS BLUE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE TOWEL HANGING ON THE FAUCET IS YELLOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "THE MAN'S CLOTHES ARE DARK GREEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE PERSON IN RED CLOTHES HAS BROWN HAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE DANCER WEARS BLUE CLOTHES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO HAS ORANGE CLOTHES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "orange"
+            },
+            {
+                "predicted": "THE BICYCLES ARE ALL BLACK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE BEARD OF THE MAN IN BLACK IS GRAY.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE WOMAN IS WEARING GLASSES AND HER DRESS IS YELLOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE PERSON IN BLACK HAS BLACK HAIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE COLOR OF THE CLOTHES ON THE PERSON WITH A NUMBER OF 16 IS BLUE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE HAT WORN BY PEOPLE WEARING BLUE CLOTHES IS YELLOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE COLOR OF THE IGNITION IS YELLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE PERSON IN THE YELLOW SHIRT IS CARRYING A GREEN BAG.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE FIRST ATHLETE IN THE VIDEO IS WEARING YELLOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE MAN STANDING IN THE VIDEO HAS DARK BROWN HAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE CONTACT LENS BOX IS PURPLE AND YELLOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "blue and green"
+            },
+            {
+                "predicted": "THE COLOR OF THE FACIAL CLEANSER IN THE VIDEO IS PURPLE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "THE DISCUS THROWER'S SHOES ARE YELLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE PERSON'S SHOES ARE WHITE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE CAMERAMAN'S CLOTHES ARE DARK GREEN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "dark green"
+            },
+            {
+                "predicted": "THE PERSON WEARING UMBRELLAS IS WEARING GREEN CLOTHES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE PAINT ON THE LEG OF THE TABLE IS YELLOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE SPORTSMAN'S COAT IS BLUE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE GIRL IN THE VIDEO HAS BLACK HAIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE BACK OF THE CARD IN THE VIDEO IS GREEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE PERSON IN RED PANTS IS WEARING RED PANTS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE CORRECT OPTION IS C: EMERALD GREEN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "golden"
+            },
+            {
+                "predicted": "THE PERSON IN THE BLACK TSHIRT HAS BLONDE HAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "brown"
+            },
+            {
+                "predicted": "THE COLOR OF THE TENT IS YELLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE SHIP IN THE VIDEO IS BLUE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE PERSON WEARING BLACK SHOES IS WEARING A RED GLOVE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE ATHLETE WEARS RED CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE COLOR OF THE COACH'S PANTS IS DARK GREEN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE PLATE IN THE VIDEO IS YELLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE CUP NEXT TO THE COFFEE MACHINE IS BLUE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "brown"
+            },
+            {
+                "predicted": "THE PERSON WEARING AN ORANGE LIFE JACKET IS WEARING YELLOW CLOTHES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE RADIO IN THE VIDEO IS GREEN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE DRUM OF THE PERSON WHO IS NOT WEARING CLOTHES IS BLUE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE BEARD OF THE MAN WEARING A HAT IS WHITE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE REFEREE IS WEARING GREEN CLOTHES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE PERSON IN THE BLACK COAT IS WEARING DARK GREEN PANTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE COLOR OF THE CHEF'S CLOTHES IS BLUE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE MUSICAL INSTRUMENT IS GOLDEN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "silver"
+            },
+            {
+                "predicted": "THE ICON AT THE BEGINNING OF THE VIDEO IS GREEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "THE PERSON'S HAIR COLOR IS BLONDE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE VACUUM CLEANER IN THE VIDEO IS RED.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "purple"
+            },
+            {
+                "predicted": "THE HELMET OF THE MAN IN RED UNIFORM IS WHITE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE SPORTSMAN IS WEARING BLUE CLOTHES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE PERSON IN YELLOW HAS BLONDE HAIR.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING A BLUE AND WHITE SHIRT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "black and white"
+            },
+            {
+                "predicted": "THE COLOR OF THE HELMET IS YELLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE BALL PLAYED BY THE MAN IN THE WHITE HAT IS YELLOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE LIFE JACKET WORN BY PEOPLE IN THE VIDEO IS YELLOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE COLOR OF THE PROTECTIVE NET IS YELLOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "THE BACKGROUND WALL IS YELLOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO IS WEARING A BLUE SHIRT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE PERSON WEARING THE WHITE SHIRT HAS RED HAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE COLOR OF THE CLOTHES OF PEOPLE WEARING JEANS IS GREY.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE BOY IN BLUE CLOTHES HAS DARK BLONDE HAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE PERSON IN THE YELLOW HAT IS WEARING A YELLOW HAT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE YELLOW HAIR GIRL IS WEARING A PURPLE DRESS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "purple"
+            },
+            {
+                "predicted": "THE BEARD OF THE MAN IS BROWN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "brown"
+            },
+            {
+                "predicted": "THE PERSON IN PURPLE CLOTHES HAS CHESTNUT HAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE PERSON IN BLACK CLOTHES IS WEARING NAVY BLUE PANTS.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "gray"
+            },
+            {
+                "predicted": "THE PERSON IN RED AND BLACK IS WEARING YELLOW PANTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE PERSON IN WHITE CLOTHES IS WEARING DARK GREEN PANTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE PERSON'S CLOTHES IN THE VIDEO ARE NAVY BLUE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "gray"
+            },
+            {
+                "predicted": "THE PERSON IN RED CLOTHES IS WEARING BLACK SHOES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE STOOLS IN THE VIDEO ARE BLUE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING A GREEN SHIRT AND A HAT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "orange"
+            },
+            {
+                "predicted": "THE MAN IN WHITE HAS BLONDE HAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE WOMAN IN PURPLE IS WEARING GREEN GLASSES.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "THE PERSON'S HAT IS LIGHT BLUE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE ROPE IS YELLOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "colorful"
+            },
+            {
+                "predicted": "THE RUBBER BAND THAT THE GIRL IN BLACK IS SITTING ON IS YELLOW.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE GUITAR IN THE VIDEO IS GREY.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE PERSON IN RED CLOTHES IS WEARING A BLUE HAT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE MAN IN THE VIDEO IS WEARING DARK GREY CLOTHES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE COLOR OF THE CAKE IS BROWN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "brown"
+            },
+            {
+                "predicted": "THE PERSON IN BLACK CLOTHES IS WEARING A YELLOW HAT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE PERSON IN RED CLOTHES HAS CHESTNUT HAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "golden"
+            },
+            {
+                "predicted": "THE MAN IN THE BLACK SHIRT IS WEARING A BLACK HAT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE COLOR OF THE AIR CUSHION IN THE VIDEO IS YELLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE FIRST MAN IS WEARING A RED SHIRT.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE SAILBOAT WITH GREEN PANTS IS YELLOW AND WHITE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "black and white"
+            },
+            {
+                "predicted": "THE FLOOR IN THE VIDEO IS GREEN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "brown"
+            },
+            {
+                "predicted": "THE BODYBUILDER IS WEARING BLACK SHOES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING A GREEN DRESS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE SHOES OF THE PERSON IN BLACK CLOTHES ARE BLACK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE WEEDING MACHINE IS BLUE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE CAT IS GRAY.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE PANTS OF THE ATHLETE IN GREEN ARE YELLOW.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE HANDLE OF THE CHOPPER FOR CHOPPING WOOD IS RED.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "orange"
+            },
+            {
+                "predicted": "THE SAILS OF THE SAILBOAT ARE WHITE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "gray"
+            },
+            {
+                "predicted": "THE PERSON IN GREEN CLOTHES HAS COPPER HAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "golden"
+            },
+            {
+                "predicted": "THE LOVE BORDER IN THE VIDEO IS PINK.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "pink"
+            },
+            {
+                "predicted": "THE SURFACE OF THE AIR CUSHION IS BLUE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING RED CLOTHES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE COLOR OF THE BOW TIE OF A PERSON WEARING BLACK CLOTHES IS RED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE PERSON IN BLUE CLOTHES HAS AUBURN HAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "golden"
+            },
+            {
+                "predicted": "THE NUMBER 9 PLAYER'S PANTS ARE RED.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE MAN WEARING BLUE BLACK TROUSERS IS WEARING A NAVY BLUE COAT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE LEFT HAND BRACELET OF THE PERSON WEARING BLUE CLOTHES IS BLUE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "THE GIRL IS WEARING YELLOW SHOES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE COLOR OF THE CUP IS BLUE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "transparent"
+            },
+            {
+                "predicted": "THE COLOR OF THE CLOTHES OF THE CHILD WEARING A WHITE HAT IS BLUE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE COLOR OF THE TABLE IS GREEN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "THE REFEREE IN BLUE CLOTHES HAS PURPLE HAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE CAR IS WHITE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE PERSON IN BLACK CLOTHES HAS CHESTNUT HAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "golden"
+            },
+            {
+                "predicted": "THE WOMAN'S HAIR COLOR IN THE VIDEO IS YELLOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE BLOND WOMAN'S CLOTHES AT THE END OF THE VIDEO ARE PURPLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE COOK IS WEARING GREEN CLOTHES.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "A: RED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "silver"
+            },
+            {
+                "predicted": "THE PERSON WEARING BLUE CLOTHES IS WEARING GREY PANTS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE MAN'S CLOTHES ARE DARK GREEN.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE PERSON WEARS GREEN CLOTHES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "THE MAN'S PANTS ARE BLACK.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE DOG IN THE FIRST RACE IS BLACK.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE PANTS OF THE PERSON IN BLACK CLOTHES ARE DARK GREEN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE MAN IS WEARING RED PANTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE COLOR OF THE HELMET OF THE FIRST PLAYER IS YELLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE MAN WITH SHORT HAIR IS WEARING A BURGUNDY DRESS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "gray"
+            },
+            {
+                "predicted": "THE PERSON IN THE VIDEO IS WEARING GREEN CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "green"
+            },
+            {
+                "predicted": "THE PERSON IN THE SWIMSUIT IS WEARING A YELLOW SWIMSUIT.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE PERSON'S PANTS ARE DARK GREEN.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE PERSON IN BLUE CLOTHES IS WEARING WHITE PANTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE PANTS FOR PEOPLE WEARING YELLOW CLOTHES ARE BLUE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "gray"
+            },
+            {
+                "predicted": "THE BOWL IN THE VIDEO IS RED.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE FLUTE IN THE VIDEO IS SILVER.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE GYM MAT IN THE VIDEO IS RED.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE CURLY WOMAN'S CLOTHES IN THE VIDEO ARE YELLOW.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE PERSON IN BLACK CLOTHES HAS BLONDE HAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE FLOOR IN THE VIDEO IS YELLOW.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE COLOR OF THE FIRST PERSON'S HAIR IS BLONDE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE COLOR OF THE DOG'S TAIL IS BLACK.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE DOOR IN THE VIDEO IS BLUE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE PERSON HAS RED HAIR.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE WOMAN'S HELMET IN THE VIDEO IS RED.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE SOFA IN THE VIDEO IS BLUE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "brown"
+            },
+            {
+                "predicted": "THE COLOR OF THE CLOTHES OF PEOPLE WEARING BLACK TROUSERS IS WHITE.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE WOMAN IN THE VIDEO HAS BLONDE HAIR.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE PERSON'S HAIR IS CHESTNUT.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "golden"
+            },
+            {
+                "predicted": "THE PERSON IN BLACK CLOTHES IS WEARING RED SHOES.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE DOG IS WHITE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE PERSON IN RED SHORTS HAS RED HAIR.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE CHAIR OF THE PERSON IN THE BLACK COAT IS BLUE.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE MAN IS WEARING GREY PANTS.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE TABLE IS BLUE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE BLUE GIRL ROLLER SKATE IS BLUE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "white"
+            },
+            {
+                "predicted": "THE PERSON IN BLACK CLOTHES IS WEARING NAVY BLUE PANTS.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE GIRL'S SWIMSUIT IS GREEN.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "yellow"
+            },
+            {
+                "predicted": "THE BELT OF THE PERSON WEARING YELLOW CLOTHES IS RED.",
+                "expected": "B",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE HAIR CLIP OF THE PERSON IN BLUE IS PURPLE.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "blue"
+            },
+            {
+                "predicted": "THE WOMAN WITH THE HAT IS WEARING RED CLOTHES.",
+                "expected": "A",
+                "predicted_text": "",
+                "expected_text": "red"
+            },
+            {
+                "predicted": "THE COLOR OF THE HELMET OF THE PERSON WEARING ORANGE CLOTHES IS BLUE.",
+                "expected": "C",
+                "predicted_text": "",
+                "expected_text": "black"
+            },
+            {
+                "predicted": "THE COLOR OF THE TABLE IS GREEN.",
+                "expected": "D",
+                "predicted_text": "",
+                "expected_text": "blue"
+            }
+        ]
+    },
+    "all": {
+        "accuracy": 0.0
+    }
+}

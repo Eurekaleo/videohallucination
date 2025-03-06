@@ -1,0 +1,1 @@
+python demo/video_demo.py configs/pretrain/yolo_world_v2_l_vlpan_bn_2e-3_100e_4x8gpus_obj365v1_goldg_train_1280ft_lvis_minival.py pretrained_weights/yolo_world_v2_l_obj365v1_goldg_pretrain_1280ft-9babe3f6.pth 2796080-uhd_3840_2160_25fps.mp4 'person,dog' --out out_video_path
