@@ -1,0 +1,3302 @@
+[
+    {
+        "video": "vtvqa/02644.mp4",
+        "question": "What's written on the green train?",
+        "answer": "A",
+        "choices": {
+            "A": "LSWR",
+            "B": "LSRV",
+            "C": "LSQR",
+            "D": "LSNR"
+        }
+    },
+    {
+        "video": "vtvqa/03961.mp4",
+        "question": "What's the word under 'however'?",
+        "answer": "B",
+        "choices": {
+            "A": "fir",
+            "B": "for",
+            "C": "fur",
+            "D": "far"
+        }
+    },
+    {
+        "video": "vtvqa/07893.mp4",
+        "question": "What is the price of the item before VAT?",
+        "answer": "B",
+        "choices": {
+            "A": "124.99",
+            "B": "134.99",
+            "C": "149.99",
+            "D": "139.89"
+        }
+    },
+    {
+        "video": "vtvqa/03311.mp4",
+        "question": "Which sauce did she took at the end?",
+        "answer": "B",
+        "choices": {
+            "A": "LUNCH",
+            "B": "RANCH",
+            "C": "PUNCH",
+            "D": "RAUNCH"
+        }
+    },
+    {
+        "video": "vtvqa/03773.mp4",
+        "question": "Who is player 4?",
+        "answer": "A",
+        "choices": {
+            "A": "karrigan",
+            "B": "karringan",
+            "C": "karriggen",
+            "D": "karriggan"
+        }
+    },
+    {
+        "video": "vtvqa/00770.mp4",
+        "question": "What is the name of the item?",
+        "answer": "A",
+        "choices": {
+            "A": "RED LABEL",
+            "B": "RED LABOL",
+            "C": "RFD LOBEL",
+            "D": "REF LABEL"
+        }
+    },
+    {
+        "video": "vtvqa/04984.mp4",
+        "question": "What is the name of the league?",
+        "answer": "B",
+        "choices": {
+            "A": "Worlds 2012",
+            "B": "Worlds 2021",
+            "C": "Words 2021",
+            "D": "Welts 2021"
+        }
+    },
+    {
+        "video": "vtvqa/06904.mp4",
+        "question": "What is written on the crystal bottle?",
+        "answer": "D",
+        "choices": {
+            "A": "Ouma Sangria Tee",
+            "B": "Omua Sangria Teo",
+            "C": "Qmua Sangra Tea",
+            "D": "Omua Sangria Tea"
+        }
+    },
+    {
+        "video": "vtvqa/01763.mp4",
+        "question": "Who killed Aleksib?",
+        "answer": "C",
+        "choices": {
+            "A": "ropc",
+            "B": "rotx",
+            "C": "ropz",
+            "D": "rozz"
+        }
+    },
+    {
+        "video": "vtvqa/03850.mp4",
+        "question": "How much is the chosen item?",
+        "answer": "D",
+        "choices": {
+            "A": "5.49",
+            "B": "4.59",
+            "C": "4.85",
+            "D": "4.95"
+        }
+    },
+    {
+        "video": "vtvqa/01319.mp4",
+        "question": "What is the of REZ?",
+        "answer": "A",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "I",
+            "D": "7"
+        }
+    },
+    {
+        "video": "vtvqa/02865.mp4",
+        "question": "How much money does mONESY have?",
+        "answer": "A",
+        "choices": {
+            "A": "$259",
+            "B": "$2599",
+            "C": "$239",
+            "D": "$269"
+        }
+    },
+    {
+        "video": "vtvqa/05938.mp4",
+        "question": "What is the fourth item in the crate?",
+        "answer": "A",
+        "choices": {
+            "A": "2x Scope",
+            "B": "3x Scope",
+            "C": "IX Scope",
+            "D": "Zx Scope"
+        }
+    },
+    {
+        "video": "vtvqa/02559.mp4",
+        "question": "Which number is Osman?",
+        "answer": "B",
+        "choices": {
+            "A": "17",
+            "B": "16",
+            "C": "18",
+            "D": "15"
+        }
+    },
+    {
+        "video": "vtvqa/06178.mp4",
+        "question": "Whats her name?",
+        "answer": "A",
+        "choices": {
+            "A": "Rachel Crane",
+            "B": "Rachel Craine",
+            "C": "Rachel Grane",
+            "D": "Rachel Drane"
+        }
+    },
+    {
+        "video": "vtvqa/01370.mp4",
+        "question": "Is the person printed on the black t-shirt Kobe?",
+        "answer": "A",
+        "choices": {
+            "A": "Yes",
+            "B": "No, the shirt has Kode.",
+            "C": "No, it says Kobi.",
+            "D": "No, it's printed as Kohe."
+        }
+    },
+    {
+        "video": "vtvqa/06273.mp4",
+        "question": "Which team has a score of 12?",
+        "answer": "C",
+        "choices": {
+            "A": "G3",
+            "B": "C2",
+            "C": "G2",
+            "D": "62"
+        }
+    },
+    {
+        "video": "vtvqa/07141.mp4",
+        "question": "What is the yellow fruit?",
+        "answer": "C",
+        "choices": {
+            "A": "BANANA",
+            "B": "DUREAN",
+            "C": "DURIAN",
+            "D": "DUREA"
+        }
+    },
+    {
+        "video": "vtvqa/00610.mp4",
+        "question": "What is written on the yellow sign?",
+        "answer": "D",
+        "choices": {
+            "A": "EXIT OMLY",
+            "B": "EXIT ONYX",
+            "C": "EXIT OILY",
+            "D": "EXIT ONLY"
+        }
+    },
+    {
+        "video": "vtvqa/02177.mp4",
+        "question": "What is carrying the girl in her back?",
+        "answer": "C",
+        "choices": {
+            "A": "a booksack",
+            "B": "a backpark",
+            "C": "a backpack",
+            "D": "a backrack"
+        }
+    },
+    {
+        "video": "vtvqa/06021.mp4",
+        "question": "How many players are alive in AST at the end?",
+        "answer": "C",
+        "choices": {
+            "A": "8",
+            "B": "6",
+            "C": "0",
+            "D": "2"
+        }
+    },
+    {
+        "video": "vtvqa/07373.mp4",
+        "question": "Which team is competing against G2?",
+        "answer": "D",
+        "choices": {
+            "A": "RAVI",
+            "B": "CAVI",
+            "C": "MAVI",
+            "D": "NAVI"
+        }
+    },
+    {
+        "video": "vtvqa/06291.mp4",
+        "question": "How much does the second item cost?",
+        "answer": "B",
+        "choices": {
+            "A": "$159.98",
+            "B": "$149.98",
+            "C": "$149.58",
+            "D": "$140.98"
+        }
+    },
+    {
+        "video": "vtvqa/01691.mp4",
+        "question": "How many 5.56mm does he have?",
+        "answer": "A",
+        "choices": {
+            "A": "47",
+            "B": "41",
+            "C": "57",
+            "D": "27"
+        }
+    },
+    {
+        "video": "vtvqa/05909.mp4",
+        "question": "What does the black button say?",
+        "answer": "A",
+        "choices": {
+            "A": "ADD TO CART",
+            "B": "ADD TO PART",
+            "C": "ASK TO CART",
+            "D": "ADD TO CHAT"
+        }
+    },
+    {
+        "video": "vtvqa/04035.mp4",
+        "question": "Who is playing right now?",
+        "answer": "D",
+        "choices": {
+            "A": "KANFIB",
+            "B": "KOFING",
+            "C": "CONGIK",
+            "D": "KONFIG"
+        }
+    },
+    {
+        "video": "vtvqa/05130.mp4",
+        "question": "What is the 1st item?",
+        "answer": "D",
+        "choices": {
+            "A": "Drinking hydroelectric chlorine or determent",
+            "B": "Drinking hydroxylucose or detergent",
+            "C": "Drinking hydroxine or determination",
+            "D": "Drinking hydroxychloroquine or detergent"
+        }
+    },
+    {
+        "video": "vtvqa/02033.mp4",
+        "question": "What's the name of the program?",
+        "answer": "D",
+        "choices": {
+            "A": "NIGHTY NEWZ",
+            "B": "NIGHTLY NELS",
+            "C": "MIGHTLY NEWS",
+            "D": "NIGHTLY NEWS"
+        }
+    },
+    {
+        "video": "vtvqa/01679.mp4",
+        "question": "What's the word on the left of bike'?",
+        "answer": "A",
+        "choices": {
+            "A": "by",
+            "B": "bi",
+            "C": "dy",
+            "D": "bo"
+        }
+    },
+    {
+        "video": "vtvqa/06009.mp4",
+        "question": "What floor is she going to?",
+        "answer": "C",
+        "choices": {
+            "A": "7",
+            "B": "9",
+            "C": "4",
+            "D": "1"
+        }
+    },
+    {
+        "video": "vtvqa/06944.mp4",
+        "question": "What is the number of the player who shoot the basketball?",
+        "answer": "A",
+        "choices": {
+            "A": "11",
+            "B": "17",
+            "C": "12",
+            "D": "15"
+        }
+    },
+    {
+        "video": "vtvqa/02755.mp4",
+        "question": "What is the second option?",
+        "answer": "D",
+        "choices": {
+            "A": "VESCOcam",
+            "B": "VSCOcom",
+            "C": "VSCQcam",
+            "D": "VSCOcam"
+        }
+    },
+    {
+        "video": "vtvqa/01744.mp4",
+        "question": "Who is the president?",
+        "answer": "A",
+        "choices": {
+            "A": "CHRISTIAN BAESLER",
+            "B": "CHRISTIAN BAESELER",
+            "C": "CHRISITAN BAESLER",
+            "D": "CHRISTIAN BASELER"
+        }
+    },
+    {
+        "video": "vtvqa/01258.mp4",
+        "question": "WHAT DID THE FINGER POINT TO?",
+        "answer": "A",
+        "choices": {
+            "A": "FIRSTPRICE",
+            "B": "FISTPRICE",
+            "C": "FIRSTPICE",
+            "D": "FIRSPICE"
+        }
+    },
+    {
+        "video": "vtvqa/03548.mp4",
+        "question": "What is written on the LED signboard at first?",
+        "answer": "B",
+        "choices": {
+            "A": "EXCEPT HEAVEN DETAILS",
+            "B": "EXPECT HEAVY DELAYS",
+            "C": "EXPEND HEAVY DELAYS",
+            "D": "EXPERT HEAVY DEALS"
+        }
+    },
+    {
+        "video": "vtvqa/01650.mp4",
+        "question": "What the name of the hospeder\u00eda from the sign?",
+        "answer": "B",
+        "choices": {
+            "A": "Casa de Cidneros",
+            "B": "Casa de Cisneros",
+            "C": "Casa de Cisneres",
+            "D": "Casa de Cisneeros"
+        }
+    },
+    {
+        "video": "vtvqa/01313.mp4",
+        "question": "What is the number of the player who scored the goal?",
+        "answer": "C",
+        "choices": {
+            "A": "5",
+            "B": "9",
+            "C": "6",
+            "D": "8"
+        }
+    },
+    {
+        "video": "vtvqa/07830.mp4",
+        "question": "How much money does Magish have?",
+        "answer": "C",
+        "choices": {
+            "A": "$310",
+            "B": "$3010",
+            "C": "$3100",
+            "D": "$3150"
+        }
+    },
+    {
+        "video": "vtvqa/01253.mp4",
+        "question": "What is the number below the JUMO FISH STICKS?",
+        "answer": "D",
+        "choices": {
+            "A": "62",
+            "B": "28",
+            "C": "29",
+            "D": "26"
+        }
+    },
+    {
+        "video": "vtvqa/02424.mp4",
+        "question": "What is written on the black sign?",
+        "answer": "D",
+        "choices": {
+            "A": "HEADWEAR",
+            "B": "HARDEWAR",
+            "C": "HANDWEAR",
+            "D": "HARDWEAR"
+        }
+    },
+    {
+        "video": "vtvqa/08355.mp4",
+        "question": "What's the number on the car?",
+        "answer": "C",
+        "choices": {
+            "A": "896 1100",
+            "B": "895 1020",
+            "C": "865 1010",
+            "D": "865 1100"
+        }
+    },
+    {
+        "video": "vtvqa/00433.mp4",
+        "question": "What is written on the bottom?",
+        "answer": "D",
+        "choices": {
+            "A": "Prebator",
+            "B": "Preadtor",
+            "C": "Presator",
+            "D": "Predator"
+        }
+    },
+    {
+        "video": "vtvqa/00770.mp4",
+        "question": "What is the text on the top line of the package?",
+        "answer": "A",
+        "choices": {
+            "A": "Fairly Traded",
+            "B": "Family Tracked",
+            "C": "Faintly Traded",
+            "D": "Farley Trudged"
+        }
+    },
+    {
+        "video": "vtvqa/08457.mp4",
+        "question": "What is the brand of the product?",
+        "answer": "B",
+        "choices": {
+            "A": "Membor's Mork",
+            "B": "Member's Mark",
+            "C": "Memder's Mark",
+            "D": "Membors Mark"
+        }
+    },
+    {
+        "video": "vtvqa/05351.mp4",
+        "question": "What's the adoption rate of iOS 8 from September to June?",
+        "answer": "D",
+        "choices": {
+            "A": "88%",
+            "B": "8.3%",
+            "C": "93%",
+            "D": "83%"
+        }
+    },
+    {
+        "video": "vtvqa/07429.mp4",
+        "question": "What is written on the orange sign?",
+        "answer": "C",
+        "choices": {
+            "A": "SHEET CL0SED",
+            "B": "STREET CODED",
+            "C": "STREET CLOSED",
+            "D": "SHEEP CLOSED"
+        }
+    },
+    {
+        "video": "vtvqa/04088.mp4",
+        "question": "What is written on the green sign on the left?",
+        "answer": "D",
+        "choices": {
+            "A": "Sun Francisco",
+            "B": "San Franceso",
+            "C": "Sam Francisco",
+            "D": "San Francisco"
+        }
+    },
+    {
+        "video": "vtvqa/07475.mp4",
+        "question": "What's Monke's score?",
+        "answer": "A",
+        "choices": {
+            "A": "73",
+            "B": "78",
+            "C": "79",
+            "D": "72"
+        }
+    },
+    {
+        "video": "vtvqa/00082.mp4",
+        "question": "What is the car plate of the car?",
+        "answer": "D",
+        "choices": {
+            "A": "FORDUNE",
+            "B": "FORXUNE",
+            "C": "FOLRUNE",
+            "D": "FORTUNE"
+        }
+    },
+    {
+        "video": "vtvqa/03151.mp4",
+        "question": "What is the score of AST?",
+        "answer": "C",
+        "choices": {
+            "A": "8",
+            "B": "1",
+            "C": "0",
+            "D": "6"
+        }
+    },
+    {
+        "video": "vtvqa/03259.mp4",
+        "question": "What is written on the white sign?",
+        "answer": "C",
+        "choices": {
+            "A": "PROTO ENFORCED",
+            "B": "PHOTOS UNFORCED",
+            "C": "PHOTO ENFORCED",
+            "D": "PHONE ENFORCED"
+        }
+    },
+    {
+        "video": "vtvqa/05015.mp4",
+        "question": "What's the match time at last?",
+        "answer": "A",
+        "choices": {
+            "A": "30:23",
+            "B": "28:32",
+            "C": "32:03",
+            "D": "38:20"
+        }
+    },
+    {
+        "video": "vtvqa/08030.mp4",
+        "question": "What is written on the orange sign?",
+        "answer": "A",
+        "choices": {
+            "A": "ROAD WORK 500 FT",
+            "B": "ROAD WORK 560 FT",
+            "C": "ROADWIRK 50O FT",
+            "D": "READ WORK 500 ET"
+        }
+    },
+    {
+        "video": "vtvqa/01146.mp4",
+        "question": "What is written on the orange sign?",
+        "answer": "C",
+        "choices": {
+            "A": "END LOAD WORK",
+            "B": "END ONLY WORK",
+            "C": "END ROAD WORK",
+            "D": "AND ROAD WORK"
+        }
+    },
+    {
+        "video": "vtvqa/06820.mp4",
+        "question": "What is recommended not to make?",
+        "answer": "C",
+        "choices": {
+            "A": "object",
+            "B": "occasion",
+            "C": "obsession",
+            "D": "opsession"
+        }
+    },
+    {
+        "video": "vtvqa/02692.mp4",
+        "question": "How much is this now?",
+        "answer": "C",
+        "choices": {
+            "A": "7.79",
+            "B": "4.79",
+            "C": "7.49",
+            "D": "7.94"
+        }
+    },
+    {
+        "video": "vtvqa/03818.mp4",
+        "question": "What is the number to contact if I'm interested to rent to office?",
+        "answer": "D",
+        "choices": {
+            "A": "516.817.8872",
+            "B": "516.817.8889",
+            "C": "518.817.8876",
+            "D": "516.817.8879"
+        }
+    },
+    {
+        "video": "vtvqa/05360.mp4",
+        "question": "What is the brand name of the item?",
+        "answer": "A",
+        "choices": {
+            "A": "T2",
+            "B": "Y2",
+            "C": "T3",
+            "D": "72"
+        }
+    },
+    {
+        "video": "vtvqa/06678.mp4",
+        "question": "What building is he entering?",
+        "answer": "A",
+        "choices": {
+            "A": "A hospital",
+            "B": "A hospital",
+            "C": "A hostel",
+            "D": "A hospice"
+        }
+    },
+    {
+        "video": "vtvqa/00888.mp4",
+        "question": "What is written on the black sign in the middle?",
+        "answer": "B",
+        "choices": {
+            "A": "Airpot Exit VIO",
+            "B": "Airport Exit VIA",
+            "C": "Airpot Exlt VIA",
+            "D": "Airport Exit VLA"
+        }
+    },
+    {
+        "video": "vtvqa/06216.mp4",
+        "question": "Which number is the player that scores?",
+        "answer": "B",
+        "choices": {
+            "A": "44",
+            "B": "40",
+            "C": "49",
+            "D": "30"
+        }
+    },
+    {
+        "video": "vtvqa/01821.mp4",
+        "question": "What is the name of the item?",
+        "answer": "A",
+        "choices": {
+            "A": "beef mince 500g",
+            "B": "beef mini 500g",
+            "C": "beef mince 50g",
+            "D": "beef mint 600g"
+        }
+    },
+    {
+        "video": "vtvqa/00471.mp4",
+        "question": "What's the number above 90?",
+        "answer": "C",
+        "choices": {
+            "A": "106",
+            "B": "180",
+            "C": "160",
+            "D": "190"
+        }
+    },
+    {
+        "video": "vtvqa/07545.mp4",
+        "question": "Who is shut down?",
+        "answer": "D",
+        "choices": {
+            "A": "DO SnowMalker",
+            "B": "BB CrowMaker",
+            "C": "DR SnowMaker",
+            "D": "DK ShowMaker"
+        }
+    },
+    {
+        "video": "vtvqa/02301.mp4",
+        "question": "How much money does BROKY have finally?",
+        "answer": "B",
+        "choices": {
+            "A": "$3950",
+            "B": "$3850",
+            "C": "$8350",
+            "D": "$3800"
+        }
+    },
+    {
+        "video": "vtvqa/00677.mp4",
+        "question": "Whats the brand for the top left milk?",
+        "answer": "A",
+        "choices": {
+            "A": "a2",
+            "B": "c2",
+            "C": "b2",
+            "D": "d2"
+        }
+    },
+    {
+        "video": "vtvqa/06124.mp4",
+        "question": "Who died third?",
+        "answer": "B",
+        "choices": {
+            "A": "kOnfigr",
+            "B": "kOnfig",
+            "C": "kOnflig",
+            "D": "kOnlfig"
+        }
+    },
+    {
+        "video": "vtvqa/04298.mp4",
+        "question": "What is the text on the top orange sign in the end?",
+        "answer": "D",
+        "choices": {
+            "A": "KINLEDS",
+            "B": "KINDEST",
+            "C": "KINDRED",
+            "D": "KINDES"
+        }
+    },
+    {
+        "video": "vtvqa/03600.mp4",
+        "question": "What is the number on the roof of the shop?",
+        "answer": "A",
+        "choices": {
+            "A": "181",
+            "B": "191",
+            "C": "161",
+            "D": "187"
+        }
+    },
+    {
+        "video": "vtvqa/06371.mp4",
+        "question": "What is written on the blue sign?",
+        "answer": "D",
+        "choices": {
+            "A": "Links Previsioned Belief",
+            "B": "Linked Provides Below",
+            "C": "Links Previewed Below",
+            "D": "Links Provided Below"
+        }
+    },
+    {
+        "video": "vtvqa/03703.mp4",
+        "question": "What line is the exit on?",
+        "answer": "B",
+        "choices": {
+            "A": "Bright",
+            "B": "Right",
+            "C": "Night",
+            "D": "Sight"
+        }
+    },
+    {
+        "video": "vtvqa/03240.mp4",
+        "question": "Whats the first letter on the first slipper held by the person?",
+        "answer": "A",
+        "choices": {
+            "A": "G",
+            "B": "C",
+            "C": "O",
+            "D": "Q"
+        }
+    },
+    {
+        "video": "vtvqa/02400.mp4",
+        "question": "What number is the next exit on the right?",
+        "answer": "C",
+        "choices": {
+            "A": "33",
+            "B": "28",
+            "C": "23",
+            "D": "29"
+        }
+    },
+    {
+        "video": "vtvqa/04627.mp4",
+        "question": "What's the word on the left of 'MASSACRE'?",
+        "answer": "B",
+        "choices": {
+            "A": "PETERLOQ",
+            "B": "PETERLOO",
+            "C": "PETREELO",
+            "D": "PETERL"
+        }
+    },
+    {
+        "video": "vtvqa/04473.mp4",
+        "question": "What is the name of this car series?",
+        "answer": "D",
+        "choices": {
+            "A": "PATHFINDERZ",
+            "B": "PANTFINDER",
+            "C": "PATSFINDER",
+            "D": "PATHFINDER"
+        }
+    },
+    {
+        "video": "vtvqa/06031.mp4",
+        "question": "Who kills the most?",
+        "answer": "D",
+        "choices": {
+            "A": "Az1Le",
+            "B": "Ax18e",
+            "C": "4x1Le",
+            "D": "Ax1Le"
+        }
+    },
+    {
+        "video": "vtvqa/01742.mp4",
+        "question": "What did he point to at first?",
+        "answer": "A",
+        "choices": {
+            "A": "OTIS OAT MILK",
+            "B": "OTIS OAT MELK",
+            "C": "OTIS OAT MALK",
+            "D": "OTOS OAT MILK"
+        }
+    },
+    {
+        "video": "vtvqa/03543.mp4",
+        "question": "What is written on the first line of the left green sign?",
+        "answer": "C",
+        "choices": {
+            "A": "Grend Central Pkwy East",
+            "B": "Grand Central Parkway South",
+            "C": "Grand Central Pkwy East",
+            "D": "Grand Central Pkway West"
+        }
+    },
+    {
+        "video": "vtvqa/05035.mp4",
+        "question": "What red texts are written on the wall?",
+        "answer": "A",
+        "choices": {
+            "A": "love your self.",
+            "B": "love youself.",
+            "C": "lover your self.",
+            "D": "love your sellf."
+        }
+    },
+    {
+        "video": "vtvqa/04460.mp4",
+        "question": "What's the text on the black sign in the bottom left corner?",
+        "answer": "B",
+        "choices": {
+            "A": "CLODDED BAN",
+            "B": "COFFER BAR",
+            "C": "GOFFER FAR",
+            "D": "COPPER CAR"
+        }
+    },
+    {
+        "video": "vtvqa/00384.mp4",
+        "question": "What's the word under 'One'?",
+        "answer": "B",
+        "choices": {
+            "A": "beaitiful",
+            "B": "beautiful",
+            "C": "beatiful",
+            "D": "beatuful"
+        }
+    },
+    {
+        "video": "vtvqa/03574.mp4",
+        "question": "Is the ADR of gla1ve greater than that of JACKZ?",
+        "answer": "D",
+        "choices": {
+            "A": "Yes (ADK of gla1ve)",
+            "B": "Yes (ACR of gla1ve)",
+            "C": "Yes (ADR of JACKX)",
+            "D": "No"
+        }
+    },
+    {
+        "video": "vtvqa/03741.mp4",
+        "question": "Which team is leading the scoreboard?",
+        "answer": "B",
+        "choices": {
+            "A": "MAC",
+            "B": "LAC",
+            "C": "LRC",
+            "D": "LKC"
+        }
+    },
+    {
+        "video": "vtvqa/05323.mp4",
+        "question": "How much is the add-ons for the second item introduced?",
+        "answer": "A",
+        "choices": {
+            "A": "$40.00",
+            "B": "$49.00",
+            "C": "$44.00",
+            "D": "$48.00"
+        }
+    },
+    {
+        "video": "vtvqa/07682.mp4",
+        "question": "What is written on the road?",
+        "answer": "B",
+        "choices": {
+            "A": "SCHGO",
+            "B": "SCHOOL",
+            "C": "SCOOL",
+            "D": "SHCCL"
+        }
+    },
+    {
+        "video": "vtvqa/00732.mp4",
+        "question": "What is the color of the t-shirt of the girl?",
+        "answer": "B",
+        "choices": {
+            "A": "Pinl",
+            "B": "Pink",
+            "C": "Pank",
+            "D": "Punk"
+        }
+    },
+    {
+        "video": "vtvqa/06708.mp4",
+        "question": "What company is the truck on the left?",
+        "answer": "D",
+        "choices": {
+            "A": "FeelEx",
+            "B": "Fedox",
+            "C": "FidEx",
+            "D": "FedEx"
+        }
+    },
+    {
+        "video": "vtvqa/02755.mp4",
+        "question": "What is the first option?",
+        "answer": "D",
+        "choices": {
+            "A": "Watelog",
+            "B": "Watterogue",
+            "C": "Watterlogue",
+            "D": "Waterlogue"
+        }
+    },
+    {
+        "video": "vtvqa/02489.mp4",
+        "question": "What is written on the green sign on the left?",
+        "answer": "D",
+        "choices": {
+            "A": "Van Wyck Expwy, Whitmore Dr Brox",
+            "B": "Van Wick Expy, Whitehouse Br Bronix",
+            "C": "Vin Wick Expwy, Whitestoney Br Bronx",
+            "D": "Van Wyck Expwy, Whitestone Br Bronx"
+        }
+    },
+    {
+        "video": "vtvqa/04486.mp4",
+        "question": "What is the name of the tv?",
+        "answer": "A",
+        "choices": {
+            "A": "tru tv",
+            "B": "try tv",
+            "C": "trv tv",
+            "D": "tru td"
+        }
+    },
+    {
+        "video": "vtvqa/00836.mp4",
+        "question": "What is the speed limit?",
+        "answer": "C",
+        "choices": {
+            "A": "70",
+            "B": "95",
+            "C": "50",
+            "D": "60"
+        }
+    },
+    {
+        "video": "vtvqa/04156.mp4",
+        "question": "What's the word on the left of 'shrouds'?",
+        "answer": "A",
+        "choices": {
+            "A": "frequently",
+            "B": "freightlook",
+            "C": "figmently",
+            "D": "frequency"
+        }
+    },
+    {
+        "video": "vtvqa/06231.mp4",
+        "question": "Which team is losing?",
+        "answer": "B",
+        "choices": {
+            "A": "CWS",
+            "B": "GSW",
+            "C": "SVW",
+            "D": "GSY"
+        }
+    },
+    {
+        "video": "vtvqa/04474.mp4",
+        "question": "Who is player number 0?",
+        "answer": "C",
+        "choices": {
+            "A": "gla8ve",
+            "B": "cla1ve",
+            "C": "gla1ve",
+            "D": "gla5ve"
+        }
+    },
+    {
+        "video": "vtvqa/00552.mp4",
+        "question": "What's written on the middle red board?",
+        "answer": "B",
+        "choices": {
+            "A": "REVONS PLE GRAND",
+            "B": "REVONS PLUS GRAND",
+            "C": "REUVONS PLAS GRAND",
+            "D": "REBONS PLUS GROND"
+        }
+    },
+    {
+        "video": "vtvqa/06678.mp4",
+        "question": "What's the man doing?",
+        "answer": "A",
+        "choices": {
+            "A": "He is getting off the car.",
+            "B": "He is letting go of the bar.",
+            "C": "He is climbing off the can.",
+            "D": "He is betting off the care."
+        }
+    },
+    {
+        "video": "vtvqa/06031.mp4",
+        "question": "Who has a lowest ADR?",
+        "answer": "B",
+        "choices": {
+            "A": "Holbit",
+            "B": "Hobbit",
+            "C": "Hobnibb",
+            "D": "Habbit"
+        }
+    },
+    {
+        "video": "vtvqa/05938.mp4",
+        "question": "How many is alive?",
+        "answer": "B",
+        "choices": {
+            "A": "60",
+            "B": "80",
+            "C": "78",
+            "D": "88"
+        }
+    },
+    {
+        "video": "vtvqa/07943.mp4",
+        "question": "What's written on the pillow?",
+        "answer": "B",
+        "choices": {
+            "A": "HONIE",
+            "B": "HOME",
+            "C": "HUME",
+            "D": "HOUSE"
+        }
+    },
+    {
+        "video": "vtvqa/04262.mp4",
+        "question": "What is the first item in the Air Drop?",
+        "answer": "A",
+        "choices": {
+            "A": "Military Vest (Lv. 3)",
+            "B": "Military Test (Lv. 3)",
+            "C": "Military Best (Lv. 3)",
+            "D": "Military Rest (Lv. 3)"
+        }
+    },
+    {
+        "video": "vtvqa/06712.mp4",
+        "question": "What do the yellow points stand for?",
+        "answer": "C",
+        "choices": {
+            "A": "Spot 6",
+            "B": "Chat 6",
+            "C": "Shot 6",
+            "D": "Snot 6"
+        }
+    },
+    {
+        "video": "vtvqa/08333.mp4",
+        "question": "What teams are going to play?",
+        "answer": "B",
+        "choices": {
+            "A": "Chelsea & amchester United",
+            "B": "Chelsea & anchester City",
+            "C": "Chelsea & Munchester City",
+            "D": "Chelsea & amanchester City"
+        }
+    },
+    {
+        "video": "vtvqa/07457.mp4",
+        "question": "What is the busness hour indicated on the white signboard?",
+        "answer": "A",
+        "choices": {
+            "A": "930am - 11am",
+            "B": "830am - 12pm",
+            "C": "9am - 1030am",
+            "D": "930am - 12pm"
+        }
+    },
+    {
+        "video": "vtvqa/06254.mp4",
+        "question": "What is the contact number of the shop at the top right corner?",
+        "answer": "D",
+        "choices": {
+            "A": "718.975.0405",
+            "B": "718.914.0550",
+            "C": "718.964.0506",
+            "D": "718.974.0505"
+        }
+    },
+    {
+        "video": "vtvqa/02222.mp4",
+        "question": "Who is the player being shown beside KHAN?",
+        "answer": "D",
+        "choices": {
+            "A": "FLONDER",
+            "B": "FANDLER",
+            "C": "FLANDRES",
+            "D": "FLANDRE"
+        }
+    },
+    {
+        "video": "vtvqa/08320.mp4",
+        "question": "How much is cost the Tresor Rare Intensive Recovery Japanese Mask?",
+        "answer": "B",
+        "choices": {
+            "A": "$5,050",
+            "B": "$5,000",
+            "C": "$4,995",
+            "D": "$5,005"
+        }
+    },
+    {
+        "video": "vtvqa/03818.mp4",
+        "question": "What is written on the brown sign board pointing at the right?",
+        "answer": "A",
+        "choices": {
+            "A": "Prince St",
+            "B": "Prinze St",
+            "C": "Prime St",
+            "D": "Pince St"
+        }
+    },
+    {
+        "video": "vtvqa/07468.mp4",
+        "question": "What's the word on the left of 'spied'?",
+        "answer": "C",
+        "choices": {
+            "A": "bat",
+            "B": "bee",
+            "C": "be",
+            "D": "by"
+        }
+    },
+    {
+        "video": "vtvqa/01372.mp4",
+        "question": "What nunber is written on the black sign?",
+        "answer": "D",
+        "choices": {
+            "A": "030125",
+            "B": "020225",
+            "C": "020123",
+            "D": "020125"
+        }
+    },
+    {
+        "video": "vtvqa/07394.mp4",
+        "question": "What's the name called?",
+        "answer": "B",
+        "choices": {
+            "A": "Gundor",
+            "B": "Gundo",
+            "C": "Gondo",
+            "D": "Gando"
+        }
+    },
+    {
+        "video": "vtvqa/05367.mp4",
+        "question": "How long until Johnson St?",
+        "answer": "A",
+        "choices": {
+            "A": "3/4",
+            "B": "6/7",
+            "C": "1/3",
+            "D": "8/5"
+        }
+    },
+    {
+        "video": "vtvqa/02519.mp4",
+        "question": "What is the point shown at first?",
+        "answer": "A",
+        "choices": {
+            "A": "29,214.97",
+            "B": "29,124.97",
+            "C": "29,214.79",
+            "D": "29,214.29"
+        }
+    },
+    {
+        "video": "vtvqa/07959.mp4",
+        "question": "Whats the text on the background?",
+        "answer": "C",
+        "choices": {
+            "A": "DEER, PINE & SPIRITS",
+            "B": "BEAM, WINE & SPORTS",
+            "C": "BEER, WINE & SPIRITS",
+            "D": "BEAR, TIME & SPIRITS"
+        }
+    },
+    {
+        "video": "vtvqa/04868.mp4",
+        "question": "Which team kills more?",
+        "answer": "D",
+        "choices": {
+            "A": "EDGE",
+            "B": "EOG",
+            "C": "EGD",
+            "D": "EDG"
+        }
+    },
+    {
+        "video": "vtvqa/01038.mp4",
+        "question": "What time is it at the video?",
+        "answer": "C",
+        "choices": {
+            "A": "8:00am",
+            "B": "7:30am",
+            "C": "7:00am",
+            "D": "7:05am"
+        }
+    },
+    {
+        "video": "vtvqa/01319.mp4",
+        "question": "Which team does HAMPUS belongs to?",
+        "answer": "A",
+        "choices": {
+            "A": "NIP",
+            "B": "RIP",
+            "C": "HIP",
+            "D": "TOP"
+        }
+    },
+    {
+        "video": "vtvqa/03635.mp4",
+        "question": "What is the name of the number 7?",
+        "answer": "B",
+        "choices": {
+            "A": "Starling",
+            "B": "Sterling",
+            "C": "Stirling",
+            "D": "Styling"
+        }
+    },
+    {
+        "video": "vtvqa/00808.mp4",
+        "question": "What's the name of the city?",
+        "answer": "D",
+        "choices": {
+            "A": "Deflt",
+            "B": "Dilft",
+            "C": "Deift",
+            "D": "Delft"
+        }
+    },
+    {
+        "video": "vtvqa/05909.mp4",
+        "question": "Which category is she browsing?",
+        "answer": "B",
+        "choices": {
+            "A": "JOINERY",
+            "B": "JEWELRY",
+            "C": "JEEWELRY",
+            "D": "JEWELTRY"
+        }
+    },
+    {
+        "video": "vtvqa/01370.mp4",
+        "question": "Whats the text in green font and yellow background?",
+        "answer": "B",
+        "choices": {
+            "A": "TRADE IN BANGLADESH",
+            "B": "MADE IN BANGLADESH",
+            "C": "MADE IN BANGKOK",
+            "D": "MADE IN MANDALAY"
+        }
+    },
+    {
+        "video": "vtvqa/07429.mp4",
+        "question": "What is written on the white sign?",
+        "answer": "A",
+        "choices": {
+            "A": "REDSTONE",
+            "B": "REOSTONE",
+            "C": "REDSCONE",
+            "D": "REDSTOCE"
+        }
+    },
+    {
+        "video": "vtvqa/06218.mp4",
+        "question": "Who is the second player in EDG?",
+        "answer": "D",
+        "choices": {
+            "A": "JIEJEE",
+            "B": "JIEJIA",
+            "C": "JIEYIE",
+            "D": "JIEJIE"
+        }
+    },
+    {
+        "video": "vtvqa/03872.mp4",
+        "question": "What's written on the yellow sign?",
+        "answer": "C",
+        "choices": {
+            "A": "BYP4SS",
+            "B": "BYPA8S",
+            "C": "BYPASS",
+            "D": "BYPA5S"
+        }
+    },
+    {
+        "video": "vtvqa/08333.mp4",
+        "question": "What day are they going to play?",
+        "answer": "C",
+        "choices": {
+            "A": "17.04.20",
+            "B": "17.04.22",
+            "C": "17.04.21",
+            "D": "17.04.24"
+        }
+    },
+    {
+        "video": "vtvqa/07682.mp4",
+        "question": "What is the name of the bus?",
+        "answer": "B",
+        "choices": {
+            "A": "FI7E STAR BUS GROUP",
+            "B": "FIVE STAR SCHOOL BUS LLC",
+            "C": "FIVE ST4R SCH00L BUS INC",
+            "D": "FIVE STAR SCHOOL SERVICES"
+        }
+    },
+    {
+        "video": "vtvqa/04035.mp4",
+        "question": "How many living players does the AST team have?",
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "1i",
+            "C": "1",
+            "D": "one"
+        }
+    },
+    {
+        "video": "vtvqa/03653.mp4",
+        "question": "Who killed Alexander-QinX?",
+        "answer": "C",
+        "choices": {
+            "A": "Plague",
+            "B": "Blayue",
+            "C": "Playue",
+            "D": "Plaiye"
+        }
+    },
+    {
+        "video": "vtvqa/05516.mp4",
+        "question": "Where will we reach if turning left?",
+        "answer": "B",
+        "choices": {
+            "A": "Deansgart St Peter's Square",
+            "B": "Deansgate St Peter's Square",
+            "C": "Deanscat St Peter's Square",
+            "D": "Deanscape St Peten's Square"
+        }
+    },
+    {
+        "video": "vtvqa/03618.mp4",
+        "question": "What is the name of the shop?",
+        "answer": "A",
+        "choices": {
+            "A": "LOUIS VUITTON",
+            "B": "LOUIS VATTON",
+            "C": "LUIS VUITTON",
+            "D": "LOUIS VOTTON"
+        }
+    },
+    {
+        "video": "vtvqa/03479.mp4",
+        "question": "What is the largest word in red in the middle screen?",
+        "answer": "B",
+        "choices": {
+            "A": "MAB",
+            "B": "MAD",
+            "C": "MAP",
+            "D": "MOD"
+        }
+    },
+    {
+        "video": "vtvqa/07545.mp4",
+        "question": "Who destroyed the red turret?",
+        "answer": "A",
+        "choices": {
+            "A": "DK Khan",
+            "B": "DJ Khan",
+            "C": "EK Khan",
+            "D": "DP Khan"
+        }
+    },
+    {
+        "video": "vtvqa/06218.mp4",
+        "question": "Which team does VIPER plays for?",
+        "answer": "D",
+        "choices": {
+            "A": "END",
+            "B": "ELG",
+            "C": "ERG",
+            "D": "EDG"
+        }
+    },
+    {
+        "video": "vtvqa/04073.mp4",
+        "question": "What's the name of that restaurant?",
+        "answer": "B",
+        "choices": {
+            "A": "B\u00c1RU SHOP",
+            "B": "B\u00c1HN SHOP",
+            "C": "B\u00c1WT SHOP",
+            "D": "B\u00c1LIN SHOP"
+        }
+    },
+    {
+        "video": "vtvqa/01061.mp4",
+        "question": "What is the price after VAT?",
+        "answer": "B",
+        "choices": {
+            "A": "1595.98",
+            "B": "1559.98",
+            "C": "1659.98",
+            "D": "1558.98"
+        }
+    },
+    {
+        "video": "vtvqa/02748.mp4",
+        "question": "What is the name of the channel?",
+        "answer": "C",
+        "choices": {
+            "A": "Motivation dark",
+            "B": "Motivation arc",
+            "C": "Motivation ark",
+            "D": "Invitation ark"
+        }
+    },
+    {
+        "video": "vtvqa/03574.mp4",
+        "question": "Who killed Xyp9x?",
+        "answer": "D",
+        "choices": {
+            "A": "Alek5ib",
+            "B": "Aleksih",
+            "C": "Alekslb",
+            "D": "Aleksib"
+        }
+    },
+    {
+        "video": "vtvqa/06314.mp4",
+        "question": "What is the score of KC?",
+        "answer": "D",
+        "choices": {
+            "A": "1",
+            "B": "9",
+            "C": "2",
+            "D": "7"
+        }
+    },
+    {
+        "video": "vtvqa/08368.mp4",
+        "question": "What is written in the right sign on the bottom?",
+        "answer": "C",
+        "choices": {
+            "A": "76 Ave, Queens Pl, Right Lane",
+            "B": "87 Ave, Queens Rd, Right Lane",
+            "C": "78 Ave, Queens Blvd, Right Lane",
+            "D": "79 Ave, Queens Blvd, Left Lane"
+        }
+    },
+    {
+        "video": "vtvqa/03233.mp4",
+        "question": "What is written on the yellow car?",
+        "answer": "C",
+        "choices": {
+            "A": "ARNOID",
+            "B": "ARMOLD",
+            "C": "ARNOLD",
+            "D": "ARNODS"
+        }
+    },
+    {
+        "video": "vtvqa/07995.mp4",
+        "question": "What is the text in red on the blue screen right behind him?",
+        "answer": "C",
+        "choices": {
+            "A": "CORANAVIRUS",
+            "B": "CORONAVINS",
+            "C": "CORONAVIRUS",
+            "D": "CORONOVIRUS"
+        }
+    },
+    {
+        "video": "vtvqa/00836.mp4",
+        "question": "What is written on the right green signal?",
+        "answer": "C",
+        "choices": {
+            "A": "Terninal",
+            "B": "Termina1",
+            "C": "Terminal",
+            "D": "Termina1"
+        }
+    },
+    {
+        "video": "vtvqa/06091.mp4",
+        "question": "What is the text on the lower sign on the left?",
+        "answer": "C",
+        "choices": {
+            "A": "NO PARKING",
+            "B": "NO LEFT TURN",
+            "C": "NO U-TURN",
+            "D": "NO EXIT"
+        }
+    },
+    {
+        "video": "vtvqa/05649.mp4",
+        "question": "What's printed on the green shirt left to the person at last?",
+        "answer": "B",
+        "choices": {
+            "A": "CAY",
+            "B": "ACK",
+            "C": "ACJ",
+            "D": "EKC"
+        }
+    },
+    {
+        "video": "vtvqa/05222.mp4",
+        "question": "Which team is leading the score?",
+        "answer": "B",
+        "choices": {
+            "A": "Los Angels Lakers",
+            "B": "Los Angeles Lakers",
+            "C": "Las Angeles Laks",
+            "D": "New York Lakers"
+        }
+    },
+    {
+        "video": "vtvqa/07345.mp4",
+        "question": "What is the price of the Sainsburg's Vegetable Oil in 3L pack?",
+        "answer": "D",
+        "choices": {
+            "A": "\u00a33.80",
+            "B": "\u00a33.39",
+            "C": "\u00a33.29",
+            "D": "\u00a33.30"
+        }
+    },
+    {
+        "video": "vtvqa/03600.mp4",
+        "question": "What is the red LED signboard saying?",
+        "answer": "B",
+        "choices": {
+            "A": "CALBONE",
+            "B": "CARBONE",
+            "C": "CA8BONE",
+            "D": "CARBREN"
+        }
+    },
+    {
+        "video": "vtvqa/03085.mp4",
+        "question": "What is written on the road?",
+        "answer": "D",
+        "choices": {
+            "A": "Soup",
+            "B": "Slot",
+            "C": "Step",
+            "D": "Stop"
+        }
+    },
+    {
+        "video": "vtvqa/06737.mp4",
+        "question": "What's the place name?",
+        "answer": "A",
+        "choices": {
+            "A": "THE CIRCUS TAVERN",
+            "B": "THE CIRCUS FARM",
+            "C": "THE CIRCES TAVERN",
+            "D": "THE CURCUS TAVERN"
+        }
+    },
+    {
+        "video": "vtvqa/07961.mp4",
+        "question": "What is the name of the red team's No. 10 player?",
+        "answer": "A",
+        "choices": {
+            "A": "MCARTHY",
+            "B": "MACARHY",
+            "C": "MRARTHY",
+            "D": "MCANRTH"
+        }
+    },
+    {
+        "video": "vtvqa/06153.mp4",
+        "question": "What is the brand of the item?",
+        "answer": "A",
+        "choices": {
+            "A": "SUNDARI naturals",
+            "B": "SENDARA naturals",
+            "C": "SINDURU naturals",
+            "D": "SUNARI mestures"
+        }
+    },
+    {
+        "video": "RoadTextVQA/19.mp4",
+        "question": "What is the name of the shop that is seen before the Gregorys coffee, on the same side?",
+        "answer": "D",
+        "choices": {
+            "A": "cava coffee",
+            "B": "air stream",
+            "C": "cava cafe",
+            "D": "cava"
+        }
+    },
+    {
+        "video": "RoadTextVQA/19.mp4",
+        "question": "Which company owns the white color van parked in front of the gregory's coffee?",
+        "answer": "D",
+        "choices": {
+            "A": "airstream",
+            "B": "Johnsan Controls",
+            "C": "airstream trailers",
+            "D": "air stream"
+        }
+    },
+    {
+        "video": "RoadTextVQA/19.mp4",
+        "question": "What does the sign board with a white arrow that is placed infront of bank of america building say?",
+        "answer": "D",
+        "choices": {
+            "A": "two way",
+            "B": "Unitex",
+            "C": "right turn only",
+            "D": "one way"
+        }
+    },
+    {
+        "video": "RoadTextVQA/19.mp4",
+        "question": "What is the name of the company that is displayed on the white truck parked near the bank of america building?",
+        "answer": "C",
+        "choices": {
+            "A": "air stream",
+            "B": "unitexx",
+            "C": "unitex",
+            "D": "unitec"
+        }
+    },
+    {
+        "video": "RoadTextVQA/19.mp4",
+        "question": "What  business is seen right before the Unitex truck parked on the right side?",
+        "answer": "A",
+        "choices": {
+            "A": "bank of america",
+            "B": "bank of the west",
+            "C": "america bank",
+            "D": "air stream"
+        }
+    },
+    {
+        "video": "RoadTextVQA/33.mp4",
+        "question": "How much is the speed limit mentioned on the board near the white fence?",
+        "answer": "A",
+        "choices": {
+            "A": "25",
+            "B": "20",
+            "C": "30",
+            "D": "15"
+        }
+    },
+    {
+        "video": "RoadTextVQA/50.mp4",
+        "question": "Which lane is dedicated only for cars?",
+        "answer": "A",
+        "choices": {
+            "A": "left",
+            "B": "right",
+            "C": "right lane",
+            "D": "center lane"
+        }
+    },
+    {
+        "video": "RoadTextVQA/115.mp4",
+        "question": "What pharmacy is located on the right side of the street?",
+        "answer": "D",
+        "choices": {
+            "A": "cvs express",
+            "B": "cvs care",
+            "C": "LICUORS",
+            "D": "cvs"
+        }
+    },
+    {
+        "video": "RoadTextVQA/115.mp4",
+        "question": "What is the name of the liquor shop located next to the pharmacy?",
+        "answer": "A",
+        "choices": {
+            "A": "liquors",
+            "B": "liquor store",
+            "C": "liquor outlet",
+            "D": "cvs"
+        }
+    },
+    {
+        "video": "RoadTextVQA/45.mp4",
+        "question": "What is the advisory speed limit of exit 17 N?",
+        "answer": "D",
+        "choices": {
+            "A": "10 mph",
+            "B": "20 mph",
+            "C": "17",
+            "D": "15 mph"
+        }
+    },
+    {
+        "video": "RoadTextVQA/45.mp4",
+        "question": "Which exit should one take to reach Hempstead Ave?",
+        "answer": "A",
+        "choices": {
+            "A": "17 n",
+            "B": "17 s",
+            "C": "16 n",
+            "D": "15"
+        }
+    },
+    {
+        "video": "RoadTextVQA/13.mp4",
+        "question": "Is there road work ahead?",
+        "answer": "C",
+        "choices": {
+            "A": "keep",
+            "B": "not at all",
+            "C": "yes",
+            "D": "definitely not"
+        }
+    },
+    {
+        "video": "RoadTextVQA/88.mp4",
+        "question": "What is the name of the building seen in the video?",
+        "answer": "C",
+        "choices": {
+            "A": "The Sequo",
+            "B": "sequoia grove",
+            "C": "sequoias",
+            "D": "sequoia tower"
+        }
+    },
+    {
+        "video": "RoadTextVQA/88.mp4",
+        "question": "What is the number written on top of the white truck parked in front of the building entrance?",
+        "answer": "A",
+        "choices": {
+            "A": "927",
+            "B": "926",
+            "C": "92",
+            "D": "921"
+        }
+    },
+    {
+        "video": "RoadTextVQA/88.mp4",
+        "question": "What is the color of the truck which is parked opposite to the main entrance of the building?",
+        "answer": "B",
+        "choices": {
+            "A": "black",
+            "B": "white",
+            "C": "gray",
+            "D": "red"
+        }
+    },
+    {
+        "video": "RoadTextVQA/74.mp4",
+        "question": "Where does the service road lead to ?",
+        "answer": "C",
+        "choices": {
+            "A": "42 ave",
+            "B": "36 ave",
+            "C": "35 ave",
+            "D": "37 ave"
+        }
+    },
+    {
+        "video": "RoadTextVQA/74.mp4",
+        "question": "In which direction must the vehicle turn in order to go to 42 Ave ? ?",
+        "answer": "B",
+        "choices": {
+            "A": "left",
+            "B": "right",
+            "C": "straight",
+            "D": "backward"
+        }
+    },
+    {
+        "video": "RoadTextVQA/74.mp4",
+        "question": "Where will the vehicle reach if it moves straight ahead making no turns ?",
+        "answer": "C",
+        "choices": {
+            "A": "35 Ave",
+            "B": "deadlock",
+            "C": "dead end",
+            "D": "blocked road"
+        }
+    },
+    {
+        "video": "RoadTextVQA/74.mp4",
+        "question": "What does the first road sign above the parked car indicate ?",
+        "answer": "C",
+        "choices": {
+            "A": "stop sign",
+            "B": "yield ahead",
+            "C": "stop ahead",
+            "D": "no parking"
+        }
+    },
+    {
+        "video": "RoadTextVQA/76.mp4",
+        "question": "Which vehicle brand's showroom is located on the right side?",
+        "answer": "D",
+        "choices": {
+            "A": "honda",
+            "B": "toyota",
+            "C": "mazda",
+            "D": "nissan"
+        }
+    },
+    {
+        "video": "RoadTextVQA/46.mp4",
+        "question": "According to the sign board what is the distance to JFK Expressway?",
+        "answer": "D",
+        "choices": {
+            "A": "1.5 miles",
+            "B": "0.5 miles",
+            "C": "2 miles",
+            "D": "1 mile"
+        }
+    },
+    {
+        "video": "RoadTextVQA/46.mp4",
+        "question": "According to the sign board which expressway will you reach in 1 mile?",
+        "answer": "A",
+        "choices": {
+            "A": "jfk expwy",
+            "B": "kennedy airport",
+            "C": "jfk route",
+            "D": "jfk road"
+        }
+    },
+    {
+        "video": "RoadTextVQA/46.mp4",
+        "question": "Which airport comes in the route in which the car is going?",
+        "answer": "C",
+        "choices": {
+            "A": "newark airport",
+            "B": "1 mile",
+            "C": "kennedy airport",
+            "D": "logan airport"
+        }
+    },
+    {
+        "video": "RoadTextVQA/26.mp4",
+        "question": "Which exit should you take for Webster Ave?",
+        "answer": "B",
+        "choices": {
+            "A": "95",
+            "B": "exit 2b",
+            "C": "2c",
+            "D": "exit 3b"
+        }
+    },
+    {
+        "video": "RoadTextVQA/26.mp4",
+        "question": "What is the speed limit to be maintained on Exit?",
+        "answer": "B",
+        "choices": {
+            "A": "25",
+            "B": "30",
+            "C": "35",
+            "D": "40"
+        }
+    },
+    {
+        "video": "RoadTextVQA/26.mp4",
+        "question": "What is the City Speed Limit mentioned on the white sign board on the right side?",
+        "answer": "A",
+        "choices": {
+            "A": "25",
+            "B": "20",
+            "C": "30",
+            "D": "35"
+        }
+    },
+    {
+        "video": "RoadTextVQA/26.mp4",
+        "question": "Which place can you reach if you go North on Route 95?",
+        "answer": "B",
+        "choices": {
+            "A": "hartford ct",
+            "B": "new haven ct",
+            "C": "Wenster Ave",
+            "D": "new britain ct"
+        }
+    },
+    {
+        "video": "RoadTextVQA/26.mp4",
+        "question": "Which road will you reach if you take the Exit 2B?",
+        "answer": "C",
+        "choices": {
+            "A": "webster street",
+            "B": "North",
+            "C": "webster ave",
+            "D": "webster drive"
+        }
+    },
+    {
+        "video": "RoadTextVQA/26.mp4",
+        "question": "What is the warning on the orange sign board on the right side of the street before turning to Exit 2B?",
+        "answer": "C",
+        "choices": {
+            "A": "construction zone ahead",
+            "B": "new haven ct",
+            "C": "road work ahead",
+            "D": "men at work"
+        }
+    },
+    {
+        "video": "RoadTextVQA/479.mp4",
+        "question": "Which is the Billboard right after Gas Trac?",
+        "answer": "A",
+        "choices": {
+            "A": "best buy",
+            "B": "best store",
+            "C": "Jeep",
+            "D": "best buys"
+        }
+    },
+    {
+        "video": "RoadTextVQA/479.mp4",
+        "question": "What is displayed using LED light on the bus?",
+        "answer": "A",
+        "choices": {
+            "A": "q66",
+            "B": "The home depot",
+            "C": "q68",
+            "D": "q69"
+        }
+    },
+    {
+        "video": "RoadTextVQA/479.mp4",
+        "question": "Which direction one should take from junction towards \"Northern Boulevard Service station Inc\"?",
+        "answer": "D",
+        "choices": {
+            "A": "left",
+            "B": "straight",
+            "C": "backward",
+            "D": "right"
+        }
+    },
+    {
+        "video": "RoadTextVQA/479.mp4",
+        "question": "What is the Bus no written in black letter?",
+        "answer": "D",
+        "choices": {
+            "A": "depot",
+            "B": "644",
+            "C": "640",
+            "D": "643"
+        }
+    },
+    {
+        "video": "RoadTextVQA/479.mp4",
+        "question": "What is available for \"299\" in Gas Trac?",
+        "answer": "A",
+        "choices": {
+            "A": "diesel",
+            "B": "best buy",
+            "C": "biofuel",
+            "D": "kerosene"
+        }
+    },
+    {
+        "video": "RoadTextVQA/239.mp4",
+        "question": "Which exit should be taken for Merrick Blvd?",
+        "answer": "B",
+        "choices": {
+            "A": "exit 24a",
+            "B": "exit 24b",
+            "C": "exit 25b",
+            "D": "exit 23"
+        }
+    },
+    {
+        "video": "RoadTextVQA/239.mp4",
+        "question": "What is the recommended speed limit on the Exit?",
+        "answer": "D",
+        "choices": {
+            "A": "24",
+            "B": "30",
+            "C": "35",
+            "D": "25"
+        }
+    },
+    {
+        "video": "RoadTextVQA/239.mp4",
+        "question": "Where does Exit 24A lead to?",
+        "answer": "B",
+        "choices": {
+            "A": "francis lewis avenue",
+            "B": "francis lewis blvd",
+            "C": "merrick blvd",
+            "D": "francis lewis street"
+        }
+    },
+    {
+        "video": "RoadTextVQA/239.mp4",
+        "question": "Which Exit has to be taken to go to Francis Lewis Blvd?",
+        "answer": "A",
+        "choices": {
+            "A": "exit 24a",
+            "B": "exit 24b",
+            "C": "exit 23a",
+            "D": "exit 25"
+        }
+    },
+    {
+        "video": "RoadTextVQA/239.mp4",
+        "question": "To go to which place should you take Exit 24B?",
+        "answer": "C",
+        "choices": {
+            "A": "merrick avenue",
+            "B": "francis lewis blvd",
+            "C": "merrick blvd",
+            "D": "merrick road"
+        }
+    },
+    {
+        "video": "RoadTextVQA/70.mp4",
+        "question": "What type of vehicles are allowed on the right-most lane?",
+        "answer": "D",
+        "choices": {
+            "A": "dry",
+            "B": "van",
+            "C": "motorcycle",
+            "D": "bus"
+        }
+    },
+    {
+        "video": "RoadTextVQA/68.mp4",
+        "question": "What is the speed limit around the school premises between 7 AM-6 PM?",
+        "answer": "C",
+        "choices": {
+            "A": "15",
+            "B": "25",
+            "C": "20",
+            "D": "30"
+        }
+    },
+    {
+        "video": "RoadTextVQA/68.mp4",
+        "question": "What is the speed limit around the school premises from Mon-Fri?",
+        "answer": "D",
+        "choices": {
+            "A": "25",
+            "B": "30",
+            "C": "15",
+            "D": "20"
+        }
+    },
+    {
+        "video": "RoadTextVQA/95.mp4",
+        "question": "What is written on the road in white block letters?",
+        "answer": "A",
+        "choices": {
+            "A": "stop",
+            "B": "all",
+            "C": "slow",
+            "D": "wait"
+        }
+    },
+    {
+        "video": "RoadTextVQA/27.mp4",
+        "question": "What is the contact number given in the advertisement that says For Sale?",
+        "answer": "C",
+        "choices": {
+            "A": "212 660 7726",
+            "B": "212 660 7724",
+            "C": "212 660 7725",
+            "D": "212 660 7723"
+        }
+    },
+    {
+        "video": "RoadTextVQA/27.mp4",
+        "question": "What is the name of the street that goes to the right from the traffic signal?",
+        "answer": "B",
+        "choices": {
+            "A": "webster avenue",
+            "B": "webster av",
+            "C": "westwood av",
+            "D": "local"
+        }
+    },
+    {
+        "video": "RoadTextVQA/27.mp4",
+        "question": "What does the warning text written on the road say?",
+        "answer": "C",
+        "choices": {
+            "A": "one way",
+            "B": "cease",
+            "C": "stop",
+            "D": "do not enter"
+        }
+    },
+    {
+        "video": "RoadTextVQA/27.mp4",
+        "question": "Are pedestrians allowed to cross at the traffic signal?",
+        "answer": "D",
+        "choices": {
+            "A": "yes",
+            "B": "sometimes",
+            "C": "only if they are in a hurry",
+            "D": "no"
+        }
+    },
+    {
+        "video": "RoadTextVQA/27.mp4",
+        "question": "To which side should vehicles move after the stop sign?",
+        "answer": "D",
+        "choices": {
+            "A": "left",
+            "B": "local",
+            "C": "backwards",
+            "D": "right"
+        }
+    },
+    {
+        "video": "RoadTextVQA/27.mp4",
+        "question": "To which side should vehicles move after the stop sign?",
+        "answer": "B",
+        "choices": {
+            "A": "left",
+            "B": "right",
+            "C": "backwards",
+            "D": "local"
+        }
+    },
+    {
+        "video": "RoadTextVQA/36.mp4",
+        "question": "What is the contact number of D'Minelys Beauty Salon?",
+        "answer": "D",
+        "choices": {
+            "A": "718-640-5655",
+            "B": "718-975-0644",
+            "C": "347-276-2434",
+            "D": "718-975-0655"
+        }
+    },
+    {
+        "video": "RoadTextVQA/36.mp4",
+        "question": "What is the name of the dry cleaning and alteration shop?",
+        "answer": "D",
+        "choices": {
+            "A": "D'Minelys",
+            "B": "cleaners",
+            "C": "the wash house",
+            "D": "laundromat"
+        }
+    },
+    {
+        "video": "RoadTextVQA/36.mp4",
+        "question": "What is the contact number of LAUNDROMAT?",
+        "answer": "B",
+        "choices": {
+            "A": "649-4325",
+            "B": "649-4324",
+            "C": "649-4323",
+            "D": "649-6655"
+        }
+    },
+    {
+        "video": "RoadTextVQA/15.mp4",
+        "question": "To which direction one should head to reach Buffalo Ave?",
+        "answer": "A",
+        "choices": {
+            "A": "south",
+            "B": "southeast",
+            "C": "right",
+            "D": "north"
+        }
+    },
+    {
+        "video": "RoadTextVQA/15.mp4",
+        "question": "What is the color of the logo of Mc'Donald's?",
+        "answer": "B",
+        "choices": {
+            "A": "gold",
+            "B": "yellow",
+            "C": "orange",
+            "D": "white"
+        }
+    },
+    {
+        "video": "RoadTextVQA/22.mp4",
+        "question": "What is the advisory speed limit in the Exit 24 N?",
+        "answer": "C",
+        "choices": {
+            "A": "15 mph",
+            "B": "35 mph",
+            "C": "30 mph",
+            "D": "40 mph"
+        }
+    },
+    {
+        "video": "RoadTextVQA/22.mp4",
+        "question": "Which exit should one take to reach Meadowbrook Rd?",
+        "answer": "D",
+        "choices": {
+            "A": "exit 22",
+            "B": "24",
+            "C": "exit 24",
+            "D": "23"
+        }
+    },
+    {
+        "video": "RoadTextVQA/58.mp4",
+        "question": "To which side should all trucks go after the traffic signal?",
+        "answer": "D",
+        "choices": {
+            "A": "right",
+            "B": "straight",
+            "C": "backward",
+            "D": "left"
+        }
+    },
+    {
+        "video": "RoadTextVQA/58.mp4",
+        "question": "Is right turn allowed at the traffic signal?",
+        "answer": "A",
+        "choices": {
+            "A": "no",
+            "B": "yes",
+            "C": "right turn is allowed",
+            "D": "turning right is permitted"
+        }
+    },
+    {
+        "video": "RoadTextVQA/58.mp4",
+        "question": "Is right turn allowed at the traffic signal?",
+        "answer": "C",
+        "choices": {
+            "A": "right turn is allowed",
+            "B": "yes",
+            "C": "no",
+            "D": "turning right is permitted"
+        }
+    },
+    {
+        "video": "RoadTextVQA/58.mp4",
+        "question": "Which tunnel can be reached after taking left at the intersection?",
+        "answer": "B",
+        "choices": {
+            "A": "lincoln tunnel",
+            "B": "holland tunnel",
+            "C": "george washington bridge",
+            "D": "queens midtown tunnel"
+        }
+    },
+    {
+        "video": "RoadTextVQA/58.mp4",
+        "question": "Are trucks allowed to go straight from the traffic intersection towards Newark?",
+        "answer": "D",
+        "choices": {
+            "A": "yes",
+            "B": "no, they must turn",
+            "C": "no, only certain trucks are allowed",
+            "D": "no"
+        }
+    },
+    {
+        "video": "RoadTextVQA/49.mp4",
+        "question": "what is the contact number of bros, Ice shown on the back of the truck which is in the right side?",
+        "answer": "D",
+        "choices": {
+            "A": "1-800-573-2000",
+            "B": "1-800-573-2005",
+            "C": "1-800-573-2010",
+            "D": "1-800-573-2008"
+        }
+    },
+    {
+        "video": "RoadTextVQA/49.mp4",
+        "question": "what is the website of bros, Ice shown on the truck which is in the right?",
+        "answer": "B",
+        "choices": {
+            "A": "www.nuzzice.net",
+            "B": "www.nuzzice.com",
+            "C": "www.uhaul.com",
+            "D": "www.nuzzice.info"
+        }
+    },
+    {
+        "video": "RoadTextVQA/49.mp4",
+        "question": "which company is advertised on the truck which is parked in the left?",
+        "answer": "A",
+        "choices": {
+            "A": "u-haul",
+            "B": "u-box",
+            "C": "u-rent",
+            "D": "Bros.ice"
+        }
+    },
+    {
+        "video": "RoadTextVQA/291.mp4",
+        "question": "To which side does the DETOUR sign point?",
+        "answer": "C",
+        "choices": {
+            "A": "left",
+            "B": "straight",
+            "C": "right",
+            "D": "back"
+        }
+    },
+    {
+        "video": "RoadTextVQA/185.mp4",
+        "question": "what is the name of the shop adjacent to chase?",
+        "answer": "D",
+        "choices": {
+            "A": "deli market",
+            "B": "chase",
+            "C": "good will",
+            "D": "deli grocery"
+        }
+    },
+    {
+        "video": "RoadTextVQA/185.mp4",
+        "question": "what is the website mentioned on the truck which is parked to the right ?",
+        "answer": "B",
+        "choices": {
+            "A": "www.goodwillnj.org",
+            "B": "www.goodwillnynj.org",
+            "C": "www.goodwillnynj.com",
+            "D": "www.goodwillny.org"
+        }
+    },
+    {
+        "video": "RoadTextVQA/291.mp4",
+        "question": "Is there any construction happening?",
+        "answer": "D",
+        "choices": {
+            "A": "no",
+            "B": "not currently",
+            "C": "no construction",
+            "D": "yes"
+        }
+    },
+    {
+        "video": "RoadTextVQA/186.mp4",
+        "question": "which companies trucks are parked on the right side?",
+        "answer": "D",
+        "choices": {
+            "A": "ups",
+            "B": "dhl",
+            "C": "amazon",
+            "D": "fedex"
+        }
+    },
+    {
+        "video": "RoadTextVQA/348.mp4",
+        "question": "What are letters on the road?",
+        "answer": "A",
+        "choices": {
+            "A": "school",
+            "B": "ahead",
+            "C": "30",
+            "D": "35"
+        }
+    },
+    {
+        "video": "RoadTextVQA/348.mp4",
+        "question": "What is the name of the Ambulette?",
+        "answer": "C",
+        "choices": {
+            "A": "school",
+            "B": "cathay shuttle",
+            "C": "cathay express",
+            "D": "cathay service"
+        }
+    },
+    {
+        "video": "RoadTextVQA/348.mp4",
+        "question": "What is the number of the street?",
+        "answer": "A",
+        "choices": {
+            "A": "41 st",
+            "B": "ahead",
+            "C": "40 th",
+            "D": "43 rd"
+        }
+    },
+    {
+        "video": "RoadTextVQA/433.mp4",
+        "question": "what is the white arrow in black board placed in right implies?",
+        "answer": "B",
+        "choices": {
+            "A": "clearance",
+            "B": "one way",
+            "C": "no entry",
+            "D": "right turn only"
+        }
+    },
+    {
+        "video": "RoadTextVQA/348.mp4",
+        "question": "Is there any school ahead?",
+        "answer": "A",
+        "choices": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe",
+            "D": "not really"
+        }
+    },
+    {
+        "video": "RoadTextVQA/348.mp4",
+        "question": "What is the name of the fuel retail outlet?",
+        "answer": "A",
+        "choices": {
+            "A": "mobil",
+            "B": "school",
+            "C": "mobill",
+            "D": "mobl"
+        }
+    },
+    {
+        "video": "RoadTextVQA/348.mp4",
+        "question": "To which direction/side does the traffic sign near the fuel retail outlet indicate not to turn?",
+        "answer": "D",
+        "choices": {
+            "A": "left",
+            "B": "straight",
+            "C": "backward",
+            "D": "right"
+        }
+    },
+    {
+        "video": "RoadTextVQA/498.mp4",
+        "question": "What is the no of the first terminal that arrives when the car starts moving?",
+        "answer": "D",
+        "choices": {
+            "A": "6",
+            "B": "lot",
+            "C": "5",
+            "D": "7"
+        }
+    },
+    {
+        "video": "RoadTextVQA/183.mp4",
+        "question": "What is the advisory speed limit?",
+        "answer": "B",
+        "choices": {
+            "A": "716",
+            "B": "30",
+            "C": "35",
+            "D": "40"
+        }
+    },
+    {
+        "video": "RoadTextVQA/183.mp4",
+        "question": "What is the contact number of Tony's Brooklyn Factory?",
+        "answer": "D",
+        "choices": {
+            "A": "718-277",
+            "B": "718-277-8500",
+            "C": "718-277-8200",
+            "D": "718-277-8300"
+        }
+    },
+    {
+        "video": "RoadTextVQA/498.mp4",
+        "question": "American Eagle is displayed on which terminal?",
+        "answer": "A",
+        "choices": {
+            "A": "8",
+            "B": "7",
+            "C": "9",
+            "D": "10 terminal"
+        }
+    },
+    {
+        "video": "RoadTextVQA/183.mp4",
+        "question": "What is the name of the laundry shop?",
+        "answer": "C",
+        "choices": {
+            "A": "super clean laundry",
+            "B": "marble",
+            "C": "super laundromat",
+            "D": "wash and fold laundromat"
+        }
+    },
+    {
+        "video": "RoadTextVQA/498.mp4",
+        "question": "On which terminal Ukraine Intl is mentioned?",
+        "answer": "D",
+        "choices": {
+            "A": "5",
+            "B": "6",
+            "C": "8",
+            "D": "7"
+        }
+    },
+    {
+        "video": "RoadTextVQA/498.mp4",
+        "question": "Which terminal mentions British Airways?",
+        "answer": "A",
+        "choices": {
+            "A": "7",
+            "B": "8",
+            "C": "6",
+            "D": "5"
+        }
+    },
+    {
+        "video": "RoadTextVQA/183.mp4",
+        "question": "Can anyone park the vehicles in the lane?",
+        "answer": "C",
+        "choices": {
+            "A": "yes",
+            "B": "not at all",
+            "C": "no",
+            "D": "definitely"
+        }
+    },
+    {
+        "video": "RoadTextVQA/292.mp4",
+        "question": "What is the color of the tissue placed in front of the vehicle?",
+        "answer": "B",
+        "choices": {
+            "A": "gray",
+            "B": "white",
+            "C": "cream",
+            "D": "beige"
+        }
+    },
+    {
+        "video": "RoadTextVQA/391.mp4",
+        "question": "What business can be seen on the right side across the traffic intersection?",
+        "answer": "A",
+        "choices": {
+            "A": "barber shop",
+            "B": "beauty salon",
+            "C": "hair salon",
+            "D": "stop"
+        }
+    },
+    {
+        "video": "RoadTextVQA/391.mp4",
+        "question": "when you go straight from the junction, on which side is food market?",
+        "answer": "D",
+        "choices": {
+            "A": "right",
+            "B": "babershop",
+            "C": "behind",
+            "D": "left"
+        }
+    },
+    {
+        "video": "RoadTextVQA/391.mp4",
+        "question": "What is the warning written on the road?",
+        "answer": "D",
+        "choices": {
+            "A": "slow",
+            "B": "food market",
+            "C": "proceed",
+            "D": "stop"
+        }
+    },
+    {
+        "video": "RoadTextVQA/117.mp4",
+        "question": "What business is located on the floor above amalgamated bank?",
+        "answer": "C",
+        "choices": {
+            "A": "mattress outlet",
+            "B": "bank",
+            "C": "mattress firm",
+            "D": "mattress local"
+        }
+    },
+    {
+        "video": "RoadTextVQA/117.mp4",
+        "question": "Which bank is located below the Mattress Firm showroom?",
+        "answer": "D",
+        "choices": {
+            "A": "mattress",
+            "B": "community bank",
+            "C": "national bank",
+            "D": "amalgamated bank"
+        }
+    },
+    {
+        "video": "RoadTextVQA/117.mp4",
+        "question": "Vehicles moving in the middle lane should go in which direction only?",
+        "answer": "B",
+        "choices": {
+            "A": "left",
+            "B": "straight",
+            "C": "right",
+            "D": "diagonal"
+        }
+    },
+    {
+        "video": "RoadTextVQA/337.mp4",
+        "question": "What is the name of the street?",
+        "answer": "A",
+        "choices": {
+            "A": "e 80 st",
+            "B": "e 8",
+            "C": "e 79 st",
+            "D": "e 80 ave"
+        }
+    },
+    {
+        "video": "RoadTextVQA/337.mp4",
+        "question": "What is the advisory speed limit?",
+        "answer": "D",
+        "choices": {
+            "A": "20",
+            "B": "30",
+            "C": "35",
+            "D": "25"
+        }
+    },
+    {
+        "video": "RoadTextVQA/114.mp4",
+        "question": "What is the name of the shop on the left of the dry cleaners?",
+        "answer": "A",
+        "choices": {
+            "A": "the blue",
+            "B": "organic",
+            "C": "the red",
+            "D": "the yellow"
+        }
+    },
+    {
+        "video": "RoadTextVQA/114.mp4",
+        "question": "Is there a school crossing ahead?",
+        "answer": "B",
+        "choices": {
+            "A": "no",
+            "B": "yes",
+            "C": "not today",
+            "D": "there might be a crossing"
+        }
+    },
+    {
+        "video": "RoadTextVQA/114.mp4",
+        "question": "Is the car located in the correct lane to turn left?",
+        "answer": "B",
+        "choices": {
+            "A": "yes",
+            "B": "no",
+            "C": "the car is in the correct lane",
+            "D": "the car is not in the lane to turn left"
+        }
+    },
+    {
+        "video": "RoadTextVQA/114.mp4",
+        "question": "Which side of the road is the pizza restaurant?",
+        "answer": "D",
+        "choices": {
+            "A": "right",
+            "B": "straight",
+            "C": "behind",
+            "D": "left"
+        }
+    },
+    {
+        "video": "RoadTextVQA/350.mp4",
+        "question": "What building does the yellow warning signs on both sides of the road warn about?",
+        "answer": "D",
+        "choices": {
+            "A": "ahead",
+            "B": "parking lot",
+            "C": "playground",
+            "D": "school"
+        }
+    },
+    {
+        "video": "RoadTextVQA/350.mp4",
+        "question": "What is the contact number given in the advertisement for donating your car?",
+        "answer": "B",
+        "choices": {
+            "A": "718",
+            "B": "718-207-8781",
+            "C": "718-207-8783",
+            "D": "718-207-8784"
+        }
+    },
+    {
+        "video": "RoadTextVQA/350.mp4",
+        "question": "Which shop on the right side of the road deals in new and used tires?",
+        "answer": "B",
+        "choices": {
+            "A": "collado tire store",
+            "B": "collado tire shop",
+            "C": "local",
+            "D": "collado tire warehouse"
+        }
+    },
+    {
+        "video": "RoadTextVQA/350.mp4",
+        "question": "What building does the writing on the road warn about?",
+        "answer": "C",
+        "choices": {
+            "A": "AHEAD",
+            "B": "library",
+            "C": "school",
+            "D": "restaurant"
+        }
+    },
+    {
+        "video": "RoadTextVQA/103.mp4",
+        "question": "What building does the writing on the road warn about?",
+        "answer": "A",
+        "choices": {
+            "A": "school",
+            "B": "hospital",
+            "C": "21 St",
+            "D": "church"
+        }
+    },
+    {
+        "video": "RoadTextVQA/103.mp4",
+        "question": "Is it permitted to take a left turn at the signal on 20 street?",
+        "answer": "C",
+        "choices": {
+            "A": "yes",
+            "B": "only",
+            "C": "no",
+            "D": "21 St"
+        }
+    },
+    {
+        "video": "RoadTextVQA/34.mp4",
+        "question": "On which day of the week can vehicles other than buses use the bus lane?",
+        "answer": "C",
+        "choices": {
+            "A": "saturday",
+            "B": "90 Av",
+            "C": "sunday",
+            "D": "friday"
+        }
+    },
+    {
+        "video": "RoadTextVQA/34.mp4",
+        "question": "Will there be vehicles coming from the opposite direction if you take a right turn from the signal at 90 Av?",
+        "answer": "C",
+        "choices": {
+            "A": "yes",
+            "B": "maybe",
+            "C": "no",
+            "D": "definitely"
+        }
+    },
+    {
+        "video": "RoadTextVQA/147.mp4",
+        "question": "Which exit should be taken for E 116 street?",
+        "answer": "B",
+        "choices": {
+            "A": "exit 15",
+            "B": "exit 16",
+            "C": "exit 17",
+            "D": "exit 14"
+        }
+    },
+    {
+        "video": "RoadTextVQA/147.mp4",
+        "question": "If you take Exit 15, which street will you reach?",
+        "answer": "B",
+        "choices": {
+            "A": "e 116 st",
+            "B": "e 106 st",
+            "C": "e 105 st",
+            "D": "e 108 st"
+        }
+    },
+    {
+        "video": "RoadTextVQA/147.mp4",
+        "question": "To which side should vehicles over 8000 lbs turn?",
+        "answer": "D",
+        "choices": {
+            "A": "left",
+            "B": "straight",
+            "C": "backwards",
+            "D": "right"
+        }
+    },
+    {
+        "video": "RoadTextVQA/147.mp4",
+        "question": "Which type of vehicles over 12' 7\" height should take the right turn?",
+        "answer": "D",
+        "choices": {
+            "A": "vehicles",
+            "B": "vans",
+            "C": "SUVs",
+            "D": "trucks"
+        }
+    },
+    {
+        "video": "RoadTextVQA/147.mp4",
+        "question": "From which side will traffic be merging?",
+        "answer": "C",
+        "choices": {
+            "A": "left",
+            "B": "rear",
+            "C": "right",
+            "D": "front"
+        }
+    },
+    {
+        "video": "RoadTextVQA/385.mp4",
+        "question": "What is the name of the light and sound shop on the right?",
+        "answer": "C",
+        "choices": {
+            "A": "candle",
+            "B": "canopy",
+            "C": "canal",
+            "D": "camera"
+        }
+    },
+    {
+        "video": "RoadTextVQA/385.mp4",
+        "question": "Which luggage shop is advertised on the blue sign on the right?",
+        "answer": "A",
+        "choices": {
+            "A": "royal luggage",
+            "B": "royal bags",
+            "C": "royal travel",
+            "D": "royal suitcase"
+        }
+    },
+    {
+        "video": "RoadTextVQA/385.mp4",
+        "question": "What type of rubber does Canal Rubber shop sell?",
+        "answer": "C",
+        "choices": {
+            "A": "latex rubber",
+            "B": "neoprene rubber",
+            "C": "foam rubber",
+            "D": "silicone rubber"
+        }
+    },
+    {
+        "video": "RoadTextVQA/385.mp4",
+        "question": "What is the name of the street ahead?",
+        "answer": "B",
+        "choices": {
+            "A": "ROYAL",
+            "B": "greene st",
+            "C": "greene street",
+            "D": "greenway street"
+        }
+    },
+    {
+        "video": "RoadTextVQA/385.mp4",
+        "question": "Is a left turn allowed on the road ahead?",
+        "answer": "B",
+        "choices": {
+            "A": "yes",
+            "B": "no",
+            "C": "a left turn is allowed",
+            "D": "royal"
+        }
+    },
+    {
+        "video": "RoadTextVQA/385.mp4",
+        "question": "Is the road leading towards the right a one way?",
+        "answer": "D",
+        "choices": {
+            "A": "no",
+            "B": "it could be two way",
+            "C": "royal",
+            "D": "yes"
+        }
+    },
+    {
+        "video": "RoadTextVQA/385.mp4",
+        "question": "For how many hours are parking services provided?",
+        "answer": "C",
+        "choices": {
+            "A": "12",
+            "B": "royal",
+            "C": "24",
+            "D": "6"
+        }
+    },
+    {
+        "video": "RoadTextVQA/404.mp4",
+        "question": "Does the road have a cycle bike lane?",
+        "answer": "B",
+        "choices": {
+            "A": "no",
+            "B": "yes",
+            "C": "the road does not have a cycle bike lane",
+            "D": "master"
+        }
+    },
+    {
+        "video": "RoadTextVQA/385.mp4",
+        "question": "What is the name of the plastic center on the right?",
+        "answer": "B",
+        "choices": {
+            "A": "royal",
+            "B": "canal",
+            "C": "bay",
+            "D": "cove"
+        }
+    },
+    {
+        "video": "RoadTextVQA/404.mp4",
+        "question": "On which side of the road is the cycle bike lane?",
+        "answer": "C",
+        "choices": {
+            "A": "left",
+            "B": "free",
+            "C": "right",
+            "D": "behind"
+        }
+    },
+    {
+        "video": "RoadTextVQA/404.mp4",
+        "question": "What is the name of the automobile repair store?",
+        "answer": "B",
+        "choices": {
+            "A": "east bay laundry",
+            "B": "master tech auto body",
+            "C": "master tech car service",
+            "D": "master tech auto clinic"
+        }
+    },
+    {
+        "video": "RoadTextVQA/404.mp4",
+        "question": "What is the contact number of Master Tech Auto Body?",
+        "answer": "C",
+        "choices": {
+            "A": "510-842-3240",
+            "B": "510-842-3242",
+            "C": "510-842-3241",
+            "D": "510-842-3245"
+        }
+    },
+    {
+        "video": "RoadTextVQA/404.mp4",
+        "question": "Which Laundry service has a parking area to the right?",
+        "answer": "B",
+        "choices": {
+            "A": "masters",
+            "B": "east bay laundry",
+            "C": "south bay laundry",
+            "D": "north bay"
+        }
+    },
+    {
+        "video": "RoadTextVQA/404.mp4",
+        "question": "To which side is the parking area for East Bay Laundry?",
+        "answer": "D",
+        "choices": {
+            "A": "left",
+            "B": "straight",
+            "C": "behind",
+            "D": "right"
+        }
+    },
+    {
+        "video": "RoadTextVQA/411.mp4",
+        "question": "What is the contact number mentioned on the bus?",
+        "answer": "A",
+        "choices": {
+            "A": "866-727-5736",
+            "B": "866-727-5735",
+            "C": "866-727-5737",
+            "D": "866-727-5738"
+        }
+    },
+    {
+        "video": "RoadTextVQA/411.mp4",
+        "question": "What is the bus number?",
+        "answer": "B",
+        "choices": {
+            "A": "31",
+            "B": "32",
+            "C": "33",
+            "D": "30"
+        }
+    },
+    {
+        "video": "RoadTextVQA/411.mp4",
+        "question": "Where the bus is going to park?",
+        "answer": "D",
+        "choices": {
+            "A": "SFO",
+            "B": "bus terminal",
+            "C": "shopping mall",
+            "D": "airport"
+        }
+    },
+    {
+        "video": "RoadTextVQA/301.mp4",
+        "question": "What is the street address mentioned on the awning of the store on the right side across the junction?",
+        "answer": "B",
+        "choices": {
+            "A": "one",
+            "B": "68 nevins st",
+            "C": "58 nevins street",
+            "D": "80 nevins st"
+        }
+    },
+    {
+        "video": "RoadTextVQA/301.mp4",
+        "question": "Towards which side is traffic allowed on State street?",
+        "answer": "A",
+        "choices": {
+            "A": "left",
+            "B": "right",
+            "C": "straight",
+            "D": "behind"
+        }
+    },
+    {
+        "video": "RoadTextVQA/301.mp4",
+        "question": "Are vehicles allowed to turn right at the intersection?",
+        "answer": "A",
+        "choices": {
+            "A": "no",
+            "B": "yes",
+            "C": "vehicles must turn right at the intersection",
+            "D": "one"
+        }
+    },
+    {
+        "video": "RoadTextVQA/301.mp4",
+        "question": "What does the signboard above the street name signs on the right side say?",
+        "answer": "D",
+        "choices": {
+            "A": "one way",
+            "B": "keep crosswalk clear",
+            "C": "keep the area clear",
+            "D": "keep intersection clear"
+        }
+    },
+    {
+        "video": "RoadTextVQA/124.mp4",
+        "question": "Which exit has to be taken for Linden Blvd?",
+        "answer": "A",
+        "choices": {
+            "A": "exit 3",
+            "B": "678",
+            "C": "exit 4",
+            "D": "exit 5"
+        }
+    },
+    {
+        "video": "RoadTextVQA/242.mp4",
+        "question": "Which exit leads to New York?",
+        "answer": "D",
+        "choices": {
+            "A": "exit 11",
+            "B": "exit 13",
+            "C": "15",
+            "D": "12"
+        }
+    },
+    {
+        "video": "RoadTextVQA/242.mp4",
+        "question": "What is the Interstate route number?",
+        "answer": "D",
+        "choices": {
+            "A": "97",
+            "B": "85",
+            "C": "11",
+            "D": "95"
+        }
+    },
+    {
+        "video": "RoadTextVQA/242.mp4",
+        "question": "What is the advisory speed limit?",
+        "answer": "A",
+        "choices": {
+            "A": "40",
+            "B": "95",
+            "C": "55 mph",
+            "D": "60 mph"
+        }
+    },
+    {
+        "video": "RoadTextVQA/242.mp4",
+        "question": "What is the advisory speed limit on the ramp?",
+        "answer": "B",
+        "choices": {
+            "A": "11",
+            "B": "40 mph",
+            "C": "45 mph",
+            "D": "30 mph"
+        }
+    },
+    {
+        "video": "RoadTextVQA/388.mp4",
+        "question": "Are trucks allowed on the road?",
+        "answer": "A",
+        "choices": {
+            "A": "no",
+            "B": "yes",
+            "C": "trucks are always allowed on the road",
+            "D": "cars"
+        }
+    },
+    {
+        "video": "RoadTextVQA/388.mp4",
+        "question": "What vehicles are permitted to use the road?",
+        "answer": "A",
+        "choices": {
+            "A": "passenger cars",
+            "B": "bicycles",
+            "C": "motorcycles",
+            "D": "only"
+        }
+    },
+    {
+        "video": "RoadTextVQA/388.mp4",
+        "question": "what vehicles are prohibited from using the route?",
+        "answer": "B",
+        "choices": {
+            "A": "passenger cars",
+            "B": "trucks",
+            "C": "buses",
+            "D": "motorcycles"
+        }
+    },
+    {
+        "video": "RoadTextVQA/388.mp4",
+        "question": "Which is the destination on going ahead this route?",
+        "answer": "B",
+        "choices": {
+            "A": "cross is parkway",
+            "B": "cross is pkwy",
+            "C": "passenger cars",
+            "D": "cross is the highway"
+        }
+    },
+    {
+        "video": "RoadTextVQA/188.mp4",
+        "question": "Is there long term parking ahead?",
+        "answer": "B",
+        "choices": {
+            "A": "no",
+            "B": "yes",
+            "C": "not available",
+            "D": "detour"
+        }
+    },
+    {
+        "video": "RoadTextVQA/188.mp4",
+        "question": "Turning to which direction is prohibited?",
+        "answer": "A",
+        "choices": {
+            "A": "right",
+            "B": "left",
+            "C": "forward",
+            "D": "backward"
+        }
+    },
+    {
+        "video": "RoadTextVQA/188.mp4",
+        "question": "Does the sign permit entry?",
+        "answer": "D",
+        "choices": {
+            "A": "yes",
+            "B": "maybe",
+            "C": "94 St",
+            "D": "no"
+        }
+    },
+    {
+        "video": "RoadTextVQA/188.mp4",
+        "question": "Is there a pedestrian crossing on the left?",
+        "answer": "D",
+        "choices": {
+            "A": "no",
+            "B": "there is not",
+            "C": "94 St",
+            "D": "yes"
+        }
+    },
+    {
+        "video": "RoadTextVQA/188.mp4",
+        "question": "what should the pedestrians do on the road ahead?",
+        "answer": "C",
+        "choices": {
+            "A": "west",
+            "B": "avoid",
+            "C": "detour",
+            "D": "bypass"
+        }
+    },
+    {
+        "video": "RoadTextVQA/314.mp4",
+        "question": "Which exit takes us to Cross Is Pkwy?",
+        "answer": "A",
+        "choices": {
+            "A": "23",
+            "B": "22",
+            "C": "exit 22",
+            "D": "24"
+        }
+    },
+    {
+        "video": "RoadTextVQA/314.mp4",
+        "question": "The lane on which side has to be taken to get to Cross Is Pkwy?",
+        "answer": "C",
+        "choices": {
+            "A": "left",
+            "B": "straight",
+            "C": "right",
+            "D": "upward"
+        }
+    },
+    {
+        "video": "RoadTextVQA/314.mp4",
+        "question": "Is the driver on the right lane to get to Cross Is?",
+        "answer": "B",
+        "choices": {
+            "A": "no",
+            "B": "yes",
+            "C": "not at all",
+            "D": "definitely not"
+        }
+    },
+    {
+        "video": "RoadTextVQA/314.mp4",
+        "question": "Can you use the left lane to get to Exit 23?",
+        "answer": "B",
+        "choices": {
+            "A": "yes",
+            "B": "no",
+            "C": "probably",
+            "D": "not really"
+        }
+    },
+    {
+        "video": "RoadTextVQA/212.mp4",
+        "question": "Which exit leads to E 138 St?",
+        "answer": "A",
+        "choices": {
+            "A": "48",
+            "B": "47",
+            "C": "49",
+            "D": "50"
+        }
+    }
+]

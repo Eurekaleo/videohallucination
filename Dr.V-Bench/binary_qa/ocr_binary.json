@@ -1,0 +1,752 @@
+[
+    {
+        "video": "vtvqa/05892.mp4",
+        "question": "Is the information from Wikipedia?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/07555.mp4",
+        "question": "Is his shirt white?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/07798.mp4",
+        "question": "Did EDG get 2 kills?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/04761.mp4",
+        "question": "Are they waiting for Steven?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/00284.mp4",
+        "question": "Is \"stop\" written on the road?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/06388.mp4",
+        "question": "Is the Notification Center introduced?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/07730.mp4",
+        "question": "Is the exit number and letter from the left second sign \"Exit 35A\"?",
+        "answer": "Yes"
+    },
+    {
+        "video": "vtvqa/06049.mp4",
+        "question": "Is the name of the salon \"D\\'Minelys Beauty Salon\"?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/02073.mp4",
+        "question": "Is \"QUALITY TILE Corp.\" written on the green sign?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/07284.mp4",
+        "question": "Is the discount given for the SUSTAGEN product 20% off?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/06024.mp4",
+        "question": "Is the word \"NO\" in red font?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/01149.mp4",
+        "question": "Is “Lofoten Islands” written in white font on the map?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/00992.mp4",
+        "question": "Is the store below the word 'walk' HAWKERS?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/02253.mp4",
+        "question": "Is the price of the theragun pro $599?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/00360.mp4",
+        "question": "Is the score of Cleveland 77?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/00161.mp4",
+        "question": "Is ropz the one who killed mezii?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/05637.mp4",
+        "question": "Is the word on the left of 'nature' 'delight'?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/00228.mp4",
+        "question": "Did <<E4JOKER>> kill YAGIZ?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/01581.mp4",
+        "question": "Is the outdoor temperature 64°?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/01744.mp4",
+        "question": "Is the GM OF COMPLEX Cornell Brown?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/01061.mp4",
+        "question": "Is the brand of this sofa \"THOMASVILLE\"?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/02033.mp4",
+        "question": "Is the first document dated 02/15/2022?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/01484.mp4",
+        "question": "Is the white arrow pointing at the left saying \"ONE WAY\"?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/08181.mp4",
+        "question": "Is the cost of the R1S Rivian $70,000?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/04233.mp4",
+        "question": "Is AASS PILSNER cheaper than GLOBAL PALE ALE?",
+        "answer": "Yes"
+    },
+    {
+        "video": "vtvqa/00135.mp4",
+        "question": "Is “PRDDR” the first brand of all nine brands?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/07877.mp4",
+        "question": "Is “To 82” written on the blue sign?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/01776.mp4",
+        "question": "Is “diner” what's written?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/06004.mp4",
+        "question": "Is \"waterbarn\" written on light blue?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/01253.mp4",
+        "question": "Is the person most likely to buy \"ALASKA WILD THINGS\" at the end of the video?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/01253.mp4",
+        "question": "Is the original cost of ALASKA WILD WINGS $5.99?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/05474.mp4",
+        "question": "Is he searching for \"crush\"?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/03872.mp4",
+        "question": "Is the number of the white truck 23?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/07798.mp4",
+        "question": "Is the HP of BeryL 1270?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/01780.mp4",
+        "question": "Is “the bakery store” placed at the bottom of Michael's?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/00169.mp4",
+        "question": "Is the girl mentioning \"Jingwon\"?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/00135.mp4",
+        "question": "Is the last brand of all nine brands \"D&Q\"?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/07527.mp4",
+        "question": "Is the word after 'traditional' in the subtitles 'painting'?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/00992.mp4",
+        "question": "Is 'PARTA' the store below the word 'home'?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/05333.mp4",
+        "question": "Is the section number shown at last \"8\"?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/08502.mp4",
+        "question": "Is this place at the side of America that is labeled as \"NORDH\"?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/02741.mp4",
+        "question": "Is it true that they are at the Aston Vega Fubball Club?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/04790.mp4",
+        "question": "Does the Finest Ceylon Tea cost 7.48?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/07365.mp4",
+        "question": "Does he have 8 First Aid Kits?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/05891.mp4",
+        "question": "Is he offering them honey?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/03849.mp4",
+        "question": "Is the number of the athlete who got the assist 8?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/05789.mp4",
+        "question": "Does the team that loses the round have the abbreviation 'GF'?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/00797.mp4",
+        "question": "Is the highest point labelled in the chart as \"2.0\"?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/03386.mp4",
+        "question": "Is “OCEANS HEARTAGE” written beside the earth?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/03929.mp4",
+        "question": "Is the speed limit on the yellow sign 28 mph?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/04987.mp4",
+        "question": "Is the brand of the product Stussy?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/08160.mp4",
+        "question": "Does the blackboard say 'The SMALLEST Bar in Europe'?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/01729.mp4",
+        "question": "Does one bag of spinach cost 2.99?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/00464.mp4",
+        "question": "Is the brand of the drug in red Scavista?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/03730.mp4",
+        "question": "Is he going to the 8th floor?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/06473.mp4",
+        "question": "Is GSW not leading the game?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/02731.mp4",
+        "question": "Is 'IRMA-TIMA' written on the red umbrella?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/00054.mp4",
+        "question": "Is GS leading the game?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/02918.mp4",
+        "question": "Does she think it is really good?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/02858.mp4",
+        "question": "Is he at Bootcamp?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/07344.mp4",
+        "question": "Is the last word that is printed in blue card?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/00431.mp4",
+        "question": "Is the name of the channel Motivation Ark?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/08297.mp4",
+        "question": "Is the poorest blameF?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/05205.mp4",
+        "question": "Is the bottom right number 10?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/03340.mp4",
+        "question": "Does Alksib have $300 at the end?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/00640.mp4",
+        "question": "Is the plaque number of the white car GX70ZZ0?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/00600.mp4",
+        "question": "Does the left lane go to Lewistown Harrisburg?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/05946.mp4",
+        "question": "Is Bitcoin priced at $44,375.88?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/03047.mp4",
+        "question": "Is the text in golden ROCKET RETURNS?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/00766.mp4",
+        "question": "Is the third problem Diabetes?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/08334.mp4",
+        "question": "Did huNter- kill gla1ve?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/02130.mp4",
+        "question": "Is the number of the player who scored the goal 3?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/03406.mp4",
+        "question": "Is the price of the product 17.99?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/03763.mp4",
+        "question": "Does the right lane lead to union tpke main st?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/08381.mp4",
+        "question": "Is the price of spring and summer bushes $4.99?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/05192.mp4",
+        "question": "Is the time of day day white?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/06500.mp4",
+        "question": "Is 9 3/4 SHAMBLES YORK written on the sign in the second scene?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/00704.mp4",
+        "question": "Is the total price of the product right to the grabbed one 22.68?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/00041.mp4",
+        "question": "Is Perfecto the poorest among dead players?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/06201.mp4",
+        "question": "Is the speed limit 35?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/05308.mp4",
+        "question": "Does the left black flag say TOPMAN?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/05004.mp4",
+        "question": "Does Khan play for DK?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/04675.mp4",
+        "question": "Does blameF assist gla1ve?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/05308.mp4",
+        "question": "Is FARACHUTE written on the yellow car in black text?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/05153.mp4",
+        "question": "Did mONESY kill gla1ve?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/06226.mp4",
+        "question": "Is the name of the city Tallinn?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/04555.mp4",
+        "question": "Does B1T play for Navi?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/05526.mp4",
+        "question": "Did she secondly point to BEEF FRANKS?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/03671.mp4",
+        "question": "Is Cookies Section written on the subtitle?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/02733.mp4",
+        "question": "Is the name of the production Lightstorm Entertainment?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/00418.mp4",
+        "question": "Did JACKZ kill the most?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/07600.mp4",
+        "question": "Is the brand of the products KitchenAid?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/07443.mp4",
+        "question": "Can address be entered in the input box?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/08146.mp4",
+        "question": "Are the scores of KC 21?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/01936.mp4",
+        "question": "Is the original price $5.50?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/04866.mp4",
+        "question": "Did LAL score 58 points?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/06863.mp4",
+        "question": "Did MICRON increase by 9.87% in a year?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/00455.mp4",
+        "question": "Does the cup printed with PARTY WITH USA cost $5.99?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/04249.mp4",
+        "question": "Does the right lane go to Pulaski Skyway?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/05614.mp4",
+        "question": "Is the price on the blueberry 2?",
+        "answer": "yes"
+    },
+    {
+        "video": "vtvqa/04027.mp4",
+        "question": "Is 'Overview of Science' written on the green sign on the laptop?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/07037.mp4",
+        "question": "Are there 68 alive?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/03799.mp4",
+        "question": "Is the name of the shop behind the people 'nexx'?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/00205.mp4",
+        "question": "Does AST team have 1 alive player?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/02808.mp4",
+        "question": "Is 'Jurassic World' written in one car?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/05166.mp4",
+        "question": "Is 'LORD OF THE MINOR' written on the white cup?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/02808.mp4",
+        "question": "Are there 'Small dinosaurs' inside the Jurassic car?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/04829.mp4",
+        "question": "Is the score of LAC 112?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/04200.mp4",
+        "question": "Is the first word in the first subtitle 'An'?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/06953.mp4",
+        "question": "Is this section 'Fruits'?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/02052.mp4",
+        "question": "Does it cost 165.99 without VAT?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/06789.mp4",
+        "question": "Is the broccoli $2.50?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/07599.mp4",
+        "question": "Are there 6 packs in the Easy Mac?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/01490.mp4",
+        "question": "Did mONESY die last?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/05964.mp4",
+        "question": "Did interz play for GMR?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/06489.mp4",
+        "question": "Does 11.19 mean GAME MATCH?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/02803.mp4",
+        "question": "Is B1T from NACI?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/06226.mp4",
+        "question": "Is it located in ASIA?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/05669.mp4",
+        "question": "Does the curve stand for DOW INDUSTRY?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/08275.mp4",
+        "question": "Was AIR POWER written on his helmet in the game?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/08350.mp4",
+        "question": "Is JackFrags' number 5?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/03406.mp4",
+        "question": "Is US queen size same as UK king size?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/05166.mp4",
+        "question": "Is the name of the tea YORKSHIRE TEAS?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/07158.mp4",
+        "question": "Is the number 015-3611104?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/07441.mp4",
+        "question": "Was XPS 15 2-IN-1 written on the billboard on the left?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/03187.mp4",
+        "question": "Did the player agree not to buy the item?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/01602.mp4",
+        "question": "Does the green label say 'Our Apologies We are temporarily restocking this item'?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/03226.mp4",
+        "question": "Is the number of the player who scored the goal 1?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/00088.mp4",
+        "question": "Is the fifth not included item 'Forward-bid or auction pricing'?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/00205.mp4",
+        "question": "Has Aleksib got 3 assists?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/05362.mp4",
+        "question": "Is his 2nd equipped weapon Kar88K?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/02117.mp4",
+        "question": "Is 'THIS STORES' printed in red?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/05666.mp4",
+        "question": "Is 'B' written on the black shirt?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/02506.mp4",
+        "question": "Is that shop a THRIFT SHOP?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/04618.mp4",
+        "question": "Is the name of the sponsor bank Barclays Bank?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/05266.mp4",
+        "question": "Does it switch apps UP TO 3x FASTER?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/07829.mp4",
+        "question": "Is 'OPPOO' written on the bottom-left?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/00236.mp4",
+        "question": "Is the watermelon $1.25?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/08013.mp4",
+        "question": "Does fair value decrease for NASDAQ by 1.55?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/05192.mp4",
+        "question": "Is 'SUBWAI' written on the yellow sign?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/01304.mp4",
+        "question": "Is the big letter on the right 'N'?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/03870.mp4",
+        "question": "Is DOMINIQUE WILKINS in the Lakers team?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/03484.mp4",
+        "question": "Is the max speed shown in the video 100?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/04971.mp4",
+        "question": "Is the score of ENCE 7?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/05993.mp4",
+        "question": "Does Jackz have 10 kills?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/07702.mp4",
+        "question": "Are the letters on the left of the bar 'MBD'?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/03135.mp4",
+        "question": "Are the texts written on the second item 'LVIU'?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/06489.mp4",
+        "question": "Is the person killed DK Phantom?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/07066.mp4",
+        "question": "Is the symbol of the app 'Y'?",
+        "answer": "no"
+    },
+    {
+        "video": "vtvqa/03403.mp4",
+        "question": "Is 'Genius IT SYSTEMS' written on the white middle sign?",
+        "answer": "no"
+    }
+]

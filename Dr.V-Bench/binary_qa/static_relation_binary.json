@@ -1,0 +1,1202 @@
+[
+    {
+        "video": "activitynetqa/v_Zt9qvbUnNhc.mp4",
+        "question": "Is there a pond on the right side of the person wearing red shorts?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_DUi-hLMpQQo.mp4",
+        "question": "Is there a horse under the girl in the jeans?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_KsFid_YVsn0.mp4",
+        "question": "Is there a tree in front of the video at the beginning with the woman?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_UzmsAb15Bso.mp4",
+        "question": "Is there a skate under the foot of the person wearing a sweater?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_7dXqXFoju2M.mp4",
+        "question": "Is there a mirror in front of a long-haired woman?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_8IrulONeC28.mp4",
+        "question": "Is there a woman in red clothes on the left side of the yellow man at the beginning of the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_dGT_KGb0gyw.mp4",
+        "question": "Is there a man in white on the left side of the woman in a yellow shirt?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_C27eI-S1Vkw.mp4",
+        "question": "Is a wall behind the dummy?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_7LbBmVX33I4.mp4",
+        "question": "Is there a bed behind the curly-haired woman?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_2bQx5igckJc.mp4",
+        "question": "Is it true that behind the head of the blond hair are both hands?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_teffBaLEZQg.mp4",
+        "question": "Is there a cabinet behind the person in a blue hat?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_vFO70WwrQgE.mp4",
+        "question": "Is the foot of the person wearing the red pants at the beginning of the video in the parking lot?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_GgnM5RGNtDE.mp4",
+        "question": "Is there a rope under the foot of the man in blue short sleeves?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_IToczVhbOc0.mp4",
+        "question": "Is there pads under the bald woman's left hand?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_JcAAwYpJhm8.mp4",
+        "question": "Is there a pool in front of the child?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_7OcxT66BxX0.mp4",
+        "question": "Is the left side of the man wearing a black hat a microphone?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_Oyycph_Ukfg.mp4",
+        "question": "Is a stool under the sitting person?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_A9VCuZ53ObQ.mp4",
+        "question": "Is there a man in white in front of the person in black clothes?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_ZnKB0U96ZI4.mp4",
+        "question": "Is the person wearing red shorts playing tennis?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_kBTqTp0SKq8.mp4",
+        "question": "Is there a wall behind the person in blue?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_QdmcjM2fluo.mp4",
+        "question": "Is there a tree in front of the person in a black coat?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_ghHZ9M-jx0w.mp4",
+        "question": "Is the scoreboard in front of the whistle in his mouth?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_IMMoglaJ3RY.mp4",
+        "question": "Is there an enclosure behind a short hair man?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_I9ficvPdpZg.mp4",
+        "question": "Is there a house behind the glass window on the stage?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_4UdxT6Zmero.mp4",
+        "question": "Is there grassland in front of the house?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_FADShG5lyB8.mp4",
+        "question": "Is there fitness equipment under the foot of the man?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_dskswWtslKc.mp4",
+        "question": "Is a craft in front of the surf man?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_4LpqPUWHH5k.mp4",
+        "question": "Is there a court in front of the audience?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_cAiig_569fI.mp4",
+        "question": "Is there a shed behind the volleyball court?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_m731tx8N5-Y.mp4",
+        "question": "Is there a microphone on the right side of the bald person?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_KMK3_VeODlk.mp4",
+        "question": "Is the word on the wall on the right side of the woman wearing a pink vest red?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_PkRvgIFREJU.mp4",
+        "question": "Is there a light pole in front of the person in striped clothes?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_yRQpolWhJ6A.mp4",
+        "question": "Is the ceiling above the person wearing blue clothes?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_87F9xGaMwCw.mp4",
+        "question": "Is there a wall on the right of the person in black clothes?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_Ki13JIVwMdk.mp4",
+        "question": "Is there a carpet behind the black and white hair dog?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_1dDAcUliXrQ.mp4",
+        "question": "Is a feathered pat in the hands of those in pink?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_5k2Ot6-wOgc.mp4",
+        "question": "Is there a bowling pin in front of the person in black?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_2UhbDOd43zU.mp4",
+        "question": "Is there a table and chair on the right of the person in white clothes?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_qiupddjDHDg.mp4",
+        "question": "Is the roof under the person in a blue coat?",
+        "answer": "Yes"
+    },
+    {
+        "video": "activitynetqa/v_b6QSzGwI9m4.mp4",
+        "question": "Is a protective pad underneath the elbow?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_YMOYyt3kSOs.mp4",
+        "question": "Is there a network in front of the person in white clothes?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_7rwDYzqfGgU.mp4",
+        "question": "Is there an audience behind the woman in the center of the field?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v__jV5sAOOHLk.mp4",
+        "question": "Is there a bicycle in front of the person in black clothes?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_X6CBZwwRdQQ.mp4",
+        "question": "Is there a chair on the right of the person in black clothes?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_ZsVfa3JIUNU.mp4",
+        "question": "Is the front of the person wearing black glasses a microphone?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_VSsZZZHn1L0.mp4",
+        "question": "Is there a door behind the girl in black?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_eVkp83uGf3Y.mp4",
+        "question": "Is there a safety net behind the man in a red vest?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_fEBM3nPMen8.mp4",
+        "question": "Is there a fish behind the person in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_zA2zZPyYLlU.mp4",
+        "question": "Is there water in front of the boat in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_SYh-j9bK_ls.mp4",
+        "question": "Is the audience behind the cheerleaders?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_pVoM_kUQ4_E.mp4",
+        "question": "Is there a table under the pumpkin?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_aNsj5OrEGLY.mp4",
+        "question": "Is the next vegetable after handling tomatoes an onion?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_gNUCdXGxp0w.mp4",
+        "question": "Is there a horse underneath the person wearing a green vest?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_GjcRJzPjbRI.mp4",
+        "question": "Is the front of the person wearing a yellow vest facing a scoreboard?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_0mNZfG6CL74.mp4",
+        "question": "Is personnel behind the referee?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_09ocXmGF-T4.mp4",
+        "question": "Is there a carrot in front of the boy?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_LsVCwr6qPmY.mp4",
+        "question": "Is an iron on the right side of the person in blue?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_CfqnHsp6olc.mp4",
+        "question": "Is the audiences stand above the football field?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_HJWwqjLf1I4.mp4",
+        "question": "Is seaweed under the person wearing yellow?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_X_K7Aa3Aa-E.mp4",
+        "question": "Is there a fire pile in front of the person in white clothes?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_qZMcbBsQorE.mp4",
+        "question": "Is a disk in front of the person in a gray vest?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_v0azz4XzW_s.mp4",
+        "question": "Is there a stone in front of the person in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_nDM4E9CD_y0.mp4",
+        "question": "Is there a house on the left of the person in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_-YwrMtiqHKg.mp4",
+        "question": "Is there a ceiling on top of the person in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v__G4EVIG9YaE.mp4",
+        "question": "Is there a tree in front of the girl in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_FEOdYNR4gls.mp4",
+        "question": "Is there a wall on the woman's right side?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_AQ3eFWxZ67U.mp4",
+        "question": "Is there a bookcase behind the person sitting in the office in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_Q5HdVXF390c.mp4",
+        "question": "Is there beer in front of the person in a plaid shirt?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_MDsJa6Yitwc.mp4",
+        "question": "Is the wall on the right side of the person wearing gray clothes facing the camera?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_atGMJc-DZ7w.mp4",
+        "question": "Is the basin on the left side of the little girl who is kneeling?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_12Nafz_Yet4.mp4",
+        "question": "Is there a yoga mat under the person in black clothes?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_SNja9iUdAiI.mp4",
+        "question": "Is a basketball box on the left side of the person who keeps the donkey?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_Vhn4SuPhu-0.mp4",
+        "question": "Is there a bed under the white man's body?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_Nb6AQxxrihA.mp4",
+        "question": "Is there a table in front of the person in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v__l251ZuOCYU.mp4",
+        "question": "Is there an audience behind them in the video midfield?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_I16FTpQQiic.mp4",
+        "question": "Is there a tree behind the person in red?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_Z6b4oFjIznU.mp4",
+        "question": "Is there a balance beam in front of the person on the balance beam?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_Co_cpZWbzFk.mp4",
+        "question": "Is there a house behind the audience?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_cnMvMvVBXiI.mp4",
+        "question": "Is there a door behind the car in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_kTqt7ry3eVM.mp4",
+        "question": "Is the person in the red swimsuit standing at the podium when they receive the prize?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_fQ1OuD7x3to.mp4",
+        "question": "Is a hat on the black man's shoulder?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_H2fG7JRRMAs.mp4",
+        "question": "Is there a small plant in front of the person in black?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_1QIUV7WYKXg.mp4",
+        "question": "Is a lake on the left of the athlete?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_v6DdLg_Xnkg.mp4",
+        "question": "Is a wooden cabinet behind the curly woman?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_j6BCgvUusWs.mp4",
+        "question": "Is a stack of chips in front of the dealer?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_pKOy4HJwCqo.mp4",
+        "question": "Is a rock under the feet of the person in white clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_j81ndpMC9gI.mp4",
+        "question": "Is there a garden behind the woman in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_otMw5GJWYWs.mp4",
+        "question": "Is a coffee table in front of the person in black clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_V9mLJJn8Lvw.mp4",
+        "question": "Is a laptop below the book at the beginning of the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_tzP0lKSUv_o.mp4",
+        "question": "Is a bench on the right of the athlete?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_eQ0sW4hJ9zU.mp4",
+        "question": "Are there two houses to the left of the street behind the black people?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_T3mcQnlsmq4.mp4",
+        "question": "Is there a lamp in front of the person in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_DHjoAOus3xM.mp4",
+        "question": "Is sand under the ship?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_16bJAOf1SJI.mp4",
+        "question": "Is a bookshelf in front of the person wearing the blue and white plaid?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_qlK-c7hRqcA.mp4",
+        "question": "Is a park on the right side of the blue car?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_Db9VWkgMpbE.mp4",
+        "question": "Is a bookcase filled with books in front of the woman in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_28LdZLfdmMQ.mp4",
+        "question": "Is a bicycle pedal under the foot of the person wearing purple pants?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_0k6GFx2ZCg8.mp4",
+        "question": "Is a bookshelf behind the person in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_e0yLhjXQIXI.mp4",
+        "question": "Is a river under the purple trousers girl's feet?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_i6wR9_tkg6A.mp4",
+        "question": "Is a bookshelf behind the people in green clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_n832gDqfWl4.mp4",
+        "question": "Is there a lake behind the person in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_-pkfcMUIEMo.mp4",
+        "question": "Is a bicycle behind the person?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_FmfAB-ppHBs.mp4",
+        "question": "Is a window at the rear of the smoke?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_df5rlVZD0Zc.mp4",
+        "question": "Is a car behind the person in red clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_8teo_0gxzgk.mp4",
+        "question": "Is a bicycle on the left side of the white man?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_cCimLg-8Dy4.mp4",
+        "question": "Is a bookshelf behind the chair?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_a2IvS0xbNGQ.mp4",
+        "question": "Is a sandy beach under the person in orange clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_auO4r3De6vc.mp4",
+        "question": "Is a vending machine behind the judges' seats?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_WPYQ27GjFKc.mp4",
+        "question": "Is a lamp on the left side on the table?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_Feq-2NIDl94.mp4",
+        "question": "Is a lamp in front of the woman?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_9k19UUJtldg.mp4",
+        "question": "Is a green couch in front of the person in red clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_BhgcXqWQhkQ.mp4",
+        "question": "Is there a curtain and a large potted plant behind the people on the stage?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_OFTkwnSh-sQ.mp4",
+        "question": "Is a garden in front of the person wearing yellow clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_wcxEkMoOmBk.mp4",
+        "question": "Is a lamp behind the woman in the blue dress?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_vqyQF-1Zc_E.mp4",
+        "question": "Is a mountain on the right side of the ski resort?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_QoRlOa6R1LY.mp4",
+        "question": "Is a small bush in front of the person wearing a gray helmet?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_SjlILJ2st-I.mp4",
+        "question": "Is a snack stand on the right of the player?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_T62XjoKbN8M.mp4",
+        "question": "Is a park on the right of the person in black clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_HPKHDze6XfA.mp4",
+        "question": "Is a garden on the right side of the car that is opened?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_V-46E7jMm-Y.mp4",
+        "question": "Is a wooden deck under the foot of the old man wearing a black sweater?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_IDuoF51IMJ8.mp4",
+        "question": "Is the concession stand behind the basketball hoop?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_GcjzvBatqb4.mp4",
+        "question": "Is there a tree in front of the person wearing orange clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_3i3SUPsyZtA.mp4",
+        "question": "Is a dishwasher on the right side of the chef?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_BkDbDnvoL28.mp4",
+        "question": "Is a garden bench in front of the audience?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_sRNqK_QZbMs.mp4",
+        "question": "Is an equipment bag on the left side of the athlete with a black helmet?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_hG4VsZQQ2_c.mp4",
+        "question": "Is a brick wall behind the people of Zhangmutou?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_mnNgZ-D5cKc.mp4",
+        "question": "Is a statue in front of the person in white clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_ZAX6OojMg38.mp4",
+        "question": "Is a bicycle in front of the person in red clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_eMgC7I-GcgA.mp4",
+        "question": "Is a sand dune in front of the surfers?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_OYEKKzQjaJI.mp4",
+        "question": "Is a garden behind the person in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_-p7aui3nAnc.mp4",
+        "question": "Is a musical band in front of the child holding a plastic bag?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_gWTndmDHZQc.mp4",
+        "question": "Is a television in front of the person in a black shirt?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_FxpP7lqvm30.mp4",
+        "question": "Is a row of bicycles on the left side of the man holding the microphone?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_6xBh3vzhgo4.mp4",
+        "question": "Is a seashell under the woman’s foot wearing a life jacket?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_nhQTxZlzG1Q.mp4",
+        "question": "Is there a wooden platform under the feet of the person in black clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_MDWaKr7Gu5Q.mp4",
+        "question": "Is a wooden bench behind the people in green clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_uWfQcDvel84.mp4",
+        "question": "Is there a wooden deck under the feet of the man with a hat?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_e0yu4WgiZUM.mp4",
+        "question": "Is a lamp post on the right side of the man?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_diY-XBT5cD4.mp4",
+        "question": "Is a window behind the wall in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_BWAedc31WdY.mp4",
+        "question": "Is a flower vase next to the sink?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_w4pO-1-FG5w.mp4",
+        "question": "Is a bookshelf behind the boy?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_oflwFZj9PNY.mp4",
+        "question": "Is there a statue in front of the person wearing red and black clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_SidTquTAtyk.mp4",
+        "question": "Is a sandy beach under the person in black clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_0e7d39SwHCA.mp4",
+        "question": "Is a windmill on the right side of the person wearing purple clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_vzUeFzhVYLg.mp4",
+        "question": "Is a helicopter above the pool?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_0w4OkBenR_k.mp4",
+        "question": "Is a pond in front of the railing?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_elD1P_1oiUk.mp4",
+        "question": "Is a house on the left side of the river?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_JGPhQX97OSE.mp4",
+        "question": "Is an ocean in front of the audience?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_NDq29HQJVP0.mp4",
+        "question": "Is there a shimmering lake under the feet of the man in white?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_S6Sg1l78IW0.mp4",
+        "question": "Is a lamp behind the woman standing?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_stdtUoog49I.mp4",
+        "question": "Is a line of trees on the right side of the parade?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_an1R4BP97JY.mp4",
+        "question": "Is a watering can in front of the fertilizer in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_Mk7Yjq1U8OI.mp4",
+        "question": "Is a flower bed on the right side of the person with blue pants in the first picture?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_3oy4P1gyU4k.mp4",
+        "question": "Is a couch in front of the second person appearing in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_x6pYeqq3O08.mp4",
+        "question": "Is a bicycle in front of the person in red clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_4LF0hL-mgks.mp4",
+        "question": "Is there a garden in front of the person who appeared at the beginning of the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_v-UmNR5yeDc.mp4",
+        "question": "Is a vase on the cupboard?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_FFMugev85IY.mp4",
+        "question": "Is a painting in front of the woman in a red shirt?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_dU7jG8G5li0.mp4",
+        "question": "Is a plate under the cake?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_sqv3M6MPKjQ.mp4",
+        "question": "Is a wardrobe behind the child?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_uJAL31wAD2A.mp4",
+        "question": "Is there a tree on the left of the river?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_gOnp3DZxeKU.mp4",
+        "question": "Is there a pot in front of the person wearing a purple shirt?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_nGKc2t-NMYc.mp4",
+        "question": "Is there a horizontal bar under the feet of the person in purple clothes?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_Oh3-DvDCpZ4.mp4",
+        "question": "Is there food in front of the person in white clothes?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_Z-sWZUYL0ZU.mp4",
+        "question": "Is there a cabinet in front of the person in gray?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_zKYiTA6WBS4.mp4",
+        "question": "Is there a hair drier on the right of the person in a green coat?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_HDt5z5Y0opo.mp4",
+        "question": "Is there an audience under the table?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_kkji9hespu0.mp4",
+        "question": "Is this woman in front of a boiler?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_ikUNgSw4Gys.mp4",
+        "question": "Is there a woman in white under the feet of the person in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_rSGboODhu04.mp4",
+        "question": "Is there a table in front of the standing person?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_YvPoAOrjX5I.mp4",
+        "question": "Is there a white man behind the person in blue?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_E_UkQGk7QAE.mp4",
+        "question": "Is there a child on the left side of the woman in light blue clothes?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_ILmZg0vz0Hg.mp4",
+        "question": "Is there an ornament behind the woman wearing glasses?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_Uae2MWoldTU.mp4",
+        "question": "Is there blue plastic film behind the Christmas tree?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_RLBfyIVpocE.mp4",
+        "question": "Is there a guardrail net in front of the referee?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_HowkVy5fOyk.mp4",
+        "question": "Is there a bullfighting field in front of the audience in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_M2Y2Cw2kwDo.mp4",
+        "question": "Is there a pool underneath the athlete?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_YaC68rE4lwA.mp4",
+        "question": "Is there a wall behind the person in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_NjD6iWI3NvM.mp4",
+        "question": "Is there a tree behind the little boy?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_k-I4zLbgdpM.mp4",
+        "question": "Is there wood behind the left-handed injured little girl standing to explain?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_-8SgY4vW4xM.mp4",
+        "question": "Is there a table under the dog?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_f1d7_TKXNYQ.mp4",
+        "question": "Are there spectator seats behind the man running in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_28WDlVOgslg.mp4",
+        "question": "Is the girl in pink clothes on the floor?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_dFGS7YCDk3Y.mp4",
+        "question": "Is there water below the sailboat?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_4H9MMsj4mcM.mp4",
+        "question": "Is there a horse running yard in front of the audience?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_WGUzmra3h_w.mp4",
+        "question": "Are there pads on the right side of the basketball box?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_cCDffwsJvsY.mp4",
+        "question": "Is there a fence on the right side of the person who makes the fire?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_eJc8bebOF2A.mp4",
+        "question": "Is there a circle under the foot of the person who pushes the shot?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_7IwHwDuQdyU.mp4",
+        "question": "Is there a gymnastic mat under the girl in a blue vest?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_kMtjk1KFvXQ.mp4",
+        "question": "Is the main committee on the right side of this girl?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_Znb6Y9m_PsQ.mp4",
+        "question": "Is there table football in front of the person in a black t-shirt?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v__SJOVswvGRc.mp4",
+        "question": "Is there a white man on the right side of the child in black?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_0xBP-TSsqb0.mp4",
+        "question": "Is there a sofa behind the man in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_I3tqWc5wG78.mp4",
+        "question": "Is there a table behind the person wearing the sweater chain?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_NZskwwovSZI.mp4",
+        "question": "Is there a table on the left side of the person wearing white clothes?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_zOI9SjQpc_Q.mp4",
+        "question": "Is there an audience on the left side of the 9th player?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_kpOAGEYHts8.mp4",
+        "question": "Are there recreational machines in the back row of this woman?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_ETbbYC0OhL0.mp4",
+        "question": "Is there an audience on the left side of the purple-haired female?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_lUil9HfTzJ0.mp4",
+        "question": "Is there a surf board under the swimsuit person?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_qaml4eEk9hY.mp4",
+        "question": "Is there a vacuum cleaner in front of the person in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "activitynetqa/v_GSrBZXLSwWI.mp4",
+        "question": "Is there a red chair in front of the person wearing black short sleeves?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_mvRoVXRGVGw.mp4",
+        "question": "Is there a desert landscape behind the person in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_bRgvAHL3dJk.mp4",
+        "question": "Is there a lamp under the shelf near the table on the table?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_CaeZoHNHul0.mp4",
+        "question": "Is there a bookshelf behind the brunette girl?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_pzTqZWPubk8.mp4",
+        "question": "Is there a brick wall in front of the person wearing a black tie?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_2nDJpvD-eZU.mp4",
+        "question": "Is there a small wooden box under the water tank?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v__a527xEzhkw.mp4",
+        "question": "Is there a lamp on the right side of the person in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_hyMqGr0mOfA.mp4",
+        "question": "Is there a window on the right wall of the man in white?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_kYkvyRKxwfY.mp4",
+        "question": "Is there a vintage car in front of the person in white clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_3nSOFmmA7FU.mp4",
+        "question": "Is there a bookshelf behind the person in black?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_G0VWk5WqDp0.mp4",
+        "question": "Is there a swimming pool in front of the person wearing a blue vest?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_BjjN_aq_wq4.mp4",
+        "question": "Is there a plant in front of the second person?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_HtG-i1CG2Qs.mp4",
+        "question": "Is there a flower pot on the top of the faucet?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_W97fdJ2Rn9g.mp4",
+        "question": "Is there a bracelet on the wrist behind the finger on the finger?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_IIPKxzPjrWg.mp4",
+        "question": "Is there a row of colorful lockers behind the woman in tights?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_BBKSKU6dGGk.mp4",
+        "question": "Is there a garden in front of the person in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_7lxP-hWFA24.mp4",
+        "question": "Is there a coffee table ahead of the man who is playing the guitar?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_v6P6bBPBXYw.mp4",
+        "question": "Is there a concession stand behind the goal?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_PTwe2IIo3To.mp4",
+        "question": "Is there a window on the left of the person in yellow clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_Z-zG845frso.mp4",
+        "question": "Is there a fountain in front of the person in a red coat?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_3JBUWRKezUI.mp4",
+        "question": "Is there a garden statue on the right side of the hulk?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_Df7AnfIEhYw.mp4",
+        "question": "Is there a backpack at the feet of two men?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_Vxw3yFCV2iA.mp4",
+        "question": "Is there a picnic blanket at the feet of the athletes?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_Ki1bs5X_S5k.mp4",
+        "question": "Is there a vase in front of the child?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_p54LLMnyg54.mp4",
+        "question": "Is there a garden below the person?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_mLFjww64sX8.mp4",
+        "question": "Is there a bookshelf behind the bald man?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_qGtUXGG78tM.mp4",
+        "question": "Is there a bicycle on the left side of the person wearing dark blue pants?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_ZxCdhz4ep0s.mp4",
+        "question": "Is there a water cooler on the right side of the person wearing a striped shirt?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_St1RRi-aeNM.mp4",
+        "question": "Is there a brick wall behind the athletes?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_G4-qjGC_3VA.mp4",
+        "question": "Is there a garden on the right side of the person wearing black clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_FtRGOgg0Qh8.mp4",
+        "question": "Is there a curtain behind the person?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_Au4PfoK7hyw.mp4",
+        "question": "Is there a lamp behind the person in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_CvbL36Y8hN0.mp4",
+        "question": "Is there a garden behind the woman in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_sPK-sbHIb3w.mp4",
+        "question": "Is there a camera in front of the athlete?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_z6pmp8TrAVo.mp4",
+        "question": "Is there a television in front of the person in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_P8S8PIyPXxY.mp4",
+        "question": "Is there a large boulder on the left of the person in blue clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_P5D9S9NzQ28.mp4",
+        "question": "Is there a small pond in front of the person who wears white clothes at the beginning of the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_CKSlgK_2FP4.mp4",
+        "question": "Is there a cutting board on the left side of the oven?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_P6Oq6C9X0fw.mp4",
+        "question": "Is there a sandy beach under the skier's foot?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_Ar6TcWqwK-A.mp4",
+        "question": "Is there a road in front of the person at the beginning of the video?",
+        "answer": "no"
+    }
+]

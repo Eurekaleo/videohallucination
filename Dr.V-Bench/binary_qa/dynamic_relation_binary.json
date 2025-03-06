@@ -1,0 +1,2252 @@
+[
+    {
+        "video": "nextqa/7499375636.mp4",
+        "question": "Did the man with the yellow jacket cross the road after the man with the black and green helmet drove away?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/2670179772.mp4",
+        "question": "Did the boy turn the baby over after he turned to the girl at the end of the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/6802334169.mp4",
+        "question": "Did the man in brown raise his arm after he opened the card?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/3227968260.mp4",
+        "question": "Did the two women start pushing and wrestling after the woman in stripes released their hand at the start of the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/6447014305.mp4",
+        "question": "Did the child pick up one of the toys from the table after talking to play with it?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/6844309138.mp4",
+        "question": "Did the boy stand after he approached the glass door?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/7649295416.mp4",
+        "question": "Did the lady dance after putting the microphone back onto the stand near the middle part?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/4893901451.mp4",
+        "question": "Did the lady pick up the baby after shaking her legs for a while at the beginning?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/11647929285.mp4",
+        "question": "Did the woman play a card after the man beside her played a card at the start?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/5561222704.mp4",
+        "question": "Does the baby look around after turning his head upright at the end?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/3278803307.mp4",
+        "question": "Does the boy look at the lady and lean closer after the girl looks at her right in the middle?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/7425555826.mp4",
+        "question": "Did the girl jump down after reaching the edge of the beam at the end?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/3438416167.mp4",
+        "question": "Did the man stroke the cat after it turned away near the beginning of the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/3952639306.mp4",
+        "question": "Did the man in white pick up the microphone after he stood up in the middle of the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/5424217420.mp4",
+        "question": "Did the girl walk in another direction after the lady lifted her up to change her direction?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/5910181912.mp4",
+        "question": "Did the girl in white hug the girl in pink after approaching her in the middle of the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/6447014305.mp4",
+        "question": "Does the child smile after picking up the toy because he is happy?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/3057666738.mp4",
+        "question": "Did the kid lie on his side after lying on his stomach for a while at the start?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/8575257643.mp4",
+        "question": "Did the boy look at the man in light purple walking by him near the start?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/5599511471.mp4",
+        "question": "Did the man in white slow jog after he ran to the cones?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/3606486345.mp4",
+        "question": "Did the chicken peck after the man's hand appeared at the start of the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/2700695136.mp4",
+        "question": "Did the lady in stripes clap hands after the girl blew the candles?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/2934685860.mp4",
+        "question": "Did the woman walk back towards the stroller to push it after the kid moved away from the fence at the end?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/3295058818.mp4",
+        "question": "Did the girl with spectacles hit the girl in the red headscarf's hand after they stretched their hands out at the beginning of the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/8128188117.mp4",
+        "question": "Did the baby bounce up and down after touching the ears of the toy horse at the end?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/3177541313.mp4",
+        "question": "Did the man shake the plush toy after picking it up at the start?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/2700695136.mp4",
+        "question": "Did the girl in yellow blow candles after passing the panda toy to the boy?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/2927552798.mp4",
+        "question": "Did the man in the black jacket raise his eyebrows after sucking his fingers for a while at the start?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/9755380174.mp4",
+        "question": "Does the boy look at the girl after she lies facing down on the floor?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/7075647705.mp4",
+        "question": "Does the man shake his hands each time after leaning forward vigorously?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/3479125526.mp4",
+        "question": "Did the boy in stripes stand up after the girl jumped at the start of the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/3057666738.mp4",
+        "question": "Does the dog move to the right side after lying still for a while in the middle?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/4385509313.mp4",
+        "question": "Did the girl dance after watching the television for a while?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/4573724995.mp4",
+        "question": "Did the group of kids present the people flowers after running on stage?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/8023690612.mp4",
+        "question": "Does the orange cat move away after licking the finger?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/3503100437.mp4",
+        "question": "Does the man drink after the lady with a bandana leaves the sofa?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/2607471948.mp4",
+        "question": "Did the baby move away after the lady in stripes kissed him?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/8428551576.mp4",
+        "question": "Did the baby play with the two metal pans after grabbing them?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/11261138255.mp4",
+        "question": "Did the man stand behind the baby after he shifted the toy near the end of the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/2475104074.mp4",
+        "question": "Did the boy flip the page after looking at the green page for a while at the start of the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/2600821880.mp4",
+        "question": "Did the pastor keep the cloth and continue reading after wiping his face?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/2630893825.mp4",
+        "question": "Did the person on the left scoop out hot liquid after walking towards the bucket at the start?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/4021064662.mp4",
+        "question": "Did the boy in the red hat run towards the man in red after catching the ball?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/6076181626.mp4",
+        "question": "Does the black cat jump on the toy after watching it for a while at the start?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/3093627135.mp4",
+        "question": "Did the girl in pink look at the present before she stood up at the end of the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/3860452986.mp4",
+        "question": "Did the lady walk to the camera after stepping away from the tiles at the end?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/3093627135.mp4",
+        "question": "Did the lady in the light blue shirt stand up after the girl in pink tore the paper away in the middle?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/2871995580.mp4",
+        "question": "Did the man pick the ball up after the boy threw it at him at the start of the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/5384265688.mp4",
+        "question": "Did the baby smile after the man covered it with the white cloth in the middle?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/6490763929.mp4",
+        "question": "Did the man in grey catch the ball after the man in blue shorts threw it?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/8LAK1.mp4",
+        "question": "Did the person take the shoe after putting down the food?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/UFVO8.mp4",
+        "question": "Did the person put down the broom after opening the closet/cabinet?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/OUAIS.mp4",
+        "question": "Did the person throw the pillow before opening the door?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/G4AJK.mp4",
+        "question": "Did the person put down the food after eating the sandwich?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/DHFA6.mp4",
+        "question": "Did the person put down the box after holding the pillow?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/RNLTR.mp4",
+        "question": "Did the person put down the shoe before sitting on the sofa/couch?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/106AY.mp4",
+        "question": "Did the person put down the box before taking the cup/glass/bottle?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/Z6HEA.mp4",
+        "question": "Did the person wash the clothes before they sat on the floor?",
+        "answer": "Yes"
+    },
+    {
+        "video": "star/K71S1.mp4",
+        "question": "Did the person tidy up the clothes after they put down the blanket?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/9MNZ5.mp4",
+        "question": "Did the person close the box after putting down the food?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/T5JY8.mp4",
+        "question": "Did the person take the cup/glass/bottle before watching outside the window?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/IO712.mp4",
+        "question": "Did the person sit on the floor before they opened the book?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/8J723.mp4",
+        "question": "Did the person open the window after holding the broom?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/XFRYR.mp4",
+        "question": "Did the person close the closet/cabinet after taking the food?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/8XXNK.mp4",
+        "question": "Did the person open the box after holding the food?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/K34BE.mp4",
+        "question": "Did the person take the bag before they held the broom?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/M1TZR.mp4",
+        "question": "Did the person take the towel before they held the clothes?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/KA09C.mp4",
+        "question": "Did the person put down the shoe after tidying up the clothes?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/XPDI1.mp4",
+        "question": "Did the person put down the dish after drinking from the cup/glass/bottle?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/VIN5T.mp4",
+        "question": "Did the person put down the pillow after they sat on the floor?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/ZFQNZ.mp4",
+        "question": "Did the person close the refrigerator before taking the food?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/WRW74.mp4",
+        "question": "Did the person open the box after taking the dish?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/BFH78.mp4",
+        "question": "Did the person put down the paper/notebook after holding the book?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/A0ZW3.mp4",
+        "question": "Did the person open the laptop after sitting on the floor?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/BCONW.mp4",
+        "question": "Did the person close the refrigerator before they drank from the cup/glass/bottle?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/KFC28.mp4",
+        "question": "Did the person close the closet/cabinet after sitting at the table?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/2WGSN.mp4",
+        "question": "Did the person take the towel after washing the cup/glass/bottle?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/BLIFO.mp4",
+        "question": "Did the person tidy up the towel after opening the closet/cabinet?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/7MRKY.mp4",
+        "question": "Did the person put down the broom before closing the laptop?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/L8Y8D.mp4",
+        "question": "Did the person close the closet/cabinet before opening the refrigerator?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/ATV2F.mp4",
+        "question": "Did the person throw the clothes after putting down the blanket?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/SPUPH.mp4",
+        "question": "Did the person take the sandwich after they held the food?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/GMMVC.mp4",
+        "question": "Did the person close the book before they put down the paper/notebook?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/VIN5T.mp4",
+        "question": "Did the person throw the pillow before taking the phone/camera?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/A0ZW3.mp4",
+        "question": "Did the person open the laptop after lying on the floor?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/BI6Y4.mp4",
+        "question": "Did the person sit at the table after drinking from the cup/glass/bottle?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/TRHT1.mp4",
+        "question": "Did the person throw the clothes after sitting on the sofa/couch?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/7ZCXJ.mp4",
+        "question": "Did the person sit on the floor before throwing the blanket?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/CII5H.mp4",
+        "question": "Did the person put down the blanket before they closed the door?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/XYGU1.mp4",
+        "question": "Did the person put down the book before sitting at the table?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/EGVGL.mp4",
+        "question": "Did the person open the bag after holding the pillow?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/R0207.mp4",
+        "question": "Did the person put down the sandwich after they took the food?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/68YR6.mp4",
+        "question": "Did the person close the door before washing the window?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/M506V.mp4",
+        "question": "Did the person throw the towel after washing the table?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/RKGG5.mp4",
+        "question": "Did the person take the pillow before they lied on the sofa/couch?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/WH1S5.mp4",
+        "question": "Did the person put down the sandwich after holding the food?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/ZS9XR.mp4",
+        "question": "Did the person eat the medicine before they tidied up the table?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/34J80.mp4",
+        "question": "Did the person take the food after they drank from the cup/glass/bottle?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/Q5YDL.mp4",
+        "question": "Did the person close the laptop after sitting on the sofa/couch?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/SS3IL.mp4",
+        "question": "Did the person put down the sandwich before sitting at the table?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/F5TL0.mp4",
+        "question": "Did the person close the refrigerator before they took the cup/glass/bottle?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/ZS9XR.mp4",
+        "question": "Did the person eat the medicine before tidying up the table?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/V9W9C.mp4",
+        "question": "Did the person tidy up the table after taking the cup/glass/bottle?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/CCCUJ.mp4",
+        "question": "Did the person put down the laptop before taking the blanket?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/9PXC0.mp4",
+        "question": "Did the person open the box before holding the phone/camera?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/2ZXJ5.mp4",
+        "question": "Did the person sit on the sofa/couch before holding the pillow?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/9NV2G.mp4",
+        "question": "Did the person put down the cup/glass/bottle after lying on the bed?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/JXNEN.mp4",
+        "question": "Did the person eat the sandwich before they sat on the sofa/couch?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/KFC28.mp4",
+        "question": "Did the person close the closet/cabinet after sitting at the table?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/5MF9Y.mp4",
+        "question": "Did the person throw the food after putting down the broom?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/52WDV.mp4",
+        "question": "Did the person take the clothes before opening the book?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/KZODG.mp4",
+        "question": "Did the person close the laptop after sitting on the sofa/couch?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/Z70KK.mp4",
+        "question": "Did the person wash the table before taking the broom?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/P2HZG.mp4",
+        "question": "Did the person close the laptop after they sat at the table?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/8G9A9.mp4",
+        "question": "Did the person take the laptop before they put down the phone/camera?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/TZL6H.mp4",
+        "question": "Did the person eat the medicine before holding the clothes?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/9K2TY.mp4",
+        "question": "Did the person throw the towel after putting down the blanket?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/TJBGM.mp4",
+        "question": "Did the person take the book after holding the broom?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/AFTMI.mp4",
+        "question": "Did the person take the pillow after holding the shoe?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/HL5OP.mp4",
+        "question": "Did the person throw the food before opening the bag?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/VIN5T.mp4",
+        "question": "Did the person throw the pillow before they held the phone/camera?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/V3RAX.mp4",
+        "question": "Did the person throw the blanket after holding the clothes?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/03PRW.mp4",
+        "question": "Did the person sit on the sofa/couch after holding the food?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/YMGGV.mp4",
+        "question": "Did the person take the blanket after sitting on the sofa/couch?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/2NV6L.mp4",
+        "question": "Did the person put down the bag after holding the shoe?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/K9UXS.mp4",
+        "question": "Did the person put down the clothes after sitting on the floor?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/6H78U.mp4",
+        "question": "Did the person tidy up the clothes before putting down the blanket?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/NEM29.mp4",
+        "question": "Did the person take the bag after throwing the clothes?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/M52K2.mp4",
+        "question": "Did the person put down the food after sitting on the floor?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/J84TZ.mp4",
+        "question": "Did the person take the blanket after they lied on the sofa/couch?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/93REJ.mp4",
+        "question": "Did the person put down the towel before they drank from the cup/glass/bottle?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/AS7SG.mp4",
+        "question": "Did the person open the laptop after eating the sandwich?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/FL6DF.mp4",
+        "question": "Did the person open the laptop before tidying up the blanket?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/ICL1M.mp4",
+        "question": "Did the person close the book before putting down the cup, glass, or bottle?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/57MEO.mp4",
+        "question": "Did the person open the door before they held the book?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/TVCQF.mp4",
+        "question": "Did the person sit at the table before opening the box?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/JBJGX.mp4",
+        "question": "Did the person close the laptop after taking the clothes?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/KU656.mp4",
+        "question": "Did the person lie on the bed before taking the towel?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/BLIFO.mp4",
+        "question": "Did the person open the closet or cabinet before they tidied up the towel?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/M98YV.mp4",
+        "question": "Did the person eat the sandwich before holding the phone/camera?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/UF91R.mp4",
+        "question": "Did the person close the refrigerator after holding the food?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/UY0SK.mp4",
+        "question": "Did the person take the dish after putting down the paper/notebook?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/BQKW5.mp4",
+        "question": "Did the person put down the towel before washing the clothes?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/EG1XK.mp4",
+        "question": "Did the person open the door after drinking from the cup/glass/bottle?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/TZL6H.mp4",
+        "question": "Did the person eat the medicine before washing the mirror?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/BFH78.mp4",
+        "question": "Did the person open the book before they took the paper/notebook?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/3Q6N1.mp4",
+        "question": "Did the person open the laptop before putting down the food?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/D7KU2.mp4",
+        "question": "Did the person sit on the floor before putting down the broom?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/V9XR6.mp4",
+        "question": "Did the person lie on the bed before opening the closet/cabinet?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/40309.mp4",
+        "question": "Did the person close the closet/cabinet after they opened the door?",
+        "answer": "yes"
+    },
+    {
+        "video": "star/IU5TH.mp4",
+        "question": "Did the person sit on the sofa/couch before they took the food?",
+        "answer": "no"
+    },
+    {
+        "video": "star/UYZKX.mp4",
+        "question": "Did the person throw the blanket after opening the closet/cabinet?",
+        "answer": "no"
+    },
+    {
+        "video": "star/FX1T5.mp4",
+        "question": "Did the person put down the picture before opening the book?",
+        "answer": "no"
+    },
+    {
+        "video": "star/15PMU.mp4",
+        "question": "Did the person wash the clothes after watching outside the window?",
+        "answer": "no"
+    },
+    {
+        "video": "star/9PXC0.mp4",
+        "question": "Did the person put down the box after lying on the bed?",
+        "answer": "no"
+    },
+    {
+        "video": "star/JTBXI.mp4",
+        "question": "Did the person take the pillow after tidying up the blanket?",
+        "answer": "no"
+    },
+    {
+        "video": "star/9MNZ5.mp4",
+        "question": "Did the person close the box before putting down the food?",
+        "answer": "no"
+    },
+    {
+        "video": "star/5X5DT.mp4",
+        "question": "Did the person throw the bag after closing the laptop?",
+        "answer": "no"
+    },
+    {
+        "video": "star/M8OYC.mp4",
+        "question": "Did the person open the refrigerator after putting down the food?",
+        "answer": "no"
+    },
+    {
+        "video": "star/5OIQ7.mp4",
+        "question": "Did the person take the bag before they ate the medicine?",
+        "answer": "no"
+    },
+    {
+        "video": "star/OQ54Y.mp4",
+        "question": "Did the person close the door after eating something from the refrigerator after they opened it?",
+        "answer": "no"
+    },
+    {
+        "video": "star/MNC10.mp4",
+        "question": "Did the person put down the broom before taking the food?",
+        "answer": "no"
+    },
+    {
+        "video": "star/TBRZ5.mp4",
+        "question": "Did the person stack the pillow on other pillows before holding the phone/camera?",
+        "answer": "no"
+    },
+    {
+        "video": "star/GMMVC.mp4",
+        "question": "Did the person put down the paper/notebook after they closed the book?",
+        "answer": "no"
+    },
+    {
+        "video": "star/ZFQNZ.mp4",
+        "question": "Did the person open the refrigerator before holding the food?",
+        "answer": "no"
+    },
+    {
+        "video": "star/TOOYI.mp4",
+        "question": "Did the person put down the paper/notebook after they put down the blanket?",
+        "answer": "no"
+    },
+    {
+        "video": "star/KV99H.mp4",
+        "question": "Did the person start reading the book after holding the shoe?",
+        "answer": "no"
+    },
+    {
+        "video": "star/3JCEI.mp4",
+        "question": "Did the person tidy up the closet/cabinet before throwing the food?",
+        "answer": "no"
+    },
+    {
+        "video": "star/D87LI.mp4",
+        "question": "Did the person take the phone/camera after they sat on the sofa/couch?",
+        "answer": "no"
+    },
+    {
+        "video": "star/NW0KT.mp4",
+        "question": "Did the person throw the book after taking the paper/notebook?",
+        "answer": "no"
+    },
+    {
+        "video": "star/XZ9C0.mp4",
+        "question": "Did the person wash the table after lying on the bed?",
+        "answer": "no"
+    },
+    {
+        "video": "star/AWGMW.mp4",
+        "question": "Did the person throw the sofa/couch before taking the cup/glass/bottle?",
+        "answer": "no"
+    },
+    {
+        "video": "star/3XKBC.mp4",
+        "question": "Did the person tidy up the table after opening the laptop?",
+        "answer": "no"
+    },
+    {
+        "video": "star/81YUE.mp4",
+        "question": "Did the person pick up the clothes after lying on the bed?",
+        "answer": "no"
+    },
+    {
+        "video": "star/U5T4M.mp4",
+        "question": "Did the person close the refrigerator after taking the food?",
+        "answer": "no"
+    },
+    {
+        "video": "star/EBTD6.mp4",
+        "question": "Did the person close the laptop after taking the food?",
+        "answer": "no"
+    },
+    {
+        "video": "star/APVAD.mp4",
+        "question": "Did the person take the towel before opening the door?",
+        "answer": "no"
+    },
+    {
+        "video": "star/HOI88.mp4",
+        "question": "Did the person close the closet/cabinet after they held the book?",
+        "answer": "no"
+    },
+    {
+        "video": "star/4GLAP.mp4",
+        "question": "Did the person open the box after they put down the paper/notebook?",
+        "answer": "no"
+    },
+    {
+        "video": "star/QXT9W.mp4",
+        "question": "Did the person put down the food after they sat at the table?",
+        "answer": "no"
+    },
+    {
+        "video": "star/M3S4D.mp4",
+        "question": "Did the person sit on the floor before standing up to leave before they drank from the cup/glass/bottle?",
+        "answer": "no"
+    },
+    {
+        "video": "star/P2HZG.mp4",
+        "question": "Did the person wash the table before closing the laptop?",
+        "answer": "no"
+    },
+    {
+        "video": "star/V3RAX.mp4",
+        "question": "Did the person lie on the couch before they put down the clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "star/1HAYV.mp4",
+        "question": "Did the person throw the pillow before drinking from the cup/glass/bottle?",
+        "answer": "no"
+    },
+    {
+        "video": "star/HPAYB.mp4",
+        "question": "Did the person throw the clothes before they put down the bag?",
+        "answer": "no"
+    },
+    {
+        "video": "star/27JQL.mp4",
+        "question": "Did the person tidy up the towel before holding the food?",
+        "answer": "no"
+    },
+    {
+        "video": "star/937EW.mp4",
+        "question": "Did the person close the closet before looking at the picture after watching at the picture?",
+        "answer": "no"
+    },
+    {
+        "video": "star/92UB5.mp4",
+        "question": "Did the person eat the food before moving the pillow after sitting at the table?",
+        "answer": "no"
+    },
+    {
+        "video": "star/BFH78.mp4",
+        "question": "Did the person close the laptop before putting down the book?",
+        "answer": "no"
+    },
+    {
+        "video": "star/RZY2I.mp4",
+        "question": "Did the person open the window after taking the bag?",
+        "answer": "no"
+    },
+    {
+        "video": "star/86GSE.mp4",
+        "question": "Did the person open the sofa/couch after taking the shoe?",
+        "answer": "no"
+    },
+    {
+        "video": "star/3MLVF.mp4",
+        "question": "Did the person wash the refrigerator after taking the cup/glass/bottle?",
+        "answer": "no"
+    },
+    {
+        "video": "star/Q7RK6.mp4",
+        "question": "Did the person take the sandwich after they threw the clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "star/VKXLL.mp4",
+        "question": "Did the person sit at the table after they opened the box?",
+        "answer": "no"
+    },
+    {
+        "video": "star/3Q6N1.mp4",
+        "question": "Did the person put down the paper/notebook before they ate the sandwich?",
+        "answer": "no"
+    },
+    {
+        "video": "star/AJTDO.mp4",
+        "question": "Did the person fold the clothes neatly after holding them?",
+        "answer": "no"
+    },
+    {
+        "video": "star/JBJGX.mp4",
+        "question": "Did the person eat the laptop before putting down the clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "star/2KGV3.mp4",
+        "question": "Did the person take the book after putting down the food?",
+        "answer": "no"
+    },
+    {
+        "video": "star/VKXLL.mp4",
+        "question": "Did the person take the box away just before putting down the paper/notebook?",
+        "answer": "no"
+    },
+    {
+        "video": "star/K71S1.mp4",
+        "question": "Did the person look inside the box then sit down smoothly before they sat on the floor?",
+        "answer": "no"
+    },
+    {
+        "video": "star/J7BOV.mp4",
+        "question": "Did the person throw the clothes before putting down the cup/glass/bottle?",
+        "answer": "no"
+    },
+    {
+        "video": "star/S572F.mp4",
+        "question": "Did the person put down the towel before taking the blanket?",
+        "answer": "no"
+    },
+    {
+        "video": "star/937EW.mp4",
+        "question": "Did the person throw the box after holding the clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "star/KXCSL.mp4",
+        "question": "Did the person take the picture before closing the refrigerator?",
+        "answer": "no"
+    },
+    {
+        "video": "star/E6PSM.mp4",
+        "question": "Did the person lie on the box after closing the door?",
+        "answer": "no"
+    },
+    {
+        "video": "star/NKCXF.mp4",
+        "question": "Did the person take the pillow after sitting on the sofa/couch?",
+        "answer": "no"
+    },
+    {
+        "video": "star/P4HXN.mp4",
+        "question": "Did the person wash the mirror after they washed the clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "star/136V6.mp4",
+        "question": "Did the person take the book before lying on the sofa/couch?",
+        "answer": "no"
+    },
+    {
+        "video": "star/3EDV7.mp4",
+        "question": "Did the person put down the towel before they held the pillow?",
+        "answer": "no"
+    },
+    {
+        "video": "star/RJIEO.mp4",
+        "question": "Did the person pick up the bag after sitting on the bed?",
+        "answer": "no"
+    },
+    {
+        "video": "star/Z70KK.mp4",
+        "question": "Did the person tidy up the table after putting down the bag?",
+        "answer": "no"
+    },
+    {
+        "video": "star/MVPQF.mp4",
+        "question": "Did the person put down the box after opening the closet/cabinet?",
+        "answer": "no"
+    },
+    {
+        "video": "star/RXLKF.mp4",
+        "question": "Did the person put down the book after sitting on the sofa/couch?",
+        "answer": "no"
+    },
+    {
+        "video": "star/V8JOH.mp4",
+        "question": "Did the person lie on the medicine before closing the door?",
+        "answer": "no"
+    },
+    {
+        "video": "star/BGQIF.mp4",
+        "question": "Did the person throw the sofa/couch before putting down the pillow?",
+        "answer": "no"
+    },
+    {
+        "video": "star/S1J2Q.mp4",
+        "question": "Did the person open the refrigerator after taking the clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "star/GKH0F.mp4",
+        "question": "Did the person take the picture before they held the phone/camera?",
+        "answer": "no"
+    },
+    {
+        "video": "star/NW0KT.mp4",
+        "question": "Did the person throw the shoe after they took the towel?",
+        "answer": "no"
+    },
+    {
+        "video": "star/JTBXI.mp4",
+        "question": "Did the person close the pillow after tidying up the blanket?",
+        "answer": "no"
+    },
+    {
+        "video": "star/OQ54Y.mp4",
+        "question": "Did the person push aside the table after drinking from the cup/glass/bottle?",
+        "answer": "no"
+    },
+    {
+        "video": "star/E0ZBC.mp4",
+        "question": "Did the person take the book after they sat on the sofa/couch?",
+        "answer": "no"
+    },
+    {
+        "video": "star/65UVU.mp4",
+        "question": "Did the person wash the table after opening the door?",
+        "answer": "No"
+    },
+    {
+        "video": "star/5FDHU.mp4",
+        "question": "Did the person wash the table after taking the food?",
+        "answer": "no"
+    },
+    {
+        "video": "star/999BP.mp4",
+        "question": "Did the person take the blanket after holding the food?",
+        "answer": "no"
+    },
+    {
+        "video": "star/136V6.mp4",
+        "question": "Did the person throw the food after opening the book?",
+        "answer": "no"
+    },
+    {
+        "video": "star/LUQWY.mp4",
+        "question": "Did the person tidy up to the laptop after sitting on the sofa/couch?",
+        "answer": "no"
+    },
+    {
+        "video": "star/DR7K0.mp4",
+        "question": "Did the person take the book after they put down the broom?",
+        "answer": "no"
+    },
+    {
+        "video": "star/8G9A9.mp4",
+        "question": "Did the person put down the phone/camera after they took the laptop?",
+        "answer": "no"
+    },
+    {
+        "video": "star/3CLVI.mp4",
+        "question": "Did the person close the door again before tidying up the blanket after opening the door?",
+        "answer": "no"
+    },
+    {
+        "video": "star/EUJK0.mp4",
+        "question": "Did the person pick up the laptop from the table before they took the book?",
+        "answer": "no"
+    },
+    {
+        "video": "star/57MEO.mp4",
+        "question": "Did the person close the door before holding the book?",
+        "answer": "no"
+    },
+    {
+        "video": "star/IWF0U.mp4",
+        "question": "Did the person put down the blanket before sitting at the table?",
+        "answer": "no"
+    },
+    {
+        "video": "star/92UB5.mp4",
+        "question": "Did the person take the pillow after watching at the book?",
+        "answer": "no"
+    },
+    {
+        "video": "star/F24GU.mp4",
+        "question": "Did the person lie on the floor after watching outside the window?",
+        "answer": "no"
+    },
+    {
+        "video": "star/93REJ.mp4",
+        "question": "Did the person take the towel after washing the clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "star/01ZWG.mp4",
+        "question": "Did the person take the cup/glass/bottle before they sat at the table?",
+        "answer": "no"
+    },
+    {
+        "video": "star/HCM5Y.mp4",
+        "question": "Did the person lie on the floor after touching their shoes before opening the door?",
+        "answer": "no"
+    },
+    {
+        "video": "star/5MF9Y.mp4",
+        "question": "Did the person close the book before throwing the food?",
+        "answer": "no"
+    },
+    {
+        "video": "star/9K2TY.mp4",
+        "question": "Did the person tidy up the towel after putting down the blanket?",
+        "answer": "no"
+    },
+    {
+        "video": "star/OO4FE.mp4",
+        "question": "Did the person put down the book after sitting at the table?",
+        "answer": "no"
+    },
+    {
+        "video": "star/HPAYB.mp4",
+        "question": "Did the person throw the book before they took the clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "star/G4AJK.mp4",
+        "question": "Did the person lie on the bed after they ate the sandwich?",
+        "answer": "no"
+    },
+    {
+        "video": "star/136V6.mp4",
+        "question": "Did the person take and then rearrange the sofa/couch before closing the book?",
+        "answer": "no"
+    },
+    {
+        "video": "star/IO712.mp4",
+        "question": "Did the person close the closet or cabinet after taking the book?",
+        "answer": "no"
+    },
+    {
+        "video": "star/0SBT3.mp4",
+        "question": "Did the person take the book after they put down the sandwich?",
+        "answer": "no"
+    },
+    {
+        "video": "star/7SXQS.mp4",
+        "question": "Did the person throw the blanket before sitting at the table?",
+        "answer": "no"
+    },
+    {
+        "video": "star/3Q6N1.mp4",
+        "question": "Did the person open the laptop before holding the food?",
+        "answer": "no"
+    },
+    {
+        "video": "star/NLWBW.mp4",
+        "question": "Did the person put down the bag after they closed the door?",
+        "answer": "no"
+    },
+    {
+        "video": "star/7HSZJ.mp4",
+        "question": "Did the person hang up the towel after watching outside the window?",
+        "answer": "no"
+    },
+    {
+        "video": "star/RTEWJ.mp4",
+        "question": "Did the person put down the paper/notebook before taking the blanket?",
+        "answer": "no"
+    },
+    {
+        "video": "star/IOGR7.mp4",
+        "question": "Did the person put down the door after sitting on the floor?",
+        "answer": "no"
+    },
+    {
+        "video": "star/6ALEL.mp4",
+        "question": "Did the person throw the towel before taking the food?",
+        "answer": "no"
+    },
+    {
+        "video": "star/8LAK1.mp4",
+        "question": "Did the person put down the food before they held the shoe?",
+        "answer": "no"
+    },
+    {
+        "video": "star/1L5D3.mp4",
+        "question": "Did the person tidy up the blanket before holding the phone/camera?",
+        "answer": "no"
+    },
+    {
+        "video": "star/D1NT7.mp4",
+        "question": "Did the person take the sandwich before tidying up the clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "star/ZAJAJ.mp4",
+        "question": "Did the person open the laptop after holding the picture?",
+        "answer": "no"
+    },
+    {
+        "video": "star/NUKJ0.mp4",
+        "question": "Did the person lie on the book after washing the clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "star/BZD0Q.mp4",
+        "question": "Did the person place an item inside the box before closing it after putting down the cup/glass/bottle?",
+        "answer": "no"
+    },
+    {
+        "video": "star/XQDQ4.mp4",
+        "question": "Did the person tidy up the blanket before opening the box?",
+        "answer": "no"
+    },
+    {
+        "video": "star/ZOL0R.mp4",
+        "question": "Did the person wash the cup/glass/bottle after opening the door?",
+        "answer": "no"
+    },
+    {
+        "video": "star/BQKW5.mp4",
+        "question": "Did the person put down the box before taking the towel?",
+        "answer": "no"
+    },
+    {
+        "video": "star/4U52R.mp4",
+        "question": "Did the person put down the clothes before sitting on the bed?",
+        "answer": "no"
+    },
+    {
+        "video": "star/9MNZ5.mp4",
+        "question": "Did the person wash the dish after putting down the food?",
+        "answer": "no"
+    },
+    {
+        "video": "star/N5PLR.mp4",
+        "question": "Did the person put down the blanket before sitting at the table?",
+        "answer": "no"
+    },
+    {
+        "video": "star/3Z1YC.mp4",
+        "question": "Did the person throw the bag immediately after holding the broom?",
+        "answer": "no"
+    },
+    {
+        "video": "star/194WK.mp4",
+        "question": "Did the person throw the book before holding the mirror?",
+        "answer": "no"
+    },
+    {
+        "video": "star/VO45S.mp4",
+        "question": "Did the person wash the table before they washed the dish?",
+        "answer": "no"
+    },
+    {
+        "video": "star/2YJUQ.mp4",
+        "question": "Did the person wash the table before putting down the cup/glass/bottle?",
+        "answer": "no"
+    },
+    {
+        "video": "star/9MNZ5.mp4",
+        "question": "Did the person take the phone/camera before putting down the food?",
+        "answer": "no"
+    },
+    {
+        "video": "star/8XXNK.mp4",
+        "question": "Did the person tidy up the box after sitting on the bed?",
+        "answer": "no"
+    },
+    {
+        "video": "star/D6D85.mp4",
+        "question": "Did the person tidy up the sandwich after holding the food?",
+        "answer": "no"
+    },
+    {
+        "video": "star/NYHD7.mp4",
+        "question": "Did the person wash the table before taking the phone/camera?",
+        "answer": "no"
+    },
+    {
+        "video": "star/3B81O.mp4",
+        "question": "Did the person eat to the window before washing the dish?",
+        "answer": "no"
+    },
+    {
+        "video": "star/KA09C.mp4",
+        "question": "Did the person take the shoe after tidying up the clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "star/3R4DD.mp4",
+        "question": "Did the person close the drawer before tidying up the clothes?",
+        "answer": "no"
+    },
+    {
+        "video": "star/9K2TY.mp4",
+        "question": "Did the person open the door before they threw the towel?",
+        "answer": "no"
+    },
+    {
+        "video": "star/0Y19Q.mp4",
+        "question": "Did the person put down the cup/glass/bottle after they watched outside the window?",
+        "answer": "no"
+    },
+    {
+        "video": "star/C69Y1.mp4",
+        "question": "Did the person tidy up the cup/glass/bottle before closing the closet/cabinet?",
+        "answer": "no"
+    },
+    {
+        "video": "star/FL6DF.mp4",
+        "question": "Did the person put down the laptop after sitting on the sofa/couch?",
+        "answer": "no"
+    },
+    {
+        "video": "star/QPX3S.mp4",
+        "question": "Did the person tidy up the blanket after watching outside the window?",
+        "answer": "no"
+    },
+    {
+        "video": "star/937EW.mp4",
+        "question": "Did the person wash the clothes before tidying up the closet/cabinet?",
+        "answer": "no"
+    },
+    {
+        "video": "star/NJANX.mp4",
+        "question": "Did the person close the book after tidying up the table?",
+        "answer": "no"
+    },
+    {
+        "video": "star/UEP20.mp4",
+        "question": "Did the person water the plant before closing the closet/cabinet?",
+        "answer": "no"
+    },
+    {
+        "video": "star/WBS4I.mp4",
+        "question": "Did the person sit on the closet/cabinet after taking the paper/notebook?",
+        "answer": "no"
+    },
+    {
+        "video": "star/55AH5.mp4",
+        "question": "Did the person eat the sandwich after opening the door?",
+        "answer": "no"
+    },
+    {
+        "video": "star/PZD7Z.mp4",
+        "question": "Did the person open the door before putting down the broom?",
+        "answer": "no"
+    },
+    {
+        "video": "star/F24GU.mp4",
+        "question": "Did the person wash the table before watching at the picture?",
+        "answer": "no"
+    },
+    {
+        "video": "star/WXUZK.mp4",
+        "question": "Did the person throw the clothes before lying on the bed?",
+        "answer": "no"
+    },
+    {
+        "video": "star/9OMY1.mp4",
+        "question": "Did the person put down the box after they sat at the table?",
+        "answer": "no"
+    },
+    {
+        "video": "star/AFTMI.mp4",
+        "question": "Did the person close the door after sitting on the sofa/couch?",
+        "answer": "no"
+    },
+    {
+        "video": "star/2Q3ZJ.mp4",
+        "question": "Did the person put down the clothes after taking them from the closet/cabinet?",
+        "answer": "no"
+    },
+    {
+        "video": "star/2YJUQ.mp4",
+        "question": "Did the person lie on the table before drinking from the cup/glass/bottle?",
+        "answer": "no"
+    },
+    {
+        "video": "star/U9KYC.mp4",
+        "question": "Did the person take the shoe after holding the broom?",
+        "answer": "no"
+    },
+    {
+        "video": "star/DPLMM.mp4",
+        "question": "Did the person stand on the floor before taking the pillow?",
+        "answer": "no"
+    },
+    {
+        "video": "star/UDAQU.mp4",
+        "question": "Did the person roll over before putting the towel down after they sat on the floor?",
+        "answer": "no"
+    },
+    {
+        "video": "star/RRZU3.mp4",
+        "question": "Did the person wash the laptop before drinking from the cup/glass/bottle?",
+        "answer": "no"
+    },
+    {
+        "video": "star/VS7VS.mp4",
+        "question": "Did the person put down the book after they tidied up the closet/cabinet?",
+        "answer": "no"
+    },
+    {
+        "video": "star/V0ZD9.mp4",
+        "question": "Did the person take the clothes after washing the dish?",
+        "answer": "no"
+    },
+    {
+        "video": "star/5C4EK.mp4",
+        "question": "Did the person throw the book before taking the paper/notebook?",
+        "answer": "no"
+    },
+    {
+        "video": "star/QXT9W.mp4",
+        "question": "Did the person put down the food before sitting at the table?",
+        "answer": "no"
+    },
+    {
+        "video": "vcgbd/x7CAuoahO5Y.mp4",
+        "question": "Did the narrator mention the January transfer window before discussing the Italy international player?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/8phlrwkRVK4.mp4",
+        "question": "Did the presenter adjust the direction of the bench grinder's wheel before demonstrating its usage for polishing a chisel?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/app0bYy6T48.mp4",
+        "question": "Did the presenter reveal the components in the Parsel boxes before assembling the small vehicle?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/dcw1QXMIA_g.mp4",
+        "question": "Did the report mention Angelina Jolie's family history of cancer before discussing her decision to undergo a double mastectomy?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/0cXMO1Qpxeo.mp4",
+        "question": "Did the video highlight the risks of using drones near aircraft before showcasing footage of the drone's perspective during the plane's takeoff?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/_-DBSb6x8bg.mp4",
+        "question": "Did the presenter introduce the remedies for hangovers before discussing the ingredients for the \"enhanced hair of the dog\" drink?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/n_ZpnmWB0NY.mp4",
+        "question": "Did the newscaster report on Liberia's reopening schools before mentioning the Ebola outbreak's impact on the education system?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/uUGjSa05Fu4.mp4",
+        "question": "Did the woman prepare the food before serving it?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/2mq7bY5fYgA.mp4",
+        "question": "Did the girl show her favorite makeup items before talking about them?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/S6nx2CMwxso.mp4",
+        "question": "Did the wineries start reopening before the speaker mentioned their challenges?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/FnvYz9ZEymg.mp4",
+        "question": "Did the fans discuss Arsenal's loss after the game?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/MLN07HhL2Ek.mp4",
+        "question": "Did the police conduct the check before the news studio discussion?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/s5V3nsxduQ8.mp4",
+        "question": "Did Aman prepare the parsley before placing it in the microwave?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/D0NV2oAQI90.mp4",
+        "question": "Did the individuals discuss the president's tweets after the conversation?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/sRdEY6yltVw.mp4",
+        "question": "Did the mother explain her daughter's custody situation before the emotional moment?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/5JAg7drMRko.mp4",
+        "question": "Did the narrator guide the ducks to shelter before the rain started?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/1Duufz6kmsQ.mp4",
+        "question": "Did the interviewee discuss their ideological shift before the interview?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/PFcAjrTa5Vo.mp4",
+        "question": "Did the man unbox the PS4 before showing its contents?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/WR9Ca5ODE70.mp4",
+        "question": "Did the founder discuss creating an inclusive physical space before emphasizing its importance?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/FOJ55qH9lH8.mp4",
+        "question": "Did the narrator explain how to play Pokémon before demonstrating it?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/4R4Yu4D2O78.mp4",
+        "question": "Before using the Phase 1 body system, did J J Dukart explain the importance of minimizing human odor for hunting success?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/wXwf6QgAMaA.mp4",
+        "question": "Before playing Hearthstone, did the narrator explain the mechanics behind the enrage strategy?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/fNysYXkr7_s.mp4",
+        "question": "Before soaking the donuts in an egg mixture, did the host prepare a cream cheese mixture and top the donuts with blueberries and brown sugar?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/a51VlNvDlYE.mp4",
+        "question": "Before discussing anti-inflammatory foods, did Brake Bowman share tips to reduce inflammation in the body?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/Arrest041_x264.mp4",
+        "question": "After the shootout, did the police officers apprehend the remaining robbers inside the store?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/cydACk0S140.mp4",
+        "question": "Before demonstrating fingerstyle guitar, did Adam Smale explain the benefits of using a thumb pick?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/HqdZx9i6aFM.mp4",
+        "question": "Before promoting 'Katy Perry: Part of Me 3D', did Fandango invite viewers to share their fireworks moments on Twitter?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/tRl_Iq6Zkus.mp4",
+        "question": "Before providing tips on show jumping, did Beth Vernon discuss the importance of warming up for horses?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/uuLUYvalYEc.mp4",
+        "question": "Before comparing himself to Zion Williamson, did the speaker discuss his own experience with Adidas shoe contracts?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/pJP1Ir2-Eqc.mp4",
+        "question": "Before explaining how to style a blazer, did the fashion expert recommend slim-fit jeans to pair with a blazer or sports jacket?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/x5wJfs6rSU4.mp4",
+        "question": "Before explaining the gameplay mechanics, did the narrator introduce the features of the Friendly Machine game?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/Arson001_x264.mp4",
+        "question": "Before the arson attempt, did the woman exit the car and slam something against the door?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/0Q2k-EJCriQ.mp4",
+        "question": "Before preparing the Shepherd's Pie, did Saloni introduce the ingredients for the meat filling?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/Abuse035_x264.mp4",
+        "question": "Did the caregiver's actions towards the baby happen before she placed her leg on the baby's body?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/ApzJqERaYqc.mp4",
+        "question": "Did Skylar Kelly explain the process of relocating original files in Aperture before mentioning the user guide?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/SETBSdo7BdY.mp4",
+        "question": "Did ArsenalFanTV highlight the importance of fan involvement before discussing the passion and dedication of Arsenal supporters?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/bFyFvDWLR84.mp4",
+        "question": "Did the report mention the closure of the paper shredding facility before showcasing testimonials from workers?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/2yQQ21I9w3A.mp4",
+        "question": "Did Amanda Head explain Hillary Clinton's influence on the DNC before humorously suggesting the DNC logo should feature a donkey?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/CGVVGTYLZUs.mp4",
+        "question": "Did the presenter compare Canon and Nikon cameras before discussing the image quality and lens options?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/083LoZVTicg.mp4",
+        "question": "Did Shamilia Connell reflect on her World Cup victory before emphasizing the team's collective focus and determination?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/RoS2ZL8Pbcc.mp4",
+        "question": "Did the presenter adjust the sound options on the musical keyboard before explaining the resonance effects?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/tTG6jZk797k.mp4",
+        "question": "Did the review of 'The Orville' assign a rating of 7.5 before discussing key plot points and characters?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/571EQDc5G0Y.mp4",
+        "question": "Did the video highlight Jonas's crucial goal before detailing the own goal scored by Balenziaga?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/AWEQ1M5kbLE.mp4",
+        "question": "Did the video showcase the seven steps of creating cotton candy before introducing the musical segment?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/HD-0WdD-xLg.mp4",
+        "question": "Did Brandi Milloy prepare the rainbow pasta butter sauce before explaining how to create the food coloring from natural ingredients?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/Assault001_x264.mp4",
+        "question": "Did the assailants continue their attack after the victim collapsed?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/OdyHXt1uZl8.mp4",
+        "question": "Did the tutorial include instructions on how to apply painter's tape to the wall before painting?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/ibrgdyOkRZc.mp4",
+        "question": "Did Joanna Stern explain Facebook Live notifications before showcasing the platform's features?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/BcVdAs44PRI.mp4",
+        "question": "Did Robinson Cano hit a home run before the Mariners lost to the Tigers?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/_AtI9N60W5Q.mp4",
+        "question": "Did the presenter analyze the application's memory allocation before explaining the impact of garbage collection?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/fHGCG9PV51Q.mp4",
+        "question": "Did Captain Wenz review the Cursive Sports Series 278 before discussing its performance metrics?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/6a_oXj-mdOc.mp4",
+        "question": "Did the FIFA Puskas Award 2015 celebration occur before Wendell received the award?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/OyG4y7y5BCY.mp4",
+        "question": "Did the chef prepare the burger before adding garlic, rosemary, and thyme to the meat?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/vqHthNtfXCM.mp4",
+        "question": "Did Regal Cinemas implement demand-based pricing before the news announcement?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/Normal_Videos_246_x264.mp4",
+        "question": "Did the group of individuals explore the cabin before engaging in further discussion?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/TMKub-ej7vY.mp4",
+        "question": "Did the presenter unbox the Radeon HD 4890 graphics card before discussing its performance?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/_73muwSfntY.mp4",
+        "question": "Did Giancarlo Stanton hit a home run before the Miami Marlins took the lead?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/5QclaUayLX4.mp4",
+        "question": "Did the judge deliver the long-awaited verdict before the emotional scenes outside the courtroom?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/_3tU3LUKrHU.mp4",
+        "question": "Did the presenter fill the transmission with oil before cleaning the transmission pan?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/5P4uoOmE2ik.mp4",
+        "question": "Did the Fiat car lose control before making a turn in the curve?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/1HjIx44XrYM.mp4",
+        "question": "Did the boy in black change his attire before meeting the girl and the boy in the bungalow?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/VAWfiR0Fk4k.mp4",
+        "question": "Did the female guest criticize Planned Parenthood before discussing the allocation of clinical funds?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/FyM-LcQk5Rk.mp4",
+        "question": "Did the man reflect on the significance of Hiroshima before discussing manga artist Fumiyo Kouno's work?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/l_r1tyN__Y0.mp4",
+        "question": "Did the president announce plans to address the nation before the contradictory statements from Russian officials?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/UaSmHmaCpGg.mp4",
+        "question": "Did the review include visuals of gameplay before the nostalgic element with 'back in the day' cards?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/XmN_DpN9CNs.mp4",
+        "question": "Did the video depict Ethiopia's low carbon, climate-resilient future before the soil mapping team gathered soil samples?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/42kFQBpN0hA.mp4",
+        "question": "Did the woman walk with the black dog after the conversation?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/s8kcUcFuQ2Y.mp4",
+        "question": "Did Rachael participate in the annual fundraiser for firefighters before the event?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/3BAKRlr3EHo.mp4",
+        "question": "Did the horse Justify express reluctance to visit the White House before the event?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/mR-CUmlh_Bc.mp4",
+        "question": "Did the woman provide advice on avoiding 'concrunch' before conventions?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/FRNg0yIaRAw.mp4",
+        "question": "Did Drew Barrymore explain the significance of the whale rescue operation before the movie?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/IEcFrvLtaM0.mp4",
+        "question": "Did the Australian Institute of Sport showcase immersive technology before cyclists' training?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/Dtgd11xbyes.mp4",
+        "question": "Did the presenter explain the mechanics of Cowsep gameplay before showing gameplay?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/pzZiX8kKVmA.mp4",
+        "question": "Did the host demonstrate car maintenance before applying the wax?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/hlkn31lOp7s.mp4",
+        "question": "Did the animation depict expectations versus reality before daily routines?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/Hfj-d8y4uXA.mp4",
+        "question": "Did the man showcase the cleanliness of his home before talking about his office?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/o_dLCAi2G38.mp4",
+        "question": "Did the police begin searching for suspects after the murder?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/YfIwjq38cyI.mp4",
+        "question": "Did Rob Price report on the iPhone X launch before it went on sale?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/kH-gMvke1qM.mp4",
+        "question": "Did the report discuss the transportation emergency before mentioning the availability of bio petrol?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/OTLIyvHfpWk.mp4",
+        "question": "Did the girl introduce the parts of the violin before demonstrating how to play?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/b6J9SgaH7bg.mp4",
+        "question": "Did Andrew Jordan drive the car for the first time after receiving training from Mike Jordan?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/cUeSdjpWRwU.mp4",
+        "question": "Did Mack Bernard express disappointment with the White House decisions before advocating for collaboration?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/TCsy4ppQSCc.mp4",
+        "question": "Did the kids enjoy playing on the tablets after installing the app?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/Arrest004_x264.mp4",
+        "question": "Did the driver resist arrest after colliding with the police bikes?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/trMG-l5Vf-Q.mp4",
+        "question": "Did Andy Pringle demonstrate the features of the Porsche MACAN while driving?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/ytVtlbtz5nE.mp4",
+        "question": "Did the players survive 20 rounds in the zombies mode before the game ended?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/ETEw7hV2dVQ.mp4",
+        "question": "Did the girl express admiration for the mosaic artwork during her visit?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/s9CEjN5MG0E.mp4",
+        "question": "Did the girl humorously recount awkward student experiences in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/7RixCn_KMQo.mp4",
+        "question": "Did Monti and Anggun get released back into the wild at the end of the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/VKAg5Rrem3g.mp4",
+        "question": "Did the man emphasize the importance of community at Columbia University?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/yPP4BhtW2fM.mp4",
+        "question": "Did the lady explain the rules of 'Lords of Waterdeep' during the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/i0RAoZqf4p4.mp4",
+        "question": "Did the video focus on gameplay strategies within the Headquarters Dome in Call of Duty?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/Q432xPjI4P4.mp4",
+        "question": "Did the narrator discuss his opinions on the Ninjago toy sets released over the years?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/y_LZe6ujj48bo_clip_8.mp4",
+        "question": "Did the video highlight the importance of yielding properly during the traffic accident?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/gpTIlOCWXM0.mp4",
+        "question": "Did the woman describe the promotional efforts for Shop Bottom's Up Espresso?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/8PG2A8uHWF0.mp4",
+        "question": "Did the presenter grind fresh coffee beans before placing them into the coffee filter?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/Lgd-QX-0qzA.mp4",
+        "question": "Did the video mention an incident where Senator Kamala Harris was silenced before discussing gender biases?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/5xrrNVy2Rfk.mp4",
+        "question": "Did the presenter highlight the ease of installation before comparing the A-5 and Apex barrel systems?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/yA9gILrp3Mk.mp4",
+        "question": "Did Elder Scott and his companion experience a canoe trip before deciding to take a houseboat excursion?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/bM5fFVkEPxw.mp4",
+        "question": "Did the video discuss the need to raise 26 million for the hospice's reconstruction before showcasing the various team routes?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/4bbn-o0kWJk.mp4",
+        "question": "Did Riley Murdock present the new NVIDIA DGX A100 GPUs before discussing Zerodium's concerns about iOS security?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/Abuse040_x264.mp4",
+        "question": "Did the video show an elderly lady peacefully sleeping before the woman began abusing her?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/y_Qo_y-6rCrJk_clip_2.mp4",
+        "question": "Did the video highlight the poor visibility of the turning driver before advising viewers to wait if unsure?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/wUwBUycAwLQ.mp4",
+        "question": "Did Dave McCarthy introduce the Project Spark features before creating mountains and rivers in the animation?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/LhiWtGqDdMg.mp4",
+        "question": "Did the speaker discuss kernel management before mentioning the Dalvik and ART virtual machines?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/5QdVZGr9ZEs.mp4",
+        "question": "Did the presenter showcase the Huawei Mate 20 Pro features before comparing various smartphones in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/JgSE4QxTfTc.mp4",
+        "question": "Did the host introduce the Megalite suitcase before demonstrating its durability in an experimental scenario?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/e6I86-n7fC4.mp4",
+        "question": "Did Brie Clark highlight the maximum value before applying the green background fill in Excel?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/CHZpeK7w3HA.mp4",
+        "question": "Did the women add chutney before applying sweet corn on the pizza?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/8rezAMFnRgU.mp4",
+        "question": "Did Tony instruct the team to dismantle the dredge before it was relocated?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/aw-SuYGe3ZM.mp4",
+        "question": "Did Ellen DeGeneres introduce the 'Make It Rain' game before explaining its rules?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/8F89e8f1VW4.mp4",
+        "question": "Did the creator respond to 'jbaygameplay' before answering 'sonicgoten6' about YouTube growth?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/BTSTddC4O2c.mp4",
+        "question": "Did Lisette Padilla discuss Poland's nuclear sharing consideration before talking about U.S. nuclear weapons?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/Mq-AiI0tekY.mp4",
+        "question": "Did the host ask the editor if he knew Quentin Tarantino before revealing the 'No cellphones on set' rule?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/ow4b7eg2ibc.mp4",
+        "question": "Did the narrator explain the CRISPR-Cas9 technology before discussing its potential in overcoming biological defenses?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/kig80bOju3g.mp4",
+        "question": "Did Arvinash explain Bitcoin using a fig bar analogy before discussing the role of blockchain?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/CYpCdhfozvw.mp4",
+        "question": "Did Octavio Blanco explain the history of credit cards before discussing the pitfalls of store-branded credit cards?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/VuQ0qJFnED4.mp4",
+        "question": "Did the narrator demonstrate experiments with everyday items before explaining the principles of physics?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/dMqRMA-sxq8.mp4",
+        "question": "Did the narrator discuss the dimensions and design elements of the Jaguar Project 7 before comparing it with the OVC 50i?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/MID21hrAypE.mp4",
+        "question": "Did the host introduce Tom Papa and his book before discussing its themes and content?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/niQIgkEBl8k.mp4",
+        "question": "Did the cap guy look at the clock tower before tripping over the other man's leg?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/9FuYkzQuXao.mp4",
+        "question": "Did Romero's mother speak about her son's interests before expressing her grief about his death?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/Eb1SGmmE0fQ.mp4",
+        "question": "Did the man in blue express appreciation for breakfast options before reflecting on the support he received throughout his career?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/1hQIdBl2DLs.mp4",
+        "question": "Did Johnny introduce the Samsung Digital Camera ST600 before transitioning to the 5-LUG conversion kit installation?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/IGiO5KUEfcY.mp4",
+        "question": "Did the speakers discuss the potential dangers of GMOs before transitioning to a discussion about sustainable agriculture?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/ABsH89s0ZuA.mp4",
+        "question": "Did Chef Osburn explain the ingredients of the Portuguese dish before beginning the cooking demonstration?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/6hbetjBqP2Q.mp4",
+        "question": "Did Kristina spiralize zucchinis before blending the ingredients for the creamy sauce?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/fo6L-Q0YkVw.mp4",
+        "question": "Did the speaker discuss the Nuggets' defensive ranking before analyzing the upcoming game between the Chicago Bulls and the Denver Nuggets?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/25MF9c06Opo.mp4",
+        "question": "Did Sunny begin painting the canvas board before measuring and cutting the string for the bulletin board?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/Oj4fIrNQ_CA.mp4",
+        "question": "Did the individuals engage in playful interaction with the teddy bears before discussing childhood nostalgia?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/S3TRdPVsCSw.mp4",
+        "question": "Did the video focus on the white four-door Catalina with a powerful engine before discussing the Ford muscle car's performance and safety features?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/C6415VWsJv4.mp4",
+        "question": "Did Srikanth discuss his readiness for the World Championship before reflecting on his past performances in major tournaments?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/f6t6U14I_BU.mp4",
+        "question": "Did Bouna Sarr engage with the media after the match?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/6i6xNFPQ5to.mp4",
+        "question": "Did the presenter compare the Samsung Galaxy Note 7 to the Samsung Galaxy S7 Edge before discussing the Note 7's features?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/-U_fAWTaoRc.mp4",
+        "question": "Did the reporter ask the player about the match before the exciting clips of the football game were shown?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/vs6biiiSEEk.mp4",
+        "question": "Did the commentators provide insights on Phil Mickelson's game during the golf match?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/pKyuhPI83YU.mp4",
+        "question": "Did the woman explain the process of crafting with wool before beginning the demonstration?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/_aLwiGYolFc.mp4",
+        "question": "Did the speaker introduce the concept of 'norgeln' before explaining the new peer review process?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/1J86gGzMCkQ.mp4",
+        "question": "Did the Lego designers discuss the features of the Lego temple before showcasing the final design?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/jxrSJvrUzY8.mp4",
+        "question": "Did the narrator unbox the Amoi mobile phone before explaining its features?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/Si7nZJ7ESOs.mp4",
+        "question": "Did the man prepare the sugar syrup before adding the biscuit pieces to the blender?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/3ZgQV7EGx0I.mp4",
+        "question": "Did Gayle Hil-Suber share her experience with hepatitis C before Dr. Malek Mahmoudi discussed the disease's complications?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/v6zelV6qTYM.mp4",
+        "question": "Did the user configure game settings on Hamachi before starting the server?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/A02SFOu8LqA.mp4",
+        "question": "Did the girl express her nervousness about the event before discussing her role as an actor?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/Abuse013_x264.mp4",
+        "question": "Did the teacher begin the dance class before exhibiting aggressive behavior toward the children?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/DWMI05VnbNw.mp4",
+        "question": "Did the narrator explain the system optimization features before introducing disk cleanup and defragmentation?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/57T7Yp-u-EE.mp4",
+        "question": "Did Zeratul inform Raynor about the fate of Kerrigan before leaving the ship?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/iuTuMe-HlWg.mp4",
+        "question": "Did Christina Cravero showcase various clothing items for holiday parties before discussing the accessories?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/MZ3hxQS3-lw.mp4",
+        "question": "Did the narrator mention the significance of the Bilwa tree before explaining its medicinal uses?",
+        "answer": "yes"
+    },
+    {
+        "video": "vcgbd/IiDPnk-6XXA.mp4",
+        "question": "Did the narrator discuss Durianrider's stance on carbohydrates before highlighting his reputation in the health community?",
+        "answer": "yes"
+    }
+]

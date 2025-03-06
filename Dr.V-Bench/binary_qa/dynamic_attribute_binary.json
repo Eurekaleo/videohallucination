@@ -1,0 +1,452 @@
+[
+    {
+        "video": "tempcompass/1103623921.mp4",
+        "question": "Is the video playing at normal speed?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1051211272_reverse.mp4",
+        "question": "Is the toast with cream cheese gradually reappearing piece by piece?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1100319395_reverse.mp4",
+        "question": "Is the circular pattern moving counter-clockwise?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1100319395_concat_2.mp4",
+        "question": "Is the speed of the white circle above slower than the white circle below?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1043054206.mp4",
+        "question": "Is the yellow car driving faster than other cars?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1082268005.mp4",
+        "question": "Is the planet earth assembling from toy bricks?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1052364490_reverse.mp4",
+        "question": "Is the digital bar chart decreasing?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1059462749_reverse.mp4",
+        "question": "Is the person moving upwards?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1054494542.mp4",
+        "question": "Is the background changing from pink to blue?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1042819039.mp4",
+        "question": "Is the speed of the video time-lapse?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1053334574.mp4",
+        "question": "Is the black ink expanding from the center?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1099984801.mp4",
+        "question": "Is the movement of the clouds towards the camera?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1034419625.mp4",
+        "question": "Is the man moving from left to right?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1084153195.mp4",
+        "question": "Is the rate of movement in the video at normal speed?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1086286649.mp4",
+        "question": "Are the armored vehicles moving right to left from the camera's point of view?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1083845854.mp4",
+        "question": "Is the video playing at time-lapse speed?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1054494542_reverse.mp4",
+        "question": "Is the background changing from blue to pink?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1047368344_reverse.mp4",
+        "question": "Is the girl jumping out of water?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1051211272.mp4",
+        "question": "Is the toast with cream cheese gradually being eaten out and disappearing?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1055981522.mp4",
+        "question": "Is the 3d shapes turning into spheres?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1058498242_reverse.mp4",
+        "question": "Is the 3D pixels changing from the shape of a man into a cuboid?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1099116143_reverse.mp4",
+        "question": "Is the white foam disappearing from the surface of the pink liquid?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1058498242.mp4",
+        "question": "Is the 3D pixels changing from a cuboid into the shape of a man?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1062609286_concat_0.mp4",
+        "question": "Is the battery charge above increasing at the same speed as the battery charge below?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1096007487_reverse.mp4",
+        "question": "Is the 3d cloud moving rightward from the camera's point of view?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1098153561_concat_2.mp4",
+        "question": "Is the speed that the forest above changing color faster than the forest below?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1089201973_reverse.mp4",
+        "question": "Is the direction of the football in the video moving from right to left?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1075338140_reverse.mp4",
+        "question": "Is the ball rolling from right to left?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1077507593.mp4",
+        "question": "Is the speed of the video in slow motion?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1059718130.mp4",
+        "question": "Is the sun rising?",
+        "answer": "yes"
+    },
+    {
+        "video": "tempcompass/1093948229.mp4",
+        "question": "Are the golden particles merging smoothly into clusters?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1100397435_reverse.mp4",
+        "question": "Is the robot vacuum cleaner moving in circles around the center of the room?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1100117263_reverse.mp4",
+        "question": "Is the little lion circling downward?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1086105089.mp4",
+        "question": "Is the building collapsing slowly?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1081684532_reverse.mp4",
+        "question": "Is the direction of the asteroids in the video orbiting around a central point?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1081734740_reverse.mp4",
+        "question": "Is the texture of the leaf shimmering as it turns from yellow to white?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1096238125_concat_1.mp4",
+        "question": "Is the speed of the two people above lifting the kettlebell gradually accelerating compared to the two people below?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1077575504_concat_1.mp4",
+        "question": "Is the pile of salt above growing at the same speed as the pile of salt below?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1096612823_reverse.mp4",
+        "question": "Is the video panning to the right?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1086105089_reverse.mp4",
+        "question": "Is the building being renovated to add floors?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1099360359.mp4",
+        "question": "Is the train closer to the screen accelerating dramatically in the tunnel?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1075338140.mp4",
+        "question": "Is the ball swaying side to side?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/315784.mp4",
+        "question": "Does the speedometer in the center appear to be moving in reverse?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1063373449_reverse.mp4",
+        "question": "Is the coronavirus replicating rapidly spreading through cells?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1024867412_reverse.mp4",
+        "question": "Is the car veering slightly right before continuing straight?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/3396473605.mp4",
+        "question": "Do the five stars appear in a zigzag motion from right to left?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1093573255_reverse.mp4",
+        "question": "Is the plant reviving rapidly?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1096238125.mp4",
+        "question": "Is the man lifting the kettlebell in a zigzag motion, unlike the woman's steady lift?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1047368344.mp4",
+        "question": "Is the girl dancing on the water?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1077575504.mp4",
+        "question": "Is the pile of salt spreading out?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1090578917_reverse.mp4",
+        "question": "Is the man leaping spinning in place?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1096238125_concat_2.mp4",
+        "question": "Are the two people above gradually slowing down compared to the two people below?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1057163434_reverse.mp4",
+        "question": "Is the chef placing it back onto the grill for toasting?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1111601171_reverse.mp4",
+        "question": "Is the sphere building changing from blue to purple as it rotates slowly?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1099984801_reverse.mp4",
+        "question": "Is the movement of the clouds accelerating rapidly towards the horizon?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1077575504_reverse.mp4",
+        "question": "Is the pile of salt moving in circles?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1084736389.mp4",
+        "question": "Is the face morphing into a gorilla face before becoming human?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1099811331.mp4",
+        "question": "Is the 3d heart rotating slowly?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1098153561_reverse.mp4",
+        "question": "Is the leaves changing color from green to red?",
+        "answer": "no"
+    },
+    {
+        "video": "tempcompass/1079384099.mp4",
+        "question": "Is the 3D pixel transforming slowly from a white square into the shape of a flower, then back to a square?",
+        "answer": "no"
+    },
+    {
+        "video": "tomato/0231-04.mp4",
+        "question": "Did the person's hand move to the right?",
+        "answer": "yes"
+    },
+    {
+        "video": "tomato/0231-05.mp4",
+        "question": "Did the person's hand move first to the left then to the right?",
+        "answer": "yes"
+    },
+    {
+        "video": "tomato/0231-06.mp4",
+        "question": "Did the person's hand move to the left?",
+        "answer": "yes"
+    },
+    {
+        "video": "tomato/0234-02.mp4",
+        "question": "Did the person's hand move up?",
+        "answer": "yes"
+    },
+    {
+        "video": "tomato/0234-03.mp4",
+        "question": "Did the person's hand move down?",
+        "answer": "yes"
+    },
+    {
+        "video": "tomato/0221-04.mp4",
+        "question": "Did the person's hand move to the right?",
+        "answer": "yes"
+    },
+    {
+        "video": "tomato/0221-05.mp4",
+        "question": "Did the person's hand move to the left?",
+        "answer": "yes"
+    },
+    {
+        "video": "tomato/0223-04.mp4",
+        "question": "Did the person's hand move to the right?",
+        "answer": "yes"
+    },
+    {
+        "video": "tomato/0223-05.mp4",
+        "question": "Did the person's hand move to the left?",
+        "answer": "yes"
+    },
+    {
+        "video": "tomato/0224-04.mp4",
+        "question": "Did the person's hand move to the right?",
+        "answer": "yes"
+    },
+    {
+        "video": "tomato/0224-05.mp4",
+        "question": "Did the person's hand move to the left?",
+        "answer": "yes"
+    },
+    {
+        "video": "tomato/0225-04.mp4",
+        "question": "Did the person's hand move down?",
+        "answer": "yes"
+    },
+    {
+        "video": "tomato/0225-05.mp4",
+        "question": "Did the person's hand move up?",
+        "answer": "yes"
+    },
+    {
+        "video": "tomato/0226-03.mp4",
+        "question": "Did the person's hand move to the left?",
+        "answer": "yes"
+    },
+    {
+        "video": "tomato/0227-04.mp4",
+        "question": "Did the person's hand move to the left?",
+        "answer": "yes"
+    },
+    {
+        "video": "tomato/0215-08.mp4",
+        "question": "Is the person's hand's rotation speed decelerating?",
+        "answer": "no"
+    },
+    {
+        "video": "tomato/0215-09.mp4",
+        "question": "Is the person's hand's rotation speed constant?",
+        "answer": "no"
+    },
+    {
+        "video": "tomato/0216-10.mp4",
+        "question": "Is the person's rotation speed decelerating?",
+        "answer": "no"
+    },
+    {
+        "video": "tomato/0216-11.mp4",
+        "question": "Is the person's rotation speed accelerating?",
+        "answer": "no"
+    },
+    {
+        "video": "tomato/0218-10.mp4",
+        "question": "Is the person's hand's rotation speed constant?",
+        "answer": "no"
+    },
+    {
+        "video": "tomato/0218-11.mp4",
+        "question": "Is the person's hand's rotation speed accelerating?",
+        "answer": "no"
+    },
+    {
+        "video": "tomato/0230-12.mp4",
+        "question": "Is the person's hand's rotation speed constant?",
+        "answer": "no"
+    },
+    {
+        "video": "tomato/0230-13.mp4",
+        "question": "Is the person's hand's rotation speed accelerating?",
+        "answer": "no"
+    },
+    {
+        "video": "tomato/0652-00.mp4",
+        "question": "Is the frequency of clapping decreasing gradually then speeding up?",
+        "answer": "no"
+    },
+    {
+        "video": "tomato/0652-01.mp4",
+        "question": "Is the frequency of clapping remaining constant?",
+        "answer": "no"
+    },
+    {
+        "video": "tomato/0652-02.mp4",
+        "question": "Is the frequency of clapping decreasing gradually?",
+        "answer": "no"
+    },
+    {
+        "video": "tomato/0652-03.mp4",
+        "question": "Is the frequency of clapping increasing gradually then slowing down?",
+        "answer": "no"
+    },
+    {
+        "video": "tomato/0236-02.mp4",
+        "question": "Is the camera's movement speed decelerating?",
+        "answer": "no"
+    },
+    {
+        "video": "tomato/0236-03.mp4",
+        "question": "Is the camera's movement speed constant?",
+        "answer": "no"
+    },
+    {
+        "video": "tomato/0240-02.mp4",
+        "question": "Is the camera's movement speed decelerating?",
+        "answer": "no"
+    }
+]

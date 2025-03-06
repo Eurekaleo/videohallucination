@@ -1,0 +1,302 @@
+[
+    {
+        "video": "causalqa/fbI0WsOLe8Q_000000_000010.mp4",
+        "question": "Is [person_1] finished playing his song and will now reach over to turn off the camera?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/YDg-KCilGIo_000132_000142.mp4",
+        "question": "Will [person_1] walk away and put his bagpipes away back in their case after stopping playing?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/8oE2AJpIOYo_000166_000176.mp4",
+        "question": "Is [person_2] going to keep on ripping papers?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/TQyQib7_brc_000116_000126.mp4",
+        "question": "Will [person_2] comment what [person_1] did next after finishing the action?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/G5F-9OLe_1U_000000_000010.mp4",
+        "question": "Is the person going to hit the boy on the couch with the pillow?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/RbkjYRITXCs_000004_000014.mp4",
+        "question": "Is [person_1] going to continue somersaulting?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/T2BST9mCT7Y_000039_000049.mp4",
+        "question": "Will [person_2] take off the helmet after the bottle is opened?",
+        "answer": "Yes."
+    },
+    {
+        "video": "causalqa/DqtwXBrKv24_000008_000018.mp4",
+        "question": "Will the [person_1] ride the scooter home?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/u8dAnKA2XWw_000171_000181.mp4",
+        "question": "Will [person_2] continue to play clapping with [person_1]?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/PhAtBMbgEMg_000019_000029.mp4",
+        "question": "Is [person_1] going to pick the apple up?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/6SmZDyIr7L0_000119_000129.mp4",
+        "question": "Will [person_1] feel comfortable of his face after the massage?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/YkkINJTdYww_000012_000022.mp4",
+        "question": "Is it true that it looks like [person_1] is a street performance?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/ag2pbbRQx5o_000000_000010.mp4",
+        "question": "Will [person_1] roast another marshmallow after roasting the one in her hand?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/IYA3XgbuaMs_000004_000014.mp4",
+        "question": "Is the [person_1] going to keep pressing buttons of button accordion?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/gexjhPwANwE_000001_000011.mp4",
+        "question": "Will [person_1] run after the rest?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/T8QcMK1MYLY_000156_000166.mp4",
+        "question": "Will [person_4] start to perform after the competition begins?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/OFNacAyy6lU_000002_000012.mp4",
+        "question": "Is [person_1] going to have some water?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/buaumHig9wY_000004_000014.mp4",
+        "question": "Will [person_1] perform with the harp next?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/BYVOAUgBVb0_000033_000043.mp4",
+        "question": "Is [person_1] going to shake maracas?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/cs0EOmmp1W0_000098_000108.mp4",
+        "question": "Is [person_1] going to make a ball out of smoke?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/76GlXGmzfHU_000004_000014.mp4",
+        "question": "Is [person_1] going to practice standing on her hands?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/CEkg4od3bNw_000018_000028.mp4",
+        "question": "Is [person_1] going to continue tearing the paper?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/bQ6qVS7hWrs_000198_000208.mp4",
+        "question": "Will [person_1] continue skating after the preparation?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/JX8mDrHlCX0_000033_000043.mp4",
+        "question": "Is [person_1] going to create his combo?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/30_deNYn6Cc_000013_000023.mp4",
+        "question": "Will [person_1] start to ride [bicycle_1] after the preparation?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/-yTDRFePZuQ_000025_000035.mp4",
+        "question": "Will [person_1] go on cutting the cement stone next?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/PEPOMnDq5po_000048_000058.mp4",
+        "question": "Is [person_1] going to grab a new apple?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/qixg8SlR5UU_000004_000014.mp4",
+        "question": "Is the [person_2] going to not hold the hand of [person_3] so that the [person_3] can skate?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/2b2oP4wiJHs_000010_000020.mp4",
+        "question": "Is [person_1] about to play with [person_2]?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/LqvMqA4Eqc4_000031_000041.mp4",
+        "question": "Is [person_1] going to stop smoking?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/PXXmZtgHacU_000015_000025.mp4",
+        "question": "Is [person_1] going to sit down to drink some water?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/mh5zOEsU3K0_000012_000022.mp4",
+        "question": "Is [person_1] going to close the book they were reading?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/SaYGiuoBraU_000000_000010.mp4",
+        "question": "Does [person_1] intend to start painting a canvas on the table?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/u_pC3TYpmzk_000027_000037.mp4",
+        "question": "Is [person_1] going to adjust their microphone?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/r60Wmm-n5_w_000054_000064.mp4",
+        "question": "Does [person_1] intend to continue practicing scales on the organ?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/X_UkHBf0eMU_000056_000066.mp4",
+        "question": "Will [person_1] start painting the pottery next?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/eKUXnelq0k8_000047_000057.mp4",
+        "question": "Will [person_1] continue demonstrating techniques with his bagpipes as if giving an impromptu lesson?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/_jtAZ_yEd0I_000021_000031.mp4",
+        "question": "Is [person_1] planning to do some light stretching exercises after stopping riding?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/KIdxBwqNWeI_000012_000022.mp4",
+        "question": "Is [person_2] going to adjust their jacket?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/0LH6n81tyds_000010_000020.mp4",
+        "question": "Is [person_1] going to stand up and start organizing the bookshelf?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/Sb0bDlhVw34_000141_000151.mp4",
+        "question": "Is [person_1] going to arrange the cups?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/m-fiqo5a9bM_000380_000390.mp4",
+        "question": "Does [person_1] intend to conduct a yoga session?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/LyPH09f-iEE_000031_000041.mp4",
+        "question": "Is [person_1] going to start reading aloud from [book_1]?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/3XgzWP3pvSY_000007_000017.mp4",
+        "question": "Is [person_1] going to take a deep breath before continuing?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/uv-7y1j_3TE_000060_000070.mp4",
+        "question": "Is [person_1] going to take out a snack and start eating after sitting on the ground?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/8dsy4EHblLQ_000039_000049.mp4",
+        "question": "Will [person_1] attempt to imitate the magic trick?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/MqaC_CUAXEE_000000_000010.mp4",
+        "question": "Did [person_1] receive a gift while preparing to put it back in the box?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/sknNTt3KSN8_000057_000067.mp4",
+        "question": "Will [person_1] decide to take a sip from a drink nearby?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/eE00JoNnxAY_000000_000010.mp4",
+        "question": "Will the [person_1] close the [refrigerator_1] and leave the kitchen next?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/foG0OArJdvY_000000_000010.mp4",
+        "question": "Is [person_2] going to adjust his grip on the dart?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/AkqakLhh1fI_000029_000039.mp4",
+        "question": "Is [person_1] going to start packing up their gym equipment to leave?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/825cShsot8Y_000091_000101.mp4",
+        "question": "Is [person_1] going to organize her desk?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/f3zG7O_BiIw_000014_000024.mp4",
+        "question": "Is the [person_1] going to brush off the snow from [person_1]'s coat?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/_iJ8-r3Lh3E_000043_000053.mp4",
+        "question": "Will [person_1] contemplate the day's events peacefully after lying down?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/rWpXvlgIn9A_000017_000027.mp4",
+        "question": "Is the [person_1] going to start making a snowman?",
+        "answer": "no"
+    },
+    {
+        "video": "causalqa/8Bmu0PKfAmo_000051_000061.mp4",
+        "question": "Is [person_1] going to rest and drink some water?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/gBuH2vD7moc_000000_000010.mp4",
+        "question": "Will [person_1] decide to save the parcel for later?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/3SqBKZllvSY_000001_000011.mp4",
+        "question": "Is [person_1] going to sort through the wrapping paper?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/P-rszQCrLyI_000044_000054.mp4",
+        "question": "Is [person_2] going to start a new yoga pose to entertain the group?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/R3HVaW71LAw_000038_000048.mp4",
+        "question": "Will [person_2] feel slightly anxious as the road becomes uneven?",
+        "answer": "No"
+    }
+]

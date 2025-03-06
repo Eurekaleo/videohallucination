@@ -1,0 +1,1338 @@
+[
+    [
+        {
+            "instance_id": 1,
+            "video_information": {
+                "video_path": "videomme/ZGGDKC3GlrI.mp4"
+            },
+            "hallu_detection": {
+                "question": "What is the third future topic in medicine mentioned in the video?",
+                "answer": "D",
+                "option": {
+                    "A": {
+                        "text": "Precision medicine.",
+                        "is_in_video": true
+                    },
+                    "B": {
+                        "text": "Telemedicine.",
+                        "is_in_video": false
+                    },
+                    "C": {
+                        "text": "Smart prosthetics.",
+                        "is_in_video": false
+                    },
+                    "D": {
+                        "text": "gene editing",
+                        "is_in_video": true
+                    }
+                }
+            },
+            "hallu_combating": {
+                "spatial_temporal_ground": {}
+            }
+        },
+        {
+            "instance_id": 2,
+            "video_information": {
+                "video_path": "videomme/t6V9i8fFADI.mp4"
+            },
+            "hallu_detection": {
+                "question": "What is the correct order in which the billionaires appear in the video?",
+                "answer": "D",
+                "option": {
+                    "A": {
+                        "text": "Warren Buffett, Bill Gates, Elon Musk.",
+                        "is_in_video": true
+                    },
+                    "B": {
+                        "text": "Elon Musk, Jeff Bezos, Warren Buffett.",
+                        "is_in_video": true
+                    },
+                    "C": {
+                        "text": "Jeff Bezos, Warren Buffett, Elon Musk.",
+                        "is_in_video": true
+                    },
+                    "D": {
+                        "text": "Warren Buffett, Jeff Bezos, Elon Musk.",
+                        "is_in_video": true
+                    }
+                }
+            },
+            "hallu_combating": {
+                "spatial_temporal_ground": {
+                    "Warren Buffett": {
+                        "0.88": {
+                            "x": 106.66666666666667,
+                            "y": 17.041420118343197,
+                            "w": 336.0,
+                            "h": 338.69822485207106
+                        },
+                        "67.61": {
+                            "x": 73.6,
+                            "y": 195.97633136094677,
+                            "w": 229.33333333333334,
+                            "h": 158.69822485207104
+                        },
+                        "2.92": {
+                            "x": 189.86666666666667,
+                            "y": 8.520710059171599,
+                            "w": 253.86666666666667,
+                            "h": 326.9822485207101
+                        }
+                    },
+                    "Jeff Bezons": {
+                        "196.99": {
+                            "x": 38.4,
+                            "y": 56.44970414201184,
+                            "w": 283.73333333333335,
+                            "h": 298.22485207100596
+                        },
+                        "202.45": {
+                            "x": 56.53333333333333,
+                            "y": 57.51479289940829,
+                            "w": 258.1333333333333,
+                            "h": 301.42011834319527
+                        },
+                        "199.16": {
+                            "x": 42.666666666666664,
+                            "y": 52.189349112426044,
+                            "w": 272.0,
+                            "h": 303.5502958579882
+                        }
+                    },
+                    "Elon Musk": {
+                        "220.43": {
+                            "x": 36.266666666666666,
+                            "y": 59.64497041420119,
+                            "w": 261.3333333333333,
+                            "h": 293.96449704142015
+                        },
+                        "221.22": {
+                            "x": 4.266666666666667,
+                            "y": 50.05917159763314,
+                            "w": 246.4,
+                            "h": 305.6804733727811
+                        },
+                        "226.1": {
+                            "x": 26.666666666666668,
+                            "y": 61.77514792899409,
+                            "w": 277.3333333333333,
+                            "h": 293.96449704142015
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "instance_id": 3,
+            "video_information": {
+                "video_path": "videomme/EeTmrsVW8qE.mp4"
+            },
+            "hallu_detection": {
+                "question": "What is presented successively in the video?",
+                "answer": "D",
+                "option": {
+                    "A": {
+                        "text": "Golden Generation, New Generation, Golden Goals.",
+                        "is_in_video": true
+                    },
+                    "B": {
+                        "text": "Derby Battle, New Generation, Golden Generation.",
+                        "is_in_video": true
+                    },
+                    "C": {
+                        "text": "New Generation, Golden Generation, Derby Battle.",
+                        "is_in_video": true
+                    },
+                    "D": {
+                        "text": "Golden Generation, New Generation, Derby Battle.",
+                        "is_in_video": true
+                    }
+                }
+            },
+            "hallu_combating": {
+                "spatial_temporal_ground": {
+                    "Golden Generation": {
+                        "651.12": {
+                            "x": 5.333333333333333,
+                            "y": 3.1952662721893494,
+                            "w": 613.3333333333334,
+                            "h": 264.14201183431953
+                        },
+                        "1167.6": {
+                            "x": 167.46666666666667,
+                            "y": 51.12426035502959,
+                            "w": 279.46666666666664,
+                            "h": 308.87573964497045
+                        }
+                    },
+                    "New Generation": {
+                        "1802.92": {
+                            "x": 82.13333333333333,
+                            "y": 21.301775147928996,
+                            "w": 468.26666666666665,
+                            "h": 312.0710059171598
+                        },
+                        "2045.24": {
+                            "x": 86.4,
+                            "y": 59.64497041420119,
+                            "w": 360.5333333333333,
+                            "h": 250.2958579881657
+                        }
+                    },
+                    "Derby Battle": {
+                        "3089.4": {
+                            "x": 14.933333333333334,
+                            "y": 66.03550295857988,
+                            "w": 477.8666666666667,
+                            "h": 244.97041420118344
+                        },
+                        "3387.84": {
+                            "x": 4.266666666666667,
+                            "y": 56.44970414201184,
+                            "w": 568.5333333333333,
+                            "h": 295.0295857988166
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "instance_id": 4,
+            "video_information": {
+                "video_path": "videomme/InHaW59CmDw.mp4"
+            },
+            "hallu_detection": {
+                "question": "Which animals are introduced in sequence in the video?",
+                "answer": "",
+                "option": {
+                    "A": {
+                        "text": "Leedsichthys, Titanoboa, Giant Rhinoceros, Argentinosaurus.",
+                        "is_in_video": false
+                    },
+                    "B": {
+                        "text": "Argentinosaurus, Leedsichthys, Giant Rhinoceros, Titanoboa.",
+                        "is_in_video": false
+                    },
+                    "C": {
+                        "text": "Titanoboa, Argentinosaurus, Leedsichthys, Giant Rhinoceros.",
+                        "is_in_video": false
+                    },
+                    "D": {
+                        "text": "Giant Rhinoceros, Titanoboa, Leedsichthys, Argentinosaurus.",
+                        "is_in_video": true
+                    }
+                }
+            },
+            "hallu_combating": {
+                "spatial_temporal_ground": {}
+            }
+        },
+        {
+            "instance_id": 5,
+            "video_information": {
+                "video_path": "videomme/aAxGTnVNJiE.mp4"
+            },
+            "hallu_detection": {
+                "question": "According to the video, what is the chronological order in which the following actions occur?\n(a) Weaving in the ends.\n(b) Crocheting a single crochet.\n(c) Finishing the handcraft.\n(d) Making a slip knot.\n(e) Crocheting a chain.",
+                "answer": "C",
+                "option": {
+                    "A": {
+                        "text": "(e)(d)(b)(c)(a).",
+                        "is_in_video": false
+                    },
+                    "B": {
+                        "text": "(b)(d)(a)(e)(c).",
+                        "is_in_video": false
+                    },
+                    "C": {
+                        "text": "(d)(e)(b)(a)(c).",
+                        "is_in_video": true
+                    },
+                    "D": {
+                        "text": "(b)(c)(a)(d)(e).",
+                        "is_in_video": false
+                    }
+                }
+            },
+            "hallu_combating": {
+                "spatial_temporal_ground": {
+                    "slip knot": {
+                        "62.48": {
+                            "x": 155.73333333333332,
+                            "y": 82.01183431952664,
+                            "w": 325.3333333333333,
+                            "h": 190.65088757396452
+                        },
+                        "67.53": {
+                            "x": 185.6,
+                            "y": 51.12426035502959,
+                            "w": 200.53333333333333,
+                            "h": 200.23668639053255
+                        },
+                        "87.0": {
+                            "x": 179.2,
+                            "y": 47.92899408284024,
+                            "w": 208.0,
+                            "h": 209.8224852071006
+                        }
+                    },
+                    "chain": {
+                        "59.6": {
+                            "x": 7.466666666666667,
+                            "y": 29.822485207100595,
+                            "w": 490.6666666666667,
+                            "h": 274.79289940828403
+                        },
+                        "472.43": {
+                            "x": 100.26666666666667,
+                            "y": 7.455621301775149,
+                            "w": 410.6666666666667,
+                            "h": 291.83431952662727
+                        },
+                        "338.8": {
+                            "x": 77.86666666666666,
+                            "y": 8.520710059171599,
+                            "w": 416.0,
+                            "h": 347.2189349112426
+                        }
+                    },
+                    "crochet": {
+                        "28.61": {
+                            "x": 354.1333333333333,
+                            "y": 169.34911242603553,
+                            "w": 107.73333333333333,
+                            "h": 187.45562130177518
+                        },
+                        "477.27": {
+                            "x": 472.5333333333333,
+                            "y": 36.21301775147929,
+                            "w": 166.4,
+                            "h": 108.63905325443788
+                        },
+                        "188.94": {
+                            "x": 370.1333333333333,
+                            "y": 120.35502958579883,
+                            "w": 266.6666666666667,
+                            "h": 93.72781065088759
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "instance_id": 6,
+            "video_information": {
+                "video_path": "videomme/FtIF8VafVZY.mp4"
+            },
+            "hallu_detection": {
+                "question": "What is the chronological sequence of the following events depicted in the video?\n①eat breakfast\n②gym workout\n③present in class",
+                "answer": "C",
+                "option": {
+                    "A": {
+                        "text": "③①②.",
+                        "is_in_video": false
+                    },
+                    "B": {
+                        "text": "②③①.",
+                        "is_in_video": false
+                    },
+                    "C": {
+                        "text": "②①③.",
+                        "is_in_video": true
+                    },
+                    "D": {
+                        "text": "①③②.",
+                        "is_in_video": false
+                    }
+                }
+            },
+            "hallu_combating": {
+                "spatial_temporal_ground": {
+                    "gym": {
+                        "49.63": {
+                            "x": 210.13333333333333,
+                            "y": 79.88165680473374,
+                            "w": 212.26666666666665,
+                            "h": 112.89940828402368
+                        },
+                        "56.47": {
+                            "x": 5.333333333333333,
+                            "y": 9.585798816568047,
+                            "w": 633.6,
+                            "h": 348.28402366863907
+                        },
+                        "81.54": {
+                            "x": 5.333333333333333,
+                            "y": 5.325443786982249,
+                            "w": 624.0,
+                            "h": 346.1538461538462
+                        },
+                        "86.75": {
+                            "x": 3.2,
+                            "y": 7.455621301775149,
+                            "w": 633.6,
+                            "h": 351.47928994082844
+                        }
+                    },
+                    "breakfast": {
+                        "99.39": {
+                            "x": 339.2,
+                            "y": 4.260355029585799,
+                            "w": 139.73333333333332,
+                            "h": 314.2011834319527
+                        },
+                        "109.48": {
+                            "x": 251.73333333333332,
+                            "y": 29.822485207100595,
+                            "w": 148.26666666666665,
+                            "h": 316.3313609467456
+                        },
+                        "121.08": {
+                            "x": 219.73333333333332,
+                            "y": 14.911242603550297,
+                            "w": 385.06666666666666,
+                            "h": 340.82840236686394
+                        }
+                    },
+                    "class": {
+                        "323.66": {
+                            "x": 2.1333333333333333,
+                            "y": 22.366863905325445,
+                            "w": 631.4666666666667,
+                            "h": 330.17751479289944
+                        },
+                        "327.49": {
+                            "x": 5.333333333333333,
+                            "y": 11.715976331360949,
+                            "w": 629.3333333333334,
+                            "h": 344.0236686390533
+                        },
+                        "347.76": {
+                            "x": 5.333333333333333,
+                            "y": 17.041420118343197,
+                            "w": 630.4,
+                            "h": 335.5029585798817
+                        },
+                        "349.56": {
+                            "x": 2.1333333333333333,
+                            "y": 8.520710059171599,
+                            "w": 632.5333333333333,
+                            "h": 347.2189349112426
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "instance_id": 7,
+            "video_information": {
+                "video_path": "videomme/O7zcPvQDIMU.mp4"
+            },
+            "hallu_detection": {
+                "question": "In accordance with the video footage, which of the following events happened after the battle at Standford Bridge?",
+                "answer": "D",
+                "option": {
+                    "A": {
+                        "text": "The retreat from Stamford.",
+                        "is_in_video": false
+                    },
+                    "B": {
+                        "text": "The surrender at Winchester.",
+                        "is_in_video": false
+                    },
+                    "C": {
+                        "text": "The banquet at the Royal Hall.",
+                        "is_in_video": false
+                    },
+                    "D": {
+                        "text": "The Norman army landed on Hasting.",
+                        "is_in_video": true
+                    }
+                }
+            },
+            "hallu_combating": {
+                "spatial_temporal_ground": {}
+            }
+        },
+        {
+            "instance_id": 8,
+            "video_information": {
+                "video_path": "videomme/xk8PdL_PdSo.mp4"
+            },
+            "hallu_detection": {
+                "question": "What does Cavalli do in the video?",
+                "answer": "D",
+                "option": {
+                    "A": {
+                        "text": "Eat sandwiches, clap hands, eat chips.",
+                        "is_in_video": false
+                    },
+                    "B": {
+                        "text": "Eat chips, clap hands, eat sandwiches.",
+                        "is_in_video": false
+                    },
+                    "C": {
+                        "text": "Clap hands, eat sandwiches, clap hands again.",
+                        "is_in_video": false
+                    },
+                    "D": {
+                        "text": "shake hands,eat chips, eat sandwiches",
+                        "is_in_video": true
+                    }
+                }
+            },
+            "hallu_combating": {
+                "spatial_temporal_ground": {
+                    "sandwiches": {
+                        "205.2": {
+                            "x": 155.73333333333332,
+                            "y": 227.92899408284026,
+                            "w": 337.06666666666666,
+                            "h": 56.44970414201184
+                        },
+                        "205.75": {
+                            "x": 153.6,
+                            "y": 260.9467455621302,
+                            "w": 354.1333333333333,
+                            "h": 68.16568047337279
+                        },
+                        "243.62": {
+                            "x": 162.13333333333333,
+                            "y": 219.40828402366867,
+                            "w": 329.6,
+                            "h": 55.38461538461539
+                        }
+                    },
+                    "chips": {
+                        "114.11": {
+                            "x": 420.26666666666665,
+                            "y": 47.92899408284024,
+                            "w": 153.6,
+                            "h": 267.3372781065089
+                        },
+                        "118.58": {
+                            "x": 98.13333333333333,
+                            "y": 257.75147928994085,
+                            "w": 163.2,
+                            "h": 92.66272189349114
+                        },
+                        "169.54": {
+                            "x": 72.53333333333333,
+                            "y": 279.05325443786984,
+                            "w": 173.86666666666667,
+                            "h": 69.23076923076924
+                        }
+                    },
+                    "hands": {
+                        "25.98": {
+                            "x": 39.46666666666667,
+                            "y": 82.01183431952664,
+                            "w": 341.3333333333333,
+                            "h": 122.48520710059172
+                        },
+                        "26.53": {
+                            "x": 24.53333333333333,
+                            "y": 288.6390532544379,
+                            "w": 455.46666666666664,
+                            "h": 48.99408284023669
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "instance_id": 9,
+            "video_information": {
+                "video_path": "videomme/F4v0BZtrSbY.mp4"
+            },
+            "hallu_detection": {
+                "question": "According to this video, in which order are the following items used for magic?\n(a) Cards.\n(b) A stick.\n(c) A ring.\n(d) Paper money.",
+                "answer": "C",
+                "option": {
+                    "A": {
+                        "text": "(d)(b)(c)(a).",
+                        "is_in_video": false
+                    },
+                    "B": {
+                        "text": "(a)(c)(d)(b).",
+                        "is_in_video": false
+                    },
+                    "C": {
+                        "text": "(b)(a)(d)(c).",
+                        "is_in_video": true
+                    },
+                    "D": {
+                        "text": "(c)(d)(a)(b).",
+                        "is_in_video": false
+                    }
+                }
+            },
+            "hallu_combating": {
+                "spatial_temporal_ground": {
+                    "stick": {
+                        "83.96": {
+                            "x": 157.86666666666667,
+                            "y": 333.3727810650888,
+                            "w": 88.53333333333333,
+                            "h": 22.366863905325445
+                        },
+                        "94.88": {
+                            "x": 211.2,
+                            "y": 299.2899408284024,
+                            "w": 40.53333333333333,
+                            "h": 55.38461538461539
+                        },
+                        "100.64": {
+                            "x": 211.2,
+                            "y": 296.094674556213,
+                            "w": 48.0,
+                            "h": 56.44970414201184
+                        }
+                    },
+                    "cards": {
+                        "127.08": {
+                            "x": 160.0,
+                            "y": 169.34911242603553,
+                            "w": 52.266666666666666,
+                            "h": 33.01775147928994
+                        },
+                        "120.8": {
+                            "x": 198.4,
+                            "y": 176.80473372781066,
+                            "w": 37.333333333333336,
+                            "h": 42.60355029585799
+                        },
+                        "198.04": {
+                            "x": 384.0,
+                            "y": 146.98224852071007,
+                            "w": 123.73333333333333,
+                            "h": 85.20710059171599
+                        },
+                        "210.36": {
+                            "x": 148.26666666666665,
+                            "y": 187.45562130177518,
+                            "w": 72.53333333333333,
+                            "h": 41.53846153846154
+                        }
+                    },
+                    "paper money": {
+                        "218.72": {
+                            "x": 234.66666666666666,
+                            "y": 127.81065088757398,
+                            "w": 103.46666666666667,
+                            "h": 124.61538461538463
+                        },
+                        "242.64": {
+                            "x": 247.46666666666667,
+                            "y": 248.16568047337282,
+                            "w": 39.46666666666667,
+                            "h": 57.51479289940829
+                        },
+                        "245.08": {
+                            "x": 252.79999999999998,
+                            "y": 259.8816568047338,
+                            "w": 38.4,
+                            "h": 43.668639053254445
+                        }
+                    },
+                    "ring": {
+                        "271.32": {
+                            "x": 472.5333333333333,
+                            "y": 145.91715976331363,
+                            "w": 21.333333333333332,
+                            "h": 18.106508875739646
+                        },
+                        "285.72": {
+                            "x": 298.6666666666667,
+                            "y": 71.36094674556213,
+                            "w": 59.733333333333334,
+                            "h": 25.562130177514796
+                        },
+                        "304.08": {
+                            "x": 291.2,
+                            "y": 172.54437869822488,
+                            "w": 16.0,
+                            "h": 19.171597633136095
+                        },
+                        "329.72": {
+                            "x": 376.5333333333333,
+                            "y": 255.62130177514797,
+                            "w": 32.0,
+                            "h": 22.366863905325445
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "instance_id": 10,
+            "video_information": {
+                "video_path": "videomme/ZBKUqc_ICpg.mp4"
+            },
+            "hallu_detection": {
+                "question": "What kind of food does the main character in the video make successively?",
+                "answer": "C",
+                "option": {
+                    "A": {
+                        "text": "Chocolate cake, granola parfait, egg sandwich.",
+                        "is_in_video": false
+                    },
+                    "B": {
+                        "text": "Avocado smoothie, pancake stack, blueberry muffin.",
+                        "is_in_video": false
+                    },
+                    "C": {
+                        "text": "Chickpea frittata, chocolate porridge, ricotta toast.",
+                        "is_in_video": true
+                    },
+                    "D": {
+                        "text": "Spaghetti carbonara, garlic bread, apple pie.",
+                        "is_in_video": false
+                    }
+                }
+            },
+            "hallu_combating": {
+                "spatial_temporal_ground": {
+                    "chickpea frittata": {
+                        "4.04": {
+                            "x": 214.4,
+                            "y": 170.41420118343197,
+                            "w": 244.26666666666665,
+                            "h": 108.63905325443788
+                        },
+                        "8.28": {
+                            "x": 171.73333333333332,
+                            "y": 48.99408284023669,
+                            "w": 298.6666666666667,
+                            "h": 270.5325443786983
+                        },
+                        "155.04": {
+                            "x": 122.66666666666667,
+                            "y": 26.627218934911244,
+                            "w": 384.0,
+                            "h": 289.70414201183434
+                        }
+                    },
+                    "chocolate": {
+                        "201.68": {
+                            "x": 295.46666666666664,
+                            "y": 165.08875739644972,
+                            "w": 59.733333333333334,
+                            "h": 45.79881656804734
+                        },
+                        "204.32": {
+                            "x": 194.13333333333333,
+                            "y": 62.84023668639054,
+                            "w": 261.3333333333333,
+                            "h": 240.71005917159766
+                        },
+                        "223.56": {
+                            "x": 274.1333333333333,
+                            "y": 3.1952662721893494,
+                            "w": 256.0,
+                            "h": 246.0355029585799
+                        }
+                    },
+                    "porridge": {
+                        "259.68": {
+                            "x": 169.6,
+                            "y": 43.668639053254445,
+                            "w": 320.0,
+                            "h": 258.8165680473373
+                        },
+                        "260.04": {
+                            "x": 181.33333333333334,
+                            "y": 51.12426035502959,
+                            "w": 292.26666666666665,
+                            "h": 263.0769230769231
+                        },
+                        "259.64": {
+                            "x": 200.53333333333333,
+                            "y": 144.85207100591717,
+                            "w": 436.26666666666665,
+                            "h": 213.01775147928996
+                        },
+                        "307.08": {
+                            "x": 184.53333333333333,
+                            "y": 56.44970414201184,
+                            "w": 306.1333333333333,
+                            "h": 250.2958579881657
+                        }
+                    },
+                    "ricotta toast": {
+                        "326.52": {
+                            "x": 380.8,
+                            "y": 61.77514792899409,
+                            "w": 190.93333333333334,
+                            "h": 109.70414201183434
+                        },
+                        "363.68": {
+                            "x": 156.8,
+                            "y": 97.98816568047339,
+                            "w": 299.73333333333335,
+                            "h": 249.23076923076925
+                        },
+                        "367.0": {
+                            "x": 12.8,
+                            "y": 96.92307692307693,
+                            "w": 491.73333333333335,
+                            "h": 258.8165680473373
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "instance_id": 11,
+            "video_information": {
+                "video_path": "videomme/tdAVvYsU8q8.mp4"
+            },
+            "hallu_detection": {
+                "question": "What is the third restaurant featured in the video?",
+                "answer": "C",
+                "option": {
+                    "A": {
+                        "text": "Savory Seasons.",
+                        "is_in_video": false
+                    },
+                    "B": {
+                        "text": "Harmony Steakhouse.",
+                        "is_in_video": false
+                    },
+                    "C": {
+                        "text": "DINE\"N\" DANCE",
+                        "is_in_video": true
+                    },
+                    "D": {
+                        "text": "Spicy Dragon Sushi.",
+                        "is_in_video": false
+                    }
+                }
+            },
+            "hallu_combating": {
+                "spatial_temporal_ground": {}
+            }
+        },
+        {
+            "instance_id": 12,
+            "video_information": {
+                "video_path": "videomme/yQ6VOOd73MA.mp4"
+            },
+            "hallu_detection": {
+                "question": "What is the order in which the following is introduced in the video?\n① Sleepwalking and the Brain.\n② How Much Control Do We Have of Our Brain?\n③ Emotions and the Brain.\n④ Creativity and the Brain.",
+                "answer": "A",
+                "option": {
+                    "A": {
+                        "text": "①③②④.",
+                        "is_in_video": true
+                    },
+                    "B": {
+                        "text": "④②③①.",
+                        "is_in_video": false
+                    },
+                    "C": {
+                        "text": "②④①③.",
+                        "is_in_video": false
+                    },
+                    "D": {
+                        "text": "③①④②.",
+                        "is_in_video": false
+                    }
+                }
+            },
+            "hallu_combating": {
+                "spatial_temporal_ground": {
+                    "sleepwalking": {
+                        "boundary": [
+                            {
+                                "x": 355.2,
+                                "y": 247.10059171597635,
+                                "w": 109.86666666666666,
+                                "h": 106.50887573964498
+                            },
+                            {
+                                "x": 246.4,
+                                "y": 178.93491124260356,
+                                "w": 194.13333333333333,
+                                "h": 170.41420118343197
+                            }
+                        ],
+                        "keyframe": [
+                            {
+                                "x": 356.26666666666665,
+                                "y": 252.4260355029586,
+                                "w": 97.06666666666666,
+                                "h": 101.18343195266273
+                            }
+                        ]
+                    },
+                    "brain": {
+                        "boundary": [
+                            {
+                                "x": 389.3333333333333,
+                                "y": 197.0414201183432,
+                                "w": 128.0,
+                                "h": 145.91715976331363
+                            },
+                            {
+                                "x": 160.0,
+                                "y": 40.473372781065095,
+                                "w": 306.1333333333333,
+                                "h": 259.8816568047338
+                            }
+                        ],
+                        "keyframe": [
+                            {
+                                "x": 130.13333333333333,
+                                "y": 20.236686390532547,
+                                "w": 390.4,
+                                "h": 309.9408284023669
+                            }
+                        ]
+                    },
+                    "emotions": {
+                        "boundary": [
+                            {
+                                "x": 295.46666666666664,
+                                "y": 12.781065088757398,
+                                "w": 330.6666666666667,
+                                "h": 329.112426035503
+                            },
+                            {
+                                "x": 227.2,
+                                "y": 8.520710059171599,
+                                "w": 232.53333333333333,
+                                "h": 188.52071005917162
+                            }
+                        ],
+                        "keyframe": [
+                            {
+                                "x": 8.533333333333333,
+                                "y": 15.976331360946748,
+                                "w": 551.4666666666667,
+                                "h": 181.06508875739647
+                            }
+                        ]
+                    },
+                    "creativity": {
+                        "boundary": [
+                            {
+                                "x": 97.06666666666666,
+                                "y": 7.455621301775149,
+                                "w": 440.5333333333333,
+                                "h": 285.4437869822485
+                            },
+                            {
+                                "x": 259.2,
+                                "y": 46.863905325443795,
+                                "w": 298.6666666666667,
+                                "h": 247.10059171597635
+                            }
+                        ],
+                        "keyframe": [
+                            {
+                                "x": 312.5333333333333,
+                                "y": 429.2307692307693,
+                                "w": 1.0666666666666667,
+                                "h": 0.0
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "instance_id": 13,
+            "video_information": {
+                "video_path": "videomme/Z2G9bTvffAw.mp4"
+            },
+            "hallu_detection": {
+                "question": "What sequence of actions followed after they stepped on the stilts?\n(a)  They unfurled a banner from their mouths.\n(b) They tumbled down from the high platform.\n(c) They caught the balls thrown by the ground staff.",
+                "answer": "B",
+                "option": {
+                    "A": {
+                        "text": "(c)(a)(b).",
+                        "is_in_video": false
+                    },
+                    "B": {
+                        "text": "(a)(c)(b).",
+                        "is_in_video": false
+                    },
+                    "C": {
+                        "text": "(c)(b)(a).",
+                        "is_in_video": false
+                    },
+                    "D": {
+                        "text": "(b)(c)(a).",
+                        "is_in_video": false
+                    }
+                }
+            },
+            "hallu_combating": {
+                "spatial_temporal_ground": {
+                    "stilts": {
+                        "boundary": [
+                            {
+                                "x": 9.6,
+                                "y": 3.1952662721893494,
+                                "w": 594.1333333333333,
+                                "h": 184.2603550295858
+                            },
+                            {
+                                "x": 30.933333333333334,
+                                "y": 44.73372781065089,
+                                "w": 51.2,
+                                "h": 249.23076923076925
+                            }
+                        ],
+                        "keyframe": [
+                            {
+                                "x": 190.93333333333334,
+                                "y": 54.31952662721894,
+                                "w": 443.73333333333335,
+                                "h": 252.4260355029586
+                            },
+                            {
+                                "x": 6.4,
+                                "y": 146.98224852071007,
+                                "w": 617.6,
+                                "h": 213.01775147928996
+                            }
+                        ]
+                    },
+                    "banner": {
+                        "boundary": [
+                            {
+                                "x": 218.66666666666666,
+                                "y": 97.98816568047339,
+                                "w": 187.73333333333332,
+                                "h": 154.43786982248523
+                            },
+                            {
+                                "x": 225.06666666666666,
+                                "y": 183.19526627218937,
+                                "w": 194.13333333333333,
+                                "h": 148.0473372781065
+                            }
+                        ],
+                        "keyframe": [
+                            {
+                                "x": 217.6,
+                                "y": 85.20710059171599,
+                                "w": 178.13333333333333,
+                                "h": 148.0473372781065
+                            },
+                            {
+                                "x": 350.93333333333334,
+                                "y": 239.6449704142012,
+                                "w": 217.6,
+                                "h": 116.09467455621304
+                            },
+                            {
+                                "x": 221.86666666666667,
+                                "y": 181.06508875739647,
+                                "w": 200.53333333333333,
+                                "h": 153.37278106508876
+                            }
+                        ]
+                    },
+                    "platform": {
+                        "boundary": [
+                            {
+                                "x": 7.466666666666667,
+                                "y": 4.260355029585799,
+                                "w": 587.7333333333333,
+                                "h": 93.72781065088759
+                            },
+                            {
+                                "x": 32.0,
+                                "y": 40.473372781065095,
+                                "w": 182.4,
+                                "h": 46.863905325443795
+                            }
+                        ],
+                        "keyframe": [
+                            {
+                                "x": 8.533333333333333,
+                                "y": 161.89349112426038,
+                                "w": 522.6666666666666,
+                                "h": 78.81656804733728
+                            }
+                        ]
+                    },
+                    "balls": {
+                        "boundary": [
+                            {
+                                "x": 137.6,
+                                "y": 60.71005917159764,
+                                "w": 14.933333333333334,
+                                "h": 10.650887573964498
+                            },
+                            {
+                                "x": 216.53333333333333,
+                                "y": 67.10059171597634,
+                                "w": 8.533333333333333,
+                                "h": 5.325443786982249
+                            }
+                        ],
+                        "keyframe": [
+                            {
+                                "x": 190.93333333333334,
+                                "y": 116.09467455621304,
+                                "w": 12.8,
+                                "h": 9.585798816568047
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "instance_id": 14,
+            "video_information": {
+                "video_path": "videomme/aansXcMqnNk.mp4"
+            },
+            "hallu_detection": {
+                "question": "After introducing Tofu making, what kind of traditional technique or scenic spot did the youtuber introduce according to what is shown in the video?",
+                "answer": "A",
+                "option": {
+                    "A": {
+                        "text": "A Buddhist temple.",
+                        "is_in_video": true
+                    },
+                    "B": {
+                        "text": "An authentic tea ceremony demonstration.",
+                        "is_in_video": false
+                    },
+                    "C": {
+                        "text": "A scenic hike through the bamboo forest.",
+                        "is_in_video": false
+                    },
+                    "D": {
+                        "text": "Sake tasting at a local brewery.",
+                        "is_in_video": false
+                    }
+                }
+            },
+            "hallu_combating": {
+                "spatial_temporal_ground": {
+                    "tofu": {
+                        "boundary": [
+                            {
+                                "x": 253.86666666666667,
+                                "y": 205.5621301775148,
+                                "w": 102.4,
+                                "h": 150.17751479289942
+                            },
+                            {
+                                "x": 105.6,
+                                "y": 89.46745562130178,
+                                "w": 430.93333333333334,
+                                "h": 232.18934911242607
+                            }
+                        ],
+                        "keyframe": [
+                            {
+                                "x": 4.266666666666667,
+                                "y": 4.260355029585799,
+                                "w": 500.26666666666665,
+                                "h": 351.47928994082844
+                            }
+                        ]
+                    },
+                    "buddhist temple": {
+                        "boundary": [
+                            {
+                                "x": 99.2,
+                                "y": 5.325443786982249,
+                                "w": 537.6,
+                                "h": 328.04733727810657
+                            },
+                            {
+                                "x": 188.8,
+                                "y": 66.03550295857988,
+                                "w": 449.06666666666666,
+                                "h": 197.0414201183432
+                            }
+                        ],
+                        "keyframe": [
+                            {
+                                "x": 3.2,
+                                "y": 3.1952662721893494,
+                                "w": 546.1333333333333,
+                                "h": 296.094674556213
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "instance_id": 15,
+            "video_information": {
+                "video_path": "videomme/hsKmC7RwHvo.mp4"
+            },
+            "hallu_detection": {
+                "question": "What time of day is depicted in this video?",
+                "answer": "A",
+                "option": {
+                    "A": {
+                        "text": "Night.",
+                        "is_in_video": true
+                    },
+                    "B": {
+                        "text": "Twilight.",
+                        "is_in_video": false
+                    },
+                    "C": {
+                        "text": "Daybreak.",
+                        "is_in_video": false
+                    },
+                    "D": {
+                        "text": "Sunset.",
+                        "is_in_video": false
+                    }
+                }
+            },
+            "hallu_combating": {
+                "spatial_temporal_ground": {
+                    "night": {
+                        "boundary": [
+                            {
+                                "x": 132.26666666666665,
+                                "y": 3.1952662721893494,
+                                "w": 388.26666666666665,
+                                "h": 151.24260355029588
+                            },
+                            {
+                                "x": 134.4,
+                                "y": 5.325443786982249,
+                                "w": 387.2,
+                                "h": 140.5917159763314
+                            }
+                        ],
+                        "keyframe": [
+                            {
+                                "x": 197.33333333333334,
+                                "y": 4.260355029585799,
+                                "w": 313.6,
+                                "h": 146.98224852071007
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "instance_id": 16,
+            "video_information": {
+                "video_path": "videomme/NeLj-gLWgug.mp4"
+            },
+            "hallu_detection": {
+                "question": "Which of the following options correctly sorts the sequence of events in the video?",
+                "answer": "C",
+                "option": {
+                    "A": {
+                        "text": "Taking a walk, visiting friends, going to bed.",
+                        "is_in_video": false
+                    },
+                    "B": {
+                        "text": "Having breakfast, working on a project, relaxing.",
+                        "is_in_video": false
+                    },
+                    "C": {
+                        "text": "Working out in the gym, taking a shower, eating.",
+                        "is_in_video": true
+                    },
+                    "D": {
+                        "text": "Shopping, having a coffee, reading a book.",
+                        "is_in_video": false
+                    }
+                }
+            },
+            "hallu_combating": {
+                "spatial_temporal_ground": {
+                    "gym": {
+                        "boundary": [
+                            {
+                                "x": 4.266666666666667,
+                                "y": 3.1952662721893494,
+                                "w": 635.7333333333333,
+                                "h": 352.5443786982249
+                            },
+                            {
+                                "x": 5.333333333333333,
+                                "y": 2.1301775147928996,
+                                "w": 630.4,
+                                "h": 352.5443786982249
+                            }
+                        ],
+                        "keyframe": [
+                            {
+                                "x": 4.266666666666667,
+                                "y": 5.325443786982249,
+                                "w": 634.6666666666666,
+                                "h": 349.34911242603556
+                            },
+                            {
+                                "x": 3.2,
+                                "y": 3.1952662721893494,
+                                "w": 635.7333333333333,
+                                "h": 351.47928994082844
+                            }
+                        ]
+                    },
+                    "shower": {
+                        "boundary": [
+                            {
+                                "x": 6.4,
+                                "y": 9.585798816568047,
+                                "w": 626.1333333333333,
+                                "h": 346.1538461538462
+                            },
+                            {
+                                "x": 5.333333333333333,
+                                "y": 3.1952662721893494,
+                                "w": 629.3333333333334,
+                                "h": 352.5443786982249
+                            }
+                        ],
+                        "keyframe": [
+                            {
+                                "x": 4.266666666666667,
+                                "y": 4.260355029585799,
+                                "w": 632.5333333333333,
+                                "h": 353.6094674556213
+                            }
+                        ]
+                    },
+                    "eating": {
+                        "boundary": [
+                            {
+                                "x": 190.93333333333334,
+                                "y": 34.082840236686394,
+                                "w": 161.06666666666666,
+                                "h": 187.45562130177518
+                            },
+                            {
+                                "x": 141.86666666666667,
+                                "y": 15.976331360946748,
+                                "w": 224.0,
+                                "h": 248.16568047337282
+                            }
+                        ],
+                        "keyframe": [
+                            {
+                                "x": 179.2,
+                                "y": 23.431952662721898,
+                                "w": 171.73333333333332,
+                                "h": 241.7751479289941
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+]

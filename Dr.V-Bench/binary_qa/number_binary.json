@@ -1,0 +1,752 @@
+[
+    {
+        "video": "activitynetqa/v_nnEPsdA0080.mp4",
+        "question": "Are there 10 people on the boat in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_ivAvKRQQy1Q.mp4",
+        "question": "Are there 3 pots in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_zEttEkAdHts.mp4",
+        "question": "Are there 2 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_rGOOlcdpfLg.mp4",
+        "question": "Are there 3 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_wLXty2wzuJg.mp4",
+        "question": "Are there 4 white short sleeves?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_7lxP-hWFA24.mp4",
+        "question": "Are there 2 individuals playing the guitar in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_3uaQ0cULMgc.mp4",
+        "question": "Are there 8 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_E_UkQGk7QAE.mp4",
+        "question": "Are there 5 children in a light blue dress?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_ldAHwbF8uWI.mp4",
+        "question": "Are there 4 people's games in the wrenches?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_kBTqTp0SKq8.mp4",
+        "question": "Are there 5 children with a stick?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_LYTWYSqsTCE.mp4",
+        "question": "Are there 3 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_lUil9HfTzJ0.mp4",
+        "question": "Are there 2 swimsuits in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_03c6QhTMDSs.mp4",
+        "question": "Are there 2 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_VFC-V06hVj0.mp4",
+        "question": "Are there 3 people with hats in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_iuXjatyFcwo.mp4",
+        "question": "Are there 2 men in blue shorts that have appeared in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_4UdxT6Zmero.mp4",
+        "question": "Are there 2 mowers in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_y0ca-LbQErY.mp4",
+        "question": "Are there 3 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_4LoAbHdHWqM.mp4",
+        "question": "Are there 3 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_3LwQ2yq85LU.mp4",
+        "question": "Are there 3 people in the parachute in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_4_jDgRsOGvY.mp4",
+        "question": "Are there 5 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_Gfu8e6R6jUU.mp4",
+        "question": "Are there 8 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_nhQTxZlzG1Q.mp4",
+        "question": "Are there 3 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_uty4eGb_vvU.mp4",
+        "question": "Are there 2 women in red in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_Ynvd8OuXKGw.mp4",
+        "question": "Are there 2 people dancing in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_gkwLhml3mnA.mp4",
+        "question": "Are there 4 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_Em4ekFj4XIs.mp4",
+        "question": "Are there 5 orange frisbees in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_Y05GAiavfOg.mp4",
+        "question": "Are there 3 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_AtbTioB1_Kw.mp4",
+        "question": "Are there 3 people after the long pole falls to the ground?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_UvOEuhS0V3E.mp4",
+        "question": "Are there 2 long hair women in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_Feq-2NIDl94.mp4",
+        "question": "Were 8 fingers dyed altogether?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_UNXLfqkwKFc.mp4",
+        "question": "Are there 2 blue shorts in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_lPw_BRbPw5s.mp4",
+        "question": "Are there 4 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_Db2Dnt2OOo0.mp4",
+        "question": "Are there 2 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_SjlILJ2st-I.mp4",
+        "question": "Are there 10 players in the video game?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_aAz3YL2RMr4.mp4",
+        "question": "Are there 8 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_DHjoAOus3xM.mp4",
+        "question": "Are there 5 people on the two ships?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_mixxaL3Bdv8.mp4",
+        "question": "Are there 5 people walking on stilts in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v__zqj6daJo9U.mp4",
+        "question": "Are there 6 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_i_LT0ef1n-Y.mp4",
+        "question": "Are there 3 men in red in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_zxpQHLwZCug.mp4",
+        "question": "Are there 2 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_mZYWfmsYQPA.mp4",
+        "question": "Are there 2 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_4LpqPUWHH5k.mp4",
+        "question": "Are there 4 coaches that have appeared in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_Jix3poZOeZA.mp4",
+        "question": "Are there 3 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_gWTndmDHZQc.mp4",
+        "question": "Are there 5 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_IGPZFun1Ok4.mp4",
+        "question": "Are there 2 men in red clothes in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_jBlG0L_M96g.mp4",
+        "question": "Are there 2 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_Nb6AQxxrihA.mp4",
+        "question": "Are there 3 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_H_IfIsKQ3Zw.mp4",
+        "question": "Are there 8 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_VSsZZZHn1L0.mp4",
+        "question": "Are there 3 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "activitynetqa/v_GOhmWfR8QBM.mp4",
+        "question": "Are there 4 people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/5547902371.mp4",
+        "question": "Were there nine children?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/4536434821.mp4",
+        "question": "Are there ten birds involved in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/9012054196.mp4",
+        "question": "Are there ten people sitting near the table?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/3702630327.mp4",
+        "question": "Did the man pick up eight paddles?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/7492345390.mp4",
+        "question": "Are there four people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/7375575700.mp4",
+        "question": "Are there eight dogs in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/4180380438.mp4",
+        "question": "Are there eight people?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/7174056178.mp4",
+        "question": "Are there four people involved in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/8224490794.mp4",
+        "question": "Are there four babies in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/3042965654.mp4",
+        "question": "Are there eight people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/3606510307.mp4",
+        "question": "Were eight people filmed?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/7693297646.mp4",
+        "question": "Are there three people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/4135845237.mp4",
+        "question": "Are there eight people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/5866947362.mp4",
+        "question": "Are there five people involved in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/5864047618.mp4",
+        "question": "Are there nine people involved in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/2776910060.mp4",
+        "question": "Are there six dogs in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/3628972520.mp4",
+        "question": "Are there six people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/2805028487.mp4",
+        "question": "Are there three ladies filmed?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/2704509130.mp4",
+        "question": "Did five people throw a ball?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/9072405003.mp4",
+        "question": "Did the cat touch the stick eight times?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/3477094374.mp4",
+        "question": "Are there five people involved in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/2916577028.mp4",
+        "question": "Are there four players?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/5913320110.mp4",
+        "question": "Are there eight people on stage?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/3992773451.mp4",
+        "question": "Does the boy swim nine rounds?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/13503538465.mp4",
+        "question": "Are there five children?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/4954732488.mp4",
+        "question": "Are there six people filmed in the car?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/5699922217.mp4",
+        "question": "Are there nine people in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/5012237466.mp4",
+        "question": "Were there two children?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/3118473217.mp4",
+        "question": "Are there ten children presented?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/3509821194.mp4",
+        "question": "Are there three performers?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/4830393131.mp4",
+        "question": "Are there three children?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/5832442216.mp4",
+        "question": "Are there five people present for the game?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/4177758139.mp4",
+        "question": "Are there three children in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/6199427603.mp4",
+        "question": "Are there six people involved in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/7161543663.mp4",
+        "question": "Are there twelve men?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/6557505435.mp4",
+        "question": "Are there five dogs?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/5325035068.mp4",
+        "question": "Are there three people involved in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/6128079946.mp4",
+        "question": "Are there five people mainly involved in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/6246539463.mp4",
+        "question": "Are there seven birds involved in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/8392813576.mp4",
+        "question": "Are there four people involved in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/7198714574.mp4",
+        "question": "Were six people filmed in total?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/9711707112.mp4",
+        "question": "Were six people filmed?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/8696216243.mp4",
+        "question": "Are there six people involved in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/7276759062.mp4",
+        "question": "Are there five dogs?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/5706585620.mp4",
+        "question": "Are there ten horses in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/12299711406.mp4",
+        "question": "Are there eight people involved in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/9289576155.mp4",
+        "question": "Are there five cats?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/3842392593.mp4",
+        "question": "Does the dog jump up eight times in total?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/5564473671.mp4",
+        "question": "Are there eight people shooting together?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/2530293734.mp4",
+        "question": "Are there six people that appear in the video?",
+        "answer": "no"
+    },
+    {
+        "video": "nextqa/8547321641.mp4",
+        "question": "Is there one baby in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/4942054721.mp4",
+        "question": "Are there eight goats in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/9213637099.mp4",
+        "question": "Are there five people involved?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/3206694342.mp4",
+        "question": "Are there six people on stage?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/4798585428.mp4",
+        "question": "Are there five people posing for the photos?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/4984417707.mp4",
+        "question": "Are there two elephants playing with the ball?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/5237219621.mp4",
+        "question": "Are there six people in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/2834146886.mp4",
+        "question": "Are there two dogs in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/8563398032.mp4",
+        "question": "Are there two people presenting?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/2679328607.mp4",
+        "question": "Does the girl pass the toy to the boy three times?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/5801184682.mp4",
+        "question": "Is there one cat in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/2978295992.mp4",
+        "question": "Are there two ladies filmed?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/3388598772.mp4",
+        "question": "Are there two people mainly involved in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/4036955771.mp4",
+        "question": "Are there seven performers?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/6265968082.mp4",
+        "question": "Are there four people performing on stage?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/11541421563.mp4",
+        "question": "Are there two people involved in reading the score?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/2573424030.mp4",
+        "question": "Are there seven people in total in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/5017166671.mp4",
+        "question": "Are there four people on stage?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/4516967897.mp4",
+        "question": "Are there two ladies in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/8225502382.mp4",
+        "question": "Does the man in dark green attempt to go up the slope five times?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/5658916668.mp4",
+        "question": "Is there one person filmed sliding down?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/4444192938.mp4",
+        "question": "Are there three kids at the area?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/9409566840.mp4",
+        "question": "Are there two dogs playing and biting with each other in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/12392885583.mp4",
+        "question": "Is there one baby in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/5235909148.mp4",
+        "question": "Are there four people in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/9208803675.mp4",
+        "question": "Are there two people on the swing in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/4636208292.mp4",
+        "question": "Are there four people cheering their glasses at the end?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/7887764754.mp4",
+        "question": "Is there one person involved in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/8253302563.mp4",
+        "question": "Is there one person involved in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/2589540862.mp4",
+        "question": "Is there one child in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/6046149003.mp4",
+        "question": "Are there two girls in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/3626788516.mp4",
+        "question": "Are there two people in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/8552680285.mp4",
+        "question": "Are there two people in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/2835125654.mp4",
+        "question": "Are there two elephants in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/2705374471.mp4",
+        "question": "Are there two people in the room?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/11584566583.mp4",
+        "question": "Are there two people seen in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/3469864014.mp4",
+        "question": "Are there two cats in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/6754608321.mp4",
+        "question": "Are there two people shown in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/6097994550.mp4",
+        "question": "Are there two men in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/4264435046.mp4",
+        "question": "Are there two dogs in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/4092992100.mp4",
+        "question": "Are there two people filmed?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/8531675050.mp4",
+        "question": "Are there two people acting on the stage?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/10109097475.mp4",
+        "question": "Is there one plane involved in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/6277800530.mp4",
+        "question": "Was there one person on the jeep?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/8505893258.mp4",
+        "question": "Were there six people in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/4465235803.mp4",
+        "question": "Are there three people involved in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/5429688959.mp4",
+        "question": "Is there one person playing an instrument?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/8513603944.mp4",
+        "question": "Are there two children in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/2809330695.mp4",
+        "question": "Does the baby attempt to flip over three times?",
+        "answer": "yes"
+    },
+    {
+        "video": "nextqa/4276006683.mp4",
+        "question": "Is there one person involved in the video?",
+        "answer": "yes"
+    }
+]

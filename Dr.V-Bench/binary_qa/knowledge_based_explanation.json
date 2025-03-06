@@ -1,0 +1,902 @@
+[
+    {
+        "video": "causalqa/fbI0WsOLe8Q_000000_000010.mp4",
+        "question": "Is [person_1] finished playing his song and will now reach over to turn off the camera?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/YDg-KCilGIo_000132_000142.mp4",
+        "question": "Will [person_1] walk away and put his bagpipes away back in their case after stopping playing?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/8oE2AJpIOYo_000166_000176.mp4",
+        "question": "Is [person_2] going to keep on ripping papers?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/TQyQib7_brc_000116_000126.mp4",
+        "question": "Will [person_2] comment what [person_1] did next after finishing the action?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/G5F-9OLe_1U_000000_000010.mp4",
+        "question": "Is the person going to hit the boy on the couch with the pillow?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/RbkjYRITXCs_000004_000014.mp4",
+        "question": "Is [person_1] going to continue somersaulting?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/T2BST9mCT7Y_000039_000049.mp4",
+        "question": "Will [person_2] take off the helmet after the bottle is opened?",
+        "answer": "Yes."
+    },
+    {
+        "video": "causalqa/DqtwXBrKv24_000008_000018.mp4",
+        "question": "Will the [person_1] ride the scooter home?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/u8dAnKA2XWw_000171_000181.mp4",
+        "question": "Will [person_2] continue to play clapping with [person_1]?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/PhAtBMbgEMg_000019_000029.mp4",
+        "question": "Is [person_1] going to pick the apple up?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/6SmZDyIr7L0_000119_000129.mp4",
+        "question": "Will [person_1] feel comfortable of his face after the massage?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/YkkINJTdYww_000012_000022.mp4",
+        "question": "Is it true that it looks like [person_1] is a street performance?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/ag2pbbRQx5o_000000_000010.mp4",
+        "question": "Will [person_1] roast another marshmallow after roasting the one in her hand?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/IYA3XgbuaMs_000004_000014.mp4",
+        "question": "Is the [person_1] going to keep pressing buttons of button accordion?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/gexjhPwANwE_000001_000011.mp4",
+        "question": "Will [person_1] run after the rest?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/T8QcMK1MYLY_000156_000166.mp4",
+        "question": "Will [person_4] start to perform after the competition begins?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/OFNacAyy6lU_000002_000012.mp4",
+        "question": "Is [person_1] going to have some water?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/buaumHig9wY_000004_000014.mp4",
+        "question": "Will [person_1] perform with the harp next?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/BYVOAUgBVb0_000033_000043.mp4",
+        "question": "Is [person_1] going to shake maracas?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/cs0EOmmp1W0_000098_000108.mp4",
+        "question": "Is [person_1] going to make a ball out of smoke?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/76GlXGmzfHU_000004_000014.mp4",
+        "question": "Is [person_1] going to practice standing on her hands?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/CEkg4od3bNw_000018_000028.mp4",
+        "question": "Is [person_1] going to continue tearing the paper?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/bQ6qVS7hWrs_000198_000208.mp4",
+        "question": "Will [person_1] continue skating after the preparation?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/JX8mDrHlCX0_000033_000043.mp4",
+        "question": "Is [person_1] going to create his combo?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/30_deNYn6Cc_000013_000023.mp4",
+        "question": "Will [person_1] start to ride [bicycle_1] after the preparation?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/-yTDRFePZuQ_000025_000035.mp4",
+        "question": "Will [person_1] go on cutting the cement stone next?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/PEPOMnDq5po_000048_000058.mp4",
+        "question": "Is [person_1] going to grab a new apple?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/qixg8SlR5UU_000004_000014.mp4",
+        "question": "Is the [person_2] going to not hold the hand of [person_3] so that the [person_3] can skate?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/2b2oP4wiJHs_000010_000020.mp4",
+        "question": "Is [person_1] about to play with [person_2]?",
+        "answer": "Yes"
+    },
+    {
+        "video": "causalqa/LqvMqA4Eqc4_000031_000041.mp4",
+        "question": "Is [person_1] going to stop smoking?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/PXXmZtgHacU_000015_000025.mp4",
+        "question": "Is [person_1] going to sit down to drink some water?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/mh5zOEsU3K0_000012_000022.mp4",
+        "question": "Is [person_1] going to close the book they were reading?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/SaYGiuoBraU_000000_000010.mp4",
+        "question": "Does [person_1] intend to start painting a canvas on the table?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/u_pC3TYpmzk_000027_000037.mp4",
+        "question": "Is [person_1] going to adjust their microphone?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/r60Wmm-n5_w_000054_000064.mp4",
+        "question": "Does [person_1] intend to continue practicing scales on the organ?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/X_UkHBf0eMU_000056_000066.mp4",
+        "question": "Will [person_1] start painting the pottery next?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/eKUXnelq0k8_000047_000057.mp4",
+        "question": "Will [person_1] continue demonstrating techniques with his bagpipes as if giving an impromptu lesson?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/_jtAZ_yEd0I_000021_000031.mp4",
+        "question": "Is [person_1] planning to do some light stretching exercises after stopping riding?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/KIdxBwqNWeI_000012_000022.mp4",
+        "question": "Is [person_2] going to adjust their jacket?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/0LH6n81tyds_000010_000020.mp4",
+        "question": "Is [person_1] going to stand up and start organizing the bookshelf?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/Sb0bDlhVw34_000141_000151.mp4",
+        "question": "Is [person_1] going to arrange the cups?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/m-fiqo5a9bM_000380_000390.mp4",
+        "question": "Does [person_1] intend to conduct a yoga session?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/LyPH09f-iEE_000031_000041.mp4",
+        "question": "Is [person_1] going to start reading aloud from [book_1]?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/3XgzWP3pvSY_000007_000017.mp4",
+        "question": "Is [person_1] going to take a deep breath before continuing?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/uv-7y1j_3TE_000060_000070.mp4",
+        "question": "Is [person_1] going to take out a snack and start eating after sitting on the ground?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/8dsy4EHblLQ_000039_000049.mp4",
+        "question": "Will [person_1] attempt to imitate the magic trick?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/MqaC_CUAXEE_000000_000010.mp4",
+        "question": "Did [person_1] receive a gift while preparing to put it back in the box?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/sknNTt3KSN8_000057_000067.mp4",
+        "question": "Will [person_1] decide to take a sip from a drink nearby?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/eE00JoNnxAY_000000_000010.mp4",
+        "question": "Will the [person_1] close the [refrigerator_1] and leave the kitchen next?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/foG0OArJdvY_000000_000010.mp4",
+        "question": "Is [person_2] going to adjust his grip on the dart?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/AkqakLhh1fI_000029_000039.mp4",
+        "question": "Is [person_1] going to start packing up their gym equipment to leave?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/825cShsot8Y_000091_000101.mp4",
+        "question": "Is [person_1] going to organize her desk?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/f3zG7O_BiIw_000014_000024.mp4",
+        "question": "Is the [person_1] going to brush off the snow from [person_1]'s coat?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/_iJ8-r3Lh3E_000043_000053.mp4",
+        "question": "Will [person_1] contemplate the day's events peacefully after lying down?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/rWpXvlgIn9A_000017_000027.mp4",
+        "question": "Is the [person_1] going to start making a snowman?",
+        "answer": "no"
+    },
+    {
+        "video": "causalqa/8Bmu0PKfAmo_000051_000061.mp4",
+        "question": "Is [person_1] going to rest and drink some water?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/gBuH2vD7moc_000000_000010.mp4",
+        "question": "Will [person_1] decide to save the parcel for later?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/3SqBKZllvSY_000001_000011.mp4",
+        "question": "Is [person_1] going to sort through the wrapping paper?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/P-rszQCrLyI_000044_000054.mp4",
+        "question": "Is [person_2] going to start a new yoga pose to entertain the group?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/R3HVaW71LAw_000038_000048.mp4",
+        "question": "Will [person_2] feel slightly anxious as the road becomes uneven?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/v_ApPxnw_Jffg_c006_00.mp4",
+        "question": "Does the left team spike successfully?",
+        "answer": "yes"
+    },
+    {
+        "video": "mmworld/CGB9VqSCRLU&list=PL1HIh25sbqZnkA1T09UtVHoyjYaMJuK0a.mp4",
+        "question": "Do you find the position of the nose in this video by relating the eye-nose distance with respect to the measured eye distances?",
+        "answer": "yes"
+    },
+    {
+        "video": "mmworld/science_v24.mp4",
+        "question": "Is India's territory safe on the south side because all three sides are protected by the sea?",
+        "answer": "Yes"
+    },
+    {
+        "video": "mmworld/Tendons.mp4",
+        "question": "Is it difficult to model tendons because they lie beneath the skin and thus are difficult to visualize?",
+        "answer": "Yes"
+    },
+    {
+        "video": "mmworld/Timelapse- Fire Ant Colony Rebuilding After a Storm.mp4",
+        "question": "Was the anthill destroyed in the storm because the rainwater caused the soil to grow heavy and collapse inwards?",
+        "answer": "Yes"
+    },
+    {
+        "video": "mmworld/Launching a homemade rocket.mp4",
+        "question": "Is the model rocket only a 1:10 scale because it could be difficult to acquire funding for a large rocket?",
+        "answer": "Yes"
+    },
+    {
+        "video": "mmworld/Video Lab: Chemical reaction: Change in Color.mp4",
+        "question": "Is the scientific principle of chemical reactions demonstrated in the video crucial for understanding the concept of the solution?",
+        "answer": "Yes"
+    },
+    {
+        "video": "mmworld/v_2Dw9QNH5KtU_c008_01.mp4",
+        "question": "Is the video about volleyball?",
+        "answer": "Yes"
+    },
+    {
+        "video": "mmworld/DyZ2qj6x1UE_E_003965_004064.mp4",
+        "question": "Do the players perform a round-off after performing 1 turn on one leg, free leg optional below horizontal?",
+        "answer": "yes"
+    },
+    {
+        "video": "mmworld/How Snails move ? ZOOM-in Video | Free HD Videos - no copyright.mp4",
+        "question": "Is the snail moving relatively fast in this video because the mucus produced by the snail reduces friction on the ground?",
+        "answer": "yes"
+    },
+    {
+        "video": "mmworld/f6k7PBGgeb4_E_004513_004584.mp4",
+        "question": "Do the players perform a giant circle backward?",
+        "answer": "yes"
+    },
+    {
+        "video": "mmworld/science_v10.mp4",
+        "question": "Is the chemical equation for the experiment Pb(No3)2 + 2KI -> PbI2 + 2KNO3?",
+        "answer": "Yes"
+    },
+    {
+        "video": "mmworld/DyZ2qj6x1UE_E_003965_004064.mp4",
+        "question": "Do the players perform a round-off before performing a double salto backward tucked?",
+        "answer": "Yes"
+    },
+    {
+        "video": "mmworld/v_hDBjIvCw7Kk_c005_01.mp4",
+        "question": "Does no team gain a point?",
+        "answer": "Yes"
+    },
+    {
+        "video": "mmworld/v_bhWjlAEICp8_c018_00.mp4",
+        "question": "Is the left team's spike unsuccessful?",
+        "answer": "Yes"
+    },
+    {
+        "video": "mmworld/v_fCc2IXTBIxw_c009_00.mp4",
+        "question": "Do the players perform an aerobic gymnastics straddle jump before the explosive push up?",
+        "answer": "Yes"
+    },
+    {
+        "video": "mmworld/v_icDf81dWZHw_c003_01.mp4",
+        "question": "Is the reason for the defensive rebound of the left team a basketball 2-point shot?",
+        "answer": "Yes"
+    },
+    {
+        "video": "mmworld/9Nk-MR-XNwE.mp4",
+        "question": "Are the two circular plates used to rotate the interconnected rods, allowing the rods to rotate at the connection and enabling the elbow mechanism to transmit power and motion?",
+        "answer": "Yes"
+    },
+    {
+        "video": "mmworld/mc_2mhKpoxU.mp4",
+        "question": "According to the World Economic Situation and Prospects as of mid-2008 report, is the expected global economic growth rate for 2018 and 2019 3.2%?",
+        "answer": "Yes"
+    },
+    {
+        "video": "mmworld/youtube_22.mp4",
+        "question": "Does the robot fail to clean the tabletop because it picks up a glass filled with water and spills the water?",
+        "answer": "Yes"
+    },
+    {
+        "video": "mmworld/science_v30.mp4",
+        "question": "Does it need the sum of the two terms to demonstrate that Pi is irrational because visualizing any one of the terms alone would result in a simple circle?",
+        "answer": "Yes"
+    },
+    {
+        "video": "mmworld/v_00HRwkvvjtQ_c003_02.mp4",
+        "question": "Does any team score in the video?",
+        "answer": "yes"
+    },
+    {
+        "video": "mmworld/POPSICLE STICKS CHAIN REACTION.mp4",
+        "question": "Are the popsicles flying through the air because the tension and friction holding them together is being released?",
+        "answer": "Yes"
+    },
+    {
+        "video": "mmworld/f6k7PBGgeb4_E_004513_004584.mp4",
+        "question": "Is the video about the Uneven Bar?",
+        "answer": "Yes"
+    },
+    {
+        "video": "mmworld/Pond water microorganism under microscope.mp4",
+        "question": "Are the microorganisms trying to achieve homeostasis?",
+        "answer": "Yes"
+    },
+    {
+        "video": "mmworld/FqcRztINQhw.mp4",
+        "question": "Is water forced into a bottle filled with water because of air pressure?",
+        "answer": "Yes"
+    },
+    {
+        "video": "mmworld/p6gJEyy0OrA.mp4",
+        "question": "Is the main job of the baton to keep the time in a strict way, with all beats starting and landing on the same line?",
+        "answer": "Yes"
+    },
+    {
+        "video": "mmworld/sci_vid11.mp4",
+        "question": "Are the shaggy inkcap mushroom's spores spread as its liquified cap seeps into the ground?",
+        "answer": "Yes"
+    },
+    {
+        "video": "mmworld/v_07uuHJ9yXBw_c039_00.mp4",
+        "question": "Is the cross of the right team unsuccessful?",
+        "answer": "yes"
+    },
+    {
+        "video": "mmworld/efvgHn4Iq0M.mp4",
+        "question": "Is 100 dollars the denomination of currency predominantly displayed in the video?",
+        "answer": "Yes"
+    },
+    {
+        "video": "mmworld/v_dw7LOz17Omg_c032_01.mp4",
+        "question": "Does the right team initiate a fast break after the cross of the left team?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/lrwiYiFGQZE_E_004478_004516.mp4",
+        "question": "Do the players perform a tucked salto to transition into a full turn before performing counter straddle over high bar to hang?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/DyZ2qj6x1UE_E_003965_004064.mp4",
+        "question": "Do the players perform a pirouette for precision after performing salto sideward tucked, take off from one leg to side stand?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/X4sQ9aENtEo.mp4",
+        "question": "Does a broken light bulb wire conduct electricity finally because the ions in the saltwater trigger a chemical reaction that repairs the broken wire's structure?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/v_hDBjIvCw7Kk_c005_01.mp4",
+        "question": "Is the defensive rebound of the left team unsuccessful because the left team's defensive setup failed due to zone agility principles applied by the right team?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/science_v11.mp4",
+        "question": "Does RNA polymerase reproduce the DNA by folding the DNA into smaller segments?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/v_dFYr67eNMwA_c005_01.mp4",
+        "question": "Is the scissors leap a dominant move in figure skating?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/science_v29.mp4",
+        "question": "Does the video demonstrate that Bromine is dense by using a spectrometer to calculate the density?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/R9XUGR-VlTg_E_008869_008972.mp4",
+        "question": "Do the players perform a double layout with a full twisting leap after performing double salto backward stretched with 2 twist?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/dCWnQg-Trr0.mp4",
+        "question": "Does the light bulb light up because the magnetic field created by the Earth's rotation induced a current in the circuit?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/TBsWos4T4OE_E_001505_001589.mp4",
+        "question": "Do the players perform salto backward piked before executing a tuck jump?",
+        "answer": "no"
+    },
+    {
+        "video": "mmworld/Ferrofluid Display - Programmable Liquid Metal Professional Exhibit.mp4",
+        "question": "Does the magnetic substance have to be in liquid form because it maintains its magnetic properties only when in liquid form?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/lrwiYiFGQZE_E_004478_004516.mp4",
+        "question": "Do the players perform a triple lutz jump after performing the giant circle backward?",
+        "answer": "no"
+    },
+    {
+        "video": "mmworld/R9XUGR-VlTg_E_008869_008972.mp4",
+        "question": "Do the players perform the hop with 1 turn and leg elevated to maintain balance in 2 instances?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/v_K5PFNpiP5aY_c008_00.mp4",
+        "question": "Is the reason for the defensive rebound of the left team that the ball was intercepted during a dribbling move?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/v_4RKB-3ER_GA_c016_01.mp4",
+        "question": "Do the players perform a pirouette, demonstrating balance principles?",
+        "answer": "no"
+    },
+    {
+        "video": "mmworld/v_00HRwkvvjtQ_c003_02.mp4",
+        "question": "Does the left team gain a score in the video by converting a penalty kick?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/science_v30.mp4",
+        "question": "Is the correspondence between the line segments and the function terms that the inner segment is cosine(theta) and the outer segment is sine(pi theta)?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/v_dw7LOz17Omg_c032_01.mp4",
+        "question": "Is the cause of the right team doing saving because the player blocked a potential game-winning field goal?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/science_v14.mp4",
+        "question": "Are the components used to locate the street in order composed of a license plate, street signs, and sky reflection?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/4mzbybgzoJo_E_000366_000469.mp4",
+        "question": "Do the players perform a 3 turn in tuck stand with the torso leaning backwards to initiate the switch leap to ring position?",
+        "answer": "no"
+    },
+    {
+        "video": "mmworld/Ferrofluid Display - Programmable Liquid Metal Professional Exhibit.mp4",
+        "question": "Is the Ferrofluid more magnetic when it is frozen?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/v_2Dw9QNH5KtU_c008_01.mp4",
+        "question": "Does the left team defend by attempting a baseball double play maneuver to gain a strategic advantage?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/v_00HRwkvvjtQ_c003_02.mp4",
+        "question": "Does any team gain a point because the referee declared a draw without any scoring?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/ego_01.mp4",
+        "question": "Does the man need to do the step shown in the video because the wooden board needs to be reinforced to support structural load, which is unrelated to cutting?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/science_v30.mp4",
+        "question": "Does the endpoint of the curve reach the starting point eventually due to rotational symmetry?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/Uvfpy-gqJgI.mp4",
+        "question": "Is the drum stick pushed by the thumb, providing the necessary leverage seen in classical percussion techniques during the second step of the first trick?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/v_dChHNGIfm4Y_c004_00.mp4",
+        "question": "Are the players in the video practicing rugby on a sandy field?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/CGB9VqSCRLU&list=PL1HIh25sbqZnkA1T09UtVHoyjYaMJuK0a.mp4",
+        "question": "Is the reason to start with the eyes when drawing a face to maintain anatomical accuracy by aligning facial symmetry with the eyes' natural focal length?",
+        "answer": "No"
+    },
+    {
+        "video": "mmworld/youtube_6.mp4",
+        "question": "Did the second mechanic adjust the wheel's camber and caster?",
+        "answer": "No"
+    },
+    {
+        "video": "causalqa/u-5hzYU2TG8_000043_000053.mp4",
+        "question": "Is [person_1] on the verge of starting a new painting?",
+        "answer": "no"
+    },
+    {
+        "video": "causalqa/a3ElG2aNI34_000031_000041.mp4",
+        "question": "Will [person_1]'s right hand strum the guitar strings in rhythm next?",
+        "answer": "no"
+    },
+    {
+        "video": "causalqa/ioBHY_Np-IY_000153_000163.mp4",
+        "question": "Is [person_1] going to start an online livestream to share her experiences?",
+        "answer": "no"
+    },
+    {
+        "video": "causalqa/IeVotfCD8s4_000042_000052.mp4",
+        "question": "Will [person_1] prepare a cup of tea for relaxation next?",
+        "answer": "no"
+    },
+    {
+        "video": "causalqa/bJwiIEBTj1k_000030_000040.mp4",
+        "question": "Will [person_1] decide to give a speech about the history of guitar making next?",
+        "answer": "no"
+    },
+    {
+        "video": "causalqa/RdnubBQolVk_000002_000012.mp4",
+        "question": "Is [person_2] going to adjust their racket for the next hit?",
+        "answer": "no"
+    },
+    {
+        "video": "causalqa/Qxa4NxH36D4_000084_000094.mp4",
+        "question": "Will [person_1] begin a conversation with nearby friends after using the inhaler?",
+        "answer": "no"
+    },
+    {
+        "video": "causalqa/EBS1LS46bf4_000000_000010.mp4",
+        "question": "Will [person_1] start stretching to prevent muscle cramps after several minutes?",
+        "answer": "no"
+    },
+    {
+        "video": "causalqa/2hSSDJdcAbA_000050_000060.mp4",
+        "question": "Will [person_5] look for more marshmallows to roast after roasting the marshmallows?",
+        "answer": "no"
+    },
+    {
+        "video": "causalqa/e8SyruHcjuI_000008_000018.mp4",
+        "question": "Is [person_1] going to wash the dishes next?",
+        "answer": "no"
+    },
+    {
+        "video": "causalqa/wxKgMj3MVFU_000123_000133.mp4",
+        "question": "Is [person_1] going to look around for feedback on his performance?",
+        "answer": "no"
+    },
+    {
+        "video": "causalqa/qc7Nmkvbtjg_000031_000041.mp4",
+        "question": "Is [person_1] about to read a book?",
+        "answer": "no"
+    },
+    {
+        "video": "causalqa/_FubIvDQYHw_000009_000019.mp4",
+        "question": "Will [person_1] continue to ride into the sunset after riding for a while?",
+        "answer": "no"
+    },
+    {
+        "video": "causalqa/gCSS55ayr64_000038_000048.mp4",
+        "question": "Is [person_3] about to pull [person_2] to the side to show something interesting?",
+        "answer": "no"
+    },
+    {
+        "video": "causalqa/17iQalBxrHc_000008_000018.mp4",
+        "question": "Is [person_1] about to tell a joke?",
+        "answer": "no"
+    },
+    {
+        "video": "VCGBench-Diverse/E4YJSicRqVM.mp4",
+        "question": "Is the video about a man sitting at a desk with a laptop?",
+        "answer": "no"
+    },
+    {
+        "video": "VCGBench-Diverse/Normal_Videos_246_x264.mp4",
+        "question": "Are all the people in the video wearing hats?",
+        "answer": "no"
+    },
+    {
+        "video": "VCGBench-Diverse/s5V3nsxduQ8.mp4",
+        "question": "Is the main ingredient used in the preparation of the dish vegetables?",
+        "answer": "no"
+    },
+    {
+        "video": "VCGBench-Diverse/VKAg5Rrem3g.mp4",
+        "question": "Is the man in the video promoting his YouTube channel?",
+        "answer": "no"
+    },
+    {
+        "video": "VCGBench-Diverse/dw6aZdFlUaE.mp4",
+        "question": "Is the purpose of the video to show how to clean an iPhone?",
+        "answer": "no"
+    },
+    {
+        "video": "VCGBench-Diverse/PZ4wWpPf-go.mp4",
+        "question": "Is the main topic of the video how to cure ADHD?",
+        "answer": "no"
+    },
+    {
+        "video": "VCGBench-Diverse/MU03iZSL6ZQ.mp4",
+        "question": "Is the main topic of the video religion and spirituality?",
+        "answer": "no"
+    },
+    {
+        "video": "VCGBench-Diverse/Y3LgTsEhODw.mp4",
+        "question": "Is the purpose of the National Weather Service's winter weather briefing to provide information about the upcoming weather conditions in Norman, OK and surrounding areas?",
+        "answer": "no"
+    },
+    {
+        "video": "VCGBench-Diverse/Mb_-rhZzX74.mp4",
+        "question": "Is the purpose of the technology demonstrated in the video to simulate the experience of flying a rocket ship?",
+        "answer": "no"
+    },
+    {
+        "video": "VCGBench-Diverse/MH8HM18Ous0.mp4",
+        "question": "Is the surfer with the yellow shirt always in the lead?",
+        "answer": "no"
+    },
+    {
+        "video": "VCGBench-Diverse/y_w8oNl1D20Hs_clip_1.mp4",
+        "question": "Was the cause of the accident captured in the video a car running a red light and colliding with a truck?",
+        "answer": "no"
+    },
+    {
+        "video": "VCGBench-Diverse/VkMf_HMtUxA.mp4",
+        "question": "Is the purpose of the game shown in the video to teach players how to build and design virtual objects?",
+        "answer": "no"
+    },
+    {
+        "video": "VCGBench-Diverse/HDEpH8FVwOY.mp4",
+        "question": "Is the name of the dessert featured in the video Black and White Ball?",
+        "answer": "no"
+    },
+    {
+        "video": "VCGBench-Diverse/SeYYA-X17rw.mp4",
+        "question": "Is the basketball player in the video wearing a Superman cape?",
+        "answer": "no"
+    },
+    {
+        "video": "VCGBench-Diverse/L2SMBwNJL9A.mp4",
+        "question": "Is the purpose of the Red Bull energy drink in this video to provide hydration during physical activity?",
+        "answer": "no"
+    },
+    {
+        "video": "causalqa/fuIh5SCOGxQ_000016_000026.mp4",
+        "question": "Will [person_1] play with the dog next?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/O4Wj8ibDCBo_000209_000219.mp4",
+        "question": "Will [person_1] make the horse stop?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/X-IQeyo1Sns_000006_000016.mp4",
+        "question": "Will [person_1] jump up again next?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/zaJ6BoC548g_000054_000064.mp4",
+        "question": "Will [person_2] keep trying to stand on the rope?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/EsarK5343U4_000335_000345.mp4",
+        "question": "Will [person_1] move up the trowel?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/V9vyx_fS-6o_000161_000171.mp4",
+        "question": "Is [person_1] going to move the product to the warehouse?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/htx0eMMBkeA_000031_000041.mp4",
+        "question": "Will [person_6] do the punishment after losing the game?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/85M0Q3pQ17M_000238_000248.mp4",
+        "question": "Will [person_1] ask [person_2] to turn over [person_2]'s body?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/9eirnD868Zs_000017_000027.mp4",
+        "question": "Is [person_1] going to rip paper?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/lEBmSc5E0dA_000026_000036.mp4",
+        "question": "Is the [person_1] going to take the book?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/ymjpBYQkadk_000012_000022.mp4",
+        "question": "Will the two people play a second round next?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/2m_4dwouElQ_000022_000032.mp4",
+        "question": "Will [person_1] feel a lot of fatigue in his shoulders and thighs after talking?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/gtlAn-4zcYU_000115_000125.mp4",
+        "question": "Is [person_10] going to continue trying to stomp the grapes?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/LojlxlNC5IU_000524_000534.mp4",
+        "question": "Will [person_2] certainly continue cycling next?",
+        "answer": "yes"
+    },
+    {
+        "video": "causalqa/eWL7cn3UddM_000012_000022.mp4",
+        "question": "Is the mechanical bull going to move faster after [person_1] sits on it?",
+        "answer": "yes"
+    },
+    {
+        "video": "VCGBench-Diverse/tNE8wfVOBYM.mp4",
+        "question": "Is the purpose of using a polishing compound on a car to remove scratches and swirl marks?",
+        "answer": "yes"
+    },
+    {
+        "video": "VCGBench-Diverse/jDOvsDfGMOQ.mp4",
+        "question": "Is the purpose of the metal piece that the man puts on top of the engine to act as a seal between the engine and another component?",
+        "answer": "yes"
+    },
+    {
+        "video": "VCGBench-Diverse/_hvolcVFvZw.mp4",
+        "question": "Is the new management deadline important because it will help to improve patient care, increase the profits of the hospital, and make the hospital more efficient?",
+        "answer": "yes"
+    },
+    {
+        "video": "VCGBench-Diverse/eFaEGY1y6mU.mp4",
+        "question": "Does the video show a group of people traveling to different locations in a city?",
+        "answer": "yes"
+    },
+    {
+        "video": "VCGBench-Diverse/fjiw-2PQ0Z4.mp4",
+        "question": "Is the purpose of the clamp seen in the video to hold a pipe in place?",
+        "answer": "yes"
+    },
+    {
+        "video": "VCGBench-Diverse/JgSE4QxTfTc.mp4",
+        "question": "Did the host choose to keep the blue suitcase?",
+        "answer": "yes"
+    },
+    {
+        "video": "VCGBench-Diverse/qaoXYML2DaE.mp4",
+        "question": "Is the name of the dish that the person in the video is making Garlic beef?",
+        "answer": "yes"
+    },
+    {
+        "video": "VCGBench-Diverse/5jYkNAi7QO8.mp4",
+        "question": "Does the car shown in the video have a hybrid engine?",
+        "answer": "yes"
+    },
+    {
+        "video": "VCGBench-Diverse/EwO93OLd73I.mp4",
+        "question": "Is the woman in the video showing off her shirt?",
+        "answer": "yes"
+    },
+    {
+        "video": "VCGBench-Diverse/s36-d63-cam-002.avi",
+        "question": "Is the man in the kitchen making a sandwich?",
+        "answer": "yes"
+    },
+    {
+        "video": "VCGBench-Diverse/U1AK0GnqTss.mp4",
+        "question": "Is the reason behind Larry Baer's suspension as the CEO of the San Francisco Giants unacceptable behavior and conduct?",
+        "answer": "yes"
+    },
+    {
+        "video": "VCGBench-Diverse/6ok4D74pNU4.mp4",
+        "question": "Is the main focus of the video a basketball game being played in a stadium?",
+        "answer": "yes"
+    },
+    {
+        "video": "VCGBench-Diverse/ClqZ61i_bXM.mp4",
+        "question": "Is the purpose of the green and white hats worn by some individuals in the video to show support for a soccer team?",
+        "answer": "yes"
+    },
+    {
+        "video": "VCGBench-Diverse/s35-d48-cam-002.avi",
+        "question": "Is the woman in the video cooking?",
+        "answer": "yes"
+    },
+    {
+        "video": "VCGBench-Diverse/VO5YeDZ-jRE.mp4",
+        "question": "Is the main reason why women live longer than men because they have a better balance of hormones, particularly estrogen?",
+        "answer": "yes"
+    }
+]

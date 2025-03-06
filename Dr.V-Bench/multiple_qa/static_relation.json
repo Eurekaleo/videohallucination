@@ -1,0 +1,5282 @@
+[
+    {
+        "video": "activitynetqa/v_uJAL31wAD2A.mp4",
+        "question": "what is on the left of the river",
+        "answer": "B",
+        "choices": {
+            "A": "bench",
+            "B": "tree",
+            "C": "house",
+            "D": "fountain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_gOnp3DZxeKU.mp4",
+        "question": "what is in front of the person wearing a purple shirt",
+        "answer": "B",
+        "choices": {
+            "A": "fireplace",
+            "B": "pot",
+            "C": "lamp",
+            "D": "bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_nGKc2t-NMYc.mp4",
+        "question": "what is under the feet of the person in purple clothes",
+        "answer": "A",
+        "choices": {
+            "A": "horizontal bar",
+            "B": "stack of books",
+            "C": "grass patch",
+            "D": "water puddle"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Oh3-DvDCpZ4.mp4",
+        "question": "what is in front of the person in white clothes",
+        "answer": "B",
+        "choices": {
+            "A": "a bookshelf",
+            "B": "food",
+            "C": "a curtain",
+            "D": "a lamp"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Z-sWZUYL0ZU.mp4",
+        "question": "what is in front of the person in gray",
+        "answer": "C",
+        "choices": {
+            "A": "a small table with books",
+            "B": "a large painting on the wall",
+            "C": "cabinet",
+            "D": "a chair and a lamp stand"
+        }
+    },
+    {
+        "video": "activitynetqa/v_zKYiTA6WBS4.mp4",
+        "question": "what is on the right of the person in a green coat",
+        "answer": "B",
+        "choices": {
+            "A": "bookshelf",
+            "B": "hair drier",
+            "C": "vase",
+            "D": "lamp"
+        }
+    },
+    {
+        "video": "activitynetqa/v_HDt5z5Y0opo.mp4",
+        "question": "what is under the table",
+        "answer": "C",
+        "choices": {
+            "A": "a plant",
+            "B": "a bookshelf",
+            "C": "audience",
+            "D": "a laptop"
+        }
+    },
+    {
+        "video": "activitynetqa/v_kkji9hespu0.mp4",
+        "question": "what is this woman in front of",
+        "answer": "B",
+        "choices": {
+            "A": "bookcase",
+            "B": "boiler",
+            "C": "fireplace",
+            "D": "garden fence"
+        }
+    },
+    {
+        "video": "activitynetqa/v_ikUNgSw4Gys.mp4",
+        "question": "what is under the feet of the person in the video",
+        "answer": "A",
+        "choices": {
+            "A": "woman in white",
+            "B": "bicycle tire",
+            "C": "stack of old newspapers",
+            "D": "puppy with red collar"
+        }
+    },
+    {
+        "video": "activitynetqa/v_rSGboODhu04.mp4",
+        "question": "what is in front of the standing person",
+        "answer": "C",
+        "choices": {
+            "A": "a lamp",
+            "B": "a plant",
+            "C": "table",
+            "D": "a bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_YvPoAOrjX5I.mp4",
+        "question": "what is behind the person in blue",
+        "answer": "B",
+        "choices": {
+            "A": "a lamp post",
+            "B": "white man",
+            "C": "a bookshelf",
+            "D": "a tree"
+        }
+    },
+    {
+        "video": "activitynetqa/v_E_UkQGk7QAE.mp4",
+        "question": "what is the left side of the woman in light blue clothes",
+        "answer": "C",
+        "choices": {
+            "A": "bookshelf",
+            "B": "vase",
+            "C": "child",
+            "D": "lamp"
+        }
+    },
+    {
+        "video": "activitynetqa/v_ILmZg0vz0Hg.mp4",
+        "question": "what is behind the woman wearing glasses",
+        "answer": "D",
+        "choices": {
+            "A": "a bookshelf filled with books",
+            "B": "a window overlooking a garden",
+            "C": "a painting of a landscape scene",
+            "D": "ornament"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Uae2MWoldTU.mp4",
+        "question": "what is behind the christmas tree",
+        "answer": "A",
+        "choices": {
+            "A": "blue plastic film",
+            "B": "garden fountain",
+            "C": "brick wall",
+            "D": "wooden bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_RLBfyIVpocE.mp4",
+        "question": "what is in front of the referee",
+        "answer": "B",
+        "choices": {
+            "A": "equipment bag",
+            "B": "guardrail net",
+            "C": "drinks cooler",
+            "D": "scoreboard"
+        }
+    },
+    {
+        "video": "activitynetqa/v_HowkVy5fOyk.mp4",
+        "question": "what is in front of the audience in the video",
+        "answer": "A",
+        "choices": {
+            "A": "bullfighting field",
+            "B": "a mountain range",
+            "C": "a park with benches and statues",
+            "D": "a river flowing gently"
+        }
+    },
+    {
+        "video": "activitynetqa/v_M2Y2Cw2kwDo.mp4",
+        "question": "what's underneath the athlete",
+        "answer": "A",
+        "choices": {
+            "A": "pool",
+            "B": "sand",
+            "C": "court",
+            "D": "grass"
+        }
+    },
+    {
+        "video": "activitynetqa/v_YaC68rE4lwA.mp4",
+        "question": "what is behind the person in the video",
+        "answer": "B",
+        "choices": {
+            "A": "forest",
+            "B": "wall",
+            "C": "lake",
+            "D": "mountain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_NjD6iWI3NvM.mp4",
+        "question": "what is behind the little boy",
+        "answer": "A",
+        "choices": {
+            "A": "tree",
+            "B": "a park bench",
+            "C": "a bicycle",
+            "D": "a large rock"
+        }
+    },
+    {
+        "video": "activitynetqa/v_k-I4zLbgdpM.mp4",
+        "question": "what is behind the left-handed injured little girl standing to explain",
+        "answer": "D",
+        "choices": {
+            "A": "bookshelf",
+            "B": "couch",
+            "C": "lamp",
+            "D": "wood"
+        }
+    },
+    {
+        "video": "activitynetqa/v_-8SgY4vW4xM.mp4",
+        "question": "what's under the dog",
+        "answer": "A",
+        "choices": {
+            "A": "table",
+            "B": "floor lamp",
+            "C": "cushion",
+            "D": "rug"
+        }
+    },
+    {
+        "video": "activitynetqa/v_f1d7_TKXNYQ.mp4",
+        "question": "what is behind the man running in the video",
+        "answer": "D",
+        "choices": {
+            "A": "a playground",
+            "B": "a food stand",
+            "C": "a fountain",
+            "D": "spectator seats"
+        }
+    },
+    {
+        "video": "activitynetqa/v_28WDlVOgslg.mp4",
+        "question": "what is the girl in pink clothes below",
+        "answer": "B",
+        "choices": {
+            "A": "ocean",
+            "B": "floor",
+            "C": "mountain",
+            "D": "forest"
+        }
+    },
+    {
+        "video": "activitynetqa/v_dFGS7YCDk3Y.mp4",
+        "question": "what is below the sailboat",
+        "answer": "D",
+        "choices": {
+            "A": "reef",
+            "B": "sand",
+            "C": "rocks",
+            "D": "water"
+        }
+    },
+    {
+        "video": "activitynetqa/v_4H9MMsj4mcM.mp4",
+        "question": "what is in front of the audience",
+        "answer": "B",
+        "choices": {
+            "A": "a large tree with a bench",
+            "B": "horse running yard",
+            "C": "a fountain with flowers",
+            "D": "a statue surrounded by bushes"
+        }
+    },
+    {
+        "video": "activitynetqa/v_WGUzmra3h_w.mp4",
+        "question": "what is on the right side of the basketball box",
+        "answer": "D",
+        "choices": {
+            "A": "a vending machine",
+            "B": "a water fountain",
+            "C": "a scoreboard",
+            "D": "pads"
+        }
+    },
+    {
+        "video": "activitynetqa/v_cCDffwsJvsY.mp4",
+        "question": "what is the right side of the person who makes the fire",
+        "answer": "D",
+        "choices": {
+            "A": "bush",
+            "B": "lamp post",
+            "C": "car",
+            "D": "fence"
+        }
+    },
+    {
+        "video": "activitynetqa/v_eJc8bebOF2A.mp4",
+        "question": "what is under the foot of the person who pushes the shot",
+        "answer": "B",
+        "choices": {
+            "A": "hexagon",
+            "B": "circle",
+            "C": "rectangle",
+            "D": "triangle"
+        }
+    },
+    {
+        "video": "activitynetqa/v_7IwHwDuQdyU.mp4",
+        "question": "what is under the girl in a blue vest",
+        "answer": "B",
+        "choices": {
+            "A": "picnic blanket",
+            "B": "gymnastic mat",
+            "C": "sand dune",
+            "D": "field of grass"
+        }
+    },
+    {
+        "video": "activitynetqa/v_kMtjk1KFvXQ.mp4",
+        "question": "what is the right side of this girl",
+        "answer": "C",
+        "choices": {
+            "A": "a coat rack",
+            "B": "a bookshelf",
+            "C": "main committee",
+            "D": "a large plant"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Znb6Y9m_PsQ.mp4",
+        "question": "what is in front of the person in a black tshirt",
+        "answer": "D",
+        "choices": {
+            "A": "a sofa",
+            "B": "a piano",
+            "C": "a bookshelf",
+            "D": "table football"
+        }
+    },
+    {
+        "video": "activitynetqa/v__SJOVswvGRc.mp4",
+        "question": "what is the right side of the child in black",
+        "answer": "B",
+        "choices": {
+            "A": "green chair",
+            "B": "white man",
+            "C": "red ball",
+            "D": "blue bicycle"
+        }
+    },
+    {
+        "video": "activitynetqa/v_0xBP-TSsqb0.mp4",
+        "question": "what is behind the man in the video",
+        "answer": "D",
+        "choices": {
+            "A": "lamp",
+            "B": "coat rack",
+            "C": "bookshelf",
+            "D": "sofa"
+        }
+    },
+    {
+        "video": "activitynetqa/v_I3tqWc5wG78.mp4",
+        "question": "what is behind the person wearing the sweater chain",
+        "answer": "A",
+        "choices": {
+            "A": "table",
+            "B": "aquarium",
+            "C": "bookshelf",
+            "D": "wardrobe"
+        }
+    },
+    {
+        "video": "activitynetqa/v_NZskwwovSZI.mp4",
+        "question": "what is the left side of the person wearing white clothes",
+        "answer": "B",
+        "choices": {
+            "A": "fountain",
+            "B": "table",
+            "C": "bush",
+            "D": "statue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_zOI9SjQpc_Q.mp4",
+        "question": "what is the left side of the 9th player",
+        "answer": "D",
+        "choices": {
+            "A": "scoreboard",
+            "B": "locker room entrance",
+            "C": "concession stand",
+            "D": "audience"
+        }
+    },
+    {
+        "video": "activitynetqa/v_kpOAGEYHts8.mp4",
+        "question": "what is the back row of this woman",
+        "answer": "B",
+        "choices": {
+            "A": "a bookshelf",
+            "B": "recreational machines",
+            "C": "a flower garden",
+            "D": "a wall of windows"
+        }
+    },
+    {
+        "video": "activitynetqa/v_ETbbYC0OhL0.mp4",
+        "question": "what is the left side of the purple-haired female",
+        "answer": "A",
+        "choices": {
+            "A": "audience",
+            "B": "a statue",
+            "C": "a fountain",
+            "D": "a park bench"
+        }
+    },
+    {
+        "video": "activitynetqa/v_lUil9HfTzJ0.mp4",
+        "question": "what is under the swimsuit person",
+        "answer": "A",
+        "choices": {
+            "A": "surf board",
+            "B": "waves hitting the shore",
+            "C": "cooler box",
+            "D": "beach towel"
+        }
+    },
+    {
+        "video": "activitynetqa/v_qaml4eEk9hY.mp4",
+        "question": "what is in front of the person in the video",
+        "answer": "C",
+        "choices": {
+            "A": "couch",
+            "B": "lamp",
+            "C": "vacuum cleaner",
+            "D": "bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_GSrBZXLSwWI.mp4",
+        "question": "what is the front of the person wearing black short sleeves",
+        "answer": "D",
+        "choices": {
+            "A": "red chair",
+            "B": "wooden table",
+            "C": "green plant",
+            "D": "machine"
+        }
+    },
+    {
+        "video": "activitynetqa/v_mvRoVXRGVGw.mp4",
+        "question": "what is behind the person in the video",
+        "answer": "D",
+        "choices": {
+            "A": "desert landscape",
+            "B": "oak forest",
+            "C": "ocean view",
+            "D": "snow mountain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_bRgvAHL3dJk.mp4",
+        "question": "what is on the table",
+        "answer": "B",
+        "choices": {
+            "A": "lamp under the shelf near the table",
+            "B": "seasoning",
+            "C": "book on the left side of the table",
+            "D": "vase on the chair next to the table"
+        }
+    },
+    {
+        "video": "activitynetqa/v_CaeZoHNHul0.mp4",
+        "question": "what is behind the brunette girl",
+        "answer": "C",
+        "choices": {
+            "A": "bookshelf",
+            "B": "window",
+            "C": "cabinet",
+            "D": "sofa"
+        }
+    },
+    {
+        "video": "activitynetqa/v_pzTqZWPubk8.mp4",
+        "question": "what is the front of the person wearing a black tie",
+        "answer": "A",
+        "choices": {
+            "A": "water tap",
+            "B": "brick wall",
+            "C": "garden hose",
+            "D": "orange tree"
+        }
+    },
+    {
+        "video": "activitynetqa/v_2nDJpvD-eZU.mp4",
+        "question": "what is under the water tank",
+        "answer": "C",
+        "choices": {
+            "A": "a small wooden box",
+            "B": "a patch of grass",
+            "C": "marble",
+            "D": "a pile of sand"
+        }
+    },
+    {
+        "video": "activitynetqa/v__a527xEzhkw.mp4",
+        "question": "what is the right side of the person in the video",
+        "answer": "C",
+        "choices": {
+            "A": "lamp",
+            "B": "window",
+            "C": "door",
+            "D": "bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_hyMqGr0mOfA.mp4",
+        "question": "what's on the right wall of the man in white",
+        "answer": "B",
+        "choices": {
+            "A": "window",
+            "B": "paper",
+            "C": "painting",
+            "D": "shelves"
+        }
+    },
+    {
+        "video": "activitynetqa/v_kYkvyRKxwfY.mp4",
+        "question": "what is in front of the person in white clothes",
+        "answer": "D",
+        "choices": {
+            "A": "a vintage car",
+            "B": "a garden bench",
+            "C": "a large flower pot",
+            "D": "table tennis table"
+        }
+    },
+    {
+        "video": "activitynetqa/v_3nSOFmmA7FU.mp4",
+        "question": "what is behind the person in black",
+        "answer": "B",
+        "choices": {
+            "A": "a bookshelf",
+            "B": "audience",
+            "C": "a large mural",
+            "D": "an open window"
+        }
+    },
+    {
+        "video": "activitynetqa/v_G0VWk5WqDp0.mp4",
+        "question": "what is the front of the person wearing a blue vest",
+        "answer": "B",
+        "choices": {
+            "A": "swimming pool",
+            "B": "playground",
+            "C": "parking lot",
+            "D": "garden"
+        }
+    },
+    {
+        "video": "activitynetqa/v_BjjN_aq_wq4.mp4",
+        "question": "what is in front of the second person",
+        "answer": "D",
+        "choices": {
+            "A": "plant",
+            "B": "bookshelf",
+            "C": "lamp",
+            "D": "window"
+        }
+    },
+    {
+        "video": "activitynetqa/v_HtG-i1CG2Qs.mp4",
+        "question": "what is the top of the faucet",
+        "answer": "A",
+        "choices": {
+            "A": "hand washing box",
+            "B": "flower pot",
+            "C": "soap dish",
+            "D": "paper towel dispenser"
+        }
+    },
+    {
+        "video": "activitynetqa/v_W97fdJ2Rn9g.mp4",
+        "question": "what is on the finger",
+        "answer": "C",
+        "choices": {
+            "A": "bracelet on the wrist behind the finger",
+            "B": "watch to the left of the finger",
+            "C": "ring",
+            "D": "necklace hanging above the finger"
+        }
+    },
+    {
+        "video": "activitynetqa/v_IIPKxzPjrWg.mp4",
+        "question": "what is behind the woman in tights",
+        "answer": "B",
+        "choices": {
+            "A": "row of colorful lockers",
+            "B": "oxygen bottle",
+            "C": "painting of a landscape",
+            "D": "large indoor plant"
+        }
+    },
+    {
+        "video": "activitynetqa/v_BBKSKU6dGGk.mp4",
+        "question": "what is in front of the person in the video",
+        "answer": "C",
+        "choices": {
+            "A": "garden",
+            "B": "statue",
+            "C": "vehicle",
+            "D": "fountain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_7lxP-hWFA24.mp4",
+        "question": "what is ahead of the man who is playing the guitar",
+        "answer": "B",
+        "choices": {
+            "A": "coffee table",
+            "B": "microphone",
+            "C": "lamp",
+            "D": "potted plant"
+        }
+    },
+    {
+        "video": "activitynetqa/v_v6P6bBPBXYw.mp4",
+        "question": "what is behind the goal",
+        "answer": "A",
+        "choices": {
+            "A": "billboard",
+            "B": "concession stand",
+            "C": "parking lot",
+            "D": "flag pole"
+        }
+    },
+    {
+        "video": "activitynetqa/v_PTwe2IIo3To.mp4",
+        "question": "what is on the left of the person in yellow clothes",
+        "answer": "A",
+        "choices": {
+            "A": "mirror",
+            "B": "window",
+            "C": "lamp",
+            "D": "bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Z-zG845frso.mp4",
+        "question": "what is in front of the person in red coat",
+        "answer": "A",
+        "choices": {
+            "A": "ball net",
+            "B": "fountain",
+            "C": "bench",
+            "D": "bicycle rack"
+        }
+    },
+    {
+        "video": "activitynetqa/v_3JBUWRKezUI.mp4",
+        "question": "what is the right side of the hulk",
+        "answer": "B",
+        "choices": {
+            "A": "a garden statue",
+            "B": "spider man",
+            "C": "a parked car",
+            "D": "a tall building"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Df7AnfIEhYw.mp4",
+        "question": "what's at the feet of two men",
+        "answer": "D",
+        "choices": {
+            "A": "backpack",
+            "B": "water bottle",
+            "C": "basket",
+            "D": "air cushion"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Vxw3yFCV2iA.mp4",
+        "question": "what is at the feet of the athletes",
+        "answer": "C",
+        "choices": {
+            "A": "picnic blanket",
+            "B": "basketball court",
+            "C": "water sled",
+            "D": "flower bed"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Ki1bs5X_S5k.mp4",
+        "question": "what is in front of the child",
+        "answer": "C",
+        "choices": {
+            "A": "vase",
+            "B": "candle",
+            "C": "wine bottle",
+            "D": "lamp"
+        }
+    },
+    {
+        "video": "activitynetqa/v_p54LLMnyg54.mp4",
+        "question": "what is below the person",
+        "answer": "A",
+        "choices": {
+            "A": "river",
+            "B": "garden",
+            "C": "meadow",
+            "D": "road"
+        }
+    },
+    {
+        "video": "activitynetqa/v_mLFjww64sX8.mp4",
+        "question": "what is behind the bald man",
+        "answer": "B",
+        "choices": {
+            "A": "bookshelf",
+            "B": "mirror",
+            "C": "window",
+            "D": "painting"
+        }
+    },
+    {
+        "video": "activitynetqa/v_qGtUXGG78tM.mp4",
+        "question": "what is the left side of the person wearing dark blue pants",
+        "answer": "C",
+        "choices": {
+            "A": "bicycle",
+            "B": "fountain",
+            "C": "tree",
+            "D": "park bench"
+        }
+    },
+    {
+        "video": "activitynetqa/v_ZxCdhz4ep0s.mp4",
+        "question": "what is the right side of the person wearing a striped shirt",
+        "answer": "C",
+        "choices": {
+            "A": "water cooler",
+            "B": "potted plant",
+            "C": "audience",
+            "D": "window view"
+        }
+    },
+    {
+        "video": "activitynetqa/v_St1RRi-aeNM.mp4",
+        "question": "what is behind the athletes",
+        "answer": "C",
+        "choices": {
+            "A": "a brick wall",
+            "B": "a set of gym lockers",
+            "C": "iron block",
+            "D": "a row of bicycles"
+        }
+    },
+    {
+        "video": "activitynetqa/v_G4-qjGC_3VA.mp4",
+        "question": "what is the right side of the person wearing black clothes",
+        "answer": "A",
+        "choices": {
+            "A": "audience",
+            "B": "a garden",
+            "C": "a fountain",
+            "D": "a sculpture"
+        }
+    },
+    {
+        "video": "activitynetqa/v_FtRGOgg0Qh8.mp4",
+        "question": "what is behind the person",
+        "answer": "C",
+        "choices": {
+            "A": "curtains",
+            "B": "bookshelf",
+            "C": "window",
+            "D": "wardrobe"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Au4PfoK7hyw.mp4",
+        "question": "what is behind the person in the video",
+        "answer": "D",
+        "choices": {
+            "A": "lamp",
+            "B": "window",
+            "C": "bookshelf",
+            "D": "television"
+        }
+    },
+    {
+        "video": "activitynetqa/v_CvbL36Y8hN0.mp4",
+        "question": "what is the woman behind the bungee in the video",
+        "answer": "B",
+        "choices": {
+            "A": "a garden",
+            "B": "swimming pool",
+            "C": "a forest",
+            "D": "a parking lot"
+        }
+    },
+    {
+        "video": "activitynetqa/v_sPK-sbHIb3w.mp4",
+        "question": "what is in front of the athlete",
+        "answer": "B",
+        "choices": {
+            "A": "camera",
+            "B": "rim",
+            "C": "water bottle",
+            "D": "net"
+        }
+    },
+    {
+        "video": "activitynetqa/v_z6pmp8TrAVo.mp4",
+        "question": "what is in front of the person in the video",
+        "answer": "D",
+        "choices": {
+            "A": "television",
+            "B": "fireplace",
+            "C": "bookshelf",
+            "D": "kitchen sink"
+        }
+    },
+    {
+        "video": "activitynetqa/v_P8S8PIyPXxY.mp4",
+        "question": "what is on the left of the person in blue clothes",
+        "answer": "B",
+        "choices": {
+            "A": "large boulder",
+            "B": "model",
+            "C": "green tree",
+            "D": "red bus"
+        }
+    },
+    {
+        "video": "activitynetqa/v_P5D9S9NzQ28.mp4",
+        "question": "what is in front of the person who wears white clothes at the beginning of the video",
+        "answer": "B",
+        "choices": {
+            "A": "a small pond",
+            "B": "ball frame",
+            "C": "a bicycle rack",
+            "D": "a flower garden"
+        }
+    },
+    {
+        "video": "activitynetqa/v_CKSlgK_2FP4.mp4",
+        "question": "what is on the left side of the oven",
+        "answer": "D",
+        "choices": {
+            "A": "cutting board",
+            "B": "microwave",
+            "C": "spatula",
+            "D": "seasoning"
+        }
+    },
+    {
+        "video": "activitynetqa/v_P6Oq6C9X0fw.mp4",
+        "question": "what is under the skier's foot",
+        "answer": "B",
+        "choices": {
+            "A": "a sandy beach",
+            "B": "ski",
+            "C": "a wooden platform",
+            "D": "a snowboard"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Ar6TcWqwK-A.mp4",
+        "question": "what is in front of the person at the beginning of the video",
+        "answer": "C",
+        "choices": {
+            "A": "road",
+            "B": "garden",
+            "C": "pool",
+            "D": "statue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_eiN5XPmwcEM.mp4",
+        "question": "what is on the left of the man",
+        "answer": "C",
+        "choices": {
+            "A": "grandfather clock",
+            "B": "bookshelf",
+            "C": "wall",
+            "D": "painting"
+        }
+    },
+    {
+        "video": "activitynetqa/v_faqijFZWQlo.mp4",
+        "question": "what is the right side of the man who is wearing a white shirt",
+        "answer": "A",
+        "choices": {
+            "A": "black hat man",
+            "B": "a blue vending machine",
+            "C": "a sleeping dog",
+            "D": "an old oak tree"
+        }
+    },
+    {
+        "video": "activitynetqa/v_QIUxLD27NuI.mp4",
+        "question": "what is in front of the person in yellow clothes",
+        "answer": "D",
+        "choices": {
+            "A": "painting",
+            "B": "clock",
+            "C": "plant",
+            "D": "timer"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Ep5LuX_2gfI.mp4",
+        "question": "what is on the left side of the ocean when the video starts",
+        "answer": "D",
+        "choices": {
+            "A": "lighthouse",
+            "B": "palm tree",
+            "C": "bridge",
+            "D": "mountain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_nkWMBJC2Qec.mp4",
+        "question": "what is in front of the person in red clothes",
+        "answer": "D",
+        "choices": {
+            "A": "a small flower pot",
+            "B": "a stack of books",
+            "C": "a toy car",
+            "D": "ball table"
+        }
+    },
+    {
+        "video": "activitynetqa/v_sNTOUuE7ZfM.mp4",
+        "question": "what is the front of the person wearing the tie",
+        "answer": "D",
+        "choices": {
+            "A": "a car",
+            "B": "a bookshelf",
+            "C": "a tree",
+            "D": "woman"
+        }
+    },
+    {
+        "video": "activitynetqa/v_IxaBEVd2PZM.mp4",
+        "question": "what is behind the woman who stays long",
+        "answer": "B",
+        "choices": {
+            "A": "garden fence",
+            "B": "wall",
+            "C": "bicycle rack",
+            "D": "window sill"
+        }
+    },
+    {
+        "video": "activitynetqa/v_5c5PFa8GR-A.mp4",
+        "question": "what is in front of the person who is being cut",
+        "answer": "A",
+        "choices": {
+            "A": "table",
+            "B": "shelf",
+            "C": "window",
+            "D": "couch"
+        }
+    },
+    {
+        "video": "activitynetqa/v_qObVIn_GI10.mp4",
+        "question": "what is in front of the person in the video",
+        "answer": "C",
+        "choices": {
+            "A": "couch",
+            "B": "bookshelf",
+            "C": "juicer",
+            "D": "lamp"
+        }
+    },
+    {
+        "video": "activitynetqa/v_hGPCJb2g1tQ.mp4",
+        "question": "what is the right side of the person wearing blue clothes in the video",
+        "answer": "A",
+        "choices": {
+            "A": "wall",
+            "B": "window",
+            "C": "door",
+            "D": "bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_4_jDgRsOGvY.mp4",
+        "question": "what is behind the man in black",
+        "answer": "A",
+        "choices": {
+            "A": "wall",
+            "B": "garden",
+            "C": "door",
+            "D": "statue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_EPsSfOEd3BU.mp4",
+        "question": "hat is the front of the female athlete at the beginning of the video",
+        "answer": "D",
+        "choices": {
+            "A": "water fountain",
+            "B": "scoreboard",
+            "C": "flower garden",
+            "D": "audience"
+        }
+    },
+    {
+        "video": "activitynetqa/v_sH_716hH_rY.mp4",
+        "question": "what is behind the horse",
+        "answer": "D",
+        "choices": {
+            "A": "wide river",
+            "B": "lush garden",
+            "C": "towering mountain",
+            "D": "small house"
+        }
+    },
+    {
+        "video": "activitynetqa/v_fvEaC-fTR4A.mp4",
+        "question": "what is in front of the man in black",
+        "answer": "A",
+        "choices": {
+            "A": "table",
+            "B": "lamppost",
+            "C": "fountain",
+            "D": "bicycle"
+        }
+    },
+    {
+        "video": "activitynetqa/v_nc_NMp3vAH0.mp4",
+        "question": "what is on the left of the person in the video",
+        "answer": "D",
+        "choices": {
+            "A": "a bookshelf",
+            "B": "a potted plant",
+            "C": "a window",
+            "D": "audience"
+        }
+    },
+    {
+        "video": "activitynetqa/v_N5Dt3ycaun4.mp4",
+        "question": "what is under the feet of the person in white",
+        "answer": "A",
+        "choices": {
+            "A": "yoga mat",
+            "B": "stack of books",
+            "C": "woven basket",
+            "D": "pile of leaves"
+        }
+    },
+    {
+        "video": "activitynetqa/v_MQ9Ojge7CyA.mp4",
+        "question": "what is below the person in the video",
+        "answer": "A",
+        "choices": {
+            "A": "water",
+            "B": "rocks",
+            "C": "sand",
+            "D": "grass"
+        }
+    },
+    {
+        "video": "activitynetqa/v_eQwLUJ3P7wI.mp4",
+        "question": "what is in front of the person who started the video at the beginning of the video",
+        "answer": "D",
+        "choices": {
+            "A": "bench",
+            "B": "fountain",
+            "C": "statue",
+            "D": "car"
+        }
+    },
+    {
+        "video": "activitynetqa/v_-CqVpCRxwTY.mp4",
+        "question": "what is the woman in the video",
+        "answer": "D",
+        "choices": {
+            "A": "near the woman stands a tall lamp post",
+            "B": "to the right of the woman is a basket of fruit",
+            "C": "above the woman is a flying kite",
+            "D": "lake"
+        }
+    },
+    {
+        "video": "activitynetqa/v_NJRrhNrEMsk.mp4",
+        "question": "what is the person in front of the video",
+        "answer": "B",
+        "choices": {
+            "A": "statue",
+            "B": "vehicle",
+            "C": "fountain",
+            "D": "mountain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_9FQ-VLkCZo8.mp4",
+        "question": "what is behind the person wearing white clothes",
+        "answer": "D",
+        "choices": {
+            "A": "a food stall",
+            "B": "a purple umbrella",
+            "C": "a large trophy cabinet",
+            "D": "spectator seats"
+        }
+    },
+    {
+        "video": "activitynetqa/v_vSv1qMMt4Bk.mp4",
+        "question": "what is behind the woman wearing a white hat",
+        "answer": "C",
+        "choices": {
+            "A": "a sculpture of a horse",
+            "B": "a bench under an oak tree",
+            "C": "automobile",
+            "D": "a bicycle leaning against a tree"
+        }
+    },
+    {
+        "video": "activitynetqa/v_7BUr2cN8CLs.mp4",
+        "question": "what is the last blonde woman on the left hand of the video",
+        "answer": "D",
+        "choices": {
+            "A": "perfume bottle to her right",
+            "B": "hair dryer behind her",
+            "C": "styling gel in front of her",
+            "D": "curling brush"
+        }
+    },
+    {
+        "video": "activitynetqa/v_UvOEuhS0V3E.mp4",
+        "question": "what is the front of the long hair woman",
+        "answer": "B",
+        "choices": {
+            "A": "table",
+            "B": "mirror",
+            "C": "bookshelf",
+            "D": "window"
+        }
+    },
+    {
+        "video": "activitynetqa/v_iixZLnyLuN8.mp4",
+        "question": "what is on the man's leg wearing a flower shirt",
+        "answer": "D",
+        "choices": {
+            "A": "a white cat resting near a window",
+            "B": "a small book placed on a wooden table",
+            "C": "a red backpack leaning against a tree",
+            "D": "black hair girl"
+        }
+    },
+    {
+        "video": "activitynetqa/v_qgUHRwC3194.mp4",
+        "question": "what is on the left side of the person in white shirt",
+        "answer": "C",
+        "choices": {
+            "A": "a large oak tree",
+            "B": "a picnic table",
+            "C": "swimming pool",
+            "D": "a basketball court"
+        }
+    },
+    {
+        "video": "activitynetqa/v_6LsvBNqJuJY.mp4",
+        "question": "what is the back of the woman at the beginning of the video",
+        "answer": "A",
+        "choices": {
+            "A": "wall",
+            "B": "bookshelf",
+            "C": "window",
+            "D": "cabinet"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Woelo4XJkHE.mp4",
+        "question": "what is on the table",
+        "answer": "A",
+        "choices": {
+            "A": "ice cream",
+            "B": "a vase to the left of the window",
+            "C": "a lamp next to the couch",
+            "D": "a bowl in front of the TV"
+        }
+    },
+    {
+        "video": "activitynetqa/v_V90CMuokf0c.mp4",
+        "question": "what is behind the people in black clothes",
+        "answer": "D",
+        "choices": {
+            "A": "red bicycle",
+            "B": "blue chair",
+            "C": "green plant",
+            "D": "yellow bag"
+        }
+    },
+    {
+        "video": "activitynetqa/v_TiQcZKml5Bs.mp4",
+        "question": "what is on the right of the person in the video",
+        "answer": "A",
+        "choices": {
+            "A": "tree",
+            "B": "building",
+            "C": "river",
+            "D": "bench"
+        }
+    },
+    {
+        "video": "activitynetqa/v_wCexKIuAj3A.mp4",
+        "question": "what is behind the red sofa",
+        "answer": "A",
+        "choices": {
+            "A": "glass",
+            "B": "a bookcase",
+            "C": "a balcony",
+            "D": "a fireplace"
+        }
+    },
+    {
+        "video": "activitynetqa/v_UJGK_TKrl4E.mp4",
+        "question": "what is behind the referee at the beginning of the video",
+        "answer": "D",
+        "choices": {
+            "A": "bench",
+            "B": "concession stand",
+            "C": "scoreboard",
+            "D": "stand"
+        }
+    },
+    {
+        "video": "activitynetqa/v_lPw_BRbPw5s.mp4",
+        "question": "what is behind the person in black",
+        "answer": "A",
+        "choices": {
+            "A": "small window",
+            "B": "painting on the wall",
+            "C": "bookshelf filled with books",
+            "D": "vase on a table"
+        }
+    },
+    {
+        "video": "activitynetqa/v_6H0D8VaIli0.mp4",
+        "question": "what is behind the person holding the instrument in the video",
+        "answer": "D",
+        "choices": {
+            "A": "ocean",
+            "B": "forest",
+            "C": "mountain",
+            "D": "wall"
+        }
+    },
+    {
+        "video": "activitynetqa/v_jhy6npIdn5o.mp4",
+        "question": "what is behind the christmas tree",
+        "answer": "A",
+        "choices": {
+            "A": "window",
+            "B": "couch",
+            "C": "bookshelf",
+            "D": "fireplace"
+        }
+    },
+    {
+        "video": "activitynetqa/v_bYxVbXzQToI.mp4",
+        "question": "what is on the round table",
+        "answer": "C",
+        "choices": {
+            "A": "lamp next to the couch",
+            "B": "painting on the wall",
+            "C": "wine glass",
+            "D": "clock above the door"
+        }
+    },
+    {
+        "video": "activitynetqa/v_2DCHbuwZNSs.mp4",
+        "question": "what is the front of the man wearing a diving suit",
+        "answer": "D",
+        "choices": {
+            "A": "anemone garden",
+            "B": "coral reef",
+            "C": "kelp forest",
+            "D": "shoal of fish"
+        }
+    },
+    {
+        "video": "activitynetqa/v_W2eumNilwuI.mp4",
+        "question": "what is behind the man in black",
+        "answer": "D",
+        "choices": {
+            "A": "mountain",
+            "B": "garden",
+            "C": "ocean",
+            "D": "wall"
+        }
+    },
+    {
+        "video": "activitynetqa/v_fSBX-gjPblw.mp4",
+        "question": "the direction of the person shooting in the video",
+        "answer": "C",
+        "choices": {
+            "A": "near the fountain on the right",
+            "B": "facing the shore",
+            "C": "front",
+            "D": "towards the tree on the left"
+        }
+    },
+    {
+        "video": "activitynetqa/v_rrpEOrMpBuE.mp4",
+        "question": "what is the left side of the person who started wearing blue clothes at the beginning of the video",
+        "answer": "D",
+        "choices": {
+            "A": "water fountain",
+            "B": "statue",
+            "C": "flower garden",
+            "D": "enclosure"
+        }
+    },
+    {
+        "video": "activitynetqa/v_CwImmV7q1MY.mp4",
+        "question": "what is behind the man in the video",
+        "answer": "C",
+        "choices": {
+            "A": "large bookshelf",
+            "B": "kitchen",
+            "C": "living room",
+            "D": "garden"
+        }
+    },
+    {
+        "video": "activitynetqa/v_vQ82ItCG1x4.mp4",
+        "question": "what is above the sailboat",
+        "answer": "A",
+        "choices": {
+            "A": "canvas",
+            "B": "bird flying",
+            "C": "raincloud forming",
+            "D": "kite floating"
+        }
+    },
+    {
+        "video": "activitynetqa/v_eg2s5lOfKGI.mp4",
+        "question": "what is the top of the clock",
+        "answer": "B",
+        "choices": {
+            "A": "bookshelf",
+            "B": "air conditioner",
+            "C": "painting",
+            "D": "lamp"
+        }
+    },
+    {
+        "video": "activitynetqa/v_d09u-0k3LdE.mp4",
+        "question": "what is the girl in the video",
+        "answer": "C",
+        "choices": {
+            "A": "in the middle of a field",
+            "B": "next to a fountain",
+            "C": "playground",
+            "D": "behind a large rock"
+        }
+    },
+    {
+        "video": "activitynetqa/v_s84PG-JfEwc.mp4",
+        "question": "what is behind the person who is pulling the rope",
+        "answer": "A",
+        "choices": {
+            "A": "shore",
+            "B": "parking lot",
+            "C": "garden",
+            "D": "mountain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_VjMMwpgOCPo.mp4",
+        "question": "what is under the uneven bars",
+        "answer": "C",
+        "choices": {
+            "A": "wooden platform",
+            "B": "tile floor",
+            "C": "gymnastic mat",
+            "D": "grass field"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Av0VsTxJd78.mp4",
+        "question": "what is the skiing person on the right side of the video",
+        "answer": "A",
+        "choices": {
+            "A": "sedan",
+            "B": "park bench next to the skiing person",
+            "C": "tree overshadowing the skier from the right",
+            "D": "bicycle leaning against a rock near the skier"
+        }
+    },
+    {
+        "video": "activitynetqa/v_B4Zp5XN97Gc.mp4",
+        "question": "what is the left side of the person who first digs the ground with a spade",
+        "answer": "C",
+        "choices": {
+            "A": "fence",
+            "B": "rock",
+            "C": "enclosure",
+            "D": "pond"
+        }
+    },
+    {
+        "video": "activitynetqa/v_S7CW-si2JjA.mp4",
+        "question": "what is the left side of the cake at the beginning of the video",
+        "answer": "A",
+        "choices": {
+            "A": "saw",
+            "B": "window with curtains",
+            "C": "small lamp",
+            "D": "vase with flowers"
+        }
+    },
+    {
+        "video": "activitynetqa/v_StGxFfLiYNU.mp4",
+        "question": "what is in front of the sand",
+        "answer": "B",
+        "choices": {
+            "A": "a building",
+            "B": "sea",
+            "C": "a mountain",
+            "D": "a car"
+        }
+    },
+    {
+        "video": "activitynetqa/v_16czjUF1AA4.mp4",
+        "question": "what is behind the person in blue",
+        "answer": "D",
+        "choices": {
+            "A": "a kiosk stand",
+            "B": "a food truck",
+            "C": "a merchandise booth",
+            "D": "spectator seats"
+        }
+    },
+    {
+        "video": "activitynetqa/v_fbr7v8RMkf8.mp4",
+        "question": "what is in front of the ski resort",
+        "answer": "D",
+        "choices": {
+            "A": "lake",
+            "B": "caf\u00e9 terrace",
+            "C": "small parking lot",
+            "D": "wood"
+        }
+    },
+    {
+        "video": "activitynetqa/v_FkbpD1zWdPw.mp4",
+        "question": "what is behind the athlete",
+        "answer": "A",
+        "choices": {
+            "A": "spectator seats",
+            "B": "sports equipment",
+            "C": "a scoreboard",
+            "D": "a concession stand"
+        }
+    },
+    {
+        "video": "activitynetqa/v_LWt2FuU0uC4.mp4",
+        "question": "what is the left side of the athlete after the shot put",
+        "answer": "B",
+        "choices": {
+            "A": "snack stand",
+            "B": "referee",
+            "C": "water bottle",
+            "D": "audience stands"
+        }
+    },
+    {
+        "video": "activitynetqa/v_VvsYrfEvvUw.mp4",
+        "question": "what is on the left side of the exerciser",
+        "answer": "A",
+        "choices": {
+            "A": "grassland",
+            "B": "a small pond",
+            "C": "a wooden fence",
+            "D": "a row of benches"
+        }
+    },
+    {
+        "video": "activitynetqa/v_k6pN0WRr2Ws.mp4",
+        "question": "what is behind the coach",
+        "answer": "B",
+        "choices": {
+            "A": "painting",
+            "B": "shelf",
+            "C": "window",
+            "D": "lamp"
+        }
+    },
+    {
+        "video": "activitynetqa/v_sEcXR5b8HyY.mp4",
+        "question": "what is behind the athlete in red clothes in the prologue",
+        "answer": "A",
+        "choices": {
+            "A": "red baffle",
+            "B": "a large scoreboard",
+            "C": "a line of trees",
+            "D": "a group of cheering fans"
+        }
+    },
+    {
+        "video": "activitynetqa/v_1IbkFHNA7fg.mp4",
+        "question": "what is in front of the person in a plaid shirt",
+        "answer": "B",
+        "choices": {
+            "A": "tree",
+            "B": "basket",
+            "C": "fountain",
+            "D": "lamp"
+        }
+    },
+    {
+        "video": "activitynetqa/v_BD9CAqD1Yf8.mp4",
+        "question": "what is behind the two cars side by side",
+        "answer": "A",
+        "choices": {
+            "A": "house",
+            "B": "playground",
+            "C": "mountain",
+            "D": "lake"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Gs79qz286QE.mp4",
+        "question": "what is the right side of the person wearing blue swimming trunks",
+        "answer": "B",
+        "choices": {
+            "A": "fence",
+            "B": "ladder",
+            "C": "bench",
+            "D": "plant pot"
+        }
+    },
+    {
+        "video": "activitynetqa/v_ej_fSoVO0R8.mp4",
+        "question": "what is in front of the person wearing a white apron",
+        "answer": "D",
+        "choices": {
+            "A": "fireplace",
+            "B": "bookshelf",
+            "C": "flower pot",
+            "D": "table"
+        }
+    },
+    {
+        "video": "activitynetqa/v_idkQqlwyff8.mp4",
+        "question": "what is above the red boy at the beginning of the video",
+        "answer": "D",
+        "choices": {
+            "A": "kite",
+            "B": "cloud",
+            "C": "lamp post",
+            "D": "star shaped toy"
+        }
+    },
+    {
+        "video": "activitynetqa/v_z8x3wUZYOaM.mp4",
+        "question": "what is in front of the person in black clothes",
+        "answer": "B",
+        "choices": {
+            "A": "plant",
+            "B": "table",
+            "C": "painting",
+            "D": "lamp"
+        }
+    },
+    {
+        "video": "activitynetqa/v_uLsq6gQXQPM.mp4",
+        "question": "what is the left side of the slide",
+        "answer": "C",
+        "choices": {
+            "A": "a line of bushes",
+            "B": "a small pond",
+            "C": "grass",
+            "D": "a sand pit"
+        }
+    },
+    {
+        "video": "activitynetqa/v_4JmFOPoKluM.mp4",
+        "question": "what is behind the small door in the video",
+        "answer": "C",
+        "choices": {
+            "A": "lush garden",
+            "B": "stone wall",
+            "C": "wooden house",
+            "D": "sandy beach"
+        }
+    },
+    {
+        "video": "activitynetqa/v_9G172wz5Yqo.mp4",
+        "question": "what is the front of the red girl",
+        "answer": "B",
+        "choices": {
+            "A": "a group of penguins",
+            "B": "snow land",
+            "C": "a large igloo",
+            "D": "an ice sculpture"
+        }
+    },
+    {
+        "video": "activitynetqa/v_1PNjVTM0Zto.mp4",
+        "question": "what is under the person in yellow clothes",
+        "answer": "D",
+        "choices": {
+            "A": "a bright red carpet",
+            "B": "a wooden floor pattern",
+            "C": "a shadow of a second person",
+            "D": "inverted reflection in water"
+        }
+    },
+    {
+        "video": "activitynetqa/v_V08Q-DbT0GQ.mp4",
+        "question": "what is the left side of the fork",
+        "answer": "C",
+        "choices": {
+            "A": "knife",
+            "B": "napkin",
+            "C": "plate",
+            "D": "cup"
+        }
+    },
+    {
+        "video": "activitynetqa/v_4MwnHtlaEUY.mp4",
+        "question": "what is the last person in the video",
+        "answer": "D",
+        "choices": {
+            "A": "riding a skateboard past the fountain",
+            "B": "standing beside a yellow car",
+            "C": "walking a dog across the bridge",
+            "D": "bicycle"
+        }
+    },
+    {
+        "video": "activitynetqa/v_0Um-HgjcnXY.mp4",
+        "question": "what is the left side of the contestant",
+        "answer": "C",
+        "choices": {
+            "A": "camera setup",
+            "B": "curtain",
+            "C": "audience",
+            "D": "stage lights"
+        }
+    },
+    {
+        "video": "activitynetqa/v_03c6QhTMDSs.mp4",
+        "question": "what is behind the person in striped clothes",
+        "answer": "B",
+        "choices": {
+            "A": "a bridge",
+            "B": "club signs",
+            "C": "a bicycle",
+            "D": "a lamp post"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Pv4FwH2TC6Y.mp4",
+        "question": "what is behind the lady",
+        "answer": "A",
+        "choices": {
+            "A": "wall column",
+            "B": "coffee table",
+            "C": "garden path",
+            "D": "water fountain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_X2toGKgWMpE.mp4",
+        "question": "what is in front of the person in white clothes",
+        "answer": "B",
+        "choices": {
+            "A": "flower vase",
+            "B": "ball table",
+            "C": "book shelf",
+            "D": "window grill"
+        }
+    },
+    {
+        "video": "activitynetqa/v_IYLJU87AkOg.mp4",
+        "question": "what is the head of the person wearing the hat",
+        "answer": "A",
+        "choices": {
+            "A": "lamp",
+            "B": "curtain",
+            "C": "vase",
+            "D": "bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_2vrR_5u2buU.mp4",
+        "question": "what is the right side of the runway",
+        "answer": "C",
+        "choices": {
+            "A": "an airplane hangar",
+            "B": "a row of trees",
+            "C": "cameraman",
+            "D": "a parked car"
+        }
+    },
+    {
+        "video": "activitynetqa/v_dKJMP8EmZjw.mp4",
+        "question": "what is the top of the sailing boat",
+        "answer": "D",
+        "choices": {
+            "A": "a small round satellite dish",
+            "B": "a bright red flag flapping in the wind",
+            "C": "an old weather vane spinning furiously",
+            "D": "two little funny birds"
+        }
+    },
+    {
+        "video": "activitynetqa/v_LvTwJTvluHE.mp4",
+        "question": "what is in front of the person wearing green swimming trunks",
+        "answer": "C",
+        "choices": {
+            "A": "a rocky cliff",
+            "B": "a bustling boardwalk",
+            "C": "sandy beach",
+            "D": "a lifeguard tower"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Y_nyVFn70Lk.mp4",
+        "question": "what is in front of the person in green clothes",
+        "answer": "A",
+        "choices": {
+            "A": "kitchen sink",
+            "B": "garden gate",
+            "C": "train station",
+            "D": "bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_A8RQcVFtovg.mp4",
+        "question": "what is in front of the person in gray clothes",
+        "answer": "B",
+        "choices": {
+            "A": "a lake",
+            "B": "grassland",
+            "C": "a parking lot",
+            "D": "a row of benches"
+        }
+    },
+    {
+        "video": "activitynetqa/v__fLhtWSCaSo.mp4",
+        "question": "what is the right side of the person wearing the stripe",
+        "answer": "D",
+        "choices": {
+            "A": "a lamp post near a bench",
+            "B": "a hot dog stand with colorful umbrellas",
+            "C": "a bicycle leaning against the wall",
+            "D": "person wearing a hat"
+        }
+    },
+    {
+        "video": "activitynetqa/v_V2UitlmX7Uo.mp4",
+        "question": "what is behind the standing person",
+        "answer": "B",
+        "choices": {
+            "A": "curtain",
+            "B": "door",
+            "C": "plant",
+            "D": "bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_kyx4MMmBr3A.mp4",
+        "question": "what is under the foot of person wearing red clothes",
+        "answer": "C",
+        "choices": {
+            "A": "a skateboard",
+            "B": "a pair of glasses",
+            "C": "bicycle",
+            "D": "a book"
+        }
+    },
+    {
+        "video": "activitynetqa/v_FaP7unySMOs.mp4",
+        "question": "what is behind the person in the video",
+        "answer": "D",
+        "choices": {
+            "A": "trees",
+            "B": "window",
+            "C": "bookshelf",
+            "D": "wall"
+        }
+    },
+    {
+        "video": "activitynetqa/v_e-Xf13exY4E.mp4",
+        "question": "what is behind the man in black",
+        "answer": "D",
+        "choices": {
+            "A": "statue",
+            "B": "fountain",
+            "C": "bench",
+            "D": "mirror"
+        }
+    },
+    {
+        "video": "activitynetqa/v_A_Sr0mCX2rI.mp4",
+        "question": "what is behind the camouflage",
+        "answer": "D",
+        "choices": {
+            "A": "a mountain",
+            "B": "a tent",
+            "C": "a tree",
+            "D": "vehicle"
+        }
+    },
+    {
+        "video": "activitynetqa/v_MVA568rRjzQ.mp4",
+        "question": "what is behind the person in blue",
+        "answer": "A",
+        "choices": {
+            "A": "glass",
+            "B": "vase",
+            "C": "bookshelf",
+            "D": "painting"
+        }
+    },
+    {
+        "video": "activitynetqa/v_CDecXoRSpIc.mp4",
+        "question": "what is on the table",
+        "answer": "B",
+        "choices": {
+            "A": "lamp, next to the sofa",
+            "B": "tool",
+            "C": "vase, outside the kitchen",
+            "D": "book, under the window"
+        }
+    },
+    {
+        "video": "activitynetqa/v_fMVuGUBs2cs.mp4",
+        "question": "what is the front of this person",
+        "answer": "A",
+        "choices": {
+            "A": "wine glass",
+            "B": "a lamp post",
+            "C": "a potted plant",
+            "D": "a garden bench"
+        }
+    },
+    {
+        "video": "activitynetqa/v_PD-FXR7O9J0.mp4",
+        "question": "what is under the bathtub",
+        "answer": "A",
+        "choices": {
+            "A": "pool",
+            "B": "parking lot",
+            "C": "garden",
+            "D": "basement"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Aj5ncX5G_2w.mp4",
+        "question": "what is in front of the person in the video",
+        "answer": "A",
+        "choices": {
+            "A": "tool",
+            "B": "bench",
+            "C": "tree",
+            "D": "car"
+        }
+    },
+    {
+        "video": "activitynetqa/v_QPEAp7nf2Tk.mp4",
+        "question": "what is the underneath of the person in the striped pants",
+        "answer": "D",
+        "choices": {
+            "A": "a small bridge",
+            "B": "a bench",
+            "C": "a bicycle",
+            "D": "slide"
+        }
+    },
+    {
+        "video": "activitynetqa/v_NvRH4SoF09c.mp4",
+        "question": "what is in front of the person in black clothes",
+        "answer": "B",
+        "choices": {
+            "A": "gazebo",
+            "B": "hillside",
+            "C": "fountain",
+            "D": "billboard"
+        }
+    },
+    {
+        "video": "activitynetqa/v_8tCRp3NKtkI.mp4",
+        "question": "what is on the left of the road",
+        "answer": "B",
+        "choices": {
+            "A": "large oak tree",
+            "B": "grassland",
+            "C": "pond",
+            "D": "small brick house"
+        }
+    },
+    {
+        "video": "activitynetqa/v_ZBP_mLWROZU.mp4",
+        "question": "what is in front of the person in a black coat",
+        "answer": "A",
+        "choices": {
+            "A": "mirror",
+            "B": "lamp",
+            "C": "window",
+            "D": "bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_K1LiXUpoSmI.mp4",
+        "question": "what is the left side of the child",
+        "answer": "D",
+        "choices": {
+            "A": "statue",
+            "B": "fountain",
+            "C": "garden",
+            "D": "enclosure"
+        }
+    },
+    {
+        "video": "activitynetqa/v_OQEKZXv6jSw.mp4",
+        "question": "what is in front of the person wearing red",
+        "answer": "A",
+        "choices": {
+            "A": "runway",
+            "B": "swimming pool",
+            "C": "garden",
+            "D": "statue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_b_c17BmZCCs.mp4",
+        "question": "what is in front of the first row of auditoriums",
+        "answer": "C",
+        "choices": {
+            "A": "statue",
+            "B": "water fountain",
+            "C": "cross bar",
+            "D": "vending machine"
+        }
+    },
+    {
+        "video": "activitynetqa/v_laU1Hvm5Dis.mp4",
+        "question": "what is in front of this person",
+        "answer": "A",
+        "choices": {
+            "A": "guard net",
+            "B": "bicycle",
+            "C": "post",
+            "D": "bench"
+        }
+    },
+    {
+        "video": "activitynetqa/v_SJ7jk5XAjng.mp4",
+        "question": "what is in front of the people in the game",
+        "answer": "C",
+        "choices": {
+            "A": "bridge",
+            "B": "desk",
+            "C": "table",
+            "D": "fountain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_BMy7CBVxH5M.mp4",
+        "question": "what is in front of the horse",
+        "answer": "B",
+        "choices": {
+            "A": "fountain",
+            "B": "house",
+            "C": "bridge",
+            "D": "barn"
+        }
+    },
+    {
+        "video": "activitynetqa/v_I2XqSiNerwg.mp4",
+        "question": "what is behind the white haired person",
+        "answer": "D",
+        "choices": {
+            "A": "gazebo",
+            "B": "garden bench",
+            "C": "flower bed",
+            "D": "telegraph pole"
+        }
+    },
+    {
+        "video": "activitynetqa/v_WdtytUagoJs.mp4",
+        "question": "what is on the left side of the playground",
+        "answer": "B",
+        "choices": {
+            "A": "parking lot",
+            "B": "audiences stand",
+            "C": "flower garden",
+            "D": "concession stand"
+        }
+    },
+    {
+        "video": "activitynetqa/v_z6l9utYlIrw.mp4",
+        "question": "what is in front of the person in red clothes",
+        "answer": "B",
+        "choices": {
+            "A": "bench",
+            "B": "railing",
+            "C": "pond",
+            "D": "fountain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_d_A-ylxNbFU.mp4",
+        "question": "what is behind the person in the video",
+        "answer": "B",
+        "choices": {
+            "A": "door",
+            "B": "wall",
+            "C": "window",
+            "D": "bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_hRsn4nesCQo.mp4",
+        "question": "what is the right side of the person wearing gray clothes",
+        "answer": "A",
+        "choices": {
+            "A": "table",
+            "B": "bookshelf",
+            "C": "vase",
+            "D": "painting"
+        }
+    },
+    {
+        "video": "activitynetqa/v_0iqx7o5WYW8.mp4",
+        "question": "what is behind the pole",
+        "answer": "D",
+        "choices": {
+            "A": "a row of bicycles",
+            "B": "a garden bench",
+            "C": "a bus stop sign",
+            "D": "network"
+        }
+    },
+    {
+        "video": "activitynetqa/v_46NS8dT15Hw.mp4",
+        "question": "what is the right side of the boy in blue",
+        "answer": "C",
+        "choices": {
+            "A": "fountain",
+            "B": "bench",
+            "C": "tree",
+            "D": "bicycle"
+        }
+    },
+    {
+        "video": "activitynetqa/v_2-AMrzL7V-U.mp4",
+        "question": "what is in front of the person wearing red clothes during the long jump",
+        "answer": "A",
+        "choices": {
+            "A": "bunker",
+            "B": "water bottle",
+            "C": "camera stand",
+            "D": "spectator stands"
+        }
+    },
+    {
+        "video": "activitynetqa/v_mXqmRAUsn9U.mp4",
+        "question": "what is in front of the person in blue clothes",
+        "answer": "C",
+        "choices": {
+            "A": "fountain",
+            "B": "statue",
+            "C": "road",
+            "D": "bench"
+        }
+    },
+    {
+        "video": "activitynetqa/v_fh21bbDSVmA.mp4",
+        "question": "what is the right side of the man in a white shirt",
+        "answer": "A",
+        "choices": {
+            "A": "stand",
+            "B": "tall bookshelf",
+            "C": "window sill",
+            "D": "metallic door"
+        }
+    },
+    {
+        "video": "activitynetqa/v_0jdSl5-lMpY.mp4",
+        "question": "what is on the left of the person in white clothes",
+        "answer": "D",
+        "choices": {
+            "A": "bookshelf",
+            "B": "plant",
+            "C": "lamp",
+            "D": "wall"
+        }
+    },
+    {
+        "video": "activitynetqa/v_1px5LTVIR3A.mp4",
+        "question": "what is behind the person in blue",
+        "answer": "C",
+        "choices": {
+            "A": "bookshelf",
+            "B": "window with curtains",
+            "C": "blue screen",
+            "D": "green wall"
+        }
+    },
+    {
+        "video": "activitynetqa/v_H_IfIsKQ3Zw.mp4",
+        "question": "what is behind the person in white",
+        "answer": "D",
+        "choices": {
+            "A": "lake",
+            "B": "mountain",
+            "C": "building",
+            "D": "tree"
+        }
+    },
+    {
+        "video": "activitynetqa/v_A0b_pqaKCX8.mp4",
+        "question": "what is in front of the person in black clothes",
+        "answer": "B",
+        "choices": {
+            "A": "mirror",
+            "B": "glass",
+            "C": "statue",
+            "D": "vase"
+        }
+    },
+    {
+        "video": "activitynetqa/v_ryFSf08mrkA.mp4",
+        "question": "what is in front of the house",
+        "answer": "B",
+        "choices": {
+            "A": "driveway",
+            "B": "garden",
+            "C": "swimming pool",
+            "D": "fountain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_1494UwmvAJM.mp4",
+        "question": "what is in front of the person in white clothes",
+        "answer": "A",
+        "choices": {
+            "A": "flower receptacle",
+            "B": "a garden bench",
+            "C": "a decorative statue",
+            "D": "a fountain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_VZ5R9goklpo.mp4",
+        "question": "what is on the ground",
+        "answer": "A",
+        "choices": {
+            "A": "ball",
+            "B": "a book is lying next to a bench",
+            "C": "a hat is on the ground to the left of a tree",
+            "D": "a pair of shoes is under the chair"
+        }
+    },
+    {
+        "video": "activitynetqa/v_rApbE1VkEjE.mp4",
+        "question": "what is in front of the person wearing a yellow scorpion",
+        "answer": "A",
+        "choices": {
+            "A": "snow",
+            "B": "bench",
+            "C": "statue",
+            "D": "tree"
+        }
+    },
+    {
+        "video": "activitynetqa/v_uty4eGb_vvU.mp4",
+        "question": "what is behind the red woman",
+        "answer": "A",
+        "choices": {
+            "A": "guardrail",
+            "B": "park bench",
+            "C": "marble statue",
+            "D": "water fountain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_30hcRe-5_3M.mp4",
+        "question": "what is on the left of the person in white clothes",
+        "answer": "D",
+        "choices": {
+            "A": "a bench",
+            "B": "a fountain",
+            "C": "a garden",
+            "D": "spectator seats"
+        }
+    },
+    {
+        "video": "activitynetqa/v_UNKf15ALDh8.mp4",
+        "question": "what is the top of the soil",
+        "answer": "B",
+        "choices": {
+            "A": "fallen leaf",
+            "B": "sapling",
+            "C": "small rock",
+            "D": "patch of moss"
+        }
+    },
+    {
+        "video": "activitynetqa/v_AjizhJc_reI.mp4",
+        "question": "what is in front of the person in white clothes",
+        "answer": "A",
+        "choices": {
+            "A": "red clothes",
+            "B": "a green bench",
+            "C": "a blue bicycle",
+            "D": "a yellow sign"
+        }
+    },
+    {
+        "video": "activitynetqa/v_PdwWFueQErM.mp4",
+        "question": "what is in front of the snow sweeper",
+        "answer": "D",
+        "choices": {
+            "A": "building",
+            "B": "bench",
+            "C": "bicycle",
+            "D": "tree"
+        }
+    },
+    {
+        "video": "activitynetqa/v_0XTAq_xvquw.mp4",
+        "question": "what is in front of the video",
+        "answer": "D",
+        "choices": {
+            "A": "a stone fountain",
+            "B": "a large flower garden",
+            "C": "a wooden bench",
+            "D": "ski"
+        }
+    },
+    {
+        "video": "activitynetqa/v_NNiJfr_ChH4.mp4",
+        "question": "what is the left side of the person wearing blue clothes",
+        "answer": "D",
+        "choices": {
+            "A": "a red mailbox",
+            "B": "a green bench",
+            "C": "a yellow bicycle",
+            "D": "men in black"
+        }
+    },
+    {
+        "video": "activitynetqa/v_QX5e5Mla660.mp4",
+        "question": "what is on the right of the person in a green coat",
+        "answer": "B",
+        "choices": {
+            "A": "a vending machine",
+            "B": "audience",
+            "C": "an art sculpture",
+            "D": "a garden fence"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Gfu8e6R6jUU.mp4",
+        "question": "what is under the person with a purple hat",
+        "answer": "D",
+        "choices": {
+            "A": "table",
+            "B": "carpet",
+            "C": "sofa",
+            "D": "stage"
+        }
+    },
+    {
+        "video": "activitynetqa/v_EDDbcCBnTQM.mp4",
+        "question": "what is behind the wooden fence",
+        "answer": "C",
+        "choices": {
+            "A": "river",
+            "B": "house",
+            "C": "tree",
+            "D": "lake"
+        }
+    },
+    {
+        "video": "activitynetqa/v_5dN-MpXG9OE.mp4",
+        "question": "what is the under the athlete in the video",
+        "answer": "C",
+        "choices": {
+            "A": "trampoline",
+            "B": "mattress",
+            "C": "balance beam",
+            "D": "foam pit"
+        }
+    },
+    {
+        "video": "activitynetqa/v_nP1Bk-vJgVg.mp4",
+        "question": "what is the front of the person wearing a white helmet",
+        "answer": "A",
+        "choices": {
+            "A": "ball net",
+            "B": "picnic table",
+            "C": "park bench",
+            "D": "small pond"
+        }
+    },
+    {
+        "video": "activitynetqa/v_45hcc_VI4t4.mp4",
+        "question": "what is under the feet of the girl with yellow hair",
+        "answer": "C",
+        "choices": {
+            "A": "rug",
+            "B": "pair of shoes",
+            "C": "pedal",
+            "D": "small table"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Em4ekFj4XIs.mp4",
+        "question": "what is under the foot of the person wearing black shorts",
+        "answer": "C",
+        "choices": {
+            "A": "riverbank",
+            "B": "sand patch",
+            "C": "meadow",
+            "D": "pile of leaves"
+        }
+    },
+    {
+        "video": "activitynetqa/v_QXN6odBnVmI.mp4",
+        "question": "what is the under the person in a white shirt",
+        "answer": "D",
+        "choices": {
+            "A": "lamp",
+            "B": "bookshelf",
+            "C": "potted plant",
+            "D": "chair"
+        }
+    },
+    {
+        "video": "activitynetqa/v_xMNmGr96O9U.mp4",
+        "question": "what is in front of the person in gray clothes",
+        "answer": "B",
+        "choices": {
+            "A": "a park bench",
+            "B": "bowling",
+            "C": "a bicycle rack",
+            "D": "a small pond"
+        }
+    },
+    {
+        "video": "activitynetqa/v_ys4_S3JHQjs.mp4",
+        "question": "what is in front of the person in black clothes",
+        "answer": "B",
+        "choices": {
+            "A": "a parked bicycle next to a tree",
+            "B": "men in blue",
+            "C": "a small garden with colorful flowers",
+            "D": "a bench with a red bag on it"
+        }
+    },
+    {
+        "video": "activitynetqa/v_9snScUyE8_4.mp4",
+        "question": "what is in front of the yellow-haired girl",
+        "answer": "C",
+        "choices": {
+            "A": "a chair",
+            "B": "a lamp",
+            "C": "window",
+            "D": "a book"
+        }
+    },
+    {
+        "video": "activitynetqa/v_meNgZdu8tIk.mp4",
+        "question": "what is below the sandwich",
+        "answer": "A",
+        "choices": {
+            "A": "mat cloth",
+            "B": "ceramic tile",
+            "C": "wooden table",
+            "D": "glass plate"
+        }
+    },
+    {
+        "video": "activitynetqa/v_T3A88zsRuVs.mp4",
+        "question": "what is behind the person in red",
+        "answer": "B",
+        "choices": {
+            "A": "a flower bed",
+            "B": "guardrail net",
+            "C": "a large mirror",
+            "D": "a bicycle rack"
+        }
+    },
+    {
+        "video": "activitynetqa/v_GOhmWfR8QBM.mp4",
+        "question": "what is behind the people in red clothes",
+        "answer": "B",
+        "choices": {
+            "A": "window",
+            "B": "christmas tree",
+            "C": "bookshelf",
+            "D": "fireplace"
+        }
+    },
+    {
+        "video": "activitynetqa/v_1lwG-y_QCkc.mp4",
+        "question": "what is the right side of the lawn",
+        "answer": "A",
+        "choices": {
+            "A": "tree",
+            "B": "fountain",
+            "C": "bench",
+            "D": "gazebo"
+        }
+    },
+    {
+        "video": "activitynetqa/v__zqj6daJo9U.mp4",
+        "question": "what is on the left of the person in the video",
+        "answer": "C",
+        "choices": {
+            "A": "bookshelf",
+            "B": "lamp",
+            "C": "stool",
+            "D": "plant"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Erje-PwY9hE.mp4",
+        "question": "what is the right side of the little girl with curly hair",
+        "answer": "D",
+        "choices": {
+            "A": "pond",
+            "B": "playground",
+            "C": "cottage",
+            "D": "forest"
+        }
+    },
+    {
+        "video": "activitynetqa/v_b_mWxzi_aps.mp4",
+        "question": "what is in front of the referee",
+        "answer": "C",
+        "choices": {
+            "A": "audience",
+            "B": "podium",
+            "C": "contestant",
+            "D": "camera setup"
+        }
+    },
+    {
+        "video": "activitynetqa/v_rMj2JWNJzkw.mp4",
+        "question": "what is in front of the pavilion",
+        "answer": "C",
+        "choices": {
+            "A": "garden",
+            "B": "fountain",
+            "C": "pool",
+            "D": "statue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_zTHkqpNFGno.mp4",
+        "question": "what is on the left of the person in black coat",
+        "answer": "A",
+        "choices": {
+            "A": "table",
+            "B": "sofa",
+            "C": "window",
+            "D": "bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_9UvVeUYQLgA.mp4",
+        "question": "what is under the people wearing military green clothes",
+        "answer": "C",
+        "choices": {
+            "A": "concrete",
+            "B": "sand",
+            "C": "earth",
+            "D": "grass"
+        }
+    },
+    {
+        "video": "activitynetqa/v_hQqoh0YxJYs.mp4",
+        "question": "what is in front of the field",
+        "answer": "D",
+        "choices": {
+            "A": "pond",
+            "B": "barn",
+            "C": "hill",
+            "D": "stand"
+        }
+    },
+    {
+        "video": "activitynetqa/v_hvrKRg166eQ.mp4",
+        "question": "what is in front of the man holding the paper in his right hand",
+        "answer": "C",
+        "choices": {
+            "A": "bookshelf",
+            "B": "sofa",
+            "C": "table",
+            "D": "lamp"
+        }
+    },
+    {
+        "video": "activitynetqa/v_vezvHLPR3P0.mp4",
+        "question": "what is under the feet of the woman in white clothes",
+        "answer": "B",
+        "choices": {
+            "A": "a patch of sand",
+            "B": "circular site",
+            "C": "a bouquet of flowers",
+            "D": "a wooden platform"
+        }
+    },
+    {
+        "video": "activitynetqa/v_iAes5SVj_Fg.mp4",
+        "question": "what is the right side of the man wearing black pants",
+        "answer": "D",
+        "choices": {
+            "A": "bookshelf",
+            "B": "chair",
+            "C": "plant",
+            "D": "mirror"
+        }
+    },
+    {
+        "video": "activitynetqa/v_m73Cod-PmMQ.mp4",
+        "question": "what is the under the person in red clothes",
+        "answer": "A",
+        "choices": {
+            "A": "chair",
+            "B": "bench",
+            "C": "bicycle",
+            "D": "lamp post"
+        }
+    },
+    {
+        "video": "activitynetqa/v_FPf7mAgdy0I.mp4",
+        "question": "what is behind the yellow-haired woman",
+        "answer": "C",
+        "choices": {
+            "A": "bookshelf",
+            "B": "lamp",
+            "C": "window",
+            "D": "painting"
+        }
+    },
+    {
+        "video": "activitynetqa/v_LYTWYSqsTCE.mp4",
+        "question": "what is the right side of the person wearing gray clothes",
+        "answer": "D",
+        "choices": {
+            "A": "small cafe terrace",
+            "B": "fountain",
+            "C": "garden with flowers",
+            "D": "masonry"
+        }
+    },
+    {
+        "video": "activitynetqa/v_0lbv0AE5gJQ.mp4",
+        "question": "what is behind the disabled in the video",
+        "answer": "A",
+        "choices": {
+            "A": "house",
+            "B": "garden",
+            "C": "water fountain",
+            "D": "statue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_pMtu7fOHdII.mp4",
+        "question": "what is in front of the onlookers",
+        "answer": "C",
+        "choices": {
+            "A": "water fountain",
+            "B": "flower garden",
+            "C": "enclosure",
+            "D": "statue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_TGffgRXc1eQ.mp4",
+        "question": "what is behind the person in blue",
+        "answer": "B",
+        "choices": {
+            "A": "window",
+            "B": "screen",
+            "C": "bookshelf",
+            "D": "door"
+        }
+    },
+    {
+        "video": "activitynetqa/v_nYl_tYmijlM.mp4",
+        "question": "what is in front of the person in white clothes",
+        "answer": "D",
+        "choices": {
+            "A": "table",
+            "B": "window",
+            "C": "lamp",
+            "D": "drum"
+        }
+    },
+    {
+        "video": "activitynetqa/v_rGOOlcdpfLg.mp4",
+        "question": "what is behind the person wearing a plaid jacket",
+        "answer": "A",
+        "choices": {
+            "A": "wall",
+            "B": "garden",
+            "C": "window",
+            "D": "bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_uM7QSskmloo.mp4",
+        "question": "what is in front of the house",
+        "answer": "A",
+        "choices": {
+            "A": "tree",
+            "B": "fountain",
+            "C": "garden statue",
+            "D": "swimming pool"
+        }
+    },
+    {
+        "video": "activitynetqa/v_0q9yZPTBbus.mp4",
+        "question": "what is in front of the person in red clothes",
+        "answer": "B",
+        "choices": {
+            "A": "piano",
+            "B": "mirror",
+            "C": "lamp",
+            "D": "bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_3dWw9GLcOeA.mp4",
+        "question": "what is the top of the roof",
+        "answer": "A",
+        "choices": {
+            "A": "snow",
+            "B": "a garden",
+            "C": "a swimming pool",
+            "D": "solar panels"
+        }
+    },
+    {
+        "video": "activitynetqa/v_p1QGn0IzfW0.mp4",
+        "question": "what is the following when the person in red takes off",
+        "answer": "D",
+        "choices": {
+            "A": "road",
+            "B": "balcony",
+            "C": "cliff",
+            "D": "springboard"
+        }
+    },
+    {
+        "video": "activitynetqa/v_aH39BSM0-Ag.mp4",
+        "question": "what is the under the person in gray clothes",
+        "answer": "D",
+        "choices": {
+            "A": "rug",
+            "B": "table",
+            "C": "sofa",
+            "D": "chair"
+        }
+    },
+    {
+        "video": "activitynetqa/v_d6gGZFQOxOg.mp4",
+        "question": "what is on the right of the person in green clothes",
+        "answer": "C",
+        "choices": {
+            "A": "fountain",
+            "B": "tree",
+            "C": "wall",
+            "D": "bench"
+        }
+    },
+    {
+        "video": "activitynetqa/v_bBRzBh0gAZQ.mp4",
+        "question": "what is behind the contestants",
+        "answer": "B",
+        "choices": {
+            "A": "a large fountain",
+            "B": "personal information",
+            "C": "a mural of a city skyline",
+            "D": "a row of potted plants"
+        }
+    },
+    {
+        "video": "activitynetqa/v_1vTHJMMPZN0.mp4",
+        "question": "what is below the surfboard",
+        "answer": "B",
+        "choices": {
+            "A": "rock",
+            "B": "seawater",
+            "C": "sand",
+            "D": "coral"
+        }
+    },
+    {
+        "video": "activitynetqa/v_IGPZFun1Ok4.mp4",
+        "question": "what is the front of the red man",
+        "answer": "D",
+        "choices": {
+            "A": "in front of a green bench",
+            "B": "the backside of a statue",
+            "C": "near the corner of a large window",
+            "D": "bet"
+        }
+    },
+    {
+        "video": "activitynetqa/v_pVuuVHA3RVw.mp4",
+        "question": "what is on the right of the person in gray clothes",
+        "answer": "A",
+        "choices": {
+            "A": "surround masses",
+            "B": "a bicycle rack",
+            "C": "a water fountain",
+            "D": "an information kiosk"
+        }
+    },
+    {
+        "video": "activitynetqa/v_U2eN4DbVLfE.mp4",
+        "question": "what is in front of the person in a gray coat",
+        "answer": "D",
+        "choices": {
+            "A": "street lamp",
+            "B": "tree",
+            "C": "park bench",
+            "D": "table"
+        }
+    },
+    {
+        "video": "activitynetqa/v_WNgI2qBvPrY.mp4",
+        "question": "what is on the white table",
+        "answer": "D",
+        "choices": {
+            "A": "a bowl of fruit is on the table next to the cake",
+            "B": "a vase with flowers is on the table along with the cake",
+            "C": "a stack of books is on the corner of the table with the cake",
+            "D": "cake"
+        }
+    },
+    {
+        "video": "activitynetqa/v_cTxVTEzQDr8.mp4",
+        "question": "what is the right side of the person wearing sunglasses",
+        "answer": "B",
+        "choices": {
+            "A": "open field",
+            "B": "large building",
+            "C": "garden",
+            "D": "parking lot"
+        }
+    },
+    {
+        "video": "activitynetqa/v_nciIPwJTok8.mp4",
+        "question": "what is in front of the person in blue clothes",
+        "answer": "A",
+        "choices": {
+            "A": "vehicle",
+            "B": "bench",
+            "C": "building",
+            "D": "garden"
+        }
+    },
+    {
+        "video": "activitynetqa/v_bWZkD_s1940.mp4",
+        "question": "what is on the right side of the white sign",
+        "answer": "B",
+        "choices": {
+            "A": "bus stop",
+            "B": "sound",
+            "C": "waterfall",
+            "D": "garden"
+        }
+    },
+    {
+        "video": "activitynetqa/v_i5qTK0mInTc.mp4",
+        "question": "what is in front of the person in yellow clothes",
+        "answer": "C",
+        "choices": {
+            "A": "guitar",
+            "B": "bicycle",
+            "C": "table",
+            "D": "lamp"
+        }
+    },
+    {
+        "video": "activitynetqa/v_JGxf-jke0e8.mp4",
+        "question": "what is the left side of the green basin",
+        "answer": "A",
+        "choices": {
+            "A": "yellow basin",
+            "B": "pink towel",
+            "C": "blue bucket",
+            "D": "red shelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_fh9d3gpT-8I.mp4",
+        "question": "what is in front of the person in red coat",
+        "answer": "A",
+        "choices": {
+            "A": "drum kit",
+            "B": "bookshelf",
+            "C": "piano",
+            "D": "window"
+        }
+    },
+    {
+        "video": "activitynetqa/v_zxpQHLwZCug.mp4",
+        "question": "what is in front of the person in blue clothes",
+        "answer": "C",
+        "choices": {
+            "A": "bench",
+            "B": "pathway",
+            "C": "wood",
+            "D": "flowerbed"
+        }
+    },
+    {
+        "video": "activitynetqa/v_-pK2JheWido.mp4",
+        "question": "what is behind the person who appears at the beginning of the video",
+        "answer": "A",
+        "choices": {
+            "A": "wood",
+            "B": "a gallery of paintings",
+            "C": "a stone fountain",
+            "D": "a row of bicycles"
+        }
+    },
+    {
+        "video": "activitynetqa/v__2txWbQfJrY.mp4",
+        "question": "what is the right side of the person wearing short sleeves",
+        "answer": "C",
+        "choices": {
+            "A": "wooden bench",
+            "B": "metal railing",
+            "C": "ceramic tile",
+            "D": "potted plant"
+        }
+    },
+    {
+        "video": "activitynetqa/v_C5SXR9nMY3I.mp4",
+        "question": "what is on the left of the chair",
+        "answer": "D",
+        "choices": {
+            "A": "fireplace",
+            "B": "bookshelf",
+            "C": "painting",
+            "D": "christmas tree"
+        }
+    },
+    {
+        "video": "activitynetqa/v_JbW8efAOOt0.mp4",
+        "question": "what is the right side of the stereo",
+        "answer": "B",
+        "choices": {
+            "A": "bookshelf",
+            "B": "sofa",
+            "C": "dining table",
+            "D": "potted plant"
+        }
+    },
+    {
+        "video": "activitynetqa/v_P2xT7dlyX8Y.mp4",
+        "question": "what is in front of the person who plays the violin on the stage",
+        "answer": "B",
+        "choices": {
+            "A": "a series of bright spotlights",
+            "B": "audience",
+            "C": "a line of musicians",
+            "D": "a row of plants"
+        }
+    },
+    {
+        "video": "activitynetqa/v_ojTFTIwsa_c.mp4",
+        "question": "what is in front of the person in black clothes",
+        "answer": "B",
+        "choices": {
+            "A": "fountain",
+            "B": "vehicle",
+            "C": "garden path",
+            "D": "stone bench"
+        }
+    },
+    {
+        "video": "activitynetqa/v_KXMZHfCwTO0.mp4",
+        "question": "what is behind the bald man",
+        "answer": "B",
+        "choices": {
+            "A": "small garden",
+            "B": "vehicle",
+            "C": "art sculpture",
+            "D": "water fountain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_7-UlUnaBjXU.mp4",
+        "question": "what is on the right side of the off-road motorcycle",
+        "answer": "D",
+        "choices": {
+            "A": "a small tent",
+            "B": "a wooden fence",
+            "C": "a tree stump",
+            "D": "audience"
+        }
+    },
+    {
+        "video": "activitynetqa/v_mMm1LfVb8Pg.mp4",
+        "question": "what is on the right of the person in green clothes",
+        "answer": "B",
+        "choices": {
+            "A": "bicycle",
+            "B": "fence",
+            "C": "lamp post",
+            "D": "bench"
+        }
+    },
+    {
+        "video": "activitynetqa/v_gZB_XrTnDCI.mp4",
+        "question": "what is under the people in the green clothes",
+        "answer": "B",
+        "choices": {
+            "A": "scooter",
+            "B": "bicycle",
+            "C": "skateboard",
+            "D": "rollerblades"
+        }
+    },
+    {
+        "video": "activitynetqa/v_rM02KWikOo8.mp4",
+        "question": "what is in front of the child",
+        "answer": "B",
+        "choices": {
+            "A": "fence",
+            "B": "rope",
+            "C": "tree",
+            "D": "bush"
+        }
+    },
+    {
+        "video": "activitynetqa/v_mixxaL3Bdv8.mp4",
+        "question": "what's behind the person in orange",
+        "answer": "A",
+        "choices": {
+            "A": "grassland",
+            "B": "a row of tall sunflowers",
+            "C": "a large boulder",
+            "D": "a flowing river"
+        }
+    },
+    {
+        "video": "activitynetqa/v_ufrTSC3Dewg.mp4",
+        "question": "what is on the right of the person in green clothes",
+        "answer": "A",
+        "choices": {
+            "A": "grassland",
+            "B": "a wooden bench",
+            "C": "a small lake",
+            "D": "a boulder"
+        }
+    },
+    {
+        "video": "activitynetqa/v_qiTQ02NDSlQ.mp4",
+        "question": "what is in front of the person in a blue coat",
+        "answer": "C",
+        "choices": {
+            "A": "a suitcase",
+            "B": "a chair",
+            "C": "bread",
+            "D": "a small table"
+        }
+    },
+    {
+        "video": "activitynetqa/v_JvPVYSb_5o8.mp4",
+        "question": "what is behind the sitting person",
+        "answer": "A",
+        "choices": {
+            "A": "wall",
+            "B": "window",
+            "C": "bookshelf",
+            "D": "door"
+        }
+    },
+    {
+        "video": "activitynetqa/v_g1na24Bd5Rs.mp4",
+        "question": "what is in front of the person in gray clothes",
+        "answer": "D",
+        "choices": {
+            "A": "lamp post",
+            "B": "carpet pattern",
+            "C": "window frame",
+            "D": "table"
+        }
+    },
+    {
+        "video": "activitynetqa/v_jibbgUBuuSA.mp4",
+        "question": "what is below the height measuring rod",
+        "answer": "A",
+        "choices": {
+            "A": "pads",
+            "B": "a small bench",
+            "C": "a folded mat",
+            "D": "shoes"
+        }
+    },
+    {
+        "video": "activitynetqa/v_W9H2qVnIWXs.mp4",
+        "question": "what is behind the dog in the rubber band",
+        "answer": "C",
+        "choices": {
+            "A": "garden shed",
+            "B": "oak tree",
+            "C": "wall",
+            "D": "park bench"
+        }
+    },
+    {
+        "video": "activitynetqa/v_xND_kp-aYXw.mp4",
+        "question": "what is on the right of the person in black clothes",
+        "answer": "B",
+        "choices": {
+            "A": "bookshelf",
+            "B": "piano frame",
+            "C": "vase",
+            "D": "window"
+        }
+    },
+    {
+        "video": "activitynetqa/v_n9EdHGz7ArI.mp4",
+        "question": "what is in front of the person in the video",
+        "answer": "B",
+        "choices": {
+            "A": "a bicycle",
+            "B": "table",
+            "C": "a large tree",
+            "D": "a fountain"
+        }
+    },
+    {
+        "video": "activitynetqa/v__QBTD1bLSI0.mp4",
+        "question": "what is in front of the person in white clothes",
+        "answer": "A",
+        "choices": {
+            "A": "wash basin",
+            "B": "wooden chair",
+            "C": "small garden",
+            "D": "bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Y7aacWy3WDo.mp4",
+        "question": "what is behind the person in yellow",
+        "answer": "B",
+        "choices": {
+            "A": "mountain",
+            "B": "kitchen",
+            "C": "garden",
+            "D": "parking lot"
+        }
+    },
+    {
+        "video": "activitynetqa/v_xuvp0jKMqRU.mp4",
+        "question": "what is behind the man wearing glasses",
+        "answer": "B",
+        "choices": {
+            "A": "a fountain",
+            "B": "pumpkin shed",
+            "C": "a bicycle rack",
+            "D": "a small garden"
+        }
+    },
+    {
+        "video": "activitynetqa/v_-eJT11AuOa0.mp4",
+        "question": "what animal is the logo of the video",
+        "answer": "D",
+        "choices": {
+            "A": "Under the dog is a rabbit",
+            "B": "To the right of the dog is a bird",
+            "C": "Behind the dog is a cat",
+            "D": "dog"
+        }
+    },
+    {
+        "video": "activitynetqa/v_836UrVGw6GI.mp4",
+        "question": "what is under the person in white clothes",
+        "answer": "D",
+        "choices": {
+            "A": "hoverboard",
+            "B": "bicycle",
+            "C": "yoga mat",
+            "D": "skate"
+        }
+    },
+    {
+        "video": "activitynetqa/v_JY9oOSfjj_E.mp4",
+        "question": "what is the left side of the ski run",
+        "answer": "B",
+        "choices": {
+            "A": "small pond",
+            "B": "tree",
+            "C": "bench",
+            "D": "cabin"
+        }
+    },
+    {
+        "video": "activitynetqa/v_OysON6LbF6Y.mp4",
+        "question": "what is on the cupboard",
+        "answer": "B",
+        "choices": {
+            "A": "lamp",
+            "B": "bottle",
+            "C": "vase",
+            "D": "clock"
+        }
+    },
+    {
+        "video": "activitynetqa/v_wE9sQbGdeAk.mp4",
+        "question": "what is behind the diver",
+        "answer": "D",
+        "choices": {
+            "A": "coral reef",
+            "B": "sunken ship",
+            "C": "sea turtle",
+            "D": "oxygen bottle"
+        }
+    },
+    {
+        "video": "activitynetqa/v_rCLGy2NA0aE.mp4",
+        "question": "what is on the left of the person in blue",
+        "answer": "A",
+        "choices": {
+            "A": "trash",
+            "B": "a bicycle",
+            "C": "a lamp post",
+            "D": "a small bench"
+        }
+    },
+    {
+        "video": "activitynetqa/v_k3WPc9HmtLM.mp4",
+        "question": "what is in front of the sitting person at the beginning",
+        "answer": "D",
+        "choices": {
+            "A": "television",
+            "B": "piano",
+            "C": "bookshelf",
+            "D": "table"
+        }
+    },
+    {
+        "video": "activitynetqa/v_N4qhryre_TE.mp4",
+        "question": "what is the left side of the person wearing a black jacket",
+        "answer": "A",
+        "choices": {
+            "A": "audience",
+            "B": "a row of potted plants",
+            "C": "a small stage with a microphone",
+            "D": "a bookshelf filled with awards"
+        }
+    },
+    {
+        "video": "activitynetqa/v_KZ1NEffR2Qg.mp4",
+        "question": "what is the left side of the person wearing red pants",
+        "answer": "D",
+        "choices": {
+            "A": "bus stop",
+            "B": "water fountain",
+            "C": "flower shop",
+            "D": "street lamp"
+        }
+    },
+    {
+        "video": "activitynetqa/v_AwcM25G1h-g.mp4",
+        "question": "what is on the left side of the male host",
+        "answer": "A",
+        "choices": {
+            "A": "female host",
+            "B": "a painting",
+            "C": "a lamp",
+            "D": "a bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_aPI0nPvzJlE.mp4",
+        "question": "what is behind the person in the video",
+        "answer": "C",
+        "choices": {
+            "A": "forest",
+            "B": "lake",
+            "C": "mountain",
+            "D": "tree"
+        }
+    },
+    {
+        "video": "activitynetqa/v_OcL7ZhBCkxQ.mp4",
+        "question": "what is the front of the person wearing black pants",
+        "answer": "B",
+        "choices": {
+            "A": "a white bench",
+            "B": "ground",
+            "C": "a red bicycle",
+            "D": "a small cart"
+        }
+    },
+    {
+        "video": "activitynetqa/v_H_JLBvfP88U.mp4",
+        "question": "what is behind the railing",
+        "answer": "B",
+        "choices": {
+            "A": "a garden",
+            "B": "audience",
+            "C": "a playground",
+            "D": "a parking lot"
+        }
+    },
+    {
+        "video": "activitynetqa/v_KPRymTsPCC0.mp4",
+        "question": "what is behind the boys wearing glasses",
+        "answer": "D",
+        "choices": {
+            "A": "a parking lot",
+            "B": "a forest",
+            "C": "an ocean",
+            "D": "desert"
+        }
+    },
+    {
+        "video": "activitynetqa/v_YVqRQDkdA8U.mp4",
+        "question": "what is behind the man in black pants",
+        "answer": "B",
+        "choices": {
+            "A": "a row of parked bicycles",
+            "B": "ground",
+            "C": "a large water fountain",
+            "D": "a tall lamppost"
+        }
+    },
+    {
+        "video": "activitynetqa/v_oT6WUU8-dgs.mp4",
+        "question": "what is in front of the person in the video",
+        "answer": "A",
+        "choices": {
+            "A": "table",
+            "B": "a sofa is in front of the person",
+            "C": "a bookshelf is in front of the person",
+            "D": "a piano is in front of the person"
+        }
+    },
+    {
+        "video": "activitynetqa/v_NjXCZYO3zwU.mp4",
+        "question": "what is behind the person in the video",
+        "answer": "C",
+        "choices": {
+            "A": "a garden",
+            "B": "a window",
+            "C": "chair",
+            "D": "a bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Es3PxD9oi4I.mp4",
+        "question": "what's on the side of the pool",
+        "answer": "C",
+        "choices": {
+            "A": "A bicycle",
+            "B": "A beach ball",
+            "C": "2 people",
+            "D": "A deck chair"
+        }
+    },
+    {
+        "video": "activitynetqa/v_96vBhCFBbQk.mp4",
+        "question": "what is behind the person in blue",
+        "answer": "A",
+        "choices": {
+            "A": "table",
+            "B": "window",
+            "C": "bookshelf",
+            "D": "stairs"
+        }
+    },
+    {
+        "video": "activitynetqa/v_gCHo9vxfEzM.mp4",
+        "question": "what is in front of the person wearing the red dress at the most front",
+        "answer": "C",
+        "choices": {
+            "A": "grand piano",
+            "B": "statue",
+            "C": "audience",
+            "D": "painting"
+        }
+    },
+    {
+        "video": "activitynetqa/v_1YU4MSK80cQ.mp4",
+        "question": "what is behind the man in a black vest",
+        "answer": "A",
+        "choices": {
+            "A": "horizontal bar",
+            "B": "doorway",
+            "C": "potted plant",
+            "D": "bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_04qggWACGWk.mp4",
+        "question": "what is in front of the person in the video",
+        "answer": "C",
+        "choices": {
+            "A": "garden fence",
+            "B": "mailbox stand",
+            "C": "bathing pool",
+            "D": "garden fence"
+        }
+    },
+    {
+        "video": "activitynetqa/v_rnI9vGr5V1k.mp4",
+        "question": "what is the front of the person wearing the plaid clothes",
+        "answer": "D",
+        "choices": {
+            "A": "workbench",
+            "B": "conveyor belt",
+            "C": "toolbox",
+            "D": "grinder machine"
+        }
+    },
+    {
+        "video": "activitynetqa/v_7BFbmEY3BNw.mp4",
+        "question": "what is the top of the video at the beginning of the ship",
+        "answer": "A",
+        "choices": {
+            "A": "cave",
+            "B": "mountain peak",
+            "C": "forest canopy",
+            "D": "cloud formation"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Z2gpcqXWNek.mp4",
+        "question": "what is in front of the person in the video",
+        "answer": "B",
+        "choices": {
+            "A": "a small garden with flowers",
+            "B": "dog",
+            "C": "a bicycle resting against the wall",
+            "D": "a bench under a large tree"
+        }
+    },
+    {
+        "video": "activitynetqa/v_qSP3_C7QWpU.mp4",
+        "question": "what is on the right side of the stage",
+        "answer": "A",
+        "choices": {
+            "A": "audience",
+            "B": "curtain",
+            "C": "lighting equipment",
+            "D": "speakers"
+        }
+    },
+    {
+        "video": "activitynetqa/v_DIVaPURJHPo.mp4",
+        "question": "what is the woman's right side when skipping",
+        "answer": "C",
+        "choices": {
+            "A": "bookshelf",
+            "B": "vase",
+            "C": "table",
+            "D": "lamp"
+        }
+    },
+    {
+        "video": "activitynetqa/v_RtF6TGqwa7Y.mp4",
+        "question": "what is behind the sitting person",
+        "answer": "C",
+        "choices": {
+            "A": "door",
+            "B": "bookshelf",
+            "C": "window",
+            "D": "lamp"
+        }
+    },
+    {
+        "video": "activitynetqa/v_3PsxzgeMv5w.mp4",
+        "question": "what is in front of the person in black clothes",
+        "answer": "B",
+        "choices": {
+            "A": "a bicycle rack",
+            "B": "bowling pin",
+            "C": "shelf full of books",
+            "D": "a small fountain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_penDFcEdu7U.mp4",
+        "question": "what is on the right of the person in white clothes",
+        "answer": "B",
+        "choices": {
+            "A": "fountain",
+            "B": "tree",
+            "C": "bench",
+            "D": "bicycle"
+        }
+    },
+    {
+        "video": "activitynetqa/v_uLphvdhunTY.mp4",
+        "question": "what is behind the person in the video",
+        "answer": "A",
+        "choices": {
+            "A": "wall",
+            "B": "car",
+            "C": "mountain",
+            "D": "garden"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Npj77L31bhw.mp4",
+        "question": "what is the front of the person wearing the hat",
+        "answer": "C",
+        "choices": {
+            "A": "bicycle",
+            "B": "backpack",
+            "C": "glove",
+            "D": "lamp post"
+        }
+    },
+    {
+        "video": "activitynetqa/v_ZLJ2BmBkLJg.mp4",
+        "question": "what's behind the person in the black coat ",
+        "answer": "C",
+        "choices": {
+            "A": "a small window",
+            "B": "a colorful painting",
+            "C": "plain white cloth",
+            "D": "a stack of books"
+        }
+    },
+    {
+        "video": "activitynetqa/v_MAYrBia9Xnw.mp4",
+        "question": "what is behind the child",
+        "answer": "A",
+        "choices": {
+            "A": "television",
+            "B": "bookshelf",
+            "C": "window",
+            "D": "painting"
+        }
+    },
+    {
+        "video": "activitynetqa/v_54TIARWo-S8.mp4",
+        "question": "what is behind the person wearing yellow clothes",
+        "answer": "D",
+        "choices": {
+            "A": "garden",
+            "B": "cafeteria",
+            "C": "library",
+            "D": "playground"
+        }
+    },
+    {
+        "video": "activitynetqa/v_huFOZ2BiM_k.mp4",
+        "question": "what is the left side of the uneven bars",
+        "answer": "A",
+        "choices": {
+            "A": "dry powder plate",
+            "B": "gymnast's bag",
+            "C": "water bottle",
+            "D": "jumping mat"
+        }
+    },
+    {
+        "video": "activitynetqa/v_jDlvGWOdcqU.mp4",
+        "question": "what is underneath the undersupported car",
+        "answer": "A",
+        "choices": {
+            "A": "lifting jack",
+            "B": "a stack of bricks",
+            "C": "a toolbox",
+            "D": "a wooden crate"
+        }
+    },
+    {
+        "video": "activitynetqa/v_4j_LRkB4T6c.mp4",
+        "question": "what is behind the person in red",
+        "answer": "A",
+        "choices": {
+            "A": "mirror",
+            "B": "bookshelf",
+            "C": "plant",
+            "D": "window"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Dd5yTxwKzXw.mp4",
+        "question": "what is behind the girl in the video",
+        "answer": "D",
+        "choices": {
+            "A": "wardrobe",
+            "B": "window",
+            "C": "bookshelf",
+            "D": "hair stylist"
+        }
+    },
+    {
+        "video": "activitynetqa/v_tgPD2SZo_DY.mp4",
+        "question": "what is the right side of the person wearing blue clothes",
+        "answer": "D",
+        "choices": {
+            "A": "table",
+            "B": "bookshelf",
+            "C": "window",
+            "D": "wall"
+        }
+    },
+    {
+        "video": "activitynetqa/v_-crpjVnFv0U.mp4",
+        "question": "what is in front of the person dancing in the video",
+        "answer": "D",
+        "choices": {
+            "A": "a small car",
+            "B": "a fountain",
+            "C": "a tree",
+            "D": "audience"
+        }
+    },
+    {
+        "video": "activitynetqa/v_SPjv6P5fxug.mp4",
+        "question": "what is in front of the bald person",
+        "answer": "A",
+        "choices": {
+            "A": "enclosure",
+            "B": "lamp post",
+            "C": "bench",
+            "D": "bicycle"
+        }
+    },
+    {
+        "video": "activitynetqa/v_er5jUsRr4y0.mp4",
+        "question": "what is behind the fat man",
+        "answer": "D",
+        "choices": {
+            "A": "grandfather clock",
+            "B": "bookcase",
+            "C": "large window",
+            "D": "mirror"
+        }
+    },
+    {
+        "video": "activitynetqa/v_sfbgZOHLkII.mp4",
+        "question": "what is on the right of the woman in the video",
+        "answer": "B",
+        "choices": {
+            "A": "lamp post",
+            "B": "row of fences",
+            "C": "flower garden",
+            "D": "park bench"
+        }
+    },
+    {
+        "video": "activitynetqa/v_98ukqD62X5s.mp4",
+        "question": "what is under the person in yellow clothes",
+        "answer": "C",
+        "choices": {
+            "A": "a grassy patch",
+            "B": "a wooden floor",
+            "C": "rubber runway",
+            "D": "a sandy beach"
+        }
+    },
+    {
+        "video": "activitynetqa/v_K1OsjA-f17E.mp4",
+        "question": "what is behind the person wearing sunglasses",
+        "answer": "B",
+        "choices": {
+            "A": "statue",
+            "B": "car",
+            "C": "bench",
+            "D": "fountain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_HTSxgkgecS0.mp4",
+        "question": "what is in front of the ducks",
+        "answer": "B",
+        "choices": {
+            "A": "a bicycle",
+            "B": "river",
+            "C": "a picnic blanket",
+            "D": "a barn"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Pho9Hgdvc0g.mp4",
+        "question": "what is the left side of the man on the bridge",
+        "answer": "A",
+        "choices": {
+            "A": "dog",
+            "B": "a bicycle",
+            "C": "a parked car",
+            "D": "a lamp post"
+        }
+    },
+    {
+        "video": "activitynetqa/v_9ZVWD0ZKXZg.mp4",
+        "question": "what is in front of the person in red clothes",
+        "answer": "B",
+        "choices": {
+            "A": "lamp post",
+            "B": "stone",
+            "C": "bench",
+            "D": "fountain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_uktUeF3Fy7o.mp4",
+        "question": "what is on the left of the river",
+        "answer": "A",
+        "choices": {
+            "A": "tree",
+            "B": "bridge",
+            "C": "cabin",
+            "D": "hill"
+        }
+    },
+    {
+        "video": "activitynetqa/v_xizEiQZfJa4.mp4",
+        "question": "what is in front of the person in white clothes",
+        "answer": "D",
+        "choices": {
+            "A": "A garden",
+            "B": "A large window",
+            "C": "A bookshelf",
+            "D": "wall"
+        }
+    },
+    {
+        "video": "activitynetqa/v_AjqnGUbsduw.mp4",
+        "question": "what is in front of the person in black clothes",
+        "answer": "B",
+        "choices": {
+            "A": "a parked bicycle",
+            "B": "white man",
+            "C": "a large statue",
+            "D": "a wooden bench"
+        }
+    },
+    {
+        "video": "activitynetqa/v_cYvFlrAnlzA.mp4",
+        "question": "what is behind the people in white clothes",
+        "answer": "A",
+        "choices": {
+            "A": "television",
+            "B": "vast window view",
+            "C": "grand piano",
+            "D": "large bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_kistIwzeQOU.mp4",
+        "question": "what is behind the man in white",
+        "answer": "D",
+        "choices": {
+            "A": "bookshelf",
+            "B": "painting",
+            "C": "window",
+            "D": "door"
+        }
+    },
+    {
+        "video": "activitynetqa/v_J9KjpzKM8oc.mp4",
+        "question": "what is under the butts of all the people with helmets in the video",
+        "answer": "A",
+        "choices": {
+            "A": "drifting air cushion",
+            "B": "sliding wooden platform",
+            "C": "moving sand dune",
+            "D": "shifting rock surface"
+        }
+    },
+    {
+        "video": "activitynetqa/v_JB-ynj70saA.mp4",
+        "question": "what is behind the person in black pants",
+        "answer": "B",
+        "choices": {
+            "A": "window",
+            "B": "door",
+            "C": "bookshelf",
+            "D": "cabinet"
+        }
+    },
+    {
+        "video": "activitynetqa/v_7CM2OYr-Csw.mp4",
+        "question": "what is under the blond girl's foot",
+        "answer": "B",
+        "choices": {
+            "A": "sand",
+            "B": "lawn",
+            "C": "pond",
+            "D": "cobblestone path"
+        }
+    },
+    {
+        "video": "activitynetqa/v_3LwQ2yq85LU.mp4",
+        "question": "what is behind the fencing person in the second picture",
+        "answer": "D",
+        "choices": {
+            "A": "a small fountain",
+            "B": "a stack of books",
+            "C": "a garden path",
+            "D": "painted wall"
+        }
+    },
+    {
+        "video": "activitynetqa/v_U2cCOj3LiAA.mp4",
+        "question": "what is behind the person in the video",
+        "answer": "A",
+        "choices": {
+            "A": "treadmill",
+            "B": "kitchen counter",
+            "C": "window",
+            "D": "bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_prBiREYQ2vQ.mp4",
+        "question": "what is behind the person in yellow",
+        "answer": "A",
+        "choices": {
+            "A": "wood",
+            "B": "a bicycle",
+            "C": "a cat",
+            "D": "a garden hose"
+        }
+    },
+    {
+        "video": "activitynetqa/v__CIoHeD7KQc.mp4",
+        "question": "what is under the person in the video",
+        "answer": "D",
+        "choices": {
+            "A": "footstool",
+            "B": "rug",
+            "C": "table",
+            "D": "chair"
+        }
+    },
+    {
+        "video": "activitynetqa/v_KT8DUDFc3Xg.mp4",
+        "question": "what is behind the person wearing red",
+        "answer": "C",
+        "choices": {
+            "A": "an aquarium with colorful fish",
+            "B": "a painting of a city skyline",
+            "C": "lot of boxes",
+            "D": "a small bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_yGTIEmZ7S2w.mp4",
+        "question": "what is in front of the person in the video",
+        "answer": "D",
+        "choices": {
+            "A": "a car park",
+            "B": "a small pond",
+            "C": "a building",
+            "D": "grassland"
+        }
+    },
+    {
+        "video": "activitynetqa/v_EBw5-KVV_PU.mp4",
+        "question": "what is behind the girl",
+        "answer": "A",
+        "choices": {
+            "A": "curtain",
+            "B": "bookshelf",
+            "C": "piano",
+            "D": "window"
+        }
+    },
+    {
+        "video": "activitynetqa/v_RlRrktN5iH4.mp4",
+        "question": "what is under the person in black pants",
+        "answer": "C",
+        "choices": {
+            "A": "a rug",
+            "B": "a pile of clothes",
+            "C": "blanket",
+            "D": "a small chair"
+        }
+    },
+    {
+        "video": "activitynetqa/v_oGU7m7rCZ-Y.mp4",
+        "question": "what is behind the person wearing a blue jacket",
+        "answer": "B",
+        "choices": {
+            "A": "lake",
+            "B": "street",
+            "C": "mountain",
+            "D": "garden"
+        }
+    },
+    {
+        "video": "activitynetqa/v_iuXjatyFcwo.mp4",
+        "question": "what is in front of the man wearing blue shorts",
+        "answer": "D",
+        "choices": {
+            "A": "plant",
+            "B": "vending machine",
+            "C": "chair",
+            "D": "barbell"
+        }
+    },
+    {
+        "video": "activitynetqa/v_75Tc1nPmZFQ.mp4",
+        "question": "what is the under the person in red clothes",
+        "answer": "A",
+        "choices": {
+            "A": "sand",
+            "B": "rocks",
+            "C": "grass",
+            "D": "water"
+        }
+    },
+    {
+        "video": "activitynetqa/v_9eniCub7u60.mp4",
+        "question": "what is above the top of their heads",
+        "answer": "A",
+        "choices": {
+            "A": "ceiling",
+            "B": "trees",
+            "C": "clouds",
+            "D": "lights"
+        }
+    },
+    {
+        "video": "activitynetqa/v_5oyenoaVB-w.mp4",
+        "question": "what is in front of the video",
+        "answer": "D",
+        "choices": {
+            "A": "lamp post",
+            "B": "bookshelf",
+            "C": "cupboard",
+            "D": "drawing board"
+        }
+    },
+    {
+        "video": "activitynetqa/v_nvcMYiZhUuo.mp4",
+        "question": "what is in front of the person in white clothes",
+        "answer": "B",
+        "choices": {
+            "A": "mountain",
+            "B": "cruise",
+            "C": "statue",
+            "D": "tree"
+        }
+    },
+    {
+        "video": "activitynetqa/v_7UwRRkgQSj4.mp4",
+        "question": "what is the top of the staircase",
+        "answer": "C",
+        "choices": {
+            "A": "a window",
+            "B": "a painting",
+            "C": "blonde",
+            "D": "a lamp"
+        }
+    },
+    {
+        "video": "activitynetqa/v_AB480dHyDeM.mp4",
+        "question": "what is in front of the person in the video",
+        "answer": "D",
+        "choices": {
+            "A": "bookshelf",
+            "B": "piano",
+            "C": "lamp",
+            "D": "table"
+        }
+    },
+    {
+        "video": "activitynetqa/v_mek9Zodu8LM.mp4",
+        "question": "what is behind the person in a white dress",
+        "answer": "D",
+        "choices": {
+            "A": "fireplace",
+            "B": "large painting",
+            "C": "bookshelf",
+            "D": "television"
+        }
+    },
+    {
+        "video": "activitynetqa/v_BdRH3lpopLQ.mp4",
+        "question": "what is behind the referee facing the camera",
+        "answer": "B",
+        "choices": {
+            "A": "team bench",
+            "B": "audience",
+            "C": "scoreboard",
+            "D": "goal post"
+        }
+    },
+    {
+        "video": "activitynetqa/v_9TjPn_ejmFU.mp4",
+        "question": "what is the front of the child wearing blue and white stripes",
+        "answer": "A",
+        "choices": {
+            "A": "board",
+            "B": "street",
+            "C": "bridge",
+            "D": "garden"
+        }
+    },
+    {
+        "video": "activitynetqa/v_AguxVxEWEs0.mp4",
+        "question": "what is in front of the person in white clothes",
+        "answer": "A",
+        "choices": {
+            "A": "man in blue",
+            "B": "tree in the park",
+            "C": "fountain with running water",
+            "D": "large umbrella"
+        }
+    },
+    {
+        "video": "activitynetqa/v_mkGUacg0GRc.mp4",
+        "question": "what is on the left of the person in gray clothes",
+        "answer": "A",
+        "choices": {
+            "A": "row of tires",
+            "B": "garden bench",
+            "C": "pile of construction cones",
+            "D": "stack of wooden crates"
+        }
+    },
+    {
+        "video": "activitynetqa/v_TtewPltwuXw.mp4",
+        "question": "what is in front of the person in red clothes",
+        "answer": "C",
+        "choices": {
+            "A": "bookshelf",
+            "B": "couch",
+            "C": "tea table",
+            "D": "potted plant"
+        }
+    },
+    {
+        "video": "activitynetqa/v_EQWdo0FcKAo.mp4",
+        "question": "what is behind the person in black who dances alone",
+        "answer": "A",
+        "choices": {
+            "A": "white walls",
+            "B": "a green garden",
+            "C": "a red brick wall",
+            "D": "a blue swimming pool"
+        }
+    },
+    {
+        "video": "activitynetqa/v_mxn6WcmdNpA.mp4",
+        "question": "what is in front of the person in yellow clothes",
+        "answer": "C",
+        "choices": {
+            "A": "water fountain",
+            "B": "garden",
+            "C": "counter",
+            "D": "bench"
+        }
+    },
+    {
+        "video": "activitynetqa/v_zV08tITKFMM.mp4",
+        "question": "what is the right side of the person wearing a golden coat",
+        "answer": "B",
+        "choices": {
+            "A": "a piano",
+            "B": "audience",
+            "C": "a bookshelf",
+            "D": "a window"
+        }
+    },
+    {
+        "video": "activitynetqa/v_OlR9S70AA74.mp4",
+        "question": "what is behind the person wearing green pants",
+        "answer": "B",
+        "choices": {
+            "A": "wooden bench",
+            "B": "sea",
+            "C": "mountain",
+            "D": "tall grass"
+        }
+    },
+    {
+        "video": "activitynetqa/v_VFC-V06hVj0.mp4",
+        "question": "what is in front of the camel",
+        "answer": "A",
+        "choices": {
+            "A": "blue dress man",
+            "B": "yellow umbrella",
+            "C": "green suitcase",
+            "D": "red bicycle"
+        }
+    },
+    {
+        "video": "activitynetqa/v_qKp2QCheLwU.mp4",
+        "question": "what is in front of the person in a red hat",
+        "answer": "C",
+        "choices": {
+            "A": "a fireplace",
+            "B": "a sculpture",
+            "C": "audience",
+            "D": "a bookcase"
+        }
+    },
+    {
+        "video": "activitynetqa/v_a4gI4LC1rJk.mp4",
+        "question": "what is in front of the person in the video",
+        "answer": "D",
+        "choices": {
+            "A": "conference table",
+            "B": "living room sofa",
+            "C": "garden fountain",
+            "D": "kitchen sink"
+        }
+    },
+    {
+        "video": "activitynetqa/v_H33jSILKmfI.mp4",
+        "question": "what is behind the person in a black suit with a blue shirt",
+        "answer": "B",
+        "choices": {
+            "A": "a coat rack",
+            "B": "chair",
+            "C": "a window",
+            "D": "a bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_GxDNGtoVjS0.mp4",
+        "question": "what is in front of the person wearing a gray coat",
+        "answer": "D",
+        "choices": {
+            "A": "park bench",
+            "B": "bicycle rack",
+            "C": "fountain",
+            "D": "tree"
+        }
+    },
+    {
+        "video": "activitynetqa/v_ngMxE3CnGVg.mp4",
+        "question": "what is in front of the person in the video",
+        "answer": "A",
+        "choices": {
+            "A": "table",
+            "B": "bush",
+            "C": "bench",
+            "D": "sofa"
+        }
+    },
+    {
+        "video": "activitynetqa/v_eKdtOKqLMRE.mp4",
+        "question": "what is under the person's foot in the video",
+        "answer": "C",
+        "choices": {
+            "A": "shoe",
+            "B": "magazine",
+            "C": "toilet paper",
+            "D": "cushion"
+        }
+    },
+    {
+        "video": "activitynetqa/v__jIXs7AFTxw.mp4",
+        "question": "what is behind the white clothes",
+        "answer": "D",
+        "choices": {
+            "A": "lamp",
+            "B": "bookshelf",
+            "C": "window",
+            "D": "chair"
+        }
+    },
+    {
+        "video": "activitynetqa/v_sk_pnoqXxhs.mp4",
+        "question": "what is behind the child",
+        "answer": "D",
+        "choices": {
+            "A": "green tree",
+            "B": "yellow bicycle",
+            "C": "stone fountain",
+            "D": "white woman"
+        }
+    },
+    {
+        "video": "activitynetqa/v_mV07bEBkIcM.mp4",
+        "question": "what is behind the person in black",
+        "answer": "A",
+        "choices": {
+            "A": "wall",
+            "B": "forest",
+            "C": "lake",
+            "D": "mountain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Jdu5AqaWfz8.mp4",
+        "question": "what is under the feet of the person with the rope at the beginning",
+        "answer": "D",
+        "choices": {
+            "A": "grassy hill",
+            "B": "wooden deck",
+            "C": "concrete platform",
+            "D": "bridge frame"
+        }
+    },
+    {
+        "video": "activitynetqa/v_OUxgs_QlPHE.mp4",
+        "question": "what is behind the person wearing a green swimsuit",
+        "answer": "A",
+        "choices": {
+            "A": "swimming pool",
+            "B": "lifeguard chair",
+            "C": "sandcastle",
+            "D": "beach umbrella"
+        }
+    },
+    {
+        "video": "activitynetqa/v_2CegApogJd4.mp4",
+        "question": "what is the left side of the contestant",
+        "answer": "C",
+        "choices": {
+            "A": "music stand",
+            "B": "stage lights",
+            "C": "audience",
+            "D": "curtain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_y0ca-LbQErY.mp4",
+        "question": "what is in front of the person in white clothes",
+        "answer": "D",
+        "choices": {
+            "A": "bookshelf",
+            "B": "wall",
+            "C": "cupboard",
+            "D": "floor"
+        }
+    },
+    {
+        "video": "activitynetqa/v_QJ5xv6oj1sk.mp4",
+        "question": "what is the under the person in a white shirt",
+        "answer": "D",
+        "choices": {
+            "A": "a sandy beach",
+            "B": "a wooden floor",
+            "C": "a cobblestone street",
+            "D": "grassland"
+        }
+    },
+    {
+        "video": "activitynetqa/v_XI7qJHE61zo.mp4",
+        "question": "what is under the feet of the person in blue",
+        "answer": "C",
+        "choices": {
+            "A": "a carpet",
+            "B": "grass",
+            "C": "floor",
+            "D": "a puddle of water"
+        }
+    },
+    {
+        "video": "activitynetqa/v_iKclcQEl4zI.mp4",
+        "question": "what is under the girl in orange dress",
+        "answer": "B",
+        "choices": {
+            "A": "blanket",
+            "B": "sponge pad",
+            "C": "basket of flowers",
+            "D": "pile of books"
+        }
+    },
+    {
+        "video": "activitynetqa/v_hxErUs42bBI.mp4",
+        "question": "what is on the right of the person in red clothes",
+        "answer": "C",
+        "choices": {
+            "A": "bookshelf",
+            "B": "plant",
+            "C": "window",
+            "D": "lamp"
+        }
+    },
+    {
+        "video": "activitynetqa/v_HWFosaUWoSI.mp4",
+        "question": "what is the left side of the house in the video",
+        "answer": "C",
+        "choices": {
+            "A": "mountain",
+            "B": "car",
+            "C": "tree",
+            "D": "river"
+        }
+    },
+    {
+        "video": "activitynetqa/v_XxW4XWySzOw.mp4",
+        "question": "what is in front of the person in red clothes",
+        "answer": "A",
+        "choices": {
+            "A": "water",
+            "B": "a tree",
+            "C": "a small hill",
+            "D": "a bicycle"
+        }
+    },
+    {
+        "video": "activitynetqa/v_tRFK1BMKaRo.mp4",
+        "question": "what is behind the weightlifter",
+        "answer": "A",
+        "choices": {
+            "A": "british flag",
+            "B": "a set of dumbbells",
+            "C": "row of lockers",
+            "D": "a large mirror"
+        }
+    },
+    {
+        "video": "activitynetqa/v_lUmjnFf7IPQ.mp4",
+        "question": "what is the underneath of the tramp",
+        "answer": "C",
+        "choices": {
+            "A": "a patch of flowers",
+            "B": "a pool of water",
+            "C": "cardboard",
+            "D": "a pile of leaves"
+        }
+    },
+    {
+        "video": "activitynetqa/v_PBYg9ekd86w.mp4",
+        "question": "what is under the cup",
+        "answer": "D",
+        "choices": {
+            "A": "saucer",
+            "B": "napkin",
+            "C": "placemat",
+            "D": "coaster"
+        }
+    },
+    {
+        "video": "activitynetqa/v_amgpZtvd9h0.mp4",
+        "question": "is the woman behind the girl a lady",
+        "answer": "A",
+        "choices": {
+            "A": "yes",
+            "B": "no, she's sitting under the tree",
+            "C": "no, she's standing next to the boat",
+            "D": "no, she's in front of the car"
+        }
+    },
+    {
+        "video": "activitynetqa/v_oMtB-y49Yo8.mp4",
+        "question": "what is in front of the person in black clothes",
+        "answer": "D",
+        "choices": {
+            "A": "lamp",
+            "B": "chair",
+            "C": "bookshelf",
+            "D": "cake"
+        }
+    },
+    {
+        "video": "activitynetqa/v_PFeerDZbGn8.mp4",
+        "question": "what is the judge's seat above",
+        "answer": "C",
+        "choices": {
+            "A": "cloud painted ceiling mural",
+            "B": "balcony overlooking a fountain",
+            "C": "awning",
+            "D": "ornate chandelier hanging from the ceiling"
+        }
+    },
+    {
+        "video": "activitynetqa/v_rsU73H6VyG8.mp4",
+        "question": "what is in front of the player with a long pole",
+        "answer": "B",
+        "choices": {
+            "A": "a bench",
+            "B": "pads",
+            "C": "a whiteboard",
+            "D": "a bicycle"
+        }
+    },
+    {
+        "video": "activitynetqa/v_LL0uQO4q_wY.mp4",
+        "question": "what is in front of the person in the video",
+        "answer": "C",
+        "choices": {
+            "A": "large bookshelf",
+            "B": "a flowering garden",
+            "C": "curling runway",
+            "D": "a tall, red sculpture"
+        }
+    },
+    {
+        "video": "activitynetqa/v_s6fEIuHPJ4Y.mp4",
+        "question": "what is in front of the athlete at the beginning of the video",
+        "answer": "D",
+        "choices": {
+            "A": "water cooler",
+            "B": "camera crew",
+            "C": "scoreboard",
+            "D": "protective net"
+        }
+    },
+    {
+        "video": "activitynetqa/v_4uKoAk5NCkI.mp4",
+        "question": "what is the under the person in the video",
+        "answer": "C",
+        "choices": {
+            "A": "a small rug",
+            "B": "a patch of grass",
+            "C": "pads",
+            "D": "a wooden pallet"
+        }
+    },
+    {
+        "video": "activitynetqa/v_8vDSV9ruYlc.mp4",
+        "question": "what is in front of the person taking the towel",
+        "answer": "D",
+        "choices": {
+            "A": "mirror",
+            "B": "painting",
+            "C": "bookshelf",
+            "D": "wall"
+        }
+    },
+    {
+        "video": "activitynetqa/v_HX6BeHLQh5s.mp4",
+        "question": "what is the man in front of the video",
+        "answer": "D",
+        "choices": {
+            "A": "plant on the window sill",
+            "B": "lamp next to a sofa",
+            "C": "bookshelf against the wall",
+            "D": "table"
+        }
+    },
+    {
+        "video": "activitynetqa/v_yUvSujxnFE0.mp4",
+        "question": "what is on top of the person in the video",
+        "answer": "A",
+        "choices": {
+            "A": "sky",
+            "B": "a ceiling fan",
+            "C": "an umbrella",
+            "D": "a tree branch"
+        }
+    },
+    {
+        "video": "activitynetqa/v_WINtiw-_3vg.mp4",
+        "question": "what is behind the boy",
+        "answer": "C",
+        "choices": {
+            "A": "a shop",
+            "B": "a garden",
+            "C": "billboard",
+            "D": "a parking lot"
+        }
+    },
+    {
+        "video": "activitynetqa/v_wh6P2C2avqc.mp4",
+        "question": "what is behind the exerciser",
+        "answer": "C",
+        "choices": {
+            "A": "window",
+            "B": "bookcase",
+            "C": "wall",
+            "D": "mirror"
+        }
+    },
+    {
+        "video": "activitynetqa/v_iQnnCZTl_7U.mp4",
+        "question": "what is in front of the gray woman",
+        "answer": "A",
+        "choices": {
+            "A": "toaster oven",
+            "B": "bookshelf",
+            "C": "fountain",
+            "D": "piano"
+        }
+    },
+    {
+        "video": "activitynetqa/v_YHqFNnhaFAY.mp4",
+        "question": "what is in front of the person in red clothes",
+        "answer": "A",
+        "choices": {
+            "A": "road",
+            "B": "bridge",
+            "C": "fountain",
+            "D": "statue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_yCpdDJAW-jU.mp4",
+        "question": "what is in front of the person in the video",
+        "answer": "B",
+        "choices": {
+            "A": "lamp post",
+            "B": "vehicle",
+            "C": "bench",
+            "D": "tree"
+        }
+    },
+    {
+        "video": "activitynetqa/v_zpaS2iYrJjk.mp4",
+        "question": "what is behind the person in a red shirt",
+        "answer": "C",
+        "choices": {
+            "A": "a fountain near the park",
+            "B": "a row of parked bikes",
+            "C": "automobile",
+            "D": "a bicycle next to a tree"
+        }
+    },
+    {
+        "video": "activitynetqa/v_i8hNrK3r_MY.mp4",
+        "question": "what is behind the people in the green clothes",
+        "answer": "A",
+        "choices": {
+            "A": "glass cabinet",
+            "B": "kitchen counter",
+            "C": "bookshelf",
+            "D": "tree"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Son8UiVlzu0.mp4",
+        "question": "what is on the right of the person in black clothes",
+        "answer": "D",
+        "choices": {
+            "A": "vintage gramophone",
+            "B": "antique piano",
+            "C": "wooden barrel",
+            "D": "silverware cadets"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Ye_uVlSo1HI.mp4",
+        "question": "what is in front of the person in gray clothes",
+        "answer": "C",
+        "choices": {
+            "A": "fountain",
+            "B": "bookshelf",
+            "C": "table",
+            "D": "garden"
+        }
+    },
+    {
+        "video": "activitynetqa/v_wnNiWoJxfSQ.mp4",
+        "question": "what is on the head of a person wearing a purple dress",
+        "answer": "B",
+        "choices": {
+            "A": "an apple on top of a plate",
+            "B": "hat",
+            "C": "a small vase with flowers",
+            "D": "a book balancing precariously"
+        }
+    },
+    {
+        "video": "activitynetqa/v_a_EqAwUOxpM.mp4",
+        "question": "what is under the hand of the person in the video",
+        "answer": "A",
+        "choices": {
+            "A": "paper",
+            "B": "a notebook",
+            "C": "a pen",
+            "D": "a plate"
+        }
+    },
+    {
+        "video": "activitynetqa/v_mUmSJps9WJI.mp4",
+        "question": "what is behind the person in black",
+        "answer": "C",
+        "choices": {
+            "A": "window",
+            "B": "bookshelf",
+            "C": "sofa",
+            "D": "lamp"
+        }
+    },
+    {
+        "video": "activitynetqa/v_pmmQuksmTvw.mp4",
+        "question": "what is in front of the runner when he starts",
+        "answer": "D",
+        "choices": {
+            "A": "a group of children playing",
+            "B": "a small fountain",
+            "C": "a bench by the bush",
+            "D": "hopping viaduct"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Ynvd8OuXKGw.mp4",
+        "question": "what is behind the person in black",
+        "answer": "A",
+        "choices": {
+            "A": "fountain",
+            "B": "bench",
+            "C": "tree",
+            "D": "building"
+        }
+    },
+    {
+        "video": "activitynetqa/v_G25py7yEVyo.mp4",
+        "question": "what is in front of the person wearing a red skirt",
+        "answer": "A",
+        "choices": {
+            "A": "audience",
+            "B": "a fountain",
+            "C": "a sculpture",
+            "D": "a flower garden"
+        }
+    },
+    {
+        "video": "activitynetqa/v_IclzwpxVvIk.mp4",
+        "question": "what is the rear of the brunette woman",
+        "answer": "A",
+        "choices": {
+            "A": "door",
+            "B": "counter",
+            "C": "bookshelf",
+            "D": "window"
+        }
+    },
+    {
+        "video": "activitynetqa/v_62M1FRXsUiM.mp4",
+        "question": "what is behind the person in blue",
+        "answer": "A",
+        "choices": {
+            "A": "wall",
+            "B": "tree",
+            "C": "fountain",
+            "D": "mountain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_MAGeYoFuCgo.mp4",
+        "question": "what is in front of the chef",
+        "answer": "A",
+        "choices": {
+            "A": "pool",
+            "B": "fountain",
+            "C": "garden",
+            "D": "statue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_7vcihMnmssI.mp4",
+        "question": "what is below the ice",
+        "answer": "B",
+        "choices": {
+            "A": "sofa",
+            "B": "river",
+            "C": "garden",
+            "D": "bicycle"
+        }
+    },
+    {
+        "video": "activitynetqa/v_r2H-cnti8GI.mp4",
+        "question": "what is the front of the person wearing a black and white shirt",
+        "answer": "B",
+        "choices": {
+            "A": "flower pot",
+            "B": "magic cube",
+            "C": "picture frame",
+            "D": "book shelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_TXSOSSGJYO0.mp4",
+        "question": "what is the right side of the man wearing gray clothes",
+        "answer": "A",
+        "choices": {
+            "A": "house",
+            "B": "garden",
+            "C": "pond",
+            "D": "pathway"
+        }
+    },
+    {
+        "video": "activitynetqa/v_ds3mAmUPxYA.mp4",
+        "question": "what is the front of the two people",
+        "answer": "D",
+        "choices": {
+            "A": "bicycle",
+            "B": "vending machine",
+            "C": "swing set",
+            "D": "microphone"
+        }
+    },
+    {
+        "video": "activitynetqa/v_J1QB1y3vXLY.mp4",
+        "question": "what is behind the blonde woman",
+        "answer": "A",
+        "choices": {
+            "A": "chair",
+            "B": "bookshelf",
+            "C": "piano",
+            "D": "window"
+        }
+    },
+    {
+        "video": "activitynetqa/v_ivAvKRQQy1Q.mp4",
+        "question": "what is behind the white man",
+        "answer": "A",
+        "choices": {
+            "A": "wall",
+            "B": "a large painting",
+            "C": "a couch",
+            "D": "a bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_AsdsR27UnJ0.mp4",
+        "question": "what is behind the person holding the toothbrush in the video",
+        "answer": "C",
+        "choices": {
+            "A": "bookshelf",
+            "B": "lamp",
+            "C": "mirror",
+            "D": "window"
+        }
+    },
+    {
+        "video": "activitynetqa/v_390iVq_urQM.mp4",
+        "question": "what is under the feet of the person in red",
+        "answer": "A",
+        "choices": {
+            "A": "skate",
+            "B": "puddle",
+            "C": "patch of grass",
+            "D": "rug"
+        }
+    },
+    {
+        "video": "activitynetqa/v_f6vZaMgqDvQ.mp4",
+        "question": "what is in front of the playing field",
+        "answer": "B",
+        "choices": {
+            "A": "water fountain",
+            "B": "stand",
+            "C": "garden",
+            "D": "parking lot"
+        }
+    },
+    {
+        "video": "activitynetqa/v_d4sX1jnL4BY.mp4",
+        "question": "what's underneath the two men in the video",
+        "answer": "A",
+        "choices": {
+            "A": "seabed",
+            "B": "grassland",
+            "C": "cave floor",
+            "D": "desert sand"
+        }
+    },
+    {
+        "video": "activitynetqa/v_dN8LBey17O8.mp4",
+        "question": "what is behind the lawn",
+        "answer": "D",
+        "choices": {
+            "A": "a lake",
+            "B": "a playground",
+            "C": "a mountain",
+            "D": "house"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Aen-RfnlK3A.mp4",
+        "question": "what is in front of the woman in the video",
+        "answer": "B",
+        "choices": {
+            "A": "wooden bench",
+            "B": "agitation machine",
+            "C": "fountain",
+            "D": "shrubbery"
+        }
+    },
+    {
+        "video": "activitynetqa/v_8A4cZXyDrkU.mp4",
+        "question": "what is the left side of the red car",
+        "answer": "C",
+        "choices": {
+            "A": "a bouquet of flowers",
+            "B": "a small pond",
+            "C": "spare tire",
+            "D": "a tall lamppost"
+        }
+    },
+    {
+        "video": "activitynetqa/v_pPt_fygNjtQ.mp4",
+        "question": "what is behind the man in a purple clothes",
+        "answer": "B",
+        "choices": {
+            "A": "a curtain",
+            "B": "shelf",
+            "C": "a large pot plant",
+            "D": "a painting"
+        }
+    },
+    {
+        "video": "activitynetqa/v_nbHBjdE8oNo.mp4",
+        "question": "what is in front of the person in the video",
+        "answer": "C",
+        "choices": {
+            "A": "statue",
+            "B": "mountain",
+            "C": "window",
+            "D": "water fountain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_G_rVqf_hwXw.mp4",
+        "question": "what is under the arm of the man in a grey coat",
+        "answer": "B",
+        "choices": {
+            "A": "lamp",
+            "B": "table",
+            "C": "cat",
+            "D": "basket"
+        }
+    },
+    {
+        "video": "activitynetqa/v_dZsk5Dp_5FE.mp4",
+        "question": "what is in front of the firewood",
+        "answer": "C",
+        "choices": {
+            "A": "flower pot",
+            "B": "stone path",
+            "C": "wood pile",
+            "D": "garden bench"
+        }
+    },
+    {
+        "video": "activitynetqa/v_R-hsYQNtnn0.mp4",
+        "question": "what is the right side of the person wearing a blue shirt",
+        "answer": "D",
+        "choices": {
+            "A": "bookshelf",
+            "B": "plant",
+            "C": "window",
+            "D": "cabinet"
+        }
+    },
+    {
+        "video": "activitynetqa/v_2k-qlZxc9l4.mp4",
+        "question": "what is on the right of the person in the video",
+        "answer": "D",
+        "choices": {
+            "A": "plant",
+            "B": "wooden lamp",
+            "C": "bookshelf",
+            "D": "glass table"
+        }
+    },
+    {
+        "video": "activitynetqa/v_pop8YCGQpWk.mp4",
+        "question": "what is in front of the runner when he starts",
+        "answer": "A",
+        "choices": {
+            "A": "bunker",
+            "B": "lake",
+            "C": "tree",
+            "D": "bench"
+        }
+    },
+    {
+        "video": "activitynetqa/v_uJ4OZfCjViM.mp4",
+        "question": "what is in front of the fallen leaf pile",
+        "answer": "D",
+        "choices": {
+            "A": "fountain",
+            "B": "bench",
+            "C": "gazebo",
+            "D": "tree"
+        }
+    },
+    {
+        "video": "activitynetqa/v_qZtdMXkHRXw.mp4",
+        "question": "what is in front of the person in a white coat",
+        "answer": "B",
+        "choices": {
+            "A": "coat rack",
+            "B": "chair",
+            "C": "lamp",
+            "D": "desk"
+        }
+    },
+    {
+        "video": "activitynetqa/v_32vYs9wKXE8.mp4",
+        "question": "what is the front of the long hair girl",
+        "answer": "D",
+        "choices": {
+            "A": "window",
+            "B": "bookshelf",
+            "C": "lamp",
+            "D": "dresser"
+        }
+    },
+    {
+        "video": "activitynetqa/v_TnP6coXzbLY.mp4",
+        "question": "what is the front wall of the person in the video",
+        "answer": "D",
+        "choices": {
+            "A": "a painting of a lake",
+            "B": "a large window showing the sky",
+            "C": "a shelf with vases",
+            "D": "tool"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Of2Umm79Kxg.mp4",
+        "question": "what is in front of the person in the video",
+        "answer": "C",
+        "choices": {
+            "A": "tree",
+            "B": "rock",
+            "C": "wheel",
+            "D": "bench"
+        }
+    },
+    {
+        "video": "activitynetqa/v_H9PaZiWLgXU.mp4",
+        "question": "what is behind the person wearing yellow clothes",
+        "answer": "B",
+        "choices": {
+            "A": "window",
+            "B": "oven",
+            "C": "indoor plant",
+            "D": "bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_wLXty2wzuJg.mp4",
+        "question": "what is on the little girl's hair",
+        "answer": "B",
+        "choices": {
+            "A": "triangle",
+            "B": "circle",
+            "C": "square",
+            "D": "star"
+        }
+    },
+    {
+        "video": "activitynetqa/v_V6Sy8zpJSuc.mp4",
+        "question": "what is under the tape",
+        "answer": "C",
+        "choices": {
+            "A": "layer of foam",
+            "B": "strip of cardboard",
+            "C": "sealing layer",
+            "D": "thin plastic sheet"
+        }
+    },
+    {
+        "video": "activitynetqa/v_zO5JMTzLDHw.mp4",
+        "question": "what's behind the person in the black coat ",
+        "answer": "B",
+        "choices": {
+            "A": "a set of lockers",
+            "B": "national flag",
+            "C": "a water fountain",
+            "D": "a staircase"
+        }
+    },
+    {
+        "video": "activitynetqa/v_8AUTKSqcmiM.mp4",
+        "question": "what is in front of the archery player",
+        "answer": "D",
+        "choices": {
+            "A": "large tree",
+            "B": "picnic table",
+            "C": "open field",
+            "D": "target"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Jhcis4S2Vsg.mp4",
+        "question": "what is in front of the audience",
+        "answer": "C",
+        "choices": {
+            "A": "parking lot",
+            "B": "large screen",
+            "C": "court",
+            "D": "water fountain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_hIHeMA1oRrY.mp4",
+        "question": "what is the left side of the dog",
+        "answer": "A",
+        "choices": {
+            "A": "road",
+            "B": "park bench",
+            "C": "fountain",
+            "D": "flower bed"
+        }
+    },
+    {
+        "video": "activitynetqa/v_vnZmsOgWs0o.mp4",
+        "question": "what is under the foot of the person wearing orange pants",
+        "answer": "B",
+        "choices": {
+            "A": "toy car",
+            "B": "ski",
+            "C": "flower pot",
+            "D": "rock"
+        }
+    },
+    {
+        "video": "activitynetqa/v_eLh51DwDp-E.mp4",
+        "question": "what is on the right of the woman in black clothes",
+        "answer": "B",
+        "choices": {
+            "A": "lamp",
+            "B": "chair",
+            "C": "sofa",
+            "D": "bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_8kaQq1mR2ys.mp4",
+        "question": "what is under the pedal",
+        "answer": "C",
+        "choices": {
+            "A": "parking lot",
+            "B": "garden",
+            "C": "swimming pool",
+            "D": "library"
+        }
+    },
+    {
+        "video": "activitynetqa/v_BmL2XGNrxc4.mp4",
+        "question": "what is in front of the wood that has not been smashed",
+        "answer": "C",
+        "choices": {
+            "A": "a toolbox",
+            "B": "a garden rake",
+            "C": "chopped wood",
+            "D": "a stack of paint cans"
+        }
+    },
+    {
+        "video": "activitynetqa/v_lYP05IRcOPE.mp4",
+        "question": "what is the left side of the person drifting",
+        "answer": "D",
+        "choices": {
+            "A": "a small pond",
+            "B": "a wooden bench",
+            "C": "a stone pathway",
+            "D": "bushes"
+        }
+    },
+    {
+        "video": "activitynetqa/v_K7iw2_1BrIk.mp4",
+        "question": "what is in front of the audience",
+        "answer": "C",
+        "choices": {
+            "A": "parking lot",
+            "B": "picnic area",
+            "C": "football field",
+            "D": "concert stage"
+        }
+    },
+    {
+        "video": "activitynetqa/v_6Xsfwn5M6qs.mp4",
+        "question": "what's under the parallel bars",
+        "answer": "A",
+        "choices": {
+            "A": "gymnastic mat",
+            "B": "gravel path",
+            "C": "flower bed",
+            "D": "river bank"
+        }
+    },
+    {
+        "video": "activitynetqa/v_5mWZY2XkWSQ.mp4",
+        "question": "what is the right side of the girl in the video",
+        "answer": "C",
+        "choices": {
+            "A": "vase with flowers",
+            "B": "potted plant",
+            "C": "casement window",
+            "D": "bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_JsPIzRsUtlE.mp4",
+        "question": "what is behind the audience",
+        "answer": "C",
+        "choices": {
+            "A": "statue",
+            "B": "bicycle",
+            "C": "automobile",
+            "D": "garden"
+        }
+    },
+    {
+        "video": "activitynetqa/v_jbCQY7V7O1s.mp4",
+        "question": "what is behind the man in the video",
+        "answer": "C",
+        "choices": {
+            "A": "tall lamp",
+            "B": "bookshelf",
+            "C": "wall",
+            "D": "window view"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Ko7Nt8UDP4Q.mp4",
+        "question": "what is the right side of the person who opened the refrigerator",
+        "answer": "A",
+        "choices": {
+            "A": "refrigerator",
+            "B": "television",
+            "C": "bookshelf",
+            "D": "window"
+        }
+    },
+    {
+        "video": "activitynetqa/v_N9VOdVOiPNM.mp4",
+        "question": "what is behind the person wearing blue striped clothes",
+        "answer": "A",
+        "choices": {
+            "A": "mirror",
+            "B": "painting",
+            "C": "bookshelf",
+            "D": "curtain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_HTYzbAFUghU.mp4",
+        "question": "what is behind the person in the video",
+        "answer": "B",
+        "choices": {
+            "A": "chair",
+            "B": "table",
+            "C": "lamp",
+            "D": "bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_snhPrCNubYA.mp4",
+        "question": "what is in front of the athlete",
+        "answer": "C",
+        "choices": {
+            "A": "bicycle",
+            "B": "water fountain",
+            "C": "trampoline",
+            "D": "bench"
+        }
+    },
+    {
+        "video": "activitynetqa/v_FKtYeu2bJpA.mp4",
+        "question": "what is in front of the basketball hoop",
+        "answer": "A",
+        "choices": {
+            "A": "chair",
+            "B": "bush",
+            "C": "small pond",
+            "D": "statue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_uIHWHnItois.mp4",
+        "question": "what is the left side of the person wearing orange clothes",
+        "answer": "A",
+        "choices": {
+            "A": "tree",
+            "B": "fence",
+            "C": "car",
+            "D": "lake"
+        }
+    },
+    {
+        "video": "activitynetqa/v_2ShsRSJ9cqE.mp4",
+        "question": "what is on the left of the person in a hat",
+        "answer": "A",
+        "choices": {
+            "A": "steel pipe",
+            "B": "wooden bench",
+            "C": "bicycle rack",
+            "D": "flower pot"
+        }
+    },
+    {
+        "video": "activitynetqa/v_RXDVJlb97OI.mp4",
+        "question": "what is behind the person who stood at the beginning of the video",
+        "answer": "D",
+        "choices": {
+            "A": "television",
+            "B": "lamp",
+            "C": "shelf",
+            "D": "bed"
+        }
+    },
+    {
+        "video": "activitynetqa/v_gsQ-OEvrxjo.mp4",
+        "question": "what is in front of the person in white clothes",
+        "answer": "A",
+        "choices": {
+            "A": "table",
+            "B": "a bicycle",
+            "C": "a lampost",
+            "D": "a fountain"
+        }
+    },
+    {
+        "video": "activitynetqa/v_7F-mVWMP2vM.mp4",
+        "question": "what is the rear of the old man in a blue sweater",
+        "answer": "D",
+        "choices": {
+            "A": "a wooden cabinet",
+            "B": "a scenic painting",
+            "C": "a brick wall",
+            "D": "woven goods"
+        }
+    },
+    {
+        "video": "activitynetqa/v_EQrcCmgraa8.mp4",
+        "question": "what's on the wall behind the man in the white shoes",
+        "answer": "D",
+        "choices": {
+            "A": "mirror reflecting the room",
+            "B": "painting of a mountain",
+            "C": "poster of a city skyline",
+            "D": "photo"
+        }
+    },
+    {
+        "video": "activitynetqa/v_i_LT0ef1n-Y.mp4",
+        "question": "what is the last shot behind the red man",
+        "answer": "C",
+        "choices": {
+            "A": "garden gate",
+            "B": "fence",
+            "C": "enclosure",
+            "D": "wall mural"
+        }
+    },
+    {
+        "video": "activitynetqa/v_svNcNLEPKMc.mp4",
+        "question": "what is in front of the athlete",
+        "answer": "A",
+        "choices": {
+            "A": "pool",
+            "B": "forest",
+            "C": "fence",
+            "D": "hill"
+        }
+    },
+    {
+        "video": "activitynetqa/v_R74yolowFPs.mp4",
+        "question": "what is in front of the person in a white hat",
+        "answer": "B",
+        "choices": {
+            "A": "fountain",
+            "B": "tree",
+            "C": "bench",
+            "D": "bicycle"
+        }
+    },
+    {
+        "video": "activitynetqa/v_nnEPsdA0080.mp4",
+        "question": "what is under the person in white clothes",
+        "answer": "D",
+        "choices": {
+            "A": "sand",
+            "B": "bench",
+            "C": "carpet",
+            "D": "lake"
+        }
+    },
+    {
+        "video": "activitynetqa/v_iuc48VIWLJY.mp4",
+        "question": "what is above the snow",
+        "answer": "A",
+        "choices": {
+            "A": "tree",
+            "B": "clouds",
+            "C": "roof",
+            "D": "bird"
+        }
+    },
+    {
+        "video": "activitynetqa/v_lU6DMCif3eE.mp4",
+        "question": "what is behind the person in the video",
+        "answer": "A",
+        "choices": {
+            "A": "two pieces of exhibition board",
+            "B": "a decorative indoor plant",
+            "C": "a row of bookshelves",
+            "D": "a stack of chairs"
+        }
+    },
+    {
+        "video": "activitynetqa/v_paRAKx8svJ8.mp4",
+        "question": "what is in front of the person in purple clothes",
+        "answer": "B",
+        "choices": {
+            "A": "a vintage car",
+            "B": "judges",
+            "C": "a large display screen",
+            "D": "a grand piano"
+        }
+    },
+    {
+        "video": "activitynetqa/v_hIYN8cC3pEA.mp4",
+        "question": "what is behind the people in red clothes",
+        "answer": "B",
+        "choices": {
+            "A": "a row of benches",
+            "B": "vehicle",
+            "C": "a small pond",
+            "D": "a tall fence"
+        }
+    },
+    {
+        "video": "activitynetqa/v_EETygPQ-j08.mp4",
+        "question": "what is behind the sofa seat",
+        "answer": "B",
+        "choices": {
+            "A": "plant",
+            "B": "railing",
+            "C": "window",
+            "D": "bookshelf"
+        }
+    },
+    {
+        "video": "activitynetqa/v_LPRLV0eVgfY.mp4",
+        "question": "what is behind the person wearing crimson clothes",
+        "answer": "A",
+        "choices": {
+            "A": "grassland",
+            "B": "a large swimming pool",
+            "C": "a mountain range",
+            "D": "a bustling cityscape"
+        }
+    },
+    {
+        "video": "activitynetqa/v_6VXQoPNphgI.mp4",
+        "question": "what is the left side of the woman facing the mirror in the video",
+        "answer": "A",
+        "choices": {
+            "A": "black hair woman",
+            "B": "a small green plant",
+            "C": "a wooden coat rack",
+            "D": "a blue armchair"
+        }
+    },
+    {
+        "video": "activitynetqa/v_zH1MiuiTsx8.mp4",
+        "question": "what is the underneath of the person in an orange life jacket",
+        "answer": "A",
+        "choices": {
+            "A": "wooden boat",
+            "B": "metal railing",
+            "C": "sand dune",
+            "D": "concrete platform"
+        }
+    },
+    {
+        "video": "activitynetqa/v_woI_zP55qWo.mp4",
+        "question": "what is behind the diving platform",
+        "answer": "B",
+        "choices": {
+            "A": "lake",
+            "B": "tree",
+            "C": "mountain",
+            "D": "building"
+        }
+    }
+]

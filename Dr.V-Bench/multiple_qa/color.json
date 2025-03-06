@@ -1,0 +1,3302 @@
+[
+    {
+        "video": "activitynetqa/v_1QIUV7WYKXg.mp4",
+        "question": "what color of the clothes does the athlete wear",
+        "answer": "C",
+        "choices": {
+            "A": "blue",
+            "B": "yellow",
+            "C": "green",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Z2gpcqXWNek.mp4",
+        "question": "what color is the dog in the video",
+        "answer": "B",
+        "choices": {
+            "A": "white",
+            "B": "black",
+            "C": "gray",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_F9FPK6mfh88.mp4",
+        "question": "what kind of trousers are the men in black coats wearing",
+        "answer": "A",
+        "choices": {
+            "A": "beige",
+            "B": "gray",
+            "C": "white",
+            "D": "cream"
+        }
+    },
+    {
+        "video": "activitynetqa/v_bYxVbXzQToI.mp4",
+        "question": "what color is the clothes worn by the lady with short curls",
+        "answer": "D",
+        "choices": {
+            "A": "green",
+            "B": "yellow",
+            "C": "blue",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_A_Sr0mCX2rI.mp4",
+        "question": "what color is the car in the video",
+        "answer": "A",
+        "choices": {
+            "A": "green",
+            "B": "blue",
+            "C": "gray",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_6H0D8VaIli0.mp4",
+        "question": "what is the color of the pants of the street dancers in the video",
+        "answer": "B",
+        "choices": {
+            "A": "red",
+            "B": "white",
+            "C": "blue",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_1kkc9hDshP4.mp4",
+        "question": "what kind of clothes are the people on the stage wearing",
+        "answer": "B",
+        "choices": {
+            "A": "orange",
+            "B": "pink",
+            "C": "blue",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_hIYN8cC3pEA.mp4",
+        "question": "what color is the car driving in the video",
+        "answer": "A",
+        "choices": {
+            "A": "blue",
+            "B": "red",
+            "C": "yellow",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_an1R4BP97JY.mp4",
+        "question": "what color is the bag in front of the fertilizer",
+        "answer": "A",
+        "choices": {
+            "A": "blue",
+            "B": "green",
+            "C": "yellow",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_xMNmGr96O9U.mp4",
+        "question": "what color are the pants of the person in black clothes",
+        "answer": "B",
+        "choices": {
+            "A": "black",
+            "B": "dark blue",
+            "C": "charcoal gray",
+            "D": "navy"
+        }
+    },
+    {
+        "video": "activitynetqa/v_EQWdo0FcKAo.mp4",
+        "question": "what color is the first dancer",
+        "answer": "C",
+        "choices": {
+            "A": "black",
+            "B": "blue",
+            "C": "white",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_meNgZdu8tIk.mp4",
+        "question": "what is the color of the pants of the person in green clothes",
+        "answer": "C",
+        "choices": {
+            "A": "dark gray",
+            "B": "purple",
+            "C": "blue",
+            "D": "charcoal"
+        }
+    },
+    {
+        "video": "activitynetqa/v_0lbv0AE5gJQ.mp4",
+        "question": "what color is the basin in which the person in the video washes clothes",
+        "answer": "D",
+        "choices": {
+            "A": "red",
+            "B": "yellow",
+            "C": "blue",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_oT6WUU8-dgs.mp4",
+        "question": "what color is the person's clothes in the video",
+        "answer": "C",
+        "choices": {
+            "A": "brown",
+            "B": "navy blue",
+            "C": "purple",
+            "D": "dark green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_v-UmNR5yeDc.mp4",
+        "question": "what color is the referee wearing",
+        "answer": "B",
+        "choices": {
+            "A": "red and green",
+            "B": "black and white",
+            "C": "purple and orange",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_raxeBxPQqlk.mp4",
+        "question": "what color is the dog under the table in the video",
+        "answer": "A",
+        "choices": {
+            "A": "yellow",
+            "B": "black",
+            "C": "brown",
+            "D": "white"
+        }
+    },
+    {
+        "video": "activitynetqa/v_6Xsfwn5M6qs.mp4",
+        "question": "what color is the wrist guard on the hands of a man in blue pants",
+        "answer": "B",
+        "choices": {
+            "A": "blue",
+            "B": "white",
+            "C": "yellow",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_nkWMBJC2Qec.mp4",
+        "question": "what is the color of the table",
+        "answer": "B",
+        "choices": {
+            "A": "blue",
+            "B": "purple",
+            "C": "red",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_ZnKB0U96ZI4.mp4",
+        "question": "what color are the pants of the person in gray tshirt",
+        "answer": "C",
+        "choices": {
+            "A": "red",
+            "B": "charcoal gray",
+            "C": "navy blue",
+            "D": "black"
+        }
+    },
+    {
+        "video": "activitynetqa/v_wE9sQbGdeAk.mp4",
+        "question": "what color is the glasses of a man with a beard",
+        "answer": "D",
+        "choices": {
+            "A": "green",
+            "B": "yellow",
+            "C": "blue",
+            "D": "pink"
+        }
+    },
+    {
+        "video": "activitynetqa/v_7CM2OYr-Csw.mp4",
+        "question": "what color is the line of the kite",
+        "answer": "B",
+        "choices": {
+            "A": "green",
+            "B": "white",
+            "C": "blue",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_fh9d3gpT-8I.mp4",
+        "question": "what color are the pants of the man wearing",
+        "answer": "D",
+        "choices": {
+            "A": "purple",
+            "B": "brown",
+            "C": "charcoal gray",
+            "D": "black"
+        }
+    },
+    {
+        "video": "activitynetqa/v_oKJ1BnvHbbA.mp4",
+        "question": "what color of the pants does the person in yellow clothes wear",
+        "answer": "C",
+        "choices": {
+            "A": "dark grey",
+            "B": "charcoal",
+            "C": "navy blue",
+            "D": "black"
+        }
+    },
+    {
+        "video": "activitynetqa/v_M2Y2Cw2kwDo.mp4",
+        "question": "what is the color of the springboard",
+        "answer": "D",
+        "choices": {
+            "A": "red",
+            "B": "yellow",
+            "C": "blue",
+            "D": "cyan"
+        }
+    },
+    {
+        "video": "activitynetqa/v_G25py7yEVyo.mp4",
+        "question": "what color is the hair of the person in white clothes",
+        "answer": "B",
+        "choices": {
+            "A": "black",
+            "B": "golden",
+            "C": "chestnut",
+            "D": "silver"
+        }
+    },
+    {
+        "video": "activitynetqa/v_XI7qJHE61zo.mp4",
+        "question": "what color is the person wearing blue clothes",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "navy blue",
+            "C": "dark green",
+            "D": "royal purple"
+        }
+    },
+    {
+        "video": "activitynetqa/v_8_fjIZkNHms.mp4",
+        "question": "what colour is the beaten dog",
+        "answer": "D",
+        "choices": {
+            "A": "white",
+            "B": "grey",
+            "C": "brown",
+            "D": "black"
+        }
+    },
+    {
+        "video": "activitynetqa/v_EPsSfOEd3BU.mp4",
+        "question": "what color is the female athlete's clothes",
+        "answer": "D",
+        "choices": {
+            "A": "red",
+            "B": "green",
+            "C": "yellow",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Jix3poZOeZA.mp4",
+        "question": "what is the color of the athlete's clothes",
+        "answer": "A",
+        "choices": {
+            "A": "charcoal grey",
+            "B": "navy blue",
+            "C": "black",
+            "D": "dark green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_pMtu7fOHdII.mp4",
+        "question": "what color clothes does the guy who started hitting wear",
+        "answer": "A",
+        "choices": {
+            "A": "blue",
+            "B": "white",
+            "C": "yellow",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_A9VCuZ53ObQ.mp4",
+        "question": "what color is the quilt in the video",
+        "answer": "C",
+        "choices": {
+            "A": "green",
+            "B": "ivory",
+            "C": "white",
+            "D": "light blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_WdtytUagoJs.mp4",
+        "question": "what color is the hair of the person throwing javelin",
+        "answer": "D",
+        "choices": {
+            "A": "red",
+            "B": "black",
+            "C": "brown",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_ZLJ2BmBkLJg.mp4",
+        "question": "what color is the hair of the person in black coat",
+        "answer": "B",
+        "choices": {
+            "A": "black",
+            "B": "golden",
+            "C": "auburn",
+            "D": "chestnut"
+        }
+    },
+    {
+        "video": "activitynetqa/v_1IbkFHNA7fg.mp4",
+        "question": "what is the color of the basket",
+        "answer": "B",
+        "choices": {
+            "A": "red",
+            "B": "white",
+            "C": "blue",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Av0VsTxJd78.mp4",
+        "question": "what color dress does the first person wear at the beginning of the video",
+        "answer": "B",
+        "choices": {
+            "A": "green",
+            "B": "blue",
+            "C": "yellow",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_UNKf15ALDh8.mp4",
+        "question": "what color is the gloves of the woman with long hair",
+        "answer": "D",
+        "choices": {
+            "A": "black",
+            "B": "pink",
+            "C": "purple",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_mZYWfmsYQPA.mp4",
+        "question": "what color of the clothes does the person wear in the video",
+        "answer": "C",
+        "choices": {
+            "A": "brown",
+            "B": "blue",
+            "C": "black",
+            "D": "navy"
+        }
+    },
+    {
+        "video": "activitynetqa/v_i6wR9_tkg6A.mp4",
+        "question": "what color is the man's hat in green",
+        "answer": "D",
+        "choices": {
+            "A": "blue",
+            "B": "red",
+            "C": "brown",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_woI_zP55qWo.mp4",
+        "question": "what color are the trousers of the diving man",
+        "answer": "C",
+        "choices": {
+            "A": "blue",
+            "B": "red",
+            "C": "black",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_rsU73H6VyG8.mp4",
+        "question": "what is the color of the athlete's clothes with long poles",
+        "answer": "C",
+        "choices": {
+            "A": "green",
+            "B": "blue",
+            "C": "black",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_9FQ-VLkCZo8.mp4",
+        "question": "what color is the fat person wearing",
+        "answer": "B",
+        "choices": {
+            "A": "black",
+            "B": "orange",
+            "C": "blue",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_JsPIzRsUtlE.mp4",
+        "question": "what is the shoes' color of the person in the filed with sunglasses",
+        "answer": "B",
+        "choices": {
+            "A": "tan",
+            "B": "brown",
+            "C": "navy blue",
+            "D": "olive green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_26U3SkeZU6M.mp4",
+        "question": "what color is the shoes of the person in blue",
+        "answer": "C",
+        "choices": {
+            "A": "green",
+            "B": "orange",
+            "C": "blue",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_LvTwJTvluHE.mp4",
+        "question": "what is the color of the hair of the man in the white swimming trunks",
+        "answer": "B",
+        "choices": {
+            "A": "blue",
+            "B": "yellow",
+            "C": "orange",
+            "D": "purple"
+        }
+    },
+    {
+        "video": "activitynetqa/v_qZMcbBsQorE.mp4",
+        "question": "what color is the hair of the person in gray vest",
+        "answer": "C",
+        "choices": {
+            "A": "blonde",
+            "B": "brown",
+            "C": "black",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_MonWdYi3a0I.mp4",
+        "question": "what color is the dog in the video",
+        "answer": "B",
+        "choices": {
+            "A": "brown",
+            "B": "yellow",
+            "C": "black",
+            "D": "white"
+        }
+    },
+    {
+        "video": "activitynetqa/v_fhOmyyI0eQE.mp4",
+        "question": "what color are the pants of the man wearing",
+        "answer": "A",
+        "choices": {
+            "A": "beige",
+            "B": "charcoal black",
+            "C": "navy blue",
+            "D": "olive green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_I16FTpQQiic.mp4",
+        "question": "what color is the person's pants in white clothes",
+        "answer": "D",
+        "choices": {
+            "A": "green",
+            "B": "red",
+            "C": "blue",
+            "D": "black"
+        }
+    },
+    {
+        "video": "activitynetqa/v_W97fdJ2Rn9g.mp4",
+        "question": "what color is the woman's hair in the video",
+        "answer": "D",
+        "choices": {
+            "A": "blue",
+            "B": "pink",
+            "C": "purple",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_DHjoAOus3xM.mp4",
+        "question": "what kind of hat is the man wearing a pair of pulp",
+        "answer": "A",
+        "choices": {
+            "A": "white",
+            "B": "blue",
+            "C": "green",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_RtF6TGqwa7Y.mp4",
+        "question": "what is the color of the person's pants sitting",
+        "answer": "D",
+        "choices": {
+            "A": "blue",
+            "B": "orange",
+            "C": "green",
+            "D": "purple"
+        }
+    },
+    {
+        "video": "activitynetqa/v_FEOdYNR4gls.mp4",
+        "question": "what color of the clothes does the woman wear",
+        "answer": "B",
+        "choices": {
+            "A": "red",
+            "B": "black",
+            "C": "blue",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_FaP7unySMOs.mp4",
+        "question": "what color hat does the man in bblack coat wear",
+        "answer": "B",
+        "choices": {
+            "A": "red",
+            "B": "blue",
+            "C": "green",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_SGAUpoTMSnA.mp4",
+        "question": "what is the color of the hat of the first kayaking person",
+        "answer": "B",
+        "choices": {
+            "A": "yellow",
+            "B": "green",
+            "C": "blue",
+            "D": "purple"
+        }
+    },
+    {
+        "video": "activitynetqa/v_yUvSujxnFE0.mp4",
+        "question": "what color is the person's clothes in the video",
+        "answer": "A",
+        "choices": {
+            "A": "red",
+            "B": "yellow",
+            "C": "green",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_PSB1nM3QXxg.mp4",
+        "question": "what color clothes do the boys in grey wear",
+        "answer": "B",
+        "choices": {
+            "A": "light blue",
+            "B": "white",
+            "C": "light grey",
+            "D": "beige"
+        }
+    },
+    {
+        "video": "activitynetqa/v_EQWdo0FcKAo.mp4",
+        "question": "what color is the dancer's clothes",
+        "answer": "A",
+        "choices": {
+            "A": "black and white",
+            "B": "bright blue and white",
+            "C": "vibrant red and white",
+            "D": "lime green and white"
+        }
+    },
+    {
+        "video": "activitynetqa/v_7-UlUnaBjXU.mp4",
+        "question": "what color is the field for cross-country biking",
+        "answer": "C",
+        "choices": {
+            "A": "red",
+            "B": "yellow",
+            "C": "green",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Ynvd8OuXKGw.mp4",
+        "question": "what color is the tree in the video",
+        "answer": "D",
+        "choices": {
+            "A": "brown",
+            "B": "yellow",
+            "C": "orange",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_vzUeFzhVYLg.mp4",
+        "question": "what color is the pool",
+        "answer": "C",
+        "choices": {
+            "A": "yellow",
+            "B": "green",
+            "C": "blue",
+            "D": "gray"
+        }
+    },
+    {
+        "video": "activitynetqa/v_TiQcZKml5Bs.mp4",
+        "question": "what color is the person wearing a dog",
+        "answer": "D",
+        "choices": {
+            "A": "yellow",
+            "B": "orange",
+            "C": "green",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Co_cpZWbzFk.mp4",
+        "question": "what color is the roof of the house in the video",
+        "answer": "A",
+        "choices": {
+            "A": "red",
+            "B": "green",
+            "C": "blue",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Vxw3yFCV2iA.mp4",
+        "question": "what color is the stick of the person wearing black gloves",
+        "answer": "A",
+        "choices": {
+            "A": "red",
+            "B": "green",
+            "C": "blue",
+            "D": "purple"
+        }
+    },
+    {
+        "video": "activitynetqa/v_72_9wLYUDGM.mp4",
+        "question": "what is the color of the horizontal bar",
+        "answer": "D",
+        "choices": {
+            "A": "red",
+            "B": "blue",
+            "C": "green",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_QXN6odBnVmI.mp4",
+        "question": "what color are the pants of the person in black tshirt",
+        "answer": "B",
+        "choices": {
+            "A": "black",
+            "B": "blue",
+            "C": "red",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Vhn4SuPhu-0.mp4",
+        "question": "what color is the hair of the person in white clothes",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "brown",
+            "C": "blonde",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Woelo4XJkHE.mp4",
+        "question": "what is the color of the cream",
+        "answer": "D",
+        "choices": {
+            "A": "orange",
+            "B": "green",
+            "C": "blue",
+            "D": "white"
+        }
+    },
+    {
+        "video": "activitynetqa/v_fvEaC-fTR4A.mp4",
+        "question": "what color is the handle in the video",
+        "answer": "B",
+        "choices": {
+            "A": "green and yellow",
+            "B": "blue and red",
+            "C": "black and white",
+            "D": "purple and orange"
+        }
+    },
+    {
+        "video": "activitynetqa/v_KWpATsiXF_M.mp4",
+        "question": "what color is the other side of the pink cloth",
+        "answer": "B",
+        "choices": {
+            "A": "pink",
+            "B": "yellow",
+            "C": "purple",
+            "D": "orange"
+        }
+    },
+    {
+        "video": "activitynetqa/v_EDDbcCBnTQM.mp4",
+        "question": "what color of the clothes does the man wear",
+        "answer": "A",
+        "choices": {
+            "A": "white",
+            "B": "blue",
+            "C": "black",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_qWgF9hxNbP8.mp4",
+        "question": "what color is the hair of the person in black vest",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "blonde",
+            "C": "red",
+            "D": "brown"
+        }
+    },
+    {
+        "video": "activitynetqa/v_IIPKxzPjrWg.mp4",
+        "question": "what color is the flipper in the video",
+        "answer": "D",
+        "choices": {
+            "A": "green",
+            "B": "blue",
+            "C": "yellow",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_qKp2QCheLwU.mp4",
+        "question": "what color of the clothes does the person with red hat wear",
+        "answer": "A",
+        "choices": {
+            "A": "white",
+            "B": "green",
+            "C": "yellow",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_MVA568rRjzQ.mp4",
+        "question": "what color pants are worn by people wearing white clothes",
+        "answer": "B",
+        "choices": {
+            "A": "black",
+            "B": "white",
+            "C": "grey",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_YRGiRmcHdUY.mp4",
+        "question": "what color is the kinfe",
+        "answer": "C",
+        "choices": {
+            "A": "charcoal grey",
+            "B": "navy blue",
+            "C": "black",
+            "D": "dark green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_8tCRp3NKtkI.mp4",
+        "question": "what color is the watch of the blond person",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "silver",
+            "C": "brown",
+            "D": "gold"
+        }
+    },
+    {
+        "video": "activitynetqa/v_n9EdHGz7ArI.mp4",
+        "question": "what is the color of the table",
+        "answer": "D",
+        "choices": {
+            "A": "green",
+            "B": "blue",
+            "C": "red",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_NNiJfr_ChH4.mp4",
+        "question": "what color is the hair of a person wearing black shorts",
+        "answer": "A",
+        "choices": {
+            "A": "golden",
+            "B": "silver",
+            "C": "chestnut",
+            "D": "auburn"
+        }
+    },
+    {
+        "video": "activitynetqa/v_XCfrjEJkl3M.mp4",
+        "question": "what color are the pants of the person in white clothes",
+        "answer": "B",
+        "choices": {
+            "A": "white",
+            "B": "black",
+            "C": "navy blue",
+            "D": "gray"
+        }
+    },
+    {
+        "video": "activitynetqa/v_nnEPsdA0080.mp4",
+        "question": "what color is the life jacket worn by the person in white clothes",
+        "answer": "D",
+        "choices": {
+            "A": "red",
+            "B": "yellow",
+            "C": "blue",
+            "D": "black"
+        }
+    },
+    {
+        "video": "activitynetqa/v_sNTOUuE7ZfM.mp4",
+        "question": "what is the color of the shoes of a person wearing a tie",
+        "answer": "D",
+        "choices": {
+            "A": "brown",
+            "B": "dark green",
+            "C": "navy blue",
+            "D": "black"
+        }
+    },
+    {
+        "video": "activitynetqa/v__fLhtWSCaSo.mp4",
+        "question": "what color is the lift truck",
+        "answer": "D",
+        "choices": {
+            "A": "blue",
+            "B": "green",
+            "C": "yellow",
+            "D": "orange"
+        }
+    },
+    {
+        "video": "activitynetqa/v_s9PkkDEl6aY.mp4",
+        "question": "what is the color of clothes the person standing on the platform",
+        "answer": "B",
+        "choices": {
+            "A": "yellow",
+            "B": "green",
+            "C": "purple",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_4j_LRkB4T6c.mp4",
+        "question": "what color is the trousers of the person in red",
+        "answer": "D",
+        "choices": {
+            "A": "navy blue",
+            "B": "charcoal grey",
+            "C": "dark brown",
+            "D": "black"
+        }
+    },
+    {
+        "video": "activitynetqa/v_KXcVYfMuUGw.mp4",
+        "question": "what color is this dog",
+        "answer": "B",
+        "choices": {
+            "A": "blue and tan",
+            "B": "black and white",
+            "C": "gray and orange",
+            "D": "brown and golden"
+        }
+    },
+    {
+        "video": "activitynetqa/v_DTI__3fkSzM.mp4",
+        "question": "what color is the clothes that the woman is making",
+        "answer": "B",
+        "choices": {
+            "A": "grey and white",
+            "B": "black and white",
+            "C": "blue and white",
+            "D": "red and white"
+        }
+    },
+    {
+        "video": "activitynetqa/v_DUi-hLMpQQo.mp4",
+        "question": "what color horse does the person in blue ride",
+        "answer": "D",
+        "choices": {
+            "A": "brown",
+            "B": "black",
+            "C": "gray",
+            "D": "white"
+        }
+    },
+    {
+        "video": "activitynetqa/v_KXMZHfCwTO0.mp4",
+        "question": "what color is the hair on the dog",
+        "answer": "A",
+        "choices": {
+            "A": "black and white",
+            "B": "grey and orange",
+            "C": "blue and green",
+            "D": "brown and yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_fLR-b-FDjlM.mp4",
+        "question": "what color is the motorcycle",
+        "answer": "C",
+        "choices": {
+            "A": "green",
+            "B": "blue",
+            "C": "white",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_hG4VsZQQ2_c.mp4",
+        "question": "what color are the pants of the wood cutter",
+        "answer": "A",
+        "choices": {
+            "A": "blue",
+            "B": "green",
+            "C": "brown",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Ye_uVlSo1HI.mp4",
+        "question": "what color is most of the cups on the table in the video",
+        "answer": "A",
+        "choices": {
+            "A": "red",
+            "B": "green",
+            "C": "blue",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_stdtUoog49I.mp4",
+        "question": "what is the color of the clothes of the person riding the electric car",
+        "answer": "A",
+        "choices": {
+            "A": "green",
+            "B": "red",
+            "C": "blue",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_QdmcjM2fluo.mp4",
+        "question": "what color is the hair of the person in black coat",
+        "answer": "C",
+        "choices": {
+            "A": "red",
+            "B": "blonde",
+            "C": "black",
+            "D": "brown"
+        }
+    },
+    {
+        "video": "activitynetqa/v_ojTFTIwsa_c.mp4",
+        "question": "what color is the hat of the person in black clothes",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "blue",
+            "C": "gray",
+            "D": "navy"
+        }
+    },
+    {
+        "video": "activitynetqa/v_JKJ_EvP7JwQ.mp4",
+        "question": "what is the color of the wall",
+        "answer": "C",
+        "choices": {
+            "A": "light grey",
+            "B": "beige",
+            "C": "white",
+            "D": "light blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_kMtjk1KFvXQ.mp4",
+        "question": "what color is the girl's clothes",
+        "answer": "A",
+        "choices": {
+            "A": "black and purple",
+            "B": "green and gray",
+            "C": "blue and yellow",
+            "D": "purple and pink"
+        }
+    },
+    {
+        "video": "activitynetqa/v_7IwHwDuQdyU.mp4",
+        "question": "what is the color of the gym mat",
+        "answer": "A",
+        "choices": {
+            "A": "blue",
+            "B": "green",
+            "C": "red",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_qaml4eEk9hY.mp4",
+        "question": "what color is the carpet in the video",
+        "answer": "A",
+        "choices": {
+            "A": "gray",
+            "B": "purple",
+            "C": "green",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_7UwRRkgQSj4.mp4",
+        "question": "what color are the shoes of the woman with blond hair",
+        "answer": "B",
+        "choices": {
+            "A": "green and brown",
+            "B": "black and white",
+            "C": "red and pink",
+            "D": "blue and black"
+        }
+    },
+    {
+        "video": "activitynetqa/v_2CegApogJd4.mp4",
+        "question": "what color dresses does women wear in the video",
+        "answer": "B",
+        "choices": {
+            "A": "red",
+            "B": "black",
+            "C": "purple",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_-8SgY4vW4xM.mp4",
+        "question": "what color is the human nail in pink",
+        "answer": "D",
+        "choices": {
+            "A": "blue",
+            "B": "green",
+            "C": "yellow",
+            "D": "pink"
+        }
+    },
+    {
+        "video": "activitynetqa/v_H9PaZiWLgXU.mp4",
+        "question": "what color is the flower on the table",
+        "answer": "A",
+        "choices": {
+            "A": "yellow",
+            "B": "purple",
+            "C": "blue",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_dGT_KGb0gyw.mp4",
+        "question": "what kind of coat is the man wearing the wine in his hand",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "green",
+            "C": "navy blue",
+            "D": "charcoal gray"
+        }
+    },
+    {
+        "video": "activitynetqa/v_40BPDWojssc.mp4",
+        "question": "what color is the table",
+        "answer": "C",
+        "choices": {
+            "A": "blue",
+            "B": "green",
+            "C": "yellow",
+            "D": "pink"
+        }
+    },
+    {
+        "video": "activitynetqa/v_SPjv6P5fxug.mp4",
+        "question": "what color is the clothes of the bald person",
+        "answer": "B",
+        "choices": {
+            "A": "light green",
+            "B": "white",
+            "C": "beige",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_SJ7jk5XAjng.mp4",
+        "question": "what is the color of the women's clothes in the video",
+        "answer": "C",
+        "choices": {
+            "A": "light blue",
+            "B": "lavender",
+            "C": "white",
+            "D": "pink"
+        }
+    },
+    {
+        "video": "activitynetqa/v_nbOsU2Vmp1U.mp4",
+        "question": "what color of the clothes does the person wear in the video",
+        "answer": "C",
+        "choices": {
+            "A": "charcoal",
+            "B": "navy blue",
+            "C": "black",
+            "D": "dark grey"
+        }
+    },
+    {
+        "video": "activitynetqa/v_sqv3M6MPKjQ.mp4",
+        "question": "what color is the kid's clothes",
+        "answer": "D",
+        "choices": {
+            "A": "light blue",
+            "B": "pale yellow",
+            "C": "pastel green",
+            "D": "white"
+        }
+    },
+    {
+        "video": "activitynetqa/v_AB5cWhlQ0Kk.mp4",
+        "question": "what color is the decoration on the wall in the video",
+        "answer": "A",
+        "choices": {
+            "A": "red",
+            "B": "green",
+            "C": "yellow",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_dHKeNK1uWUg.mp4",
+        "question": "what color is the pants does the person in orange wear",
+        "answer": "A",
+        "choices": {
+            "A": "gray",
+            "B": "purple",
+            "C": "blue",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_28WDlVOgslg.mp4",
+        "question": "what color is nails of the woman in the black",
+        "answer": "A",
+        "choices": {
+            "A": "pink",
+            "B": "lavender",
+            "C": "sky blue",
+            "D": "mint green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_rnI9vGr5V1k.mp4",
+        "question": "what is the color of the people wearing glasses",
+        "answer": "A",
+        "choices": {
+            "A": "blue",
+            "B": "purple",
+            "C": "green",
+            "D": "orange"
+        }
+    },
+    {
+        "video": "activitynetqa/v_EXPYu9bfNcE.mp4",
+        "question": "what color is the flower in the bottle",
+        "answer": "B",
+        "choices": {
+            "A": "purple",
+            "B": "pink",
+            "C": "white",
+            "D": "orange"
+        }
+    },
+    {
+        "video": "activitynetqa/v_rGOOlcdpfLg.mp4",
+        "question": "what is the color of a person wearing a plaid jacket",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "white",
+            "C": "green",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_pVoM_kUQ4_E.mp4",
+        "question": "what color clothes does the person who took the photo on his mobile phone wear",
+        "answer": "A",
+        "choices": {
+            "A": "red",
+            "B": "blue",
+            "C": "yellow",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_FkbpD1zWdPw.mp4",
+        "question": "what color of the clothes does the athlete wear",
+        "answer": "C",
+        "choices": {
+            "A": "green",
+            "B": "blue",
+            "C": "orange",
+            "D": "purple"
+        }
+    },
+    {
+        "video": "activitynetqa/v_4MwnHtlaEUY.mp4",
+        "question": "what is the color of the bicycle seat",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "green",
+            "C": "red",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_AwcM25G1h-g.mp4",
+        "question": "what color is the hair of the hostess",
+        "answer": "A",
+        "choices": {
+            "A": "golden",
+            "B": "black",
+            "C": "silver",
+            "D": "auburn"
+        }
+    },
+    {
+        "video": "activitynetqa/v_lU6DMCif3eE.mp4",
+        "question": "what color of the clothes does the person wear in the video",
+        "answer": "C",
+        "choices": {
+            "A": "white",
+            "B": "blue",
+            "C": "black",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v__QBTD1bLSI0.mp4",
+        "question": "what color is the collar of the person in white",
+        "answer": "A",
+        "choices": {
+            "A": "blue",
+            "B": "yellow",
+            "C": "red",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_2UhbDOd43zU.mp4",
+        "question": "what colour of clothes does the person being taught wear",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "green",
+            "C": "blue",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_MQ9Ojge7CyA.mp4",
+        "question": "what color is pants of the person",
+        "answer": "B",
+        "choices": {
+            "A": "green",
+            "B": "red",
+            "C": "yellow",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_P5D9S9NzQ28.mp4",
+        "question": "what color is the coat of the lady",
+        "answer": "C",
+        "choices": {
+            "A": "green",
+            "B": "yellow",
+            "C": "purple",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_e0yu4WgiZUM.mp4",
+        "question": "what color of swimming trunks does the man wear",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "navy blue",
+            "C": "gray",
+            "D": "dark green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_5nu47s7JrfY.mp4",
+        "question": "what is the color of the pot",
+        "answer": "B",
+        "choices": {
+            "A": "yellow",
+            "B": "black",
+            "C": "charcoal gray",
+            "D": "dark green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_RXDVJlb97OI.mp4",
+        "question": "what is the color of the curtains",
+        "answer": "B",
+        "choices": {
+            "A": "light blue",
+            "B": "cream",
+            "C": "white",
+            "D": "beige"
+        }
+    },
+    {
+        "video": "activitynetqa/v_mSR-HpiJ0No.mp4",
+        "question": "what color are the pants of the person in red clothes",
+        "answer": "C",
+        "choices": {
+            "A": "grey",
+            "B": "dark blue",
+            "C": "black",
+            "D": "navy"
+        }
+    },
+    {
+        "video": "activitynetqa/v_0w4OkBenR_k.mp4",
+        "question": "what colour does the man in purple paint the fence",
+        "answer": "A",
+        "choices": {
+            "A": "green",
+            "B": "blue",
+            "C": "red",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_N75m1Z4RqbA.mp4",
+        "question": "what color is the woman hair dancing",
+        "answer": "B",
+        "choices": {
+            "A": "pink",
+            "B": "yellow",
+            "C": "blue",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_brJIpRGcBFU.mp4",
+        "question": "what is the color of the weeding machine",
+        "answer": "C",
+        "choices": {
+            "A": "blue",
+            "B": "yellow",
+            "C": "red",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_CFbkVO5b2g0.mp4",
+        "question": "what is the color of the microphone",
+        "answer": "B",
+        "choices": {
+            "A": "black",
+            "B": "white",
+            "C": "blue",
+            "D": "silver"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Mk7Yjq1U8OI.mp4",
+        "question": "what is the color of the clothes of the person who started the blue pants",
+        "answer": "B",
+        "choices": {
+            "A": "yellow",
+            "B": "white",
+            "C": "blue",
+            "D": "black"
+        }
+    },
+    {
+        "video": "activitynetqa/v_utgRhyBvtRU.mp4",
+        "question": "what color are the pants of the woman in white clothes",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "charcoal gray",
+            "C": "dark green",
+            "D": "navy blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_uLphvdhunTY.mp4",
+        "question": "what color is the person's clothes in the video",
+        "answer": "C",
+        "choices": {
+            "A": "blue",
+            "B": "green",
+            "C": "yellow",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_TnP6coXzbLY.mp4",
+        "question": "what color is the person's clothes in the video",
+        "answer": "A",
+        "choices": {
+            "A": "red",
+            "B": "green",
+            "C": "yellow",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_jbCQY7V7O1s.mp4",
+        "question": "what is the color of men's clothes in the video",
+        "answer": "C",
+        "choices": {
+            "A": "dark green",
+            "B": "charcoal",
+            "C": "gray",
+            "D": "navy blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_W9H2qVnIWXs.mp4",
+        "question": "what color is the dog",
+        "answer": "B",
+        "choices": {
+            "A": "blue",
+            "B": "yellow",
+            "C": "green",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_1494UwmvAJM.mp4",
+        "question": "what color is the hair of the person in white clothes",
+        "answer": "B",
+        "choices": {
+            "A": "brown",
+            "B": "black",
+            "C": "red",
+            "D": "blonde"
+        }
+    },
+    {
+        "video": "activitynetqa/v_VZ5R9goklpo.mp4",
+        "question": "what is the color of the ball",
+        "answer": "D",
+        "choices": {
+            "A": "green",
+            "B": "red",
+            "C": "blue",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Gs79qz286QE.mp4",
+        "question": "what color is the hair of the person",
+        "answer": "D",
+        "choices": {
+            "A": "blue",
+            "B": "blonde",
+            "C": "brown",
+            "D": "black"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Db9VWkgMpbE.mp4",
+        "question": "what color is the pants does the woman wear in the video",
+        "answer": "B",
+        "choices": {
+            "A": "burgundy",
+            "B": "black",
+            "C": "green",
+            "D": "charcoal grey"
+        }
+    },
+    {
+        "video": "activitynetqa/v_9UvVeUYQLgA.mp4",
+        "question": "what color is the flag on the flagpole",
+        "answer": "C",
+        "choices": {
+            "A": "blue",
+            "B": "red",
+            "C": "black",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_FWZ6wgaJ_L4.mp4",
+        "question": "what color towel is hanging on the faucet",
+        "answer": "C",
+        "choices": {
+            "A": "yellow",
+            "B": "purple",
+            "C": "green",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_FmfAB-ppHBs.mp4",
+        "question": "what color is the man clothes for cigarettes",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "dark green",
+            "C": "charcoal grey",
+            "D": "navy blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_XxW4XWySzOw.mp4",
+        "question": "what color is the hair of the person in red clothes",
+        "answer": "C",
+        "choices": {
+            "A": "brown",
+            "B": "pink",
+            "C": "yellow",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_1px5LTVIR3A.mp4",
+        "question": "what color of the clothes does the dancer wear",
+        "answer": "B",
+        "choices": {
+            "A": "yellow",
+            "B": "blue",
+            "C": "green",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_i_LT0ef1n-Y.mp4",
+        "question": "what color is the clothes of the man tongue out",
+        "answer": "B",
+        "choices": {
+            "A": "green",
+            "B": "orange",
+            "C": "blue",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_iZT4XgzUHm4.mp4",
+        "question": "what color is all bicycles",
+        "answer": "C",
+        "choices": {
+            "A": "red",
+            "B": "green",
+            "C": "black",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_nvcMYiZhUuo.mp4",
+        "question": "what colour is the beard of the man in black",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "gray",
+            "C": "white",
+            "D": "brown"
+        }
+    },
+    {
+        "video": "activitynetqa/v_ILmZg0vz0Hg.mp4",
+        "question": "what color is the dress of a woman wearing glasses",
+        "answer": "D",
+        "choices": {
+            "A": "blue",
+            "B": "yellow",
+            "C": "pink",
+            "D": "white"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Son8UiVlzu0.mp4",
+        "question": "what color is the hair of the person in black",
+        "answer": "B",
+        "choices": {
+            "A": "blonde",
+            "B": "black",
+            "C": "red",
+            "D": "brown"
+        }
+    },
+    {
+        "video": "activitynetqa/v_BdRH3lpopLQ.mp4",
+        "question": "what is the color of the clothes on the clothes with a number of 16",
+        "answer": "A",
+        "choices": {
+            "A": "white",
+            "B": "blue",
+            "C": "green",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_I1iUbyjWy7k.mp4",
+        "question": "what color is the hat worn by people wearing blue clothes",
+        "answer": "D",
+        "choices": {
+            "A": "black",
+            "B": "red",
+            "C": "yellow",
+            "D": "white"
+        }
+    },
+    {
+        "video": "activitynetqa/v_cCDffwsJvsY.mp4",
+        "question": "what is the color of the ignition",
+        "answer": "A",
+        "choices": {
+            "A": "yellow",
+            "B": "blue",
+            "C": "purple",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_mxn6WcmdNpA.mp4",
+        "question": "what color bag does the person in yellow carry",
+        "answer": "B",
+        "choices": {
+            "A": "red",
+            "B": "black",
+            "C": "green",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_4LpqPUWHH5k.mp4",
+        "question": "what color is the first athlete wearing in the video",
+        "answer": "D",
+        "choices": {
+            "A": "yellow",
+            "B": "blue",
+            "C": "green",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_V2UitlmX7Uo.mp4",
+        "question": "what color is the hair of the man standing in the video",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "charcoal grey",
+            "C": "chestnut",
+            "D": "dark brown"
+        }
+    },
+    {
+        "video": "activitynetqa/v_diY-XBT5cD4.mp4",
+        "question": "what color is the contact lens box",
+        "answer": "B",
+        "choices": {
+            "A": "purple and yellow",
+            "B": "blue and green",
+            "C": "red and white",
+            "D": "orange and pink"
+        }
+    },
+    {
+        "video": "activitynetqa/v_5oyenoaVB-w.mp4",
+        "question": "what is the color of the facial cleanser in the video",
+        "answer": "C",
+        "choices": {
+            "A": "purple",
+            "B": "pink",
+            "C": "green",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_cK0-WcGXacQ.mp4",
+        "question": "what color are the discus thrower's shoes",
+        "answer": "A",
+        "choices": {
+            "A": "red",
+            "B": "yellow",
+            "C": "blue",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Ar6TcWqwK-A.mp4",
+        "question": "what color is the person's shoes in the video",
+        "answer": "C",
+        "choices": {
+            "A": "blue",
+            "B": "gray",
+            "C": "white",
+            "D": "beige"
+        }
+    },
+    {
+        "video": "activitynetqa/v_sk_pnoqXxhs.mp4",
+        "question": "what color is the cameraman's clothes",
+        "answer": "B",
+        "choices": {
+            "A": "white",
+            "B": "dark green",
+            "C": "black",
+            "D": "navy"
+        }
+    },
+    {
+        "video": "activitynetqa/v_yRQpolWhJ6A.mp4",
+        "question": "what color is the clothes of the person wearing umbrellas",
+        "answer": "D",
+        "choices": {
+            "A": "red",
+            "B": "green",
+            "C": "blue",
+            "D": "black"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Aj5ncX5G_2w.mp4",
+        "question": "what color is the paint on the leg of the table",
+        "answer": "C",
+        "choices": {
+            "A": "yellow",
+            "B": "red",
+            "C": "blue",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_f1d7_TKXNYQ.mp4",
+        "question": "what color is the sportsman's coat",
+        "answer": "A",
+        "choices": {
+            "A": "red",
+            "B": "blue",
+            "C": "green",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_5mWZY2XkWSQ.mp4",
+        "question": "what is the color of the girl's hair in the video",
+        "answer": "B",
+        "choices": {
+            "A": "auburn",
+            "B": "black",
+            "C": "brown",
+            "D": "dark blonde"
+        }
+    },
+    {
+        "video": "activitynetqa/v_H2fG7JRRMAs.mp4",
+        "question": "what color is the back of the card in the video",
+        "answer": "A",
+        "choices": {
+            "A": "red",
+            "B": "yellow",
+            "C": "green",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_eg2s5lOfKGI.mp4",
+        "question": "what color are the pants of the person in red",
+        "answer": "D",
+        "choices": {
+            "A": "yellow",
+            "B": "purple",
+            "C": "blue",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_mxn6WcmdNpA.mp4",
+        "question": "what color earrings do people in yellow wear",
+        "answer": "B",
+        "choices": {
+            "A": "silver",
+            "B": "golden",
+            "C": "emerald green",
+            "D": "royal blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Znb6Y9m_PsQ.mp4",
+        "question": "what color is the hair of the person in black tshirt",
+        "answer": "C",
+        "choices": {
+            "A": "black",
+            "B": "blonde",
+            "C": "brown",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_cAiig_569fI.mp4",
+        "question": "what is the color of the tent",
+        "answer": "A",
+        "choices": {
+            "A": "white",
+            "B": "yellow",
+            "C": "green",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_XxW4XWySzOw.mp4",
+        "question": "what color is the ship in the video",
+        "answer": "C",
+        "choices": {
+            "A": "green",
+            "B": "blue",
+            "C": "yellow",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_kPn9NzU4W48.mp4",
+        "question": "what color is the glove worn by the person wearing black shoes",
+        "answer": "D",
+        "choices": {
+            "A": "red",
+            "B": "green",
+            "C": "yellow",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_2-AMrzL7V-U.mp4",
+        "question": "what color of the clothes does the athlete wear",
+        "answer": "A",
+        "choices": {
+            "A": "red",
+            "B": "green",
+            "C": "blue",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_sRNqK_QZbMs.mp4",
+        "question": "what is the color of the coach's pants",
+        "answer": "D",
+        "choices": {
+            "A": "charcoal gray",
+            "B": "dark green",
+            "C": "navy blue",
+            "D": "black"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Oh3-DvDCpZ4.mp4",
+        "question": "what color is the plate in the video",
+        "answer": "A",
+        "choices": {
+            "A": "white",
+            "B": "green",
+            "C": "yellow",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_nbHBjdE8oNo.mp4",
+        "question": "what color is the cup next to the coffee machine",
+        "answer": "A",
+        "choices": {
+            "A": "brown",
+            "B": "blue",
+            "C": "green",
+            "D": "black"
+        }
+    },
+    {
+        "video": "activitynetqa/v_zH1MiuiTsx8.mp4",
+        "question": "what color is the clothes of the person wearing an orange life jacket",
+        "answer": "C",
+        "choices": {
+            "A": "yellow",
+            "B": "purple",
+            "C": "blue",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_y0ca-LbQErY.mp4",
+        "question": "what color is the radio in the video",
+        "answer": "C",
+        "choices": {
+            "A": "green",
+            "B": "blue",
+            "C": "black",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_4_jDgRsOGvY.mp4",
+        "question": "what color is the drum of the person who is not wearing clothes",
+        "answer": "D",
+        "choices": {
+            "A": "green",
+            "B": "blue",
+            "C": "yellow",
+            "D": "white"
+        }
+    },
+    {
+        "video": "activitynetqa/v__V62aT_K8Zw.mp4",
+        "question": "what color is the beard of the man wearing a hat",
+        "answer": "C",
+        "choices": {
+            "A": "black",
+            "B": "gray",
+            "C": "white",
+            "D": "brown"
+        }
+    },
+    {
+        "video": "activitynetqa/v_LWt2FuU0uC4.mp4",
+        "question": "what is the color of the clothes worn by the referee",
+        "answer": "D",
+        "choices": {
+            "A": "green",
+            "B": "red",
+            "C": "yellow",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_zO5JMTzLDHw.mp4",
+        "question": "what color are the pants of the person in black coat",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "charcoal gray",
+            "C": "navy blue",
+            "D": "dark green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_MAGeYoFuCgo.mp4",
+        "question": "what is the color of the chef's clothes",
+        "answer": "B",
+        "choices": {
+            "A": "yellow",
+            "B": "blue",
+            "C": "red",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_-Fk62y-1WHo.mp4",
+        "question": "what color is the musical instrument",
+        "answer": "D",
+        "choices": {
+            "A": "copper",
+            "B": "bronze",
+            "C": "golden",
+            "D": "silver"
+        }
+    },
+    {
+        "video": "activitynetqa/v_3dWw9GLcOeA.mp4",
+        "question": "what color is the icon appear at the beginning of video",
+        "answer": "A",
+        "choices": {
+            "A": "green",
+            "B": "blue",
+            "C": "yellow",
+            "D": "orange"
+        }
+    },
+    {
+        "video": "activitynetqa/v_04qggWACGWk.mp4",
+        "question": "what color is the person's hair in the video",
+        "answer": "C",
+        "choices": {
+            "A": "brown",
+            "B": "blonde",
+            "C": "black",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_UNXLfqkwKFc.mp4",
+        "question": "what color is the vacuum cleaner in the video",
+        "answer": "B",
+        "choices": {
+            "A": "green",
+            "B": "purple",
+            "C": "red",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_nP1Bk-vJgVg.mp4",
+        "question": "what color is the helmet of the man in red uniform",
+        "answer": "C",
+        "choices": {
+            "A": "blue",
+            "B": "green",
+            "C": "white",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_jibbgUBuuSA.mp4",
+        "question": "what is the color of the sportsman's clothes",
+        "answer": "B",
+        "choices": {
+            "A": "red",
+            "B": "blue",
+            "C": "yellow",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_hQqoh0YxJYs.mp4",
+        "question": "what color is the hair of the person in yellow",
+        "answer": "D",
+        "choices": {
+            "A": "red",
+            "B": "blonde",
+            "C": "brown",
+            "D": "black"
+        }
+    },
+    {
+        "video": "activitynetqa/v_nbHBjdE8oNo.mp4",
+        "question": "what color of the clothes does the person wear in the video",
+        "answer": "C",
+        "choices": {
+            "A": "green and white",
+            "B": "blue and white",
+            "C": "black and white",
+            "D": "red and white"
+        }
+    },
+    {
+        "video": "activitynetqa/v_-vY2uUmv6Dk.mp4",
+        "question": "what is the color of the helmet",
+        "answer": "A",
+        "choices": {
+            "A": "yellow",
+            "B": "green",
+            "C": "red",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_aH39BSM0-Ag.mp4",
+        "question": "what color was the ball played by the man in the white ha",
+        "answer": "B",
+        "choices": {
+            "A": "yellow",
+            "B": "white",
+            "C": "green",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_HTSxgkgecS0.mp4",
+        "question": "what color is the life jacket worn by people in the video",
+        "answer": "D",
+        "choices": {
+            "A": "yellow",
+            "B": "green",
+            "C": "blue",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_s6fEIuHPJ4Y.mp4",
+        "question": "what is the color of the protective net",
+        "answer": "B",
+        "choices": {
+            "A": "red",
+            "B": "green",
+            "C": "yellow",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Au4PfoK7hyw.mp4",
+        "question": "what color is the background wall",
+        "answer": "C",
+        "choices": {
+            "A": "soft blue",
+            "B": "beige",
+            "C": "yellow",
+            "D": "light green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_CuLC5G7yWxA.mp4",
+        "question": "what color is the woman wearing in the video",
+        "answer": "B",
+        "choices": {
+            "A": "green",
+            "B": "black",
+            "C": "blue",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_QJ5xv6oj1sk.mp4",
+        "question": "what color is the hair of the person wearing white shirt",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "red",
+            "C": "auburn",
+            "D": "blonde"
+        }
+    },
+    {
+        "video": "activitynetqa/v_jDlvGWOdcqU.mp4",
+        "question": "what is the color of the clothes of people wearing jeans",
+        "answer": "C",
+        "choices": {
+            "A": "grey",
+            "B": "charcoal grey",
+            "C": "black",
+            "D": "navy blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_vBaiedxy1Uw.mp4",
+        "question": "what color is the hair of the boy in blue clothes",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "blue",
+            "C": "dark blonde",
+            "D": "chestnut"
+        }
+    },
+    {
+        "video": "activitynetqa/v_zYjLA99koBk.mp4",
+        "question": "what color is the hat of the person in yellow",
+        "answer": "B",
+        "choices": {
+            "A": "navy blue",
+            "B": "yellow",
+            "C": "charcoal gray",
+            "D": "dark green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_9snScUyE8_4.mp4",
+        "question": "what color dress does the yellow hair girl wear",
+        "answer": "C",
+        "choices": {
+            "A": "orange",
+            "B": "pink",
+            "C": "purple",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_eiN5XPmwcEM.mp4",
+        "question": "what color is the beard of the man",
+        "answer": "B",
+        "choices": {
+            "A": "orange",
+            "B": "brown",
+            "C": "yellow",
+            "D": "black"
+        }
+    },
+    {
+        "video": "activitynetqa/v_xfV4V_AOVSM.mp4",
+        "question": "what color is the hair of the person in purple clothes",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "chestnut",
+            "C": "auburn",
+            "D": "dark brown"
+        }
+    },
+    {
+        "video": "activitynetqa/v__kmjpSZb3OI.mp4",
+        "question": "what color are the pants of the person in black clothes",
+        "answer": "C",
+        "choices": {
+            "A": "navy blue",
+            "B": "charcoal gray",
+            "C": "gray",
+            "D": "dark green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_12Nafz_Yet4.mp4",
+        "question": "what color is the pants of the person in red and black",
+        "answer": "A",
+        "choices": {
+            "A": "white",
+            "B": "yellow",
+            "C": "blue",
+            "D": "gray"
+        }
+    },
+    {
+        "video": "activitynetqa/v_nYl_tYmijlM.mp4",
+        "question": "what color are the pants of the person in white clothes",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "navy blue",
+            "C": "dark green",
+            "D": "gray"
+        }
+    },
+    {
+        "video": "activitynetqa/v_U2cCOj3LiAA.mp4",
+        "question": "what color is the person's clothes in the video",
+        "answer": "A",
+        "choices": {
+            "A": "gray",
+            "B": "navy blue",
+            "C": "burgundy",
+            "D": "forest green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_xS4twW2gXqc.mp4",
+        "question": "what color are the shoes of the person in red clothes",
+        "answer": "A",
+        "choices": {
+            "A": "white",
+            "B": "black",
+            "C": "gray",
+            "D": "brown"
+        }
+    },
+    {
+        "video": "activitynetqa/v__zqj6daJo9U.mp4",
+        "question": "what color is the stools in the video",
+        "answer": "A",
+        "choices": {
+            "A": "red",
+            "B": "blue",
+            "C": "green",
+            "D": "purple"
+        }
+    },
+    {
+        "video": "activitynetqa/v_4z0meF-_b1I.mp4",
+        "question": "what color is the clothes of the person with a hat",
+        "answer": "D",
+        "choices": {
+            "A": "purple",
+            "B": "green",
+            "C": "blue",
+            "D": "orange"
+        }
+    },
+    {
+        "video": "activitynetqa/v_e-Xf13exY4E.mp4",
+        "question": "what color is the hair of the man in white ",
+        "answer": "C",
+        "choices": {
+            "A": "brown",
+            "B": "blonde",
+            "C": "black",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_x6pYeqq3O08.mp4",
+        "question": "what color is the glasses of the woman in purple",
+        "answer": "B",
+        "choices": {
+            "A": "brown",
+            "B": "green",
+            "C": "purple",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_HTYzbAFUghU.mp4",
+        "question": "what color is the person's hat in the video",
+        "answer": "B",
+        "choices": {
+            "A": "cream",
+            "B": "white",
+            "C": "light blue",
+            "D": "pale yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_DIVaPURJHPo.mp4",
+        "question": "what color is the rope",
+        "answer": "B",
+        "choices": {
+            "A": "blue",
+            "B": "colorful",
+            "C": "yellow",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_vqyQF-1Zc_E.mp4",
+        "question": "what color is the rubber band that the girl in black is sitting on",
+        "answer": "D",
+        "choices": {
+            "A": "blue",
+            "B": "yellow",
+            "C": "green",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_gWTndmDHZQc.mp4",
+        "question": "what color is the gitar",
+        "answer": "B",
+        "choices": {
+            "A": "charcoal",
+            "B": "yellow",
+            "C": "grey",
+            "D": "navy blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_ZAX6OojMg38.mp4",
+        "question": "what color is the hat of the person in red clothes",
+        "answer": "B",
+        "choices": {
+            "A": "blue",
+            "B": "white",
+            "C": "black",
+            "D": "gray"
+        }
+    },
+    {
+        "video": "activitynetqa/v_0XTAq_xvquw.mp4",
+        "question": "what color of the clothes does the man wear in the video",
+        "answer": "D",
+        "choices": {
+            "A": "navy",
+            "B": "charcoal",
+            "C": "dark grey",
+            "D": "black"
+        }
+    },
+    {
+        "video": "activitynetqa/v_S7CW-si2JjA.mp4",
+        "question": "what is the color of the cake",
+        "answer": "A",
+        "choices": {
+            "A": "brown",
+            "B": "black",
+            "C": "orange",
+            "D": "purple"
+        }
+    },
+    {
+        "video": "activitynetqa/v_ys4_S3JHQjs.mp4",
+        "question": "what color is the hat of the person in black clothes",
+        "answer": "B",
+        "choices": {
+            "A": "yellow",
+            "B": "white",
+            "C": "green",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_GOhmWfR8QBM.mp4",
+        "question": "what color is the hair of the person in red clothes",
+        "answer": "C",
+        "choices": {
+            "A": "auburn",
+            "B": "chestnut",
+            "C": "golden",
+            "D": "mahogany"
+        }
+    },
+    {
+        "video": "activitynetqa/v_fQ1OuD7x3to.mp4",
+        "question": "what color hat does the man in black wear",
+        "answer": "C",
+        "choices": {
+            "A": "red",
+            "B": "yellow",
+            "C": "black",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_J9KjpzKM8oc.mp4",
+        "question": "what is the color of the air cushion in the video",
+        "answer": "A",
+        "choices": {
+            "A": "yellow",
+            "B": "red",
+            "C": "pink",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_dKJMP8EmZjw.mp4",
+        "question": "what color is the first man wearing",
+        "answer": "B",
+        "choices": {
+            "A": "white",
+            "B": "red",
+            "C": "yellow",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_OlR9S70AA74.mp4",
+        "question": "what color is the sailboat with green pants",
+        "answer": "B",
+        "choices": {
+            "A": "yellow and white",
+            "B": "black and white",
+            "C": "blue and white",
+            "D": "red and white"
+        }
+    },
+    {
+        "video": "activitynetqa/v_FADShG5lyB8.mp4",
+        "question": "what color is the floor",
+        "answer": "D",
+        "choices": {
+            "A": "red",
+            "B": "blue",
+            "C": "green",
+            "D": "brown"
+        }
+    },
+    {
+        "video": "activitynetqa/v_k--dW53UQWs.mp4",
+        "question": "what color is the shoes of the bodybuilder",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "green",
+            "C": "blue",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_MpeN-IVIBc4.mp4",
+        "question": "what color dress does the person wear in the video",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "green",
+            "C": "red",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_87F9xGaMwCw.mp4",
+        "question": "what color are the shoes of the person in black clothes",
+        "answer": "B",
+        "choices": {
+            "A": "beige",
+            "B": "white",
+            "C": "gray",
+            "D": "black"
+        }
+    },
+    {
+        "video": "activitynetqa/v_4UdxT6Zmero.mp4",
+        "question": "what color is the weeding machine",
+        "answer": "A",
+        "choices": {
+            "A": "red",
+            "B": "blue",
+            "C": "yellow",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_j81ndpMC9gI.mp4",
+        "question": "what color is the cat",
+        "answer": "D",
+        "choices": {
+            "A": "red",
+            "B": "white",
+            "C": "gray",
+            "D": "black"
+        }
+    },
+    {
+        "video": "activitynetqa/v__CIoHeD7KQc.mp4",
+        "question": "what color is the table in the video",
+        "answer": "D",
+        "choices": {
+            "A": "green",
+            "B": "blue",
+            "C": "pink",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_lOZ9bfzq89o.mp4",
+        "question": "what color is the pants of the athlete in green",
+        "answer": "B",
+        "choices": {
+            "A": "blue",
+            "B": "red",
+            "C": "yellow",
+            "D": "black"
+        }
+    },
+    {
+        "video": "activitynetqa/v_dZsk5Dp_5FE.mp4",
+        "question": "what color is the handle of the chopper for chopping wood",
+        "answer": "B",
+        "choices": {
+            "A": "black",
+            "B": "orange",
+            "C": "red",
+            "D": "brown"
+        }
+    },
+    {
+        "video": "activitynetqa/v_dFGS7YCDk3Y.mp4",
+        "question": "what color are the sails of the sailboat",
+        "answer": "B",
+        "choices": {
+            "A": "yellow",
+            "B": "gray",
+            "C": "white",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_zPQodcasmSA.mp4",
+        "question": "what color is the hair of the person in green clothes",
+        "answer": "C",
+        "choices": {
+            "A": "green",
+            "B": "copper",
+            "C": "golden",
+            "D": "mahogany"
+        }
+    },
+    {
+        "video": "activitynetqa/v_4LoAbHdHWqM.mp4",
+        "question": "what is the color of the love border in the video",
+        "answer": "B",
+        "choices": {
+            "A": "black",
+            "B": "pink",
+            "C": "yellow",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Df7AnfIEhYw.mp4",
+        "question": "what color is the surface of the air cushion",
+        "answer": "D",
+        "choices": {
+            "A": "yellow",
+            "B": "green",
+            "C": "red",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_n832gDqfWl4.mp4",
+        "question": "what color of the clothes does the person wear in the video",
+        "answer": "D",
+        "choices": {
+            "A": "yellow",
+            "B": "red",
+            "C": "blue",
+            "D": "white"
+        }
+    },
+    {
+        "video": "activitynetqa/v_mek9Zodu8LM.mp4",
+        "question": "what is the color of the bow tie of a person wearing black clothes",
+        "answer": "C",
+        "choices": {
+            "A": "white",
+            "B": "yellow",
+            "C": "red",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_zKYiTA6WBS4.mp4",
+        "question": "what color is the hair of the person in blue clothes",
+        "answer": "A",
+        "choices": {
+            "A": "golden",
+            "B": "auburn",
+            "C": "silver",
+            "D": "chestnut"
+        }
+    },
+    {
+        "video": "activitynetqa/v_zOI9SjQpc_Q.mp4",
+        "question": "what color is the pants of the number 9 player",
+        "answer": "B",
+        "choices": {
+            "A": "yellow",
+            "B": "blue",
+            "C": "red",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_iAes5SVj_Fg.mp4",
+        "question": "what color is the coat of the man wearing blue black trousers",
+        "answer": "C",
+        "choices": {
+            "A": "navy blue",
+            "B": "green",
+            "C": "white",
+            "D": "grey"
+        }
+    },
+    {
+        "video": "activitynetqa/v_HQVSLlKhupk.mp4",
+        "question": "what color is the left hand bracelet of a person wearing blue clothes",
+        "answer": "C",
+        "choices": {
+            "A": "blue",
+            "B": "orange",
+            "C": "green",
+            "D": "purple"
+        }
+    },
+    {
+        "video": "activitynetqa/v_7lxP-hWFA24.mp4",
+        "question": "what color is the girl's shoes wearing striped clothes",
+        "answer": "C",
+        "choices": {
+            "A": "yellow",
+            "B": "purple",
+            "C": "red",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_nbOsU2Vmp1U.mp4",
+        "question": "what is the color of the cup",
+        "answer": "B",
+        "choices": {
+            "A": "yellow",
+            "B": "transparent",
+            "C": "blue",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_m73Cod-PmMQ.mp4",
+        "question": "what is the color of the clothes of a child wearing a white hat",
+        "answer": "A",
+        "choices": {
+            "A": "blue",
+            "B": "red",
+            "C": "green",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_kYkvyRKxwfY.mp4",
+        "question": "what is the color of the table",
+        "answer": "C",
+        "choices": {
+            "A": "blue",
+            "B": "red",
+            "C": "green",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_gr53ih2aFkE.mp4",
+        "question": "what color is the hair of the referee in blue clothes",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "purple",
+            "C": "blue",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_yCpdDJAW-jU.mp4",
+        "question": "what color is the car",
+        "answer": "A",
+        "choices": {
+            "A": "red",
+            "B": "white",
+            "C": "blue",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_otMw5GJWYWs.mp4",
+        "question": "what color is the hair of the person in black clothes",
+        "answer": "A",
+        "choices": {
+            "A": "golden",
+            "B": "chestnut",
+            "C": "brown",
+            "D": "auburn"
+        }
+    },
+    {
+        "video": "activitynetqa/v_-CqVpCRxwTY.mp4",
+        "question": "what color is the woman's hair in the video",
+        "answer": "C",
+        "choices": {
+            "A": "black",
+            "B": "blue",
+            "C": "yellow",
+            "D": "purple"
+        }
+    },
+    {
+        "video": "activitynetqa/v_7BUr2cN8CLs.mp4",
+        "question": "what color is the blond woman's clothes at the end of the video",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "purple",
+            "C": "blue",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_3i3SUPsyZtA.mp4",
+        "question": "what color of the clothes does the cook wear",
+        "answer": "D",
+        "choices": {
+            "A": "green",
+            "B": "yellow",
+            "C": "blue",
+            "D": "white"
+        }
+    },
+    {
+        "video": "activitynetqa/v_vHnZ3NrZER0.mp4",
+        "question": "what color is a ruler",
+        "answer": "C",
+        "choices": {
+            "A": "red",
+            "B": "blue",
+            "C": "silver",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_LYTWYSqsTCE.mp4",
+        "question": "what is the color of the pants of a person wearing blue clothes",
+        "answer": "D",
+        "choices": {
+            "A": "grey",
+            "B": "navy blue",
+            "C": "dark green",
+            "D": "black"
+        }
+    },
+    {
+        "video": "activitynetqa/v_V08Q-DbT0GQ.mp4",
+        "question": "what color is the man's clothes wearing glasses in the video",
+        "answer": "C",
+        "choices": {
+            "A": "white",
+            "B": "dark green",
+            "C": "black",
+            "D": "navy blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_laU1Hvm5Dis.mp4",
+        "question": "what color of the clothes does the person wear",
+        "answer": "C",
+        "choices": {
+            "A": "blue",
+            "B": "red",
+            "C": "green",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_ut1AoOzqL4k.mp4",
+        "question": "what color is the man's pants in a black vest",
+        "answer": "C",
+        "choices": {
+            "A": "dark grey",
+            "B": "charcoal",
+            "C": "black",
+            "D": "navy blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_auO4r3De6vc.mp4",
+        "question": "what color is the dog in the first race",
+        "answer": "D",
+        "choices": {
+            "A": "brown",
+            "B": "gray",
+            "C": "black",
+            "D": "white"
+        }
+    },
+    {
+        "video": "activitynetqa/v_lUmjnFf7IPQ.mp4",
+        "question": "what color are the pants of the person in black clothes",
+        "answer": "B",
+        "choices": {
+            "A": "white",
+            "B": "black",
+            "C": "dark green",
+            "D": "navy blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_KMK3_VeODlk.mp4",
+        "question": "what color ball is the man wearing red pants",
+        "answer": "A",
+        "choices": {
+            "A": "blue",
+            "B": "orange",
+            "C": "green",
+            "D": "purple"
+        }
+    },
+    {
+        "video": "activitynetqa/v_SjlILJ2st-I.mp4",
+        "question": "what is the color of the helmet of the first player",
+        "answer": "A",
+        "choices": {
+            "A": "yellow",
+            "B": "red",
+            "C": "green",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_BWAedc31WdY.mp4",
+        "question": "what color is the dress for the man with short hair",
+        "answer": "A",
+        "choices": {
+            "A": "gray",
+            "B": "burgundy",
+            "C": "navy blue",
+            "D": "forest green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_uM7QSskmloo.mp4",
+        "question": "what color is the person's clothes in the video",
+        "answer": "A",
+        "choices": {
+            "A": "green",
+            "B": "red",
+            "C": "yellow",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_lUil9HfTzJ0.mp4",
+        "question": "what is the color of a swimsuit that the person in a swimsuit",
+        "answer": "C",
+        "choices": {
+            "A": "yellow",
+            "B": "blue",
+            "C": "red",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_yGTIEmZ7S2w.mp4",
+        "question": "what color is the person's pants in the video",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "charcoal gray",
+            "C": "navy blue",
+            "D": "dark green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_AguxVxEWEs0.mp4",
+        "question": "what color are the pants of the person in blue clothes",
+        "answer": "A",
+        "choices": {
+            "A": "white",
+            "B": "brown",
+            "C": "orange",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_i5qTK0mInTc.mp4",
+        "question": "what color is the pants for people wearing yellow clothes",
+        "answer": "D",
+        "choices": {
+            "A": "brown",
+            "B": "blue",
+            "C": "black",
+            "D": "gray"
+        }
+    },
+    {
+        "video": "activitynetqa/v_OYEKKzQjaJI.mp4",
+        "question": "what color is the bowl in the video",
+        "answer": "C",
+        "choices": {
+            "A": "green",
+            "B": "blue",
+            "C": "red",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_TtewPltwuXw.mp4",
+        "question": "what color is the flute",
+        "answer": "C",
+        "choices": {
+            "A": "red",
+            "B": "brown",
+            "C": "black",
+            "D": "silver"
+        }
+    },
+    {
+        "video": "activitynetqa/v_VjMMwpgOCPo.mp4",
+        "question": "what color is the gym mat in video",
+        "answer": "D",
+        "choices": {
+            "A": "green",
+            "B": "yellow",
+            "C": "red",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_v6DdLg_Xnkg.mp4",
+        "question": "what color is the curly woman's clothes in the video",
+        "answer": "A",
+        "choices": {
+            "A": "white",
+            "B": "yellow",
+            "C": "blue",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_X6CBZwwRdQQ.mp4",
+        "question": "what color is the hair of the person in black clothes",
+        "answer": "C",
+        "choices": {
+            "A": "red",
+            "B": "blonde",
+            "C": "white",
+            "D": "brown"
+        }
+    },
+    {
+        "video": "activitynetqa/v_3PsxzgeMv5w.mp4",
+        "question": "what color is the floor",
+        "answer": "C",
+        "choices": {
+            "A": "red",
+            "B": "green",
+            "C": "yellow",
+            "D": "pink"
+        }
+    },
+    {
+        "video": "activitynetqa/v_StGxFfLiYNU.mp4",
+        "question": "what is the color of the first person's hair",
+        "answer": "B",
+        "choices": {
+            "A": "blonde",
+            "B": "white",
+            "C": "brown",
+            "D": "black"
+        }
+    },
+    {
+        "video": "activitynetqa/v_jWODw4vy45M.mp4",
+        "question": "what is the color of the dog's tail",
+        "answer": "A",
+        "choices": {
+            "A": "white",
+            "B": "black",
+            "C": "brown",
+            "D": "gray"
+        }
+    },
+    {
+        "video": "activitynetqa/v_IclzwpxVvIk.mp4",
+        "question": "what color is the door in the video",
+        "answer": "B",
+        "choices": {
+            "A": "black",
+            "B": "blue",
+            "C": "green",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_VfhDSTKBwgc.mp4",
+        "question": "what color is the hair of the person",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "red",
+            "C": "green",
+            "D": "brown"
+        }
+    },
+    {
+        "video": "activitynetqa/v_sfbgZOHLkII.mp4",
+        "question": "what is the color of the woman's helmet in the video",
+        "answer": "B",
+        "choices": {
+            "A": "green",
+            "B": "black",
+            "C": "red",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_0xBP-TSsqb0.mp4",
+        "question": "what color is the sofa in the video",
+        "answer": "D",
+        "choices": {
+            "A": "green",
+            "B": "blue",
+            "C": "gray",
+            "D": "brown"
+        }
+    },
+    {
+        "video": "activitynetqa/v_JB-ynj70saA.mp4",
+        "question": "what is the color of the clothes of people wearing black trousers",
+        "answer": "B",
+        "choices": {
+            "A": "yellow",
+            "B": "white",
+            "C": "gray",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v__a527xEzhkw.mp4",
+        "question": "what color is her hair in the video",
+        "answer": "C",
+        "choices": {
+            "A": "brown",
+            "B": "blonde",
+            "C": "black",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_2bQx5igckJc.mp4",
+        "question": "what color is the hair of the person",
+        "answer": "D",
+        "choices": {
+            "A": "chestnut",
+            "B": "black",
+            "C": "brown",
+            "D": "golden"
+        }
+    },
+    {
+        "video": "activitynetqa/v__jV5sAOOHLk.mp4",
+        "question": "what color are the shoes of the person in black clothes",
+        "answer": "C",
+        "choices": {
+            "A": "green",
+            "B": "red",
+            "C": "black",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_SB0dU5oDvaE.mp4",
+        "question": "what color is the dog",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "white",
+            "C": "golden",
+            "D": "gray"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Zt9qvbUnNhc.mp4",
+        "question": "what color is the hair of the person in red shorts",
+        "answer": "B",
+        "choices": {
+            "A": "blonde",
+            "B": "black",
+            "C": "red",
+            "D": "brown"
+        }
+    },
+    {
+        "video": "activitynetqa/v_fe4r2-Y8k1U.mp4",
+        "question": "what color is the chair of the person in the black coat",
+        "answer": "D",
+        "choices": {
+            "A": "yellow",
+            "B": "blue",
+            "C": "green",
+            "D": "red"
+        }
+    },
+    {
+        "video": "activitynetqa/v_fh21bbDSVmA.mp4",
+        "question": "what color are the pants of the man wearing",
+        "answer": "D",
+        "choices": {
+            "A": "black",
+            "B": "grey",
+            "C": "green",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_IGPZFun1Ok4.mp4",
+        "question": "what color is the table",
+        "answer": "A",
+        "choices": {
+            "A": "blue",
+            "B": "green",
+            "C": "yellow",
+            "D": "purple"
+        }
+    },
+    {
+        "video": "activitynetqa/v_EETygPQ-j08.mp4",
+        "question": "what color is the blue girl roller skate",
+        "answer": "A",
+        "choices": {
+            "A": "white",
+            "B": "blue",
+            "C": "yellow",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_mV07bEBkIcM.mp4",
+        "question": "what kind of pants does the person in black clothes wear",
+        "answer": "A",
+        "choices": {
+            "A": "black",
+            "B": "white",
+            "C": "navy blue",
+            "D": "charcoal grey"
+        }
+    },
+    {
+        "video": "activitynetqa/v_wLXty2wzuJg.mp4",
+        "question": "what color is the girl's swimsuit",
+        "answer": "B",
+        "choices": {
+            "A": "green",
+            "B": "yellow",
+            "C": "pink",
+            "D": "blue"
+        }
+    },
+    {
+        "video": "activitynetqa/v_Nc9yr4urskA.mp4",
+        "question": "what color is the belt of a person wearing yellow clothes",
+        "answer": "B",
+        "choices": {
+            "A": "blue",
+            "B": "red",
+            "C": "purple",
+            "D": "green"
+        }
+    },
+    {
+        "video": "activitynetqa/v_16czjUF1AA4.mp4",
+        "question": "what color is the hair clip of the person in blue",
+        "answer": "A",
+        "choices": {
+            "A": "blue",
+            "B": "purple",
+            "C": "green",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_VFC-V06hVj0.mp4",
+        "question": "what color is the clothes of the woman with hat",
+        "answer": "A",
+        "choices": {
+            "A": "red",
+            "B": "purple",
+            "C": "blue",
+            "D": "yellow"
+        }
+    },
+    {
+        "video": "activitynetqa/v_mixxaL3Bdv8.mp4",
+        "question": "what is the color of the helmet of a person wearing orange clothes",
+        "answer": "C",
+        "choices": {
+            "A": "green",
+            "B": "blue",
+            "C": "black",
+            "D": "purple"
+        }
+    },
+    {
+        "video": "activitynetqa/v_sEcXR5b8HyY.mp4",
+        "question": "what is the color of the table",
+        "answer": "D",
+        "choices": {
+            "A": "white",
+            "B": "pink",
+            "C": "green",
+            "D": "blue"
+        }
+    }
+]

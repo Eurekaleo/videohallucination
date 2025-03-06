@@ -1,0 +1,3618 @@
+[
+    {
+        "instance_id": 1,
+        "video_information": {
+            "video_path": "nextqa/3736073076.mp4"
+        },
+        "hallu_detection": {
+            "question": "why did the man in blue lean back and forth with the boys sitting on him for",
+            "answer": "E",
+            "option": {
+                "A": {
+                    "text": "check if his balance is good",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "follow a meditation practice",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "rock them to sleep",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "mimic a boat swaying",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "snuggle with boys",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "man_in_blue": {
+                    "boundary": [
+                        {
+                            "x": 298.9868667917449,
+                            "y": 60.0,
+                            "w": 339.812382739212,
+                            "h": 410.4
+                        },
+                        {
+                            "x": 141.68855534709195,
+                            "y": 15.6,
+                            "w": 392.6454033771107,
+                            "h": 462.0
+                        }
+                    ],
+                    "keyframe": [
+                        {
+                            "x": 102.06378986866793,
+                            "y": 22.8,
+                            "w": 410.656660412758,
+                            "h": 452.4
+                        }
+                    ]
+                },
+                "boys": {
+                    "boundary": [
+                        {
+                            "x": 324.2026266416511,
+                            "y": 144.0,
+                            "w": 324.2026266416511,
+                            "h": 288.0
+                        },
+                        {
+                            "x": 127.27954971857412,
+                            "y": 139.2,
+                            "w": 371.031894934334,
+                            "h": 310.8
+                        }
+                    ],
+                    "keyframe": [
+                        {
+                            "x": 85.25328330206379,
+                            "y": 145.2,
+                            "w": 411.8574108818012,
+                            "h": 326.4
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 2,
+        "video_information": {
+            "video_path": "nextqa/3964215046.mp4"
+        },
+        "hallu_detection": {
+            "question": "why are the dogs rolling on the ground",
+            "answer": "E",
+            "option": {
+                "A": {
+                    "text": "marking their territory",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "they saw a squirrel earlier",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "heard a distant whistle",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "warm their fur after rain",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "playing",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "dogs": {
+                    "1.08": {
+                        "x": 1.0,
+                        "y": 30.0,
+                        "w": 296.0,
+                        "h": 177.0
+                    },
+                    "7.51": {
+                        "x": 24.0,
+                        "y": 2.0,
+                        "w": 279.0,
+                        "h": 201.0
+                    },
+                    "28.07": {
+                        "x": 8.0,
+                        "y": 44.0,
+                        "w": 306.0,
+                        "h": 174.0
+                    },
+                    "45.88": {
+                        "x": 30.0,
+                        "y": 34.0,
+                        "w": 257.0,
+                        "h": 202.0
+                    },
+                    "49.26": {
+                        "x": 14.0,
+                        "y": 2.0,
+                        "w": 296.0,
+                        "h": 176.0
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 3,
+        "video_information": {
+            "video_path": "nextqa/3472706332.mp4"
+        },
+        "hallu_detection": {
+            "question": "why does the man push the dog away from him at the start of the video",
+            "answer": "C",
+            "option": {
+                "A": {
+                    "text": "introduce the dog to a new toy",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "fetch toy",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "prompt dog",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "prevent the dog from eating something harmful",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "move the dog away from potential danger",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "man": {
+                    "0.97": {
+                        "x": 286.93333333333334,
+                        "y": 22.366863905325445,
+                        "w": 177.06666666666666,
+                        "h": 234.31952662721895
+                    },
+                    "3.07": {
+                        "x": 123.73333333333333,
+                        "y": 6.390532544378699,
+                        "w": 234.66666666666666,
+                        "h": 290.7692307692308
+                    },
+                    "7.04": {
+                        "x": 200.53333333333333,
+                        "y": 27.692307692307693,
+                        "w": 231.46666666666667,
+                        "h": 265.207100591716
+                    },
+                    "9.34": {
+                        "x": 66.13333333333333,
+                        "y": 3.1952662721893494,
+                        "w": 298.6666666666667,
+                        "h": 331.2426035502959
+                    }
+                },
+                "dog": {
+                    "0.97": {
+                        "x": 425.59999999999997,
+                        "y": 151.24260355029588,
+                        "w": 120.53333333333333,
+                        "h": 84.14201183431953
+                    },
+                    "3.07": {
+                        "x": 34.13333333333333,
+                        "y": 218.3431952662722,
+                        "w": 124.8,
+                        "h": 120.35502958579883
+                    },
+                    "9.34": {
+                        "x": 428.8,
+                        "y": 189.58579881656806,
+                        "w": 189.86666666666667,
+                        "h": 161.89349112426038
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 4,
+        "video_information": {
+            "video_path": "nextqa/11301174465.mp4"
+        },
+        "hallu_detection": {
+            "question": "why did the boy hold on to the toy truck s wheel for",
+            "answer": "E",
+            "option": {
+                "A": {
+                    "text": "to mimic a famous scene from a movie",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "practice driving skills",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "because it was part of a school project",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "believe it's a steering wheel of a spaceship",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "for fun",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "boy": {
+                    "8.12": {
+                        "x": 65.42222222222223,
+                        "y": 165.01000000000002,
+                        "w": 338.4888888888889,
+                        "h": 807.98
+                    },
+                    "9.88": {
+                        "x": 102.4,
+                        "y": 256.05,
+                        "w": 230.4,
+                        "h": 486.49500000000006
+                    },
+                    "11.42": {
+                        "x": 145.06666666666666,
+                        "y": 139.405,
+                        "w": 312.8888888888889,
+                        "h": 682.8000000000001
+                    }
+                },
+                "toy_truck": {
+                    "boundary": [
+                        {
+                            "x": 11.377777777777778,
+                            "y": 577.5350000000001,
+                            "w": 551.8222222222222,
+                            "h": 426.75000000000006
+                        },
+                        {
+                            "x": 76.8,
+                            "y": 455.20000000000005,
+                            "w": 281.6,
+                            "h": 244.67000000000002
+                        }
+                    ],
+                    "keyframe": [
+                        {
+                            "x": 122.31111111111112,
+                            "y": 483.65000000000003,
+                            "w": 452.2666666666667,
+                            "h": 381.23
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 5,
+        "video_information": {
+            "video_path": "nextqa/4177405471.mp4"
+        },
+        "hallu_detection": {
+            "question": "how did the man in white kept his sunglasses when he was not using it in the video",
+            "answer": "C",
+            "option": {
+                "A": {
+                    "text": "hung it on a tree branch to avoid the wind",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "kept in his pocket as it was shining in the sun",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "put on his head",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "secured it inside his bag because he wanted to keep it safe",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "placed them near the fence because it seemed convenient",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "man_in_white": {
+                    "boundary": [
+                        {
+                            "x": -7.2045028142589125,
+                            "y": 0.0,
+                            "w": 260.562851782364,
+                            "h": 450.0
+                        },
+                        {
+                            "x": 2.401500938086304,
+                            "y": 123.6,
+                            "w": 272.57035647279554,
+                            "h": 358.8
+                        }
+                    ],
+                    "keyframe": [
+                        {
+                            "x": 2.401500938086304,
+                            "y": 51.6,
+                            "w": 368.6303939962477,
+                            "h": 436.8
+                        }
+                    ]
+                },
+                "sunglasses": {
+                    "boundary": [
+                        {
+                            "x": 18.011257035647283,
+                            "y": 19.2,
+                            "w": 115.2720450281426,
+                            "h": 58.8
+                        },
+                        {
+                            "x": 13.208255159474673,
+                            "y": 153.6,
+                            "w": 122.47654784240152,
+                            "h": 93.6
+                        }
+                    ],
+                    "keyframe": [
+                        {
+                            "x": 102.06378986866793,
+                            "y": 92.39999999999999,
+                            "w": 133.28330206378988,
+                            "h": 69.6
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 6,
+        "video_information": {
+            "video_path": "nextqa/2615323477.mp4"
+        },
+        "hallu_detection": {
+            "question": "why does the boy wearing stripes get all the attention",
+            "answer": "E",
+            "option": {
+                "A": {
+                    "text": "he waved a flag",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "he is singing loudly",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "he joined the game late",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "he is holding a shiny toy",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "his birthday",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "boy": {
+                    "0.7": {
+                        "x": 188.5178236397749,
+                        "y": 100.8,
+                        "w": 280.9756097560976,
+                        "h": 357.59999999999997
+                    },
+                    "1.7": {
+                        "x": 290.5816135084428,
+                        "y": 211.2,
+                        "w": 73.24577861163228,
+                        "h": 162.0
+                    },
+                    "5.64": {
+                        "x": 190.91932457786118,
+                        "y": 135.6,
+                        "w": 283.3771106941839,
+                        "h": 348.0
+                    },
+                    "5.91": {
+                        "x": 253.35834896810508,
+                        "y": 210.0,
+                        "w": 96.06003752345217,
+                        "h": 190.79999999999998
+                    }
+                },
+                "birthday": {
+                    "70.47": {
+                        "x": 150.09380863039402,
+                        "y": 189.6,
+                        "w": 339.812382739212,
+                        "h": 85.2
+                    },
+                    "71.5": {
+                        "x": 159.69981238273922,
+                        "y": 192.0,
+                        "w": 316.99812382739213,
+                        "h": 74.39999999999999
+                    },
+                    "73.64": {
+                        "x": 154.89681050656662,
+                        "y": 188.4,
+                        "w": 325.40337711069424,
+                        "h": 79.2
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 7,
+        "video_information": {
+            "video_path": "nextqa/4820521883.mp4"
+        },
+        "hallu_detection": {
+            "question": "why is the girl holding on to the man",
+            "answer": "B",
+            "option": {
+                "A": {
+                    "text": "watching him carefully for learning purposes",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "she can not swim",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "practicing a song together",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "listening to instructions about gardening",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "performing an act of trust",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "girl": {
+                    "3.94": {
+                        "x": 120.53333333333333,
+                        "y": 170.41420118343197,
+                        "w": 103.46666666666667,
+                        "h": 149.11242603550298
+                    },
+                    "5.57": {
+                        "x": 155.73333333333332,
+                        "y": 99.05325443786984,
+                        "w": 70.4,
+                        "h": 105.44378698224853
+                    },
+                    "9.68": {
+                        "x": 122.66666666666667,
+                        "y": 129.9408284023669,
+                        "w": 85.33333333333333,
+                        "h": 135.26627218934914
+                    }
+                },
+                "man": {
+                    "3.94": {
+                        "x": 190.93333333333334,
+                        "y": 152.30769230769232,
+                        "w": 108.8,
+                        "h": 213.01775147928996
+                    },
+                    "5.57": {
+                        "x": 211.2,
+                        "y": 102.24852071005918,
+                        "w": 80.0,
+                        "h": 174.67455621301778
+                    },
+                    "9.68": {
+                        "x": 184.53333333333333,
+                        "y": 119.28994082840238,
+                        "w": 113.06666666666666,
+                        "h": 220.4733727810651
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 8,
+        "video_information": {
+            "video_path": "nextqa/5508264187.mp4"
+        },
+        "hallu_detection": {
+            "question": "how does the baby interact with the man",
+            "answer": "E",
+            "option": {
+                "A": {
+                    "text": "points towards a toy to play",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "offers a gift to show affection",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "gently whispers secrets to get attention",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "waves energetically to cheer him up",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "move hands",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "baby": {
+                    "0.4": {
+                        "x": 204.8,
+                        "y": 147.20000000000002,
+                        "w": 310.40000000000003,
+                        "h": 452.8
+                    },
+                    "2.1": {
+                        "x": 116.80000000000001,
+                        "y": 60.800000000000004,
+                        "w": 411.20000000000005,
+                        "h": 588.8000000000001
+                    },
+                    "12.61": {
+                        "x": 230.4,
+                        "y": 144.0,
+                        "w": 284.8,
+                        "h": 483.20000000000005
+                    }
+                },
+                "man": {
+                    "0.4": {
+                        "x": 3.2,
+                        "y": 116.80000000000001,
+                        "w": 420.8,
+                        "h": 521.6
+                    },
+                    "2.1": {
+                        "x": 1.6,
+                        "y": 78.4,
+                        "w": 296.0,
+                        "h": 561.6
+                    },
+                    "12.61": {
+                        "x": 0.0,
+                        "y": 128.0,
+                        "w": 307.20000000000005,
+                        "h": 505.6
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 9,
+        "video_information": {
+            "video_path": "nextqa/4760962392.mp4"
+        },
+        "hallu_detection": {
+            "question": "why is the man in white removing the chocolates on the cake before cutting it",
+            "answer": "A",
+            "option": {
+                "A": {
+                    "text": "easier to cut",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "symbol of gratitude performing a cultural ritual",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "prevent chocolates from melting under the lights",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "clear the space for decoration",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "to achieve a perfect layer cut",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "man_in_white": {
+                    "boundary": [
+                        {
+                            "x": 224.54033771106944,
+                            "y": 21.599999999999998,
+                            "w": 206.52908067542216,
+                            "h": 291.59999999999997
+                        },
+                        {
+                            "x": 210.1313320825516,
+                            "y": 20.4,
+                            "w": 204.12757973733585,
+                            "h": 328.8
+                        }
+                    ],
+                    "keyframe": [
+                        {
+                            "x": 200.5253283302064,
+                            "y": 12.0,
+                            "w": 236.54784240150096,
+                            "h": 343.2
+                        }
+                    ]
+                },
+                "cake": {
+                    "boundary": [
+                        {
+                            "x": 283.3771106941839,
+                            "y": 333.59999999999997,
+                            "w": 158.49906191369607,
+                            "h": 152.4
+                        },
+                        {
+                            "x": 314.5966228893058,
+                            "y": 301.2,
+                            "w": 150.09380863039402,
+                            "h": 120.0
+                        }
+                    ],
+                    "keyframe": [
+                        {
+                            "x": 283.3771106941839,
+                            "y": 303.59999999999997,
+                            "w": 175.30956848030021,
+                            "h": 162.0
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 10,
+        "video_information": {
+            "video_path": "nextqa/7363189682.mp4"
+        },
+        "hallu_detection": {
+            "question": "why did the man slow down when he is approaching the girl cycling",
+            "answer": "D",
+            "option": {
+                "A": {
+                    "text": "girl signaled to stop",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "to admire the scenery together",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "man noticed a pedestrian crossing",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "keep a distance",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "wanted to adjust his helmet",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "man": {
+                    "2.2": {
+                        "x": 347.73333333333335,
+                        "y": 6.390532544378699,
+                        "w": 230.4,
+                        "h": 348.28402366863907
+                    },
+                    "10.34": {
+                        "x": 250.66666666666666,
+                        "y": 3.1952662721893494,
+                        "w": 99.2,
+                        "h": 227.92899408284026
+                    },
+                    "22.49": {
+                        "x": 311.46666666666664,
+                        "y": 1.0650887573964498,
+                        "w": 146.13333333333333,
+                        "h": 207.6923076923077
+                    }
+                },
+                "girl": {
+                    "2.2": {
+                        "x": 182.4,
+                        "y": 43.668639053254445,
+                        "w": 96.0,
+                        "h": 152.30769230769232
+                    },
+                    "10.34": {
+                        "x": 209.06666666666666,
+                        "y": 27.692307692307693,
+                        "w": 71.46666666666667,
+                        "h": 134.20118343195267
+                    },
+                    "22.49": {
+                        "x": 228.26666666666665,
+                        "y": 5.325443786982249,
+                        "w": 83.2,
+                        "h": 171.4792899408284
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 11,
+        "video_information": {
+            "video_path": "nextqa/3606486345.mp4"
+        },
+        "hallu_detection": {
+            "question": "why did someone come close and threw something onto the counter top",
+            "answer": "A",
+            "option": {
+                "A": {
+                    "text": "feed chicken",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "to demonstrate catching practice using the ceiling fan",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "the person wanted to check the countertop's height balance",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "to start a game of countertop scavenger hunt",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "the person was testing gravity effects",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "chicken": {
+                    "4.04": {
+                        "x": 80.0,
+                        "y": 4.0,
+                        "w": 241.0,
+                        "h": 143.0
+                    },
+                    "8.58": {
+                        "x": 121.0,
+                        "y": 1.0,
+                        "w": 92.0,
+                        "h": 59.0
+                    },
+                    "10.54": {
+                        "x": 98.0,
+                        "y": -11.0,
+                        "w": 133.0,
+                        "h": 77.0
+                    }
+                },
+                "something": {
+                    "8.27": {
+                        "x": 87.0,
+                        "y": 66.0,
+                        "w": 29.0,
+                        "h": 29.0
+                    },
+                    "8.58": {
+                        "x": 208.0,
+                        "y": 78.0,
+                        "w": 23.0,
+                        "h": 25.0
+                    },
+                    "9.21": {
+                        "x": 157.0,
+                        "y": 107.0,
+                        "w": 24.0,
+                        "h": 23.0
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 12,
+        "video_information": {
+            "video_path": "nextqa/3366671123.mp4"
+        },
+        "hallu_detection": {
+            "question": "why is the man in red wearing a cap indoors",
+            "answer": "C",
+            "option": {
+                "A": {
+                    "text": "avoid hitting camera lights",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "symbolizes friendship",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "act cool",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "needed for performance art",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "special event requirement",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "man": {
+                    "1.3": {
+                        "x": 14.409005628517825,
+                        "y": 6.0,
+                        "w": 421.4634146341464,
+                        "h": 469.2
+                    },
+                    "20.55": {
+                        "x": 22.81425891181989,
+                        "y": 3.5999999999999996,
+                        "w": 440.67542213883684,
+                        "h": 471.59999999999997
+                    },
+                    "38.61": {
+                        "x": 14.409005628517825,
+                        "y": 6.0,
+                        "w": 479.0994371482177,
+                        "h": 472.79999999999995
+                    }
+                },
+                "cap": {
+                    "4.47": {
+                        "x": 202.9268292682927,
+                        "y": 3.5999999999999996,
+                        "w": 154.89681050656662,
+                        "h": 87.6
+                    },
+                    "4.97": {
+                        "x": 205.328330206379,
+                        "y": 1.2,
+                        "w": 154.89681050656662,
+                        "h": 43.199999999999996
+                    },
+                    "17.12": {
+                        "x": 216.13508442776737,
+                        "y": 1.2,
+                        "w": 144.09005628517826,
+                        "h": 93.6
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 13,
+        "video_information": {
+            "video_path": "nextqa/7592105758.mp4"
+        },
+        "hallu_detection": {
+            "question": "why was there a cup attached on the moving disc",
+            "answer": "B",
+            "option": {
+                "A": {
+                    "text": "to enhance stability during spinning",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "experiment",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "to create a calming rhythmic sound",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "to imitate a carnival ride",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "as a part of a dance performance",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "disc": {
+                    "1.0": {
+                        "x": -5.368888888888889,
+                        "y": 522.6,
+                        "w": 598.6311111111111,
+                        "h": 439.52000000000004
+                    },
+                    "1.57": {
+                        "x": 131.53777777777776,
+                        "y": 592.2800000000001,
+                        "w": 338.24,
+                        "h": 238.52
+                    },
+                    "11.24": {
+                        "x": 0.0,
+                        "y": 533.32,
+                        "w": 601.3155555555555,
+                        "h": 420.76000000000005
+                    }
+                },
+                "cup": {
+                    "1.0": {
+                        "x": 440.24888888888887,
+                        "y": 367.16,
+                        "w": 241.6,
+                        "h": 324.28000000000003
+                    },
+                    "1.57": {
+                        "x": 142.27555555555554,
+                        "y": 487.76000000000005,
+                        "w": 150.32888888888888,
+                        "h": 171.52
+                    },
+                    "11.24": {
+                        "x": 445.61777777777775,
+                        "y": 359.12,
+                        "w": 214.75555555555556,
+                        "h": 332.32
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 14,
+        "video_information": {
+            "video_path": "nextqa/4828544178.mp4"
+        },
+        "hallu_detection": {
+            "question": "why did the man with the white watch put down his camera after taking a photo",
+            "answer": "E",
+            "option": {
+                "A": {
+                    "text": "to wipe the camera lens",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "to greet a friend passing by",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "to admire the scenery with bare eyes",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "to adjust his hat in the sunlight",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "was done taking photographs",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "man": {
+                    "10.14": {
+                        "x": 398.6491557223265,
+                        "y": 320.4,
+                        "w": 124.87804878048782,
+                        "h": 170.4
+                    },
+                    "11.21": {
+                        "x": 14.409005628517825,
+                        "y": 256.8,
+                        "w": 136.88555347091935,
+                        "h": 211.2
+                    },
+                    "11.31": {
+                        "x": 54.03377110694184,
+                        "y": 259.2,
+                        "w": 144.09005628517826,
+                        "h": 204.0
+                    }
+                },
+                "camera": {
+                    "10.14": {
+                        "x": 500.7129455909944,
+                        "y": 344.4,
+                        "w": 42.026266416510325,
+                        "h": 50.4
+                    },
+                    "11.21": {
+                        "x": 121.27579737335836,
+                        "y": 336.0,
+                        "w": 50.431519699812384,
+                        "h": 40.8
+                    },
+                    "11.31": {
+                        "x": 158.49906191369607,
+                        "y": 327.59999999999997,
+                        "w": 34.82176360225141,
+                        "h": 32.4
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 15,
+        "video_information": {
+            "video_path": "nextqa/6802334169.mp4"
+        },
+        "hallu_detection": {
+            "question": "why did the man with brown scarf walked to the back of the stage at the end of the video",
+            "answer": "A",
+            "option": {
+                "A": {
+                    "text": "take chair",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "retrieve a forgotten script",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "plug in the microphone",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "discuss future performance details",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "check on technical equipment",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "man": {
+                    "64.63": {
+                        "x": 201.72607879924954,
+                        "y": 238.79999999999998,
+                        "w": 127.27954971857412,
+                        "h": 145.2
+                    },
+                    "65.73": {
+                        "x": 68.44277673545967,
+                        "y": 79.2,
+                        "w": 361.4258911819888,
+                        "h": 398.4
+                    },
+                    "66.27": {
+                        "x": 189.71857410881802,
+                        "y": 115.19999999999999,
+                        "w": 268.96810506566607,
+                        "h": 363.59999999999997
+                    }
+                },
+                "chair": {
+                    "64.63": {
+                        "x": 279.7748592870544,
+                        "y": 438.0,
+                        "w": 108.06754221388368,
+                        "h": 49.199999999999996
+                    },
+                    "65.73": {
+                        "x": 16.81050656660413,
+                        "y": 319.2,
+                        "w": 187.31707317073173,
+                        "h": 162.0
+                    },
+                    "66.27": {
+                        "x": 172.9080675422139,
+                        "y": 295.2,
+                        "w": 177.7110694183865,
+                        "h": 190.79999999999998
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 16,
+        "video_information": {
+            "video_path": "nextqa/7001495401.mp4"
+        },
+        "hallu_detection": {
+            "question": "why does the young boy standing beside the boy in a floral jacket also hold a green plate in his hand",
+            "answer": "E",
+            "option": {
+                "A": {
+                    "text": "to balance it on his head",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "to show it to the camera",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "to pretend it's a steering wheel",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "to perform a magic trick",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "play with it",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "boy1": {
+                    "25.29": {
+                        "x": 70.84427767354597,
+                        "y": 92.39999999999999,
+                        "w": 122.47654784240152,
+                        "h": 230.39999999999998
+                    },
+                    "25.96": {
+                        "x": 66.04127579737336,
+                        "y": 92.39999999999999,
+                        "w": 127.27954971857412,
+                        "h": 218.4
+                    },
+                    "29.23": {
+                        "x": 30.0187617260788,
+                        "y": 79.2,
+                        "w": 114.07129455909944,
+                        "h": 253.2
+                    }
+                },
+                "boy2": {
+                    "25.29": {
+                        "x": 497.11069418386495,
+                        "y": 118.8,
+                        "w": 142.8893058161351,
+                        "h": 328.8
+                    },
+                    "25.96": {
+                        "x": 404.6529080675422,
+                        "y": 93.6,
+                        "w": 150.09380863039402,
+                        "h": 312.0
+                    },
+                    "29.23": {
+                        "x": 465.891181988743,
+                        "y": 104.39999999999999,
+                        "w": 134.48405253283303,
+                        "h": 324.0
+                    }
+                },
+                "plate1": {
+                    "25.29": {
+                        "x": 104.46529080675423,
+                        "y": 196.79999999999998,
+                        "w": 49.23076923076923,
+                        "h": 61.199999999999996
+                    },
+                    "25.96": {
+                        "x": 94.85928705440901,
+                        "y": 202.79999999999998,
+                        "w": 49.23076923076923,
+                        "h": 51.6
+                    },
+                    "29.23": {
+                        "x": 48.03001876172608,
+                        "y": 192.0,
+                        "w": 92.45778611632271,
+                        "h": 62.4
+                    }
+                },
+                "plate2": {
+                    "25.29": {
+                        "x": 507.9174484052533,
+                        "y": 237.6,
+                        "w": 75.64727954971858,
+                        "h": 90.0
+                    },
+                    "25.96": {
+                        "x": 445.4784240150094,
+                        "y": 202.79999999999998,
+                        "w": 33.62101313320826,
+                        "h": 74.39999999999999
+                    },
+                    "29.23": {
+                        "x": 468.2926829268293,
+                        "y": 228.0,
+                        "w": 69.64352720450282,
+                        "h": 81.6
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 17,
+        "video_information": {
+            "video_path": "nextqa/6856233194.mp4"
+        },
+        "hallu_detection": {
+            "question": "what were majority of the people wearing",
+            "answer": "B",
+            "option": {
+                "A": {
+                    "text": "attire for a summer pool party",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "team jersey",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "outfit for a cultural performance",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "gear for a skydiving event",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "casual attire for dancing",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "people": {
+                    "0.73": {
+                        "x": 185.6,
+                        "y": 107.57396449704143,
+                        "w": 142.93333333333334,
+                        "h": 175.73964497041422
+                    },
+                    "24.02": {
+                        "x": 107.73333333333333,
+                        "y": 53.25443786982249,
+                        "w": 270.93333333333334,
+                        "h": 299.2899408284024
+                    },
+                    "26.29": {
+                        "x": 217.6,
+                        "y": 126.74556213017753,
+                        "w": 121.6,
+                        "h": 172.54437869822488
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 18,
+        "video_information": {
+            "video_path": "nextqa/6950739901.mp4"
+        },
+        "hallu_detection": {
+            "question": "why did the girl put her hands on the floor before she stands up",
+            "answer": "C",
+            "option": {
+                "A": {
+                    "text": "perform a stretching exercise",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "signal to a friend nearby",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "support herself",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "mimic a dance move she saw",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "attempt a yoga pose before standing up",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "girl": {
+                    "11.08": {
+                        "x": 350.61913696060043,
+                        "y": 258.0,
+                        "w": 171.70731707317074,
+                        "h": 128.4
+                    },
+                    "12.85": {
+                        "x": 428.6679174484053,
+                        "y": 166.79999999999998,
+                        "w": 132.08255159474672,
+                        "h": 230.39999999999998
+                    },
+                    "16.62": {
+                        "x": 368.6303939962477,
+                        "y": 232.79999999999998,
+                        "w": 165.70356472795498,
+                        "h": 156.0
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 19,
+        "video_information": {
+            "video_path": "nextqa/5251212639.mp4"
+        },
+        "hallu_detection": {
+            "question": "how did the dog show it was interested in the food",
+            "answer": "E",
+            "option": {
+                "A": {
+                    "text": "pretended to dig in the ground",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "searched for its leash",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "tried to open the door",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "barked to call a cat",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "look towards the food",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "dog": {
+                    "1.84": {
+                        "x": 386.641651031895,
+                        "y": 15.6,
+                        "w": 280.9756097560976,
+                        "h": 456.0
+                    },
+                    "2.5": {
+                        "x": 417.8611632270169,
+                        "y": 31.2,
+                        "w": 249.75609756097563,
+                        "h": 448.8
+                    },
+                    "20.15": {
+                        "x": 396.2476547842402,
+                        "y": 7.199999999999999,
+                        "w": 265.3658536585366,
+                        "h": 472.79999999999995
+                    }
+                },
+                "food": {
+                    "1.84": {
+                        "x": 175.30956848030021,
+                        "y": 258.0,
+                        "w": 90.05628517823641,
+                        "h": 87.6
+                    },
+                    "2.5": {
+                        "x": 182.51407129455913,
+                        "y": 277.2,
+                        "w": 99.66228893058162,
+                        "h": 103.2
+                    },
+                    "20.15": {
+                        "x": 183.71482176360226,
+                        "y": 260.4,
+                        "w": 88.85553470919325,
+                        "h": 92.39999999999999
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 20,
+        "video_information": {
+            "video_path": "nextqa/12297528943.mp4"
+        },
+        "hallu_detection": {
+            "question": "why did the kid move his hand across his feet before wearing the shoe",
+            "answer": "E",
+            "option": {
+                "A": {
+                    "text": "ensuring good luck before the game",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "practicing a dance move",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "checking if the shoes match his outfit",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "bracing himself for a big race",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "clean dirt from foot",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "kid": {
+                    "0.5": {
+                        "x": 199.11111111111111,
+                        "y": 42.675000000000004,
+                        "w": 477.8666666666667,
+                        "h": 964.455
+                    },
+                    "1.67": {
+                        "x": 142.22222222222223,
+                        "y": 28.450000000000003,
+                        "w": 460.8,
+                        "h": 1007.1300000000001
+                    },
+                    "4.64": {
+                        "x": 213.33333333333334,
+                        "y": 91.04,
+                        "w": 423.82222222222225,
+                        "h": 899.0200000000001
+                    }
+                },
+                "shoe": {
+                    "0.5": {
+                        "x": 28.444444444444446,
+                        "y": 660.0400000000001,
+                        "w": 281.6,
+                        "h": 113.80000000000001
+                    },
+                    "1.84": {
+                        "x": 96.71111111111111,
+                        "y": 520.635,
+                        "w": 216.17777777777778,
+                        "h": 250.36
+                    },
+                    "4.64": {
+                        "x": 11.377777777777778,
+                        "y": 640.125,
+                        "w": 295.82222222222225,
+                        "h": 173.54500000000002
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 21,
+        "video_information": {
+            "video_path": "nextqa/3948139295.mp4"
+        },
+        "hallu_detection": {
+            "question": "why does the lady rotate her right foot as she hits the ball",
+            "answer": "C",
+            "option": {
+                "A": {
+                    "text": "making a stylish move",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "surprised by a sound",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "twist body",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "to groom the dog nearby",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "imitating a dance step",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "lady": {
+                    "3.58": {
+                        "x": 270.93333333333334,
+                        "y": 73.49112426035504,
+                        "w": 83.2,
+                        "h": 207.6923076923077
+                    },
+                    "10.17": {
+                        "x": 301.8666666666667,
+                        "y": 92.66272189349114,
+                        "w": 76.8,
+                        "h": 209.8224852071006
+                    },
+                    "11.04": {
+                        "x": 280.5333333333333,
+                        "y": 64.97041420118344,
+                        "w": 88.53333333333333,
+                        "h": 221.53846153846155
+                    }
+                },
+                "ball": {
+                    "3.58": {
+                        "x": 395.73333333333335,
+                        "y": 233.2544378698225,
+                        "w": 25.6,
+                        "h": 35.14792899408285
+                    },
+                    "9.96": {
+                        "x": 269.8666666666667,
+                        "y": 94.79289940828403,
+                        "w": 10.666666666666666,
+                        "h": 10.650887573964498
+                    },
+                    "10.12": {
+                        "x": 411.73333333333335,
+                        "y": 233.2544378698225,
+                        "w": 11.733333333333333,
+                        "h": 17.041420118343197
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 22,
+        "video_information": {
+            "video_path": "nextqa/10607074085.mp4"
+        },
+        "hallu_detection": {
+            "question": "why does the man in grey carry the thing from the lake after standing up",
+            "answer": "A",
+            "option": {
+                "A": {
+                    "text": "to cast new bait",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "to weigh himself down",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "because he likes the view",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "to signal for help",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "to start a fire",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "man": {
+                    "52.69": {
+                        "x": 356.62288930581616,
+                        "y": 80.39999999999999,
+                        "w": 213.73358348968108,
+                        "h": 398.4
+                    },
+                    "58.89": {
+                        "x": 300.18761726078804,
+                        "y": 76.8,
+                        "w": 170.50656660412758,
+                        "h": 406.8
+                    },
+                    "59.49": {
+                        "x": 310.9943714821764,
+                        "y": 30.0,
+                        "w": 163.30206378986867,
+                        "h": 444.0
+                    }
+                },
+                "bait": {
+                    "52.69": {
+                        "x": 330.2063789868668,
+                        "y": 283.2,
+                        "w": 51.63227016885554,
+                        "h": 51.6
+                    },
+                    "58.89": {
+                        "x": 295.3846153846154,
+                        "y": 303.59999999999997,
+                        "w": 32.42026266416511,
+                        "h": 45.6
+                    },
+                    "59.49": {
+                        "x": 369.83114446529083,
+                        "y": 289.2,
+                        "w": 28.81801125703565,
+                        "h": 31.2
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 23,
+        "video_information": {
+            "video_path": "nextqa/2512546598.mp4"
+        },
+        "hallu_detection": {
+            "question": "how did the men travel up slope near the end",
+            "answer": "B",
+            "option": {
+                "A": {
+                    "text": "they hopped onto a conveyor belt that carried them up",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "walked up",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "they launched fireworks to propel themselves upward",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "they used umbrellas to catch the wind and glide up",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "they tied balloons to float upwards",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "men": {
+                    "10.01": {
+                        "x": 35.0,
+                        "y": 18.0,
+                        "w": 124.0,
+                        "h": 217.0
+                    },
+                    "10.58": {
+                        "x": 33.0,
+                        "y": 8.0,
+                        "w": 121.0,
+                        "h": 230.0
+                    },
+                    "11.48": {
+                        "x": 45.0,
+                        "y": 19.0,
+                        "w": 109.0,
+                        "h": 216.0
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 24,
+        "video_information": {
+            "video_path": "nextqa/10461634526.mp4"
+        },
+        "hallu_detection": {
+            "question": "why did the girl smile at the end of the video",
+            "answer": "C",
+            "option": {
+                "A": {
+                    "text": "admired the colorful decor",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "saw a friend entering",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "man put plush on her nose",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "heard an amusing joke",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "noticed her favorite ice cream",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "man": {
+                    "80.98": {
+                        "x": 448.0,
+                        "y": 17.041420118343197,
+                        "w": 193.06666666666666,
+                        "h": 333.3727810650888
+                    },
+                    "81.98": {
+                        "x": 379.73333333333335,
+                        "y": 54.31952662721894,
+                        "w": 260.26666666666665,
+                        "h": 281.1834319526628
+                    },
+                    "85.05": {
+                        "x": 340.26666666666665,
+                        "y": 10.650887573964498,
+                        "w": 293.3333333333333,
+                        "h": 336.56804733727813
+                    }
+                },
+                "girl": {
+                    "80.98": {
+                        "x": 67.2,
+                        "y": 64.97041420118344,
+                        "w": 231.46666666666667,
+                        "h": 300.35502958579883
+                    },
+                    "81.98": {
+                        "x": 48.0,
+                        "y": 139.52662721893492,
+                        "w": 231.46666666666667,
+                        "h": 237.51479289940832
+                    },
+                    "85.05": {
+                        "x": 67.2,
+                        "y": 58.57988165680474,
+                        "w": 168.53333333333333,
+                        "h": 306.7455621301775
+                    }
+                },
+                "flush": {
+                    "80.98": {
+                        "x": 346.6666666666667,
+                        "y": 77.75147928994083,
+                        "w": 120.53333333333333,
+                        "h": 187.45562130177518
+                    },
+                    "81.98": {
+                        "x": 281.6,
+                        "y": 149.11242603550298,
+                        "w": 107.73333333333333,
+                        "h": 176.80473372781066
+                    },
+                    "85.05": {
+                        "x": 226.13333333333333,
+                        "y": 101.18343195266273,
+                        "w": 113.06666666666666,
+                        "h": 173.6094674556213
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 25,
+        "video_information": {
+            "video_path": "nextqa/4378803532.mp4"
+        },
+        "hallu_detection": {
+            "question": "why does the child in stripes run towards the man in red",
+            "answer": "B",
+            "option": {
+                "A": {
+                    "text": "announce dinner is ready",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "change to bigger sparkler",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "to ask about the weather",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "return a fallen book",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "fetch a forgotten toy",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "child": {
+                    "4.47": {
+                        "x": 271.3696060037524,
+                        "y": 201.6,
+                        "w": 120.0750469043152,
+                        "h": 252.0
+                    },
+                    "9.51": {
+                        "x": 186.11632270168857,
+                        "y": 204.0,
+                        "w": 76.84803001876173,
+                        "h": 156.0
+                    },
+                    "15.25": {
+                        "x": 186.11632270168857,
+                        "y": 217.2,
+                        "w": 68.44277673545967,
+                        "h": 145.2
+                    }
+                },
+                "man": {
+                    "4.47": {
+                        "x": 114.07129455909944,
+                        "y": 62.4,
+                        "w": 128.48030018761727,
+                        "h": 246.0
+                    },
+                    "9.51": {
+                        "x": 271.3696060037524,
+                        "y": 96.0,
+                        "w": 85.25328330206379,
+                        "h": 222.0
+                    },
+                    "15.25": {
+                        "x": 204.12757973733585,
+                        "y": 112.8,
+                        "w": 105.66604127579738,
+                        "h": 220.79999999999998
+                    }
+                },
+                "sparkler1": {
+                    "4.47": {
+                        "x": 260.562851782364,
+                        "y": 274.8,
+                        "w": 42.026266416510325,
+                        "h": 57.599999999999994
+                    },
+                    "9.51": {
+                        "x": 326.60412757973734,
+                        "y": 156.0,
+                        "w": 33.62101313320826,
+                        "h": 40.8
+                    },
+                    "14.25": {
+                        "x": 223.33958724202628,
+                        "y": 178.79999999999998,
+                        "w": 31.219512195121954,
+                        "h": 37.199999999999996
+                    },
+                    "15.25": {
+                        "x": 330.2063789868668,
+                        "y": 174.0,
+                        "w": 43.227016885553475,
+                        "h": 39.6
+                    }
+                },
+                "sparkler2": {
+                    "4.47": {
+                        "x": 96.06003752345217,
+                        "y": 199.2,
+                        "w": 64.84052532833022,
+                        "h": 72.0
+                    },
+                    "9.51": {
+                        "x": 160.90056285178238,
+                        "y": 307.2,
+                        "w": 73.24577861163228,
+                        "h": 60.0
+                    },
+                    "14.25": {
+                        "x": 94.85928705440901,
+                        "y": 165.6,
+                        "w": 69.64352720450282,
+                        "h": 74.39999999999999
+                    },
+                    "15.25": {
+                        "x": 163.30206378986867,
+                        "y": 306.0,
+                        "w": 67.24202626641652,
+                        "h": 67.2
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 26,
+        "video_information": {
+            "video_path": "nextqa/10042935613.mp4"
+        },
+        "hallu_detection": {
+            "question": "how does the shirtless man get the green food",
+            "answer": "E",
+            "option": {
+                "A": {
+                    "text": "distracts others to snatch it",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "receives it telepathically",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "it is delivered by pigeons",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "whistles to summon it",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "pick it with hand",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "man": {
+                    "24.52": {
+                        "x": 301.8666666666667,
+                        "y": 2.1301775147928996,
+                        "w": 249.6,
+                        "h": 350.414201183432
+                    },
+                    "35.57": {
+                        "x": -4.266666666666667,
+                        "y": 9.585798816568047,
+                        "w": 71.46666666666667,
+                        "h": 264.14201183431953
+                    },
+                    "37.04": {
+                        "x": -8.533333333333333,
+                        "y": 5.325443786982249,
+                        "w": 194.13333333333333,
+                        "h": 290.7692307692308
+                    }
+                },
+                "food": {
+                    "26.16": {
+                        "x": 130.13333333333333,
+                        "y": 256.6863905325444,
+                        "w": 89.6,
+                        "h": 40.473372781065095
+                    },
+                    "35.57": {
+                        "x": 22.4,
+                        "y": 133.13609467455623,
+                        "w": 38.4,
+                        "h": 33.01775147928994
+                    },
+                    "37.04": {
+                        "x": 147.2,
+                        "y": 240.71005917159766,
+                        "w": 36.266666666666666,
+                        "h": 50.05917159763314
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 27,
+        "video_information": {
+            "video_path": "nextqa/6575303259.mp4"
+        },
+        "hallu_detection": {
+            "question": "why did the girl in the middle lean forward after singing the birthday song",
+            "answer": "E",
+            "option": {
+                "A": {
+                    "text": "check if the microphone is working",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "to reach for a napkin to clean her hands",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "adjust her seat to feel more comfortable",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "ensure her dress didn't get caught in the chair",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "blow the cake",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "girl": {
+                    "1.8": {
+                        "x": 356.26666666666665,
+                        "y": 82.01183431952664,
+                        "w": 112.0,
+                        "h": 271.5976331360947
+                    },
+                    "22.46": {
+                        "x": 364.8,
+                        "y": 122.48520710059172,
+                        "w": 107.73333333333333,
+                        "h": 176.80473372781066
+                    },
+                    "22.72": {
+                        "x": 364.8,
+                        "y": 122.48520710059172,
+                        "w": 86.4,
+                        "h": 178.93491124260356
+                    }
+                },
+                "cake": {
+                    "16.45": {
+                        "x": 330.6666666666667,
+                        "y": 287.57396449704146,
+                        "w": 193.06666666666666,
+                        "h": 76.68639053254438
+                    },
+                    "22.26": {
+                        "x": 324.26666666666665,
+                        "y": 276.92307692307696,
+                        "w": 172.8,
+                        "h": 84.14201183431953
+                    },
+                    "22.72": {
+                        "x": 337.06666666666666,
+                        "y": 280.1183431952663,
+                        "w": 166.4,
+                        "h": 80.94674556213019
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 28,
+        "video_information": {
+            "video_path": "nextqa/3915869562.mp4"
+        },
+        "hallu_detection": {
+            "question": "why did the woman in grey caress the dog lying on the floor",
+            "answer": "A",
+            "option": {
+                "A": {
+                    "text": "show affection",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "gather information about dog's mood",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "checking if the dog is asleep",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "preparing to feed the dog",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "evaluate dog's fur texture",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "woman": {
+                    "0.9": {
+                        "x": 2.1333333333333333,
+                        "y": 5.325443786982249,
+                        "w": 183.46666666666667,
+                        "h": 298.22485207100596
+                    },
+                    "2.4": {
+                        "x": 130.13333333333333,
+                        "y": 0.0,
+                        "w": 250.66666666666666,
+                        "h": 267.3372781065089
+                    },
+                    "5.24": {
+                        "x": 34.13333333333333,
+                        "y": 0.0,
+                        "w": 215.46666666666667,
+                        "h": 308.87573964497045
+                    }
+                },
+                "dog": {
+                    "0.9": {
+                        "x": 183.46666666666667,
+                        "y": 127.81065088757398,
+                        "w": 186.66666666666666,
+                        "h": 200.23668639053255
+                    },
+                    "2.4": {
+                        "x": 184.53333333333333,
+                        "y": 106.50887573964498,
+                        "w": 183.46666666666667,
+                        "h": 238.57988165680476
+                    },
+                    "5.24": {
+                        "x": 186.66666666666666,
+                        "y": 112.89940828402368,
+                        "w": 174.93333333333334,
+                        "h": 241.7751479289941
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 29,
+        "video_information": {
+            "video_path": "nextqa/2499582434.mp4"
+        },
+        "hallu_detection": {
+            "question": "how does the woman express her happiness while giving the interview",
+            "answer": "D",
+            "option": {
+                "A": {
+                    "text": "recalls a funny memory",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "describes a recent vacation",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "talks about her favorite season",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "smiles a lot",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "mentions her childhood pets",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "woman": {
+                    "0.87": {
+                        "x": 22.0,
+                        "y": 2.0,
+                        "w": 311.0,
+                        "h": 269.0
+                    },
+                    "1.77": {
+                        "x": 19.0,
+                        "y": 2.0,
+                        "w": 302.0,
+                        "h": 268.0
+                    },
+                    "10.18": {
+                        "x": 35.0,
+                        "y": 2.0,
+                        "w": 284.0,
+                        "h": 270.0
+                    },
+                    "15.75": {
+                        "x": 25.0,
+                        "y": 2.0,
+                        "w": 296.0,
+                        "h": 265.0
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 30,
+        "video_information": {
+            "video_path": "nextqa/4964516093.mp4"
+        },
+        "hallu_detection": {
+            "question": "why are the girls dressed like a bride and her groom",
+            "answer": "E",
+            "option": {
+                "A": {
+                    "text": "to role-play a fairytale rescue",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "as part of a surprise for a friend",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "inspired by a romantic movie they watched",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "to impress their teacher with costumes",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "reanacting a wedding scene",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "girl": {
+                    "1.23": {
+                        "x": 315.797373358349,
+                        "y": 3.5999999999999996,
+                        "w": 314.5966228893058,
+                        "h": 475.2
+                    },
+                    "21.59": {
+                        "x": 151.29455909943715,
+                        "y": 79.2,
+                        "w": 252.15759849906195,
+                        "h": 399.59999999999997
+                    },
+                    "25.96": {
+                        "x": 220.93808630394,
+                        "y": 9.6,
+                        "w": 347.01688555347096,
+                        "h": 471.59999999999997
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 32,
+        "video_information": {
+            "video_path": "nextqa/2755895908.mp4"
+        },
+        "hallu_detection": {
+            "question": "why did the boy point in the middle of the video",
+            "answer": "E",
+            "option": {
+                "A": {
+                    "text": "demonstrating the direction of the movie theater",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "wants to alert his friend of a distant ship",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "indicating the end of the race",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "showcasing the best way to dance",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "interested in balloon",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "boy": {
+                    "boundary": [
+                        {
+                            "x": 124.87804878048782,
+                            "y": 250.79999999999998,
+                            "w": 158.49906191369607,
+                            "h": 171.6
+                        },
+                        {
+                            "x": 45.62851782363978,
+                            "y": 272.4,
+                            "w": 187.31707317073173,
+                            "h": 190.79999999999998
+                        }
+                    ],
+                    "keyframe": [
+                        {
+                            "x": 45.62851782363978,
+                            "y": 296.4,
+                            "w": 211.33208255159477,
+                            "h": 181.2
+                        }
+                    ]
+                },
+                "ballon": {
+                    "boundary": [
+                        {
+                            "x": 62.43902439024391,
+                            "y": 24.0,
+                            "w": 184.91557223264542,
+                            "h": 190.79999999999998
+                        },
+                        {
+                            "x": 98.46153846153847,
+                            "y": 111.6,
+                            "w": 142.8893058161351,
+                            "h": 158.4
+                        }
+                    ],
+                    "keyframe": [
+                        {
+                            "x": 105.66604127579738,
+                            "y": 1.2,
+                            "w": 156.09756097560978,
+                            "h": 140.4
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 33,
+        "video_information": {
+            "video_path": "nextqa/2647914610.mp4"
+        },
+        "hallu_detection": {
+            "question": "why did the boy in blue start to turn around and reach for the back of the swing after kicking the boy in white",
+            "answer": "E",
+            "option": {
+                "A": {
+                    "text": "extend his play time",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "plan a new game",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "adjust the swing's speed",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "find a better balance",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "try to stand up",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "boy_in_blue": {
+                    "boundary": [
+                        {
+                            "x": -1.0,
+                            "y": 31.0,
+                            "w": 229.0,
+                            "h": 206.0
+                        },
+                        {
+                            "x": 1.0,
+                            "y": 23.0,
+                            "w": 201.0,
+                            "h": 219.0
+                        }
+                    ],
+                    "keyframe": [
+                        {
+                            "x": 48.0,
+                            "y": 0.0,
+                            "w": 226.0,
+                            "h": 240.0
+                        },
+                        {
+                            "x": 47.0,
+                            "y": 18.0,
+                            "w": 237.0,
+                            "h": 218.0
+                        },
+                        {
+                            "x": 34.0,
+                            "y": 4.0,
+                            "w": 273.0,
+                            "h": 167.0
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 34,
+        "video_information": {
+            "video_path": "nextqa/11673419896.mp4"
+        },
+        "hallu_detection": {
+            "question": "why did the woman lift her leg up at the start",
+            "answer": "A",
+            "option": {
+                "A": {
+                    "text": "to climb up",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "to kick a ball towards the child",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "to swat away a bug",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "to avoid stepping into a puddle",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "to dance along with the music",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "woman": {
+                    "3.44": {
+                        "x": 274.1333333333333,
+                        "y": 104.37869822485209,
+                        "w": 92.8,
+                        "h": 248.16568047337282
+                    },
+                    "4.87": {
+                        "x": 321.06666666666666,
+                        "y": 74.55621301775149,
+                        "w": 130.13333333333333,
+                        "h": 274.79289940828403
+                    },
+                    "14.61": {
+                        "x": 322.1333333333333,
+                        "y": 21.301775147928996,
+                        "w": 105.6,
+                        "h": 276.92307692307696
+                    },
+                    "17.42": {
+                        "x": 297.6,
+                        "y": 17.041420118343197,
+                        "w": 136.53333333333333,
+                        "h": 289.70414201183434
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 35,
+        "video_information": {
+            "video_path": "nextqa/4013751996.mp4"
+        },
+        "hallu_detection": {
+            "question": "how does the girl stop the toy bicycle",
+            "answer": "D",
+            "option": {
+                "A": {
+                    "text": "use a voice command to stop",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "gently pull on a hidden brake handle",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "signal to a passerby for assistance",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "put feet on the ground",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "clap to activate an automatic stop feature",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "girl": {
+                    "1.08": {
+                        "x": 185.0,
+                        "y": 36.0,
+                        "w": 67.0,
+                        "h": 106.0
+                    },
+                    "4.09": {
+                        "x": 175.0,
+                        "y": 2.0,
+                        "w": 123.0,
+                        "h": 231.0
+                    },
+                    "4.84": {
+                        "x": 133.0,
+                        "y": 13.0,
+                        "w": 151.0,
+                        "h": 219.0
+                    }
+                },
+                "toy_bicycle": {
+                    "boundary": [
+                        {
+                            "x": 191.0,
+                            "y": 82.0,
+                            "w": 57.0,
+                            "h": 52.0
+                        },
+                        {
+                            "x": 147.0,
+                            "y": 144.0,
+                            "w": 96.0,
+                            "h": 105.0
+                        }
+                    ],
+                    "keyframe": [
+                        {
+                            "x": 148.0,
+                            "y": 115.0,
+                            "w": 118.0,
+                            "h": 131.0
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 36,
+        "video_information": {
+            "video_path": "nextqa/3124717377.mp4"
+        },
+        "hallu_detection": {
+            "question": "why is the person riding the camel at the start of the video holding the rope",
+            "answer": "B",
+            "option": {
+                "A": {
+                    "text": "to signal to the other travelers",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "control the camel",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "to prepare to stand up on the camel",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "to check the time on the watch",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "to take off the hat",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "shadow_of_person": {
+                    "boundary": [
+                        {
+                            "x": 292.9831144465291,
+                            "y": 16.8,
+                            "w": 109.26829268292684,
+                            "h": 183.6
+                        },
+                        {
+                            "x": 240.1500938086304,
+                            "y": 7.199999999999999,
+                            "w": 104.46529080675423,
+                            "h": 146.4
+                        }
+                    ],
+                    "keyframe": [
+                        {
+                            "x": 249.75609756097563,
+                            "y": 30.0,
+                            "w": 111.66979362101314,
+                            "h": 151.2
+                        }
+                    ]
+                },
+                "shasow_of_camel": {
+                    "boundary": [
+                        {
+                            "x": 16.81050656660413,
+                            "y": 84.0,
+                            "w": 542.7392120075048,
+                            "h": 386.4
+                        },
+                        {
+                            "x": 15.609756097560977,
+                            "y": 30.0,
+                            "w": 447.8799249530957,
+                            "h": 424.8
+                        }
+                    ],
+                    "keyframe": [
+                        {
+                            "x": 10.806754221388369,
+                            "y": 81.6,
+                            "w": 506.71669793621015,
+                            "h": 356.4
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 37,
+        "video_information": {
+            "video_path": "nextqa/5293684624.mp4"
+        },
+        "hallu_detection": {
+            "question": "why did the younger boy stretch out his hands at the end of the video",
+            "answer": "B",
+            "option": {
+                "A": {
+                    "text": "to demonstrate a dance move",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "hand gestures to make his point",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "to mimic a tree swaying in the wind",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "to attract birds nearby",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "to offer sweets to someone nearby",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "boy": {
+                    "51.99": {
+                        "x": 17.066666666666666,
+                        "y": 0.0,
+                        "w": 130.13333333333333,
+                        "h": 318.4615384615385
+                    },
+                    "57.92": {
+                        "x": 10.666666666666666,
+                        "y": 8.520710059171599,
+                        "w": 145.06666666666666,
+                        "h": 309.9408284023669
+                    },
+                    "59.09": {
+                        "x": 26.666666666666668,
+                        "y": 5.325443786982249,
+                        "w": 158.93333333333334,
+                        "h": 303.5502958579882
+                    },
+                    "60.56": {
+                        "x": 19.2,
+                        "y": 4.260355029585799,
+                        "w": 169.6,
+                        "h": 284.3786982248521
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 38,
+        "video_information": {
+            "video_path": "nextqa/3224556776.mp4"
+        },
+        "hallu_detection": {
+            "question": "why did the boy sat down near the end of the video",
+            "answer": "B",
+            "option": {
+                "A": {
+                    "text": "start a meditation session",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "stop playing with baby",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "ponder the complex mysteries of the universe",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "initiate a secret code sequence",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "prepare to surprise everyone with a magic trick",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "boy": {
+                    "8.2": {
+                        "x": 434.67166979362105,
+                        "y": 9.6,
+                        "w": 208.93058161350845,
+                        "h": 470.4
+                    },
+                    "11.36": {
+                        "x": 464.69043151969987,
+                        "y": 141.6,
+                        "w": 189.71857410881802,
+                        "h": 316.8
+                    },
+                    "14.84": {
+                        "x": 366.22889305816136,
+                        "y": 80.39999999999999,
+                        "w": 276.17260787992495,
+                        "h": 394.8
+                    }
+                },
+                "baby": {
+                    "8.2": {
+                        "x": 6.00375234521576,
+                        "y": 207.6,
+                        "w": 278.57410881801127,
+                        "h": 271.2
+                    },
+                    "11.36": {
+                        "x": 0.0,
+                        "y": 183.6,
+                        "w": 330.2063789868668,
+                        "h": 291.59999999999997
+                    },
+                    "14.84": {
+                        "x": 9.606003752345217,
+                        "y": 201.6,
+                        "w": 285.7786116322702,
+                        "h": 276.0
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 39,
+        "video_information": {
+            "video_path": "nextqa/5862844345.mp4"
+        },
+        "hallu_detection": {
+            "question": "how did the child move forward",
+            "answer": "C",
+            "option": {
+                "A": {
+                    "text": "skipped past invisible hurdles of candy",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "waddle to the rhythm of the music",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "walk",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "hop stepping stones avoiding lava",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "rolled with a smile after hearing a story",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "child": {
+                    "1.3": {
+                        "x": 219.02222222222224,
+                        "y": 327.175,
+                        "w": 275.9111111111111,
+                        "h": 645.815
+                    },
+                    "4.54": {
+                        "x": 128.0,
+                        "y": 247.51500000000001,
+                        "w": 315.73333333333335,
+                        "h": 856.345
+                    },
+                    "7.24": {
+                        "x": 96.71111111111111,
+                        "y": 369.85,
+                        "w": 327.11111111111114,
+                        "h": 765.3050000000001
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 40,
+        "video_information": {
+            "video_path": "nextqa/5681946487.mp4"
+        },
+        "hallu_detection": {
+            "question": "why is the woman sitting down",
+            "answer": "D",
+            "option": {
+                "A": {
+                    "text": "fold laundry",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "plan a craft project",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "write a letter",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "wash the boy",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "organize a meeting",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "woman": {
+                    "1.3": {
+                        "x": 5.0,
+                        "y": 2.0,
+                        "w": 133.0,
+                        "h": 226.0
+                    },
+                    "3.27": {
+                        "x": 1.0,
+                        "y": 4.0,
+                        "w": 154.0,
+                        "h": 234.0
+                    },
+                    "9.64": {
+                        "x": 1.0,
+                        "y": 3.0,
+                        "w": 125.0,
+                        "h": 238.0
+                    }
+                },
+                "baby": {
+                    "1.3": {
+                        "x": 134.0,
+                        "y": 47.0,
+                        "w": 133.0,
+                        "h": 185.0
+                    },
+                    "3.27": {
+                        "x": 143.0,
+                        "y": 2.0,
+                        "w": 171.0,
+                        "h": 240.0
+                    },
+                    "9.64": {
+                        "x": 130.0,
+                        "y": 1.0,
+                        "w": 175.0,
+                        "h": 234.0
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 41,
+        "video_information": {
+            "video_path": "nextqa/2973331780.mp4"
+        },
+        "hallu_detection": {
+            "question": "why was the lady in white on the sofa holding her hands in front of her",
+            "answer": "C",
+            "option": {
+                "A": {
+                    "text": "preparing for a presentation",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "anticipating a surprise",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "recording",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "to stabilize her breathing",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "to practice a meditation pose",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "lady": {
+                    "4.14": {
+                        "x": 8.405253283302065,
+                        "y": 338.4,
+                        "w": 175.30956848030021,
+                        "h": 138.0
+                    },
+                    "5.04": {
+                        "x": 52.83302063789869,
+                        "y": 380.4,
+                        "w": 120.0750469043152,
+                        "h": 93.6
+                    },
+                    "5.81": {
+                        "x": 18.011257035647283,
+                        "y": 333.59999999999997,
+                        "w": 158.49906191369607,
+                        "h": 134.4
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 42,
+        "video_information": {
+            "video_path": "nextqa/5737998057.mp4"
+        },
+        "hallu_detection": {
+            "question": "why did the baby move his hands constantly while looking up",
+            "answer": "B",
+            "option": {
+                "A": {
+                    "text": "signaling for help",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "gesturing",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "trying to catch raindrops",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "conducting an imaginary orchestra",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "reaching for a balloon",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "baby": {
+                    "0.87": {
+                        "x": 98.46153846153847,
+                        "y": 81.6,
+                        "w": 498.3114446529081,
+                        "h": 388.8
+                    },
+                    "2.87": {
+                        "x": -1.200750469043152,
+                        "y": 165.6,
+                        "w": 354.22138836772984,
+                        "h": 315.59999999999997
+                    },
+                    "3.84": {
+                        "x": 133.28330206378988,
+                        "y": 2.4,
+                        "w": 492.3076923076924,
+                        "h": 475.2
+                    },
+                    "5.21": {
+                        "x": 86.45403377110695,
+                        "y": 6.0,
+                        "w": 540.3377110694184,
+                        "h": 470.4
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 43,
+        "video_information": {
+            "video_path": "nextqa/2917761273.mp4"
+        },
+        "hallu_detection": {
+            "question": "why does the person reach out his hand near the end towards the kid",
+            "answer": "A",
+            "option": {
+                "A": {
+                    "text": "wants to hold kid",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "pointing out a bird in the sky",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "demonstrating a magic trick",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "inviting to play a game",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "practicing a dance move",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {}
+        }
+    },
+    {
+        "instance_id": 44,
+        "video_information": {
+            "video_path": "nextqa/5662041273.mp4"
+        },
+        "hallu_detection": {
+            "question": "why is the boy sitting on the couch",
+            "answer": "A",
+            "option": {
+                "A": {
+                    "text": "flying helicopter",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "resting",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "staying close to his pet",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "eating snacks",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "chatting with parents",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "boy": {
+                    "0.13": {
+                        "x": 20.412757973733584,
+                        "y": 1.2,
+                        "w": 607.5797373358349,
+                        "h": 475.2
+                    },
+                    "0.43": {
+                        "x": 264.16510318949344,
+                        "y": 102.0,
+                        "w": 377.0356472795498,
+                        "h": 376.8
+                    },
+                    "2.67": {
+                        "x": 61.23827392120076,
+                        "y": 3.5999999999999996,
+                        "w": 563.1519699812384,
+                        "h": 469.2
+                    }
+                },
+                "helicopter": {
+                    "3.67": {
+                        "x": 138.08630393996248,
+                        "y": 223.2,
+                        "w": 96.06003752345217,
+                        "h": 74.39999999999999
+                    },
+                    "5.11": {
+                        "x": 170.50656660412758,
+                        "y": 51.6,
+                        "w": 114.07129455909944,
+                        "h": 57.599999999999994
+                    },
+                    "10.61": {
+                        "x": 135.6848030018762,
+                        "y": 220.79999999999998,
+                        "w": 108.06754221388368,
+                        "h": 87.6
+                    },
+                    "12.15": {
+                        "x": 169.30581613508446,
+                        "y": 45.6,
+                        "w": 115.2720450281426,
+                        "h": 74.39999999999999
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 45,
+        "video_information": {
+            "video_path": "nextqa/7645715544.mp4"
+        },
+        "hallu_detection": {
+            "question": "why did the girl push the lady towards the waters after moving to the back",
+            "answer": "C",
+            "option": {
+                "A": {
+                    "text": "to illustrate a playful scene from a movie",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "to demonstrate a new swimming move",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "try to get her into water",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "to start a playful water game",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "to initiate a synchronized dive",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "girl": {
+                    "1.77": {
+                        "x": 264.5333333333333,
+                        "y": 201.30177514792902,
+                        "w": 123.73333333333333,
+                        "h": 159.76331360946747
+                    },
+                    "4.57": {
+                        "x": 152.53333333333333,
+                        "y": 140.5917159763314,
+                        "w": 89.6,
+                        "h": 180.00000000000003
+                    },
+                    "19.95": {
+                        "x": 221.86666666666667,
+                        "y": 194.9112426035503,
+                        "w": 90.66666666666667,
+                        "h": 168.28402366863907
+                    },
+                    "23.06": {
+                        "x": 281.6,
+                        "y": 178.93491124260356,
+                        "w": 78.93333333333334,
+                        "h": 172.54437869822488
+                    }
+                },
+                "lady": {
+                    "1.77": {
+                        "x": 231.46666666666667,
+                        "y": 4.260355029585799,
+                        "w": 149.33333333333334,
+                        "h": 241.7751479289941
+                    },
+                    "4.57": {
+                        "x": 162.13333333333333,
+                        "y": 19.171597633136095,
+                        "w": 138.66666666666666,
+                        "h": 305.6804733727811
+                    },
+                    "19.95": {
+                        "x": 170.66666666666666,
+                        "y": 4.260355029585799,
+                        "w": 154.66666666666666,
+                        "h": 349.34911242603556
+                    },
+                    "23.06": {
+                        "x": 253.86666666666667,
+                        "y": 44.73372781065089,
+                        "w": 102.4,
+                        "h": 279.05325443786984
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 46,
+        "video_information": {
+            "video_path": "nextqa/6297019062.mp4"
+        },
+        "hallu_detection": {
+            "question": "why did the baby on pink seat bend down near the end of the video",
+            "answer": "A",
+            "option": {
+                "A": {
+                    "text": "looking at ground",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "admire the painting on the floor",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "grab the toy from the corner",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "reach for a nearby blanket",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "listen to music from the floor",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "baby": {
+                    "51.82": {
+                        "x": 378.6666666666667,
+                        "y": 48.99408284023669,
+                        "w": 208.0,
+                        "h": 302.48520710059177
+                    },
+                    "53.19": {
+                        "x": 142.93333333333334,
+                        "y": 29.822485207100595,
+                        "w": 228.26666666666665,
+                        "h": 297.1597633136095
+                    },
+                    "55.92": {
+                        "x": 186.66666666666666,
+                        "y": 23.431952662721898,
+                        "w": 221.86666666666667,
+                        "h": 311.0059171597633
+                    },
+                    "56.49": {
+                        "x": 142.93333333333334,
+                        "y": 30.887573964497044,
+                        "w": 238.93333333333334,
+                        "h": 303.5502958579882
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 47,
+        "video_information": {
+            "video_path": "nextqa/3472706332.mp4"
+        },
+        "hallu_detection": {
+            "question": "why does the man put his hand across the hoop at the start of the video",
+            "answer": "B",
+            "option": {
+                "A": {
+                    "text": "to check the time",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "guide dog",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "to adjust the lighting",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "greet the audience",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "showcase the ring to the audience",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "man1": {
+                    "1.03": {
+                        "x": 305.06666666666666,
+                        "y": 27.692307692307693,
+                        "w": 146.13333333333333,
+                        "h": 220.4733727810651
+                    },
+                    "1.87": {
+                        "x": 75.73333333333333,
+                        "y": 4.260355029585799,
+                        "w": 263.46666666666664,
+                        "h": 301.42011834319527
+                    },
+                    "5.71": {
+                        "x": 301.8666666666667,
+                        "y": 23.431952662721898,
+                        "w": 248.53333333333333,
+                        "h": 233.2544378698225
+                    }
+                },
+                "dog1": {
+                    "1.03": {
+                        "x": 425.59999999999997,
+                        "y": 143.78698224852073,
+                        "w": 126.93333333333334,
+                        "h": 110.76923076923077
+                    },
+                    "1.87": {
+                        "x": 279.46666666666664,
+                        "y": 166.15384615384616,
+                        "w": 140.8,
+                        "h": 113.96449704142013
+                    },
+                    "5.71": {
+                        "x": 448.0,
+                        "y": 168.28402366863907,
+                        "w": 128.0,
+                        "h": 144.85207100591717
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 48,
+        "video_information": {
+            "video_path": "nextqa/2730042852.mp4"
+        },
+        "hallu_detection": {
+            "question": "why did the man touch the swing that the baby is on",
+            "answer": "D",
+            "option": {
+                "A": {
+                    "text": "adjust baby’s clothes",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "make swing more stable",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "untangle the swing chains",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "play with the baby",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "observe the swing’s mechanics",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {}
+        }
+    },
+    {
+        "instance_id": 49,
+        "video_information": {
+            "video_path": "nextqa/5169503584.mp4"
+        },
+        "hallu_detection": {
+            "question": "why is the lady s hair moving",
+            "answer": "B",
+            "option": {
+                "A": {
+                    "text": "dancing under the moonlight",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "wind",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "demonstrating a new hair gadget",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "signaling a new dance move to the child",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "adjusting to the rhythm of the music",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "lady": {
+                    "2.04": {
+                        "x": 32.42026266416511,
+                        "y": 40.8,
+                        "w": 357.8236397748593,
+                        "h": 414.0
+                    },
+                    "2.67": {
+                        "x": 8.405253283302065,
+                        "y": 63.599999999999994,
+                        "w": 338.6116322701689,
+                        "h": 412.8
+                    },
+                    "5.0": {
+                        "x": 7.2045028142589125,
+                        "y": 51.6,
+                        "w": 329.00562851782365,
+                        "h": 432.0
+                    },
+                    "8.01": {
+                        "x": 7.2045028142589125,
+                        "y": 73.2,
+                        "w": 419.06191369606006,
+                        "h": 403.2
+                    }
+                }
+            }
+        }
+    },
+    {
+        "instance_id": 50,
+        "video_information": {
+            "video_path": "nextqa/3973097072.mp4"
+        },
+        "hallu_detection": {
+            "question": "why are there bubbles coming out from the divers",
+            "answer": "B",
+            "option": {
+                "A": {
+                    "text": "as they open the treasure chest underwater",
+                    "is_in_video": false
+                },
+                "B": {
+                    "text": "they are breathing",
+                    "is_in_video": false
+                },
+                "C": {
+                    "text": "due to a magic trick the divers are performing",
+                    "is_in_video": false
+                },
+                "D": {
+                    "text": "to signal their location to the boat above",
+                    "is_in_video": false
+                },
+                "E": {
+                    "text": "to measure the water temperature changes",
+                    "is_in_video": false
+                }
+            }
+        },
+        "hallu_combating": {
+            "spatial_temporal_ground": {
+                "diver": {
+                    "0.6": {
+                        "x": 218.53658536585368,
+                        "y": 1.2,
+                        "w": 276.17260787992495,
+                        "h": 374.4
+                    },
+                    "3.44": {
+                        "x": 166.90431519699814,
+                        "y": 45.6,
+                        "w": 446.67917448405257,
+                        "h": 294.0
+                    },
+                    "4.9": {
+                        "x": 371.031894934334,
+                        "y": 483.59999999999997,
+                        "w": 0.0,
+                        "h": 0.0
+                    }
+                },
+                "bubbles": {
+                    "1.47": {
+                        "x": 318.1988742964353,
+                        "y": 134.4,
+                        "w": 45.62851782363978,
+                        "h": 109.2
+                    },
+                    "3.44": {
+                        "x": 292.9831144465291,
+                        "y": 58.8,
+                        "w": 100.86303939962477,
+                        "h": 187.2
+                    },
+                    "4.9": {
+                        "x": 316.99812382739213,
+                        "y": 98.39999999999999,
+                        "w": 46.82926829268293,
+                        "h": 123.6
+                    }
+                }
+            }
+        }
+    }
+]
